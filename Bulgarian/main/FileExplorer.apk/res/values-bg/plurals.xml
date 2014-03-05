@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="directory_item_count">
+        <item quantity="other">елементи: %d</item>
+        <item quantity="one">1 елемент</item>
+    </plurals>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Изтриване на (%1$d) файлове</item>
+        <item quantity="one">Изтриване на 1 файл</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" и (%1$d) папки?"</item>
+        <item quantity="one">" и 1 папка?"</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Оставащи файлове за изтегляне: %1$d</item>
+        <item quantity="one">Остава 1 файл за изтегляне</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Оставащи файлове за качване: %1$d</item>
+        <item quantity="one">Остава 1 файл за качване</item>
+    </plurals>
+</resources>
