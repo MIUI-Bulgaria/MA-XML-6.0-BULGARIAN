@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Стандартно</item>
+        <item>Стандартно (без ефекти)</item>
+        <item>Избледняване</item>
+        <item>2D ротация</item>
+        <item>Страница</item>
+        <item>Каскадно</item>
+        <item>3D ротация</item>
+        <item>3D куб</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Според темата</item>
+        <item>Централно</item>
+        <item>Отляво</item>
+        <item>Отдясно</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>По подразбиране</item>
+        <item>Класическа</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Сортиране на нач. екрани</item>
+        <item>Добавяне на джаджи</item>
+        <item>Промяна на тапет</item>
+        <item>Преход м/у екраните</item>
+    </string-array>
+</resources>

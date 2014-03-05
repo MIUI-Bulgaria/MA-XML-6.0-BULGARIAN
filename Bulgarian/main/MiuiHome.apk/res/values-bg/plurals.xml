@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Ще деинсталирате ли %1$s и %2$d други приложения?</item>
+        <item quantity="one">Ще деинсталирате ли \"%s\"?</item>
+        <item quantity="two">Ще деинсталирате ли \"%s\" и още 1 приложение?</item>
+     </plurals>
+     <plurals name="uninstall_result_failed">
+        <item quantity="other">"Не може да се деинсталират %1$s и още %2$d"</item>
+        <item quantity="one">"Не може да се деинсталира"</item>
+        <item quantity="two">"Не може да се деинсталират \"%s\" и още 1 приложение"</item>
+     </plurals>
+     <plurals name="uninstall_result_succeeded">
+        <item quantity="other">%d прил. са деинсталирани</item>
+        <item quantity="one">Приложението е деинсталирано</item>
+     </plurals>
+</resources>
