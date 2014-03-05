@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">%d свързани песни</item>
+        <item quantity="one">%d свързана песен</item>
+    </plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d песен</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d песен</item>
+    </plurals>
+    <plurals name="Ntracks_format">
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d песен</item>
+    </plurals>
+    <plurals name="Nalbums_format">
+        <item quantity="other">%d албуми</item>
+        <item quantity="one">%d албум</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">песни</item>
+        <item quantity="one">песен</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">албуми</item>
+        <item quantity="one">албум</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">Изпълнители</item>
+        <item quantity="one">Изпълнител</item>
+    </plurals>
+    <plurals name="Nplaylists">
+        <item quantity="other">списъци за изпълнение</item>
+        <item quantity="one">списък за изпълнение</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">" папки"</item>
+        <item quantity="one">" папка"</item>
+    </plurals>
+    <plurals name="Nitems_batch_selection">
+        <item quantity="other">%d песни са избрани</item>
+        <item quantity="one">%d песен е избрана</item>
+    </plurals>
+    <plurals name="Ntrack_in_sdcard_format">
+        <item quantity="other">В SD картата има %d песни</item>
+        <item quantity="one">В SD картата има %d песен</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d песни, добавени към плейлиста.</item>
+        <item quantity="one">1 песен, добавена към плейлиста.</item>
+    </plurals>
+    <plurals name="NNNtrackstofavoriteplaylist">
+        <item quantity="other">%d песни, добавени към плейлиста.</item>
+        <item quantity="one">1 песен, добавена към плейлиста.</item>
+    </plurals>
+    <plurals name="Nonlinecategory">
+        <item quantity="other">" категории"</item>
+        <item quantity="one">" категория"</item>
+    </plurals>
+    <plurals name="album_details_format">
+        <item quantity="other">%1$s, %2$d песни</item>
+        <item quantity="one">%1$s, %2$d песен</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d песни са били изтрити.</item>
+        <item quantity="one">1 песен е изтрита.</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d песни ще се изтеглят.</item>
+        <item quantity="one">1 песен ще се изтегли.</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">%d песни са премахнати от списъка за изпълнение.</item>
+        <item quantity="one">1 песен е премахната от списъка за изпълнение.</item>
+    </plurals>
+    <plurals name="Nhot_tracks_total">
+        <item quantity="other">%d най-слушани песни</item>
+        <item quantity="one">%d най-слушана песен</item>
+    </plurals>
+    <plurals name="Nexpiration_reminder">
+        <item quantity="other">Остават: %d дни</item>
+        <item quantity="one">Остава: %d ден</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">Вашият достъп до музика с високо качество ще приключи скоро (остават %d дни)</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">Остават: %d дни</item>
+        <item quantity="one">Остава: %d ден</item>
+    </plurals>
+</resources>
