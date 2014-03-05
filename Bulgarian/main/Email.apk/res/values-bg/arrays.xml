@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Много малък</item>
+        <item>Малък</item>
+        <item>Нормален</item>
+        <item>Голям</item>
+        <item>Много голям</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>След изтриване отиди към по-новото съобщение</item>
+        <item>След изтриване отиди към по-старото съобщение</item>
+        <item>След изтриване отиди в списъка със съобщения</item>
+    </string-array>
+</resources>

@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Известие</item>
+        <item>Имейл</item>
+        <item>Съобщение</item>
+        <item>Аларма</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 минути</item>
+        <item>1 минута</item>
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>15 минути</item>
+        <item>20 минути</item>
+        <item>25 минути</item>
+        <item>30 минути</item>
+        <item>45 минути</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часа</item>
+        <item>24 часа</item>
+        <item>2 дни</item>
+        <item>1 седмица</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Няма</item>
+        <item>0 минути</item>
+        <item>1 минута</item>
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>15 минути</item>
+        <item>20 минути</item>
+        <item>25 минути</item>
+        <item>30 минути</item>
+        <item>45 минути</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часа</item>
+        <item>24 часа</item>
+        <item>2 дни</item>
+        <item>1 седмица</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Според региона</item>
+        <item>Събота</item>
+        <item>Неделя</item>
+        <item>Понеделник</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Маршалови острови</item>
+        <item>Остров Мидуей</item>
+        <item>Хавай</item>
+        <item>Аляска</item>
+        <item>Тихоок. време</item>
+        <item>Тихуана</item>
+        <item>Аризона</item>
+        <item>Чихуахуа</item>
+        <item>Планинско време</item>
+        <item>Центр. Америка</item>
+        <item>Централно време</item>
+        <item>Мексико</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Източно време</item>
+        <item>Венецуела</item>
+        <item>Атлантическо (Барбадос)</item>
+        <item>Атлантическо (Канада)</item>
+        <item>Манаус</item>
+        <item>Сантияго</item>
+        <item>Нюфаундленд</item>
+        <item>Бразилия</item>
+        <item>Буенос Айрес</item>
+        <item>Гренландия</item>
+        <item>Монтевидео</item>
+        <item>Среден Атлантик</item>
+        <item>Азорски острови</item>
+        <item>Острови Кабо Верде</item>
+        <item>Казабланка</item>
+        <item>Лондон, Дъблин</item>
+        <item>Амстердам, Берлин</item>
+        <item>Белград</item>
+        <item>Брюксел</item>
+        <item>Сараево</item>
+        <item>Виндхук</item>
+        <item>Зап. африк. време</item>
+        <item>Аман, Йордания</item>
+        <item>София, Атина</item>
+        <item>Бейрут, Ливан</item>
+        <item>Кайро</item>
+        <item>Хелзинки</item>
+        <item>Йерусалим</item>
+        <item>Минск</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувейт</item>
+        <item>Найроби</item>
+        <item>Техеран</item>
+        <item>Баку</item>
+        <item>Тбилиси</item>
+        <item>Ереван</item>
+        <item>Дубай</item>
+        <item>Кабул</item>
+        <item>Исламабад, Карачи</item>
+        <item>Уралск</item>
+        <item>Екатеринбург</item>
+        <item>Калкута</item>
+        <item>Шри Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Красноярск</item>
+        <item>Банкок</item>
+        <item>Пекин</item>
+        <item>Хонконг</item>
+        <item>Иркутск</item>
+        <item>Куала Лумпур</item>
+        <item>Пърт</item>
+        <item>Тайпе</item>
+        <item>Сеул</item>
+        <item>Токио, Осака</item>
+        <item>Якутск</item>
+        <item>Аделаида</item>
+        <item>Дарвин</item>
+        <item>Брисбейн</item>
+        <item>Хоубарт</item>
+        <item>Сидни, Канбера</item>
+        <item>Владивосток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окланд</item>
+        <item>Фиджи</item>
+        <item>Тонга</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Зает</item>
+        <item>Достъпен</item>
+        <item>Колеблив</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>По подразбиране</item>
+        <item>Частно</item>
+        <item>Обществено</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>Последн.</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Без отговор)</item>
+        <item>Да</item>
+        <item>Може би</item>
+        <item>Не</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Само това събитие</item>
+        <item>Това и бъдещите събития</item>
+        <item>Всички събития</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Това и бъдещите събития</item>
+        <item>Всички събития</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Само това събитие</item>
+        <item>Всички събития от серията</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Ден</item>
+        <item>Седмица</item>
+        <item>Месец</item>
+        <item>Дневен ред</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Ще закъснея малко.</item>
+        <item>Ще бъда там след 10 минути.</item>
+        <item>Започнете без мен.</item>
+        <item>"Съжалявам, но няма да успея. Трябва да го отложим за друг път."</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Винаги</item>
+        <item>Само в \"Тих режим\"</item>
+        <item>Никога</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Черно прозрачно</item>
+        <item>Бял фон</item>
+    </string-array>
+</resources>

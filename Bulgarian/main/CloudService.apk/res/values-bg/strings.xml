@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Мениджър на профили Xiaomi</string>
+  <string name="find_device">Намери телефона</string>
+  <string name="find_device_stop_noise">Натиснете OK за заглушаване</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Спестява мобилни данни (това може да ви спести пари)</string>
+  <string name="pref_title_sync_contacts_title">Синхронизация на контакти</string>
+  <string name="pref_title_sync_my_profile_title">Синхр. моят профил</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Само по Wi-Fi</string>
+  <string name="sub_sync_item_sms_summary">Спестява мобилни данни (това може да ви спести пари)</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Синхр. MMS/SMS: само по Wi-Fi</string>
+  <string name="sync_item_sms_summary">Синхронизиране на текстовите съобщения между устройствата</string>
+  <string name="sync_item_sms_title">Синхр. съобщения</string>
+  <string name="find_device_noise_title">Звук при намиране на телефона</string>
+  <string name="sync_item_calllog_title">Синхр. списъци с обаждания</string>
+  <string name="sync_item_calllog_summary">Синхронизиране на списъците с входящи и изходящи повиквания на този телефон</string>
+</resources>
