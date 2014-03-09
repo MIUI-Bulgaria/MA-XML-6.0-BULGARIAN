@@ -74,8 +74,8 @@
         <item>Огромен</item>
     </string-array>
     <string-array name="pref_ua_choices">
+        <item>По подразбиране</item>
         <item>iPad</item>
         <item>Desktop</item>
-        <item>Android Pad</item>
     </string-array>
 </resources>
