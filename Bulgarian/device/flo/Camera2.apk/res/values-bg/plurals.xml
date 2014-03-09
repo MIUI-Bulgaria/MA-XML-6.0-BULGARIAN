@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Да се изтрият ли избраните елементи?</item>
+        <item quantity="one">Да се изтрие ли избраният елемент?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Избрахте %1$d</item>
+        <item quantity="zero">Избрахте %1$d</item>
+        <item quantity="one">Избрахте %1$d</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">Избрахте %1$d</item>
+        <item quantity="zero">Избрахте %1$d</item>
+        <item quantity="one">Избрахте %1$d</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">Избрахте %1$d</item>
+        <item quantity="zero">Избрахте %1$d</item>
+        <item quantity="one">Избрахте %1$d</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">1 секунда</item>
+    </plurals>
+</resources>
