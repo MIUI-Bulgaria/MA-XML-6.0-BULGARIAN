@@ -84,7 +84,7 @@
     <string name="peace_day"/>
     <string name="perm_send_push_dspt">Разреши push-съобщения до Xiaomi</string>
     <string name="perm_send_push_lab">Изпращане на push-съобщение</string>
-    <string name="reboot_confirm_title">Наистина ли искате да рестартирате телефона си?</string>
+    <string name="reboot_confirm_title">Наистина ли искате да рестартирате устройството си?</string>
     <string name="reboot_progress">Рестартира се...</string>
     <string name="replace">Премести</string>
     <string name="retrocession_day"/>
@@ -95,7 +95,7 @@
     <string name="screen_on_proximity_sensor_title">Предотвратява набиране в джоба</string>
     <string name="select">Избери</string>
     <string name="select_all">Всички</string>
-    <string name="shutdown_confirm_title">Сигурни ли сте, че искате да изключите телефона?</string>
+    <string name="shutdown_confirm_title">Сигурни ли сте, че искате да изключите устройството?</string>
     <string name="shutdown_progress">Изключва се...</string>
     <string name="slight_cold"/>
     <string name="slight_heat"/>
