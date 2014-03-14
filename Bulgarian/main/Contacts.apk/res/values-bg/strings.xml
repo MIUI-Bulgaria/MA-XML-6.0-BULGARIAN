@@ -1,16 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Подробности</string>
-  <string name="account_abnormal_state">Грешка в информацията за профила, опитайте се да влезете отново!</string>
   <string name="account_container_title">От профила</string>
   <string name="account_default">Телефон</string>
   <string name="account_phone">Само телефон, без синхронизация</string>
   <string name="account_sim">Само на SIM карта</string>
   <string name="account_type_format">Контакт %1$s </string>
-  <string name="account_unactivated">Профилът не е активиран.</string>
   <string name="actionIncomingCall">Входящи повиквания</string>
   <string name="action_menu_overflow_description">Допълнителни опции</string>
-  <string name="activity_not_found_uri">Не е намерено поддържащо приложение!</string>
   <string name="activity_title_confirm_add_detail">Добави към контакт</string>
   <string name="activity_title_contacts_filter">Контакти за показване</string>
   <string name="activity_title_settings">Настройки</string>
@@ -24,7 +21,6 @@
   <string name="add_new_account">Добави нов профил</string>
   <string name="add_new_entry_for_section">Добави</string>
   <string name="add_organization">Добави организация</string>
-  <string name="add_slide_before">Добавяне на слайд (отпред)</string>
   <string name="add_to_my_contacts">Добави в \"Моите контакти\"</string>
   <string name="add_wait">Добави пауза</string>
   <string name="add_xiaomi_account_dialog_btn">Използвайте Xiaomi профил</string>
@@ -34,13 +30,18 @@
   <string name="aggregation_suggestion_edit_dialog_title">Редактирай избраните контакти</string>
   <string name="aggregation_suggestion_join_dialog_message">Да обединя ли настоящия контакт с избрания контакт?</string>
   <string name="all_list_empty">Няма контакти</string>
-  <string name="all_resources">Всички</string>
+  <string name="anniversary_of_lifting_martial_law"/>
+  <string name="anti_aggression_day"/>
   <string name="antispam_mark_my_contribution">Моето участие към базата данни</string>
   <string name="antispam_provider_format">Маркираният номер е добавен от %s</string>
+  <string name="arbor_day"/>
+  <string name="armed_forces_day"/>
   <string name="attach_photo_dialog_title">Снимка на контакт</string>
   <string name="audio_chat">Гласов чат</string>
   <string name="auto_nickname">Авто</string>
   <string name="auto_set_nickname">Авто</string>
+  <string name="autumn_begins"/>
+  <string name="autumn_equinox"/>
   <string name="batch_delete">Пакетно изтриване</string>
   <string name="batch_delete_msg">"Ще изтриете ли избраните %d контакти? Съответните данни за тях ще бъдат изтрити и от вашия MiCloud профил."</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth връзката е прекъсната</string>
@@ -56,7 +57,6 @@
   <string name="callAgain">Повторно набиране</string>
   <string name="callBack">Обратно повикване</string>
   <string name="callDetailTitle">Детайли за повикване</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s мин. %s сек.</string>
   <string name="callShortcutActivityTitle">Изберете номер за повикване</string>
   <string name="call_assistant">Набери номера %s</string>
   <string name="call_callback">Набери за обратно повикване</string>
@@ -99,7 +99,6 @@
   <string name="callrecordview_item_op_time_short_incoming">"Входящи: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Изходящи: "</string>
   <string name="callrecordview_menu_add_call_note">Добави бележка</string>
-  <string name="callrecordview_menu_batch_delete">Пакетно изтриване</string>
   <string name="callrecordview_menu_delete">Изтрий списъка с обажданията</string>
   <string name="callrecordview_menu_delete_accepted">Изтрий списъка с входящи повиквания</string>
   <string name="callrecordview_menu_delete_all">Изтрий целия списък с повиквания</string>
@@ -137,28 +136,30 @@
   <string name="chat_yahoo">Чат по Yahoo</string>
   <string name="check_unsynchronized_accounts">Проверка за несинхронизирани контакти</string>
   <string name="checkhint">Проверете на друг телефон</string>
+  <string name="childrens_day"/>
+  <string name="chinese_youth_day"/>
+  <string name="christmas_day"/>
   <string name="clearCallLogConfirmation">Списъкът с всички Ваши повиквания ще бъде изтрит.</string>
   <string name="clearCallLogConfirmation_title">Изчистване на списъка с повиквания</string>
   <string name="clearCallLogProgress_title">Изчистване на списъка с повиквания...</string>
   <string name="clearFrequentsConfirmation">"Вие ще изчистите всички често използвани контакти от Контакти и Телефон. Вашето приложение за Имейл ще събира информация от нулата."</string>
   <string name="clearFrequentsConfirmation_title">Да изчистя ли често използвани контакти?</string>
   <string name="clearFrequentsProgress_title">Изчистване на често използваните контакти...</string>
+  <string name="clear_and_bright"/>
   <string name="clear_default">Изтрий настройки по подразбиране</string>
   <string name="clear_digits">Изтрий телефонен номер</string>
   <string name="click_close">Натиснете, за да затворите</string>
   <string name="close_dial_pad">Затворете клавиатура</string>
   <string name="cloud_antispam_mark">Спам</string>
   <string name="cloud_antispam_title">Антиспам (в облак)</string>
+  <string name="cold_dews"/>
   <string name="composer_failed_to_get_database_infomation">"Базата данни е недостъпна."</string>
   <string name="composer_has_no_exportable_contact">Не са намерени контакти за експортиране. Възможно е експортирането на контакти от телефона да не се поддържа от доставчика Ви на данни.</string>
   <string name="composer_not_initialized">"Редактора на визитки не стартира правилно."</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
-  <string name="config_export_vcard_type">default</string>
-  <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">"Сигурни ли сте, че искате да изтриете всички записи %s?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Сигурни ли сте, че искате да изтриете всички записи на избраните контакти?"</string>
@@ -176,6 +177,7 @@
   <string name="contact_delete_toast">Контакта е изтрит успешно</string>
   <string name="contact_detail_calllog_call_note_tips">Бележка към повикване</string>
   <string name="contact_detail_calllog_call_record_tips">Запис на повикване</string>
+  <string name="contact_detail_picture_description">Снимка. Изберете, за да промените</string>
   <string name="contact_directory_description">Директория %1$s</string>
   <string name="contact_edit_title_edit">Редактирай контакт</string>
   <string name="contact_edit_title_insert">Създай контакт %s</string>
@@ -198,7 +200,6 @@
   <string name="contacts_unavailable_add_account">Влезте в профила си</string>
   <string name="contacts_unavailable_create_contact">Създай нов контакт</string>
   <string name="contacts_unavailable_import_contacts">Импортиране на контакти от файл</string>
-  <string name="context_menu_add_to_browser_favorite">Добави към Любими в браузъра</string>
   <string name="copy_text">Копирай в буферната памет</string>
   <string name="createContactShortcutSuccessful">Добавена е икона за този контакт на началния екран.</string>
   <string name="create_group_dialog_title">Създаване на нова група</string>
@@ -209,11 +210,11 @@
   <string name="date_picker_label">Напомни 3 дни преди, и в деня на рожденния ден</string>
   <string name="date_time_set">Настрой</string>
   <string name="date_year_toggle">Добави година</string>
+  <string name="day_following_good_friday"/>
   <string name="default_ringtone">Мелодия по подразбиране</string>
   <string name="deleteConfirmation">Този контакт ще бъде изтрит.</string>
   <string name="deleteConfirmationDetail">\"%s\" ще бъде изтрит.</string>
   <string name="deleteConfirmation_title">Изтрий</string>
-  <string name="delete_call_log_selected_title">Ще премахнете ли избраните списъци с повиквания?</string>
   <string name="delete_call_log_title">Изберете списък с повиквания</string>
   <string name="delete_contact_calllog_title">"Ще изтриете ли списъка с повиквания за този котакт?"</string>
   <string name="delete_dial_input">Изтрий</string>
@@ -225,10 +226,8 @@
   <string name="delete_sim_entries_finish">Контактите са изтрити от SIM картата</string>
   <string name="delete_sim_entry_miui">Изтрий</string>
   <string name="delete_unknown_contact_calllog_title">"Ще изтриете ли списъка с повиквания от непознати номера?"</string>
-  <string name="deleting">Изтриване...</string>
   <string name="deleting_sim_entry_miui">Изтриване на контакти на SIM карта...</string>
   <string name="description_add_contact">Добави контакт</string>
-  <string name="description_author">Автор:</string>
   <string name="description_call">Набери %1$s</string>
   <string name="description_call_log_incoming_call">Входящо повикване</string>
   <string name="description_call_log_missed_call">Пропуснато повикване</string>
@@ -238,11 +237,9 @@
   <string name="description_call_log_voicemail">Гласова поща</string>
   <string name="description_contact_photo">снимка на контакт</string>
   <string name="description_delete_button">назад</string>
-  <string name="description_designer">Дизайнер:</string>
   <string name="description_dial_button">Набери</string>
   <string name="description_dial_phone_number">Набери телефон %1$s</string>
   <string name="description_digits_edittext">номер за набиране</string>
-  <string name="description_download">Изтеглено:</string>
   <string name="description_image_button_eight">осем</string>
   <string name="description_image_button_five">пет</string>
   <string name="description_image_button_four">четири</string>
@@ -261,13 +258,7 @@
   <string name="description_search_button">търсене</string>
   <string name="description_send_message">Изпрати съобщение до %1$s</string>
   <string name="description_send_text_message">Изпрати текстово съобщение до %1$s</string>
-  <string name="description_size">Размер:</string>
   <string name="description_star">любими</string>
-  <string name="description_summary">Инфо:</string>
-  <string name="description_uploadtime">Обновено:</string>
-  <string name="description_version">Версия:</string>
-  <string name="description_version_szie">Версия: %1$s Размер: %2$s</string>
-  <string name="description_view_contact">Покажи контакт %1$s</string>
   <string name="description_view_contact_detail">Покажи контакт</string>
   <string name="description_voicemail_button">гласова поща</string>
   <string name="deselect_all">Размаркирай всички</string>
@@ -330,9 +321,9 @@
   <string name="display_warn_remove_ungrouped">Ако премахнете синхронозацията на \"%s\", това ще се приложи и за всички контакти без група.</string>
   <string name="dlg_add_blacklist">Ще добавите ли избрания номер към черния списък?</string>
   <string name="dlg_remove_blacklist">Ще премахнете ли избрания номер от черния списък?</string>
-  <string name="download_failed">Грешка при изтегляне!</string>
-  <string name="download_preview_failed">Неуспех при зареждане на преглед</string>
+  <string name="double_seventh_day"/>
   <string name="duplicate_group_name">Такава група вече съществува</string>
+  <string name="easter"/>
   <string name="editContactDescription">Редактирайте контакт</string>
   <string name="editGroupDescription">Редактирайте група</string>
   <string name="edit_contact">Редактирайте контакт</string>
@@ -349,6 +340,7 @@
   <string name="enter_contact_name">"Въведи име на контакт"</string>
   <string name="eventLabelsGroup">Рожден ден</string>
   <string name="event_edit_field_hint_text">Дата</string>
+  <string name="expand_collapse_name_fields_description">Разгъване или свиване на полетата с името</string>
   <string name="export_sim_contact_finish">Експортирането към SIM картата завърши</string>
   <string name="export_sim_contact_finish_failure">Паметта на SIM картата е пълна.Копирани: %1$d Недовършени: %2$d</string>
   <string name="export_sim_contact_finish_success">Копирани %d контакт(а) на SIM картата</string>
@@ -367,7 +359,7 @@
   <string name="exporting_vcard_finished_title">Експортирането на %s завърши.</string>
   <string name="external_profile_title">Моят профил %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">"Неуспешно стартиране на функция експорт. Причина: \"%s\"."</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"Файлът \"%s\" не се отваря. Причина: %s."</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">„%s“ не можа да се отвори: %s.</string>
   <string name="fail_reason_error_occurred_during_export">Възникна грешка при експорт. Причина: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Не е възможно да се получи информация от файл(ове) с визитки."</string>
   <string name="fail_reason_failed_to_read_files">"Един или няколко файла не могат да бъдат импортирани (%s)."</string>
@@ -379,11 +371,10 @@
   <string name="fail_reason_too_many_vcard">Прекалено много файлове с визитки на SD картата.</string>
   <string name="fail_reason_unknown">Неизвестна грешка.</string>
   <string name="fail_reason_vcard_parse_error">"Неуспешен анализ на визитката по неизвестна причина."</string>
-  <string name="fail_to_add_account">Неуспешно добавяне на профил!</string>
   <string name="favoritesFrequentCalled">Често набирани</string>
   <string name="favoritesFrequentContacted">Често контактувани</string>
   <string name="favorites_list_empty">Няма любими</string>
-  <string name="forward_from">Прехвърлен от:</string>
+  <string name="fools_day"/>
   <string name="foundTooManyContacts">Открити са повече от %d.</string>
   <string name="frequency_none">Никога</string>
   <string name="frequency_three_days">На всеки 3 дни</string>
@@ -395,6 +386,12 @@
   <string name="generic_no_account_prompt_title">Добави профил</string>
   <string name="ghostData_company">Фирма</string>
   <string name="ghostData_title">Длъжност</string>
+  <string name="good_friday"/>
+  <string name="grain_buds"/>
+  <string name="grain_in_ear"/>
+  <string name="grain_rain"/>
+  <string name="great_cold"/>
+  <string name="great_heat"/>
   <string name="groupSavedErrorToast">"Грешка, промените в групата не са запазени."</string>
   <string name="groupSavedToast">Групата е запазена.</string>
   <string name="group_add_fail_toast">Грешка при добавяне на контакти</string>
@@ -403,7 +400,10 @@
   <string name="group_delete_success_toast">Групата е изтрита успешно</string>
   <string name="group_edit_field_hint_text">Име на група</string>
   <string name="group_member_remove_toast">Контакта е успешно премахнат от групата</string>
-  <string name="group_name">Моите групи</string>
+  <string name="group_name_contacts">Контакти</string>
+  <string name="group_name_coworkers">Колеги</string>
+  <string name="group_name_family">Роднини</string>
+  <string name="group_name_friends">Приятели</string>
   <string name="group_name_hint">Име на група</string>
   <string name="group_read_only">Не може да бъде редактирано на това устройство.</string>
   <string name="group_rename_dialog_title">Преименуване на група</string>
@@ -412,6 +412,7 @@
   <string name="group_sms_progress_msg">Подготовка за групово изпращане на SMS…</string>
   <string name="groupsLabel">Групи</string>
   <string name="groups_list_empty">Няма групи</string>
+  <string name="heavy_snow"/>
   <string name="help_url_people_add"/>
   <string name="help_url_people_edit"/>
   <string name="help_url_people_main"/>
@@ -421,6 +422,8 @@
   <string name="hint_search_contacts">%d контакти</string>
   <string name="hint_search_emails">%d Имейл-и</string>
   <string name="hint_search_phone_numbers">%d номера на контакти</string>
+  <string name="hksar_establishment_day"/>
+  <string name="hoar_frost_falls"/>
   <string name="ic_menu_back">Назад</string>
   <string name="ic_menu_done">Готово</string>
   <string name="imLabelsGroup">Чат</string>
@@ -452,7 +455,6 @@
   <string name="import_weibo_error_unknown">Обновяване контакти: неизвестна грешка</string>
   <string name="import_weibo_error_user_cancel">Обновяване контакти: отменено от потребителя</string>
   <string name="import_weibo_fetch_followers">Изтегляне на Sina Weibo последователи…</string>
-  <string name="import_weibo_notification_title">Импортиране на Sina weibo контакти…</string>
   <string name="import_weibo_notification_title_done">Импортирането завърши</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
@@ -460,8 +462,10 @@
   <string name="importing_vcard_canceled_title">Импортирането на %s беше отменено</string>
   <string name="importing_vcard_description">Импортиране на %s</string>
   <string name="importing_vcard_finished_title">Импортирането на визитката %s завърши</string>
+  <string name="insects_awaken"/>
   <string name="insertContactDescription">Създай контакт</string>
   <string name="insertGroupDescription">Създай група</string>
+  <string name="international_womens_day"/>
   <string name="invalidContactMessage">"Контактът не съществува."</string>
   <string name="keep_local">Съхрани локално</string>
   <string name="keep_local_btn">Съхрани само на телефона</string>
@@ -470,7 +474,11 @@
   <string name="label_no_duplicate_contacts">Отлично! Няма дублиращи се контакти за момента!</string>
   <string name="label_notes">Забележки</string>
   <string name="label_sip_address">Интернет телефон (SIP)</string>
+  <string name="labour_day"/>
+  <string name="lantern_festival"/>
   <string name="launcherDialer">Телефон</string>
+  <string name="light_snow"/>
+  <string name="listAllContactsInAccount">Контакти във: %s</string>
   <string name="listCustomView">Контакти в потребителски изглед</string>
   <string name="listFoundAllContactsZero">Нищо не е намерено</string>
   <string name="listSingleContact">Единичен контакт</string>
@@ -485,12 +493,9 @@
   <string name="list_filter_customize">Персонализиране...</string>
   <string name="list_filter_phones">Всички контакти с телефонни номера</string>
   <string name="list_filter_single">Контакт</string>
-  <string name="loading">Зареждане...</string>
   <string name="loading_group_members">Зареждане на контакти…</string>
   <string name="loading_groups">Зареждане на групи…</string>
   <string name="loading_recent">Зареждане на последни контакти…</string>
-  <string name="loading_resource_detail_fail">Неуспешно зареждане на детайли!</string>
-  <string name="loading_resource_detail_info">Зареждане...</string>
   <string name="local_invisible_directory">Други</string>
   <string name="local_profile_title">Моят локален профил</string>
   <string name="local_search_label">Всички контакти</string>
@@ -498,6 +503,27 @@
   <string name="login_before_recharging">Трябва да влезете в профила си преди да презаредите.</string>
   <string name="login_ok">Вход</string>
   <string name="lunarBirthdayLabelsGroup">Лунен рожден ден</string>
+  <string name="lunar_chu"/>
+  <string name="lunar_chu_shi"/>
+  <string name="lunar_er"/>
+  <string name="lunar_er_shi"/>
+  <string name="lunar_jiu"/>
+  <string name="lunar_leap"/>
+  <string name="lunar_ling"/>
+  <string name="lunar_liu"/>
+  <string name="lunar_nian"/>
+  <string name="lunar_qi"/>
+  <string name="lunar_san"/>
+  <string name="lunar_san_shi"/>
+  <string name="lunar_shi"/>
+  <string name="lunar_shi_er"/>
+  <string name="lunar_shi_yi"/>
+  <string name="lunar_si"/>
+  <string name="lunar_wu"/>
+  <string name="lunar_year"/>
+  <string name="lunar_yi"/>
+  <string name="lunar_yue"/>
+  <string name="lunar_zheng"/>
   <string name="make_primary">Запомни този избор</string>
   <string name="map_custom">Покажи адрес %s</string>
   <string name="map_home">Покажи домашен адрес</string>
@@ -513,7 +539,6 @@
   <string name="menu_bar_group_ringtone_largeui">Мелодия</string>
   <string name="menu_bar_group_sms">Групов SMS</string>
   <string name="menu_call">Набери контакт</string>
-  <string name="menu_callNumber">Набери %s</string>
   <string name="menu_call_ip_number">Повикване чрез IP (набери %s)</string>
   <string name="menu_clear_frequents">Изчисти чести</string>
   <string name="menu_contacts_filter">Контакти за показване</string>
@@ -530,6 +555,7 @@
   <string name="menu_done">Готово</string>
   <string name="menu_editContact">Редактирай</string>
   <string name="menu_editGroup">Редактирай</string>
+  <string name="menu_export_database">Експортиране на файловете на базата от данни</string>
   <string name="menu_help">Помощ</string>
   <string name="menu_import_export">Импорт/експорт</string>
   <string name="menu_joinAggregate">Обедини</string>
@@ -539,7 +565,6 @@
   <string name="menu_new_group_action_bar">Нова група</string>
   <string name="menu_not_redirect_calls_to_vm">Гласовата поща не се използва</string>
   <string name="menu_redirect_calls_to_vm">Обажданията се пренасочват към гласовата поща</string>
-  <string name="menu_refresh">Обнови</string>
   <string name="menu_removeStar">Премахни от любими</string>
   <string name="menu_search">Търсене</string>
   <string name="menu_select_all">Избери всички</string>
@@ -554,7 +579,7 @@
   <string name="menu_splitAggregate">Раздели</string>
   <string name="menu_sync_remove">Премахни синхронизацията за групата</string>
   <string name="menu_viewContact">Преглед на контакт</string>
-  <string name="merge_contact_message">%1$d контакта с частично дублирани данни</string>
+  <string name="merge_contact_message">%1$d контакти с частично дублирани данни</string>
   <string name="messageShortcutActivityTitle">Изберете номер за изпращане на съобщение</string>
   <string name="missing_name">(без име)</string>
   <string name="move_and_resize">Промяна на размера и позицията</string>
@@ -572,6 +597,9 @@
   <string name="name_phonetic_middle">Презиме (транскрипция)</string>
   <string name="name_prefix">Обръщение</string>
   <string name="name_suffix">Звание/титла</string>
+  <string name="national_day"/>
+  <string name="national_father_day"/>
+  <string name="new_years_day"/>
   <string name="next">следващ</string>
   <string name="next_birthday">Следващ рожден ден: %s</string>
   <string name="nfc_vcard_file_name">Получено по NFC</string>
@@ -583,26 +611,63 @@
   <string name="noContactHelpTextAccountsInfo">Синхронизирай контакти с Xiaomi, Google, Exchange.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Възстанови контакти от резервно копие в профил Xiaomi и MiTalk</string>
   <string name="noContacts">Няма контакти</string>
-  <string name="noContactsHelpText">"Няма контакти за показване.
+  <string name="noContactsHelpText">"Нямате контакти за показване.
 
-За добавяне на контакти, натиснете "</string>
+За добавяне на контакти докоснете "<b><font fgcolor="#ffffffff">Меню</font></b>" и след това:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Профили, за да добавите или настроите профил с контакти, които можете да синхронизирате с телефона;
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Нов контакт, за да създадете съвсем нов контакт;
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Импортиране/Експортиране, за да импортирате контакти от своята SIM или SD карта.
+"</li></font></b></string>
   <string name="noContactsHelpTextForCreateShortcut">"Няма контакти за показване."</string>
-  <string name="noContactsHelpTextWithSync">"Липсват контакти за показване. (Ако току-що сте добавили профил, синхронизацията на контакти с него може да отнеме до няколко минути.)
+  <string name="noContactsHelpTextWithSync">"Нямате контакти за показване. (Ако току-що сте добавили профил, синхронизирането им може да отнеме няколко минути.)
 
-За добавяне на контакти, натиснете "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Липсват контакти за показване. (Ако току-що сте добавили профил, синхронизацията на контакти с него може да отнеме до няколко минути.)"</string>
-  <string name="noContactsNoSimHelpText">"Няма контакти за показване.
+За добавяне на контакти докоснете "<b><font fgcolor="#ffffffff">Меню</font></b>" и след това:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Профили, за да добавите или настроите профил с контакти, които можете да синхронизирате с телефона;
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Опции за показване, за да промените кои контакти са видими;
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Нов контакт, за да създадете съвсем нов контакт;
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Импортиране/Експортиране , за да импортирате контакти от своята SIM или SD карта.
+"</li></font></b></string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Нямате контакти за показване. (Ако току-що сте добавили профил, синхронизирането може да отнеме няколко минути.)"</string>
+  <string name="noContactsNoSimHelpText">"Нямате контакти за показване.
 
-За добавяне на контакти, натиснете "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Липсват контакти за показване. (Ако току-що сте добавили профил, синхронизацията на контакти с него може да отнеме до няколко минути.)
+ За добавяне на контакти докоснете "<b><font fgcolor="#ffffffff">Меню</font></b>" и след това:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Профили, за да добавите или настроите профил с контакти, които можете да синхронизирате с телефона;
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Нов контакт, за да създадете съвсем нов контакт;
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Импортиране/Експортиране, за да импортирате контакти от своята SD карта.
+"</li></font></b></string>
+  <string name="noContactsNoSimHelpTextWithSync">"Нямате контакти за показване. (Ако току-що сте добавили профил, синхронизирането им може да отнеме няколко минути.)
 
-За добавяне на контакти, натиснете "</string>
+За добавяне на контакти докоснете "<b><font fgcolor="#ffffffff">Меню</font></b>" и след това:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Профили, за да добавите или настроите профил с контакти, които можете да синхронизирате с телефона;
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Опции за показване, за да промените кои контакти са видими;
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Нов контакт, за да създадете съвсем нов контакт;
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Импортиране/Експортиране, за да импортирате контакти от своята SD карта.
+"</li></font></b></string>
   <string name="noContactsWithPhoneNumbers">Няма контакти с телефонни номера</string>
-  <string name="noFavoritesHelpText">"Няма любими контакти.
+  <string name="noFavoritesHelpText">"Нямате любими контакти.
 
-За да добавите контакт към любими:
+За добавяне на контакт към любими:
 
-"</string>
+        "<li>Докоснете раздела <b>Контакти</b>"
+"</li>" 
+"<li>"Докоснете желания контакт
+"</li>" 
+"<li>"Докоснете звездата до името му
+"</li></string>
   <string name="noGroups">Не са открити групи</string>
   <string name="noMatchingContacts">Няма намерени съвпадения.</string>
   <string name="noRecentContacts">Няма последени контакти</string>
@@ -623,10 +688,6 @@
   <string name="none_paired">Няма свързани устройства</string>
   <string name="not_applied">Не се поддържа</string>
   <string name="notification_action_voicemail_play">Прослушай</string>
-  <string name="notification_new_voicemail_ticker">Ново гл. съобщение от %1$s</string>
-  <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
-  <string name="online_no_network">Мрежата е недостъпна</string>
-  <string name="online_search_hint">Търсене на информация онлайн</string>
   <string name="openDialKeyboard">Клавиатура</string>
   <string name="open_contact">Отвори контакт</string>
   <string name="option_delete_contact">Изтрий контакт</string>
@@ -643,7 +704,9 @@
   <string name="organization_company_and_title">%2$s, %1$s</string>
   <string name="other_contacts">Други контакти</string>
   <string name="other_phone">други телефони</string>
+  <string name="partys_day"/>
   <string name="payphone">Обществен телефон</string>
+  <string name="peace_day"/>
   <string name="people">Контакти</string>
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
@@ -679,7 +742,6 @@
   <string name="postal_postcode">Пощенски код</string>
   <string name="postal_region">Област</string>
   <string name="postal_street">Улица</string>
-  <string name="pref_forward_title">Прехвърляне</string>
   <string name="pref_key_photo">Снимка</string>
   <string name="pref_key_photo_word_summary">Автоматично избиране на снимка за контакти без снимка.</string>
   <string name="pref_key_photo_word_title">Автоматична снимка на контакт</string>
@@ -688,11 +750,7 @@
   <string name="pref_key_sim_manage">Конфигуриране на SIM карта</string>
   <string name="pref_summary_import_from_account">Импортиране на контактите от профилите в Google и Exchange към профила ми в Xiaomi</string>
   <string name="pref_title_account_import">Импортиране от профил</string>
-  <string name="pref_title_card_format">Формат за споделяне на карта</string>
-  <string name="pref_title_fwd_sender_info">Инф. за подателя на прехвърлянето</string>
   <string name="pref_title_import_from_account">Копирай в Xiaomi профил</string>
-  <string name="pref_title_miui_card">Изпрати чрез MiCard</string>
-  <string name="pref_title_vcard">Изпрати чрез vCard</string>
   <string name="preference_auto_ip_summary_disable">Не е разрешено</string>
   <string name="preference_auto_ip_summary_on">"IP на оператора: %s"</string>
   <string name="preference_auto_ip_title">Автоматично IP</string>
@@ -734,7 +792,6 @@
   <string name="preview_contact_card_title">Импортиране на визитка…</string>
   <string name="previous">назад</string>
   <string name="private_num">Частен номер</string>
-  <string name="processing">Обработка...</string>
   <string name="profile_display_name">Настройка на моя профил</string>
   <string name="profile_name">Моят профил</string>
   <string name="profile_name_photo">Аз</string>
@@ -772,165 +829,12 @@
   <string name="remove_duplicate">"MIUI ще ви помогне да намерите и обедините дублиращи се контакти.
 
  За да започнете, натиснете иконата за обединяване в долната част на екрана."</string>
-  <string name="resource_account_abnormal_state">Грешка в профила. Опитайте отново по-късно.</string>
-  <string name="resource_account_current">Профил: %1$s</string>
-  <string name="resource_account_fail_to_add">Неуспешно добавяне на профил!</string>
-  <string name="resource_account_login">Вход</string>
-  <string name="resource_account_login_before_action">Моля, влезте в Xiaomi профила си.</string>
-  <string name="resource_account_login_title">Вход</string>
-  <string name="resource_account_switch">Превключи профила</string>
-  <string name="resource_alarm_default">Будилник</string>
-  <string name="resource_app_name">Браузър ресурси</string>
-  <string name="resource_apply">Приложи</string>
-  <string name="resource_apply_trial">Пробвай сега</string>
-  <string name="resource_buy">Купи</string>
-  <string name="resource_can_not_selected">%1$s не може да бъде избрано!</string>
-  <string name="resource_category">Категория</string>
-  <string name="resource_comment_1_star">*</string>
-  <string name="resource_comment_2_star">**</string>
-  <string name="resource_comment_3_star">***</string>
-  <string name="resource_comment_4_star">****</string>
-  <string name="resource_comment_5_star">*****</string>
-  <string name="resource_comment_account_need_activitied">Активирайте Вашият Xiaomi профил.</string>
-  <string name="resource_comment_all_comments">Всички</string>
-  <string name="resource_comment_average_score">Средно</string>
-  <string name="resource_comment_bad_comments">Негативни</string>
-  <string name="resource_comment_current_version">Текуща версия</string>
-  <string name="resource_comment_edit_comment">Добави коментар</string>
-  <string name="resource_comment_edit_comment_waiting">Проверка на потребителската история…</string>
-  <string name="resource_comment_edit_text_default">Напиши коментар</string>
-  <string name="resource_comment_edit_title">Редактирай коментар: %1$s</string>
-  <string name="resource_comment_entry_tips">Покажи коментарите</string>
-  <string name="resource_comment_expand_full_text">Разшири текста ▼</string>
-  <string name="resource_comment_footer">Празните коментари не се показват.</string>
-  <string name="resource_comment_good_comments">Позитивни</string>
-  <string name="resource_comment_invalid">Изберете броя на звездите</string>
-  <string name="resource_comment_loading_list">Зареждане…</string>
-  <string name="resource_comment_name_default">Потребител %1$s</string>
-  <string name="resource_comment_no_average_score">-.-</string>
-  <string name="resource_comment_no_comment">Няма коментари</string>
-  <string name="resource_comment_publish">Изпрати</string>
-  <string name="resource_comment_rate">Рейтинг:</string>
-  <string name="resource_comment_score_count">%1$s потребители</string>
-  <string name="resource_comment_sending">Изпращане на коментар…</string>
-  <string name="resource_comment_title">Коментари: %1$s</string>
-  <string name="resource_comment_upload_data_invalid">Невалиден коментар!</string>
-  <string name="resource_comment_upload_failed">Неуспешно изпращане на коментара!</string>
-  <string name="resource_comment_upload_hint">Вашият коментар ще бъде показан след одобрение.</string>
-  <string name="resource_comment_upload_not_bought">Трябва първо да използвате темата, ако искате да добавите коментар.</string>
-  <string name="resource_comment_upload_not_logined">Първо трябва да влезете</string>
-  <string name="resource_comment_upload_success">Коментарът е изпратен! Ще бъде показан само след неговото одобрение.</string>
-  <string name="resource_default">Мелодия по подразбиране</string>
-  <string name="resource_default_name">Ресурси</string>
-  <string name="resource_delete_all">Сигурни ли сте, че искате да изтриете избраните ресурси (%1$d)?</string>
-  <string name="resource_delete_confirm">Сигурни ли сте, че искате да изтриете ресурсите?</string>
-  <string name="resource_delta_update_failed">Грешка при обновяване, трябва да изтеглите пълния ресурс</string>
-  <string name="resource_delta_update_successful">Обновяването завърши успешно.</string>
-  <string name="resource_delta_update_total">%1$d актуализации. Общо съхранени: %2$s</string>
-  <string name="resource_detail">Подробности</string>
-  <string name="resource_detail_comment_title">Коментари</string>
-  <string name="resource_detail_jump_to_online_title">Онлайн</string>
-  <string name="resource_detail_jump_to_same_author_title">От същия автор</string>
-  <string name="resource_detail_recommend_desiner_other_themes">Други теми разработени от %1$s</string>
-  <string name="resource_detail_recommend_desiner_themes">теми: %1$s</string>
-  <string name="resource_detail_recommend_other_themes">Потребителите също харесаха</string>
-  <string name="resource_detail_update_log_title">Актуализации</string>
-  <string name="resource_detail_window_title">Информация: %1$s</string>
-  <string name="resource_download">Изтегляне</string>
-  <string name="resource_download_trial">Безплатен тест</string>
-  <string name="resource_downloaded_title">Изтеглени ресурси</string>
-  <string name="resource_downloading">Изтегляне...</string>
-  <string name="resource_exchange">Активиране на код</string>
-  <string name="resource_exchange_confirm">ОК</string>
-  <string name="resource_exchange_empty_format">Въведете кода!</string>
-  <string name="resource_exchange_has_bought">"Вие вече закупихте тази тема."</string>
-  <string name="resource_exchange_has_expired">Този код е изтекъл.</string>
-  <string name="resource_exchange_has_used">Посоченият код вече е бил използван.</string>
-  <string name="resource_exchange_hint">Въведете код</string>
-  <string name="resource_exchange_purchase_unkown_error">Възникна неизвестна грешка. Моля влзте в http://market.xiaomi.com за да да проверите статуса на плащането.</string>
-  <string name="resource_exchange_share_code_content">Вие получихте кодът за темата %1$s. Вашият MiCredit код е: %2$s. Натиснете %3$s за да го използвате сега.</string>
-  <string name="resource_exchange_share_code_dlg_content">Кодът за закупуване на темата %1$s е: %2$s. Ако го изпратите на друг потребител, той може да го използва за изтегляне на тази MIUI тема.</string>
-  <string name="resource_exchange_share_code_dlg_title">Изпращане на код</string>
-  <string name="resource_exchange_success">Готово! :)</string>
-  <string name="resource_exchange_unavailable">Въведеният код не е валиден за тази тема</string>
-  <string name="resource_exchange_universal_finish">Използвайте този код за изтегляне на теми от магазина на MIUI.</string>
-  <string name="resource_exchange_universal_goon">Този код може да бъде използван за изтегляне на тема по избор от магазина на MIUI.</string>
-  <string name="resource_exchange_window_title">Активиране на код</string>
-  <string name="resource_exchange_wrong_format_by_local">Въведен е грешен код</string>
-  <string name="resource_exchange_wrong_format_by_server">Кодът не може да бъде потвърден. Моля проверете кода и опитайте отново.</string>
-  <string name="resource_expand_full_text">Разшири</string>
-  <string name="resource_get_auth_checking">Проверка...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Темата не може да се приложи на устройството, тъй като сте надвишили лимита за Вашия профил (10). Моля, влезте с друг Xiaomi профил.</string>
-  <string name="resource_get_auth_exceed_max_limit_title">Надвишен лимит ауторизации</string>
-  <string name="resource_get_auth_missing">Тази тема не е изтеглена от официалния магазин.</string>
-  <string name="resource_get_auth_retrieving">Получаване на разрешение...</string>
-  <string name="resource_hint">Предупреждение</string>
-  <string name="resource_import_failed">Импортирането се провали</string>
-  <string name="resource_import_successful">Успешно изтегляне.</string>
-  <string name="resource_importing">Импортиране...</string>
-  <string name="resource_list_title">Последно избрани</string>
-  <string name="resource_local">Локални %1$s</string>
-  <string name="resource_menu_refresh">Обнови</string>
-  <string name="resource_mute">Без звук</string>
-  <string name="resource_my">Локални</string>
-  <string name="resource_no_result">Няма резултати</string>
-  <string name="resource_notification_default">Известия</string>
-  <string name="resource_on_trial">Изпробвате: %1$s</string>
-  <string name="resource_online">Онлайн %1$s</string>
-  <string name="resource_pack_confirm">Вече сте закупили %1$d елемента. Но текущата им пакетна цена има отстъпка в сравнение с покупката им поотделно. Продължавате ли?</string>
-  <string name="resource_pack_discount_info">%1$s Отстъпка!</string>
-  <string name="resource_pack_price_info">%1$s Нормално</string>
-  <string name="resource_pack_warning">Внимание! Вече сте закупили %1$d елемента. Текущата им цена не е валидна за оставащите елементи, моля да ги купите поотделно.</string>
-  <string name="resource_present">Подарък</string>
-  <string name="resource_price_format">(%1$s)</string>
-  <string name="resource_price_free">Безплатни</string>
-  <string name="resource_price_unit">" MI-Кредити"</string>
-  <string name="resource_purchase_getting_order">Получаване на данни за поръчката…</string>
-  <string name="resource_purchase_verifying_payment">Проверка на плащането…</string>
-  <string name="resource_purchase_waiting_payment">Изчакване за проверка на плащането…</string>
-  <string name="resource_ranking">Популярни</string>
-  <string name="resource_ranking_free">Безплатни</string>
-  <string name="resource_ranking_purchase">Платени</string>
-  <string name="resource_ringtone_default">Мелодии</string>
-  <string name="resource_ringtone_playing_error">грешка при възпроизвеждане</string>
-  <string name="resource_ringtone_volume_mute">Звъненето е заглушено</string>
-  <string name="resource_save_to_note">Запази в бележки</string>
-  <string name="resource_see_more">Подробно</string>
-  <string name="resource_select">Избери</string>
-  <string name="resource_selected">Най-добри</string>
-  <string name="resource_send">Изпрати</string>
-  <string name="resource_server_alert_dialog_title">Сървърът е временно недостъпен</string>
-  <string name="resource_server_out_of_service">Сървърът е временно недостъпен, моля опитайте по-късно.</string>
-  <string name="resource_share_subject">Споделям темата: %1$s</string>
-  <string name="resource_share_text">Ето една тема за MIUI, на която може да се насладите: %1$s! Връзка: %2$s</string>
-  <string name="resource_share_title">Сподели</string>
-  <string name="resource_switch_account">Превключи</string>
-  <string name="resource_system_title">Системни ресурси</string>
-  <string name="resource_tip_select_ringtone">Не е избрана мелодия</string>
-  <string name="resource_title">Подробности</string>
-  <string name="resource_title_select_ringtone">Изберете мелодия</string>
-  <string name="resource_trial_end_message">Тестовата версия на %1$s изтече. Ако желаете може да си го закупите.</string>
-  <string name="resource_trial_end_purchase">Купи</string>
-  <string name="resource_trial_end_restore">Прекрати теста</string>
-  <string name="resource_trial_end_title">Тестът изтече</string>
-  <string name="resource_trial_time">（тест за %1$d минути）</string>
-  <string name="resource_unable_to_access">"За съжаление,
-съдържанието което търсите в момента не се предлага за вашия регион."</string>
-  <string name="resource_unknow_error">Възникна неизвестна грешка.</string>
-  <string name="resource_update">Обнови</string>
-  <string name="resource_user_know">OK</string>
-  <string name="resource_waiting_download">Изчакване...</string>
   <string name="restore_nickname">Възстанови</string>
-  <string name="restore_to_phone_memory_failed">Не може да възстановите в паметта на телефона!</string>
-  <string name="restored_to_phone_memory">Възстановено в паметта на телефона!</string>
   <string name="ret_sign">" "</string>
+  <string name="retrocession_day"/>
   <string name="returnCall">Обратно повикване</string>
   <string name="ringLabelsGroup">Мелодия</string>
-  <string name="ringtone_volume_mute">Звукът е изключен.</string>
-  <string name="save">Запиши</string>
   <string name="save_photo_progress">Записване на снимката…</string>
-  <string name="save_to_sim_failed">Не е съхранено в SIM картата! restored_to_phone_memory </string>
-  <string name="saved_to_sim">Съхранено в SIM картата!</string>
   <string name="savingContact">Записване на контакт…</string>
   <string name="savingDisplayGroups">Записване настройките на изгледа…</string>
   <string name="scan">сканиране на устройство</string>
@@ -939,10 +843,6 @@
   <string name="scanning">Сканиране…</string>
   <string name="scanning_sdcard_failed_message">Неуспешно сканиране на SD карта. Причина: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"SD картата не е сканирана"</string>
-  <string name="sdcard_not_mounted_dialog_message">"Поставете SD карта."</string>
-  <string name="sdcard_not_mounted_dialog_title">Не е открита SD карта</string>
-  <string name="sdcard_status_changed_dialog_message">"Прекъснато! Моля, отворете приложението отново, за да актуализирате ресурсите."</string>
-  <string name="sdcard_status_changed_dialog_title">Статуса на SD картата е променен</string>
   <string name="searchHint">Търсене на контакти</string>
   <string name="search_results_searching">Търсене…</string>
   <string name="search_settings_description">Имена на вашите контакти</string>
@@ -962,7 +862,6 @@
   <string name="service_provider">Доставчик на услугата</string>
   <string name="set_default">По подразбиране</string>
   <string name="set_photo_failed_msg">Грешка при задаване на аватар</string>
-  <string name="set_smsc_address_title_miui">Задай номер на SMS център</string>
   <string name="share_error">Този контакт не може да бъде споделен</string>
   <string name="share_via">Споделяне чрез</string>
   <string name="share_visible_contacts">Сподели контакти</string>
@@ -975,29 +874,32 @@
   <string name="simContacts_empty">Няма контакти на SIM картата.</string>
   <string name="simContacts_emptyLoading">Зареждане на контакти от SIM картата…</string>
   <string name="simContacts_title">Контакти на SIM карта</string>
-  <string name="sim_capacity_content" formatted="false">Общо %d, използвано %d</string>
-  <string name="sim_card1">SIM 1</string>
-  <string name="sim_card2">SIM 2</string>
-  <string name="sim_card_cloud">%s (Облачно съобщение)</string>
+  <string name="sim_account_name">SIM</string>
+  <string name="sim_capacity">Капацитет на SIM картата</string>
   <string name="sim_card_no_free_space_message">Няма достатъчно свободна памет.</string>
   <string name="sim_card_no_free_space_title">SIM картата е пълна!</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Размаркирай всички</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Избери всички</string>
+  <string name="sim_contact_existing">Контактът вече съществува</string>
+  <string name="sim_contact_invalid">Невалиден SIM контакт</string>
   <string name="sim_contact_search_error">Възникна грешка при търсене на контакти на SIM карта</string>
   <string name="sim_contacts">SIM Контакти</string>
   <string name="sim_error_anr_full">Хранилището за номера е пълно!</string>
   <string name="sim_error_email_full">Хранилището за Имейл адреси е пълно!</string>
   <string name="sim_error_email_too_long">Имейл адресът е прекалено дълъг.</string>
   <string name="sim_error_generic_failure">Неуспех.</string>
+  <string name="sim_error_not_ready">Зареждат се SIM контакти...</string>
   <string name="sim_error_number_too_long">Номерът е прекалено дълъг!</string>
   <string name="sim_error_password_error">Неправилна парола.</string>
   <string name="sim_error_storage_full">Паметта на SIM картата е пълна</string>
   <string name="sim_error_text_too_long">Името е прекалено дълго!</string>
   <string name="sim_export_loading">Изтегляне на контакти от SIM картата, моля изчакайте…</string>
-  <string name="sim_indexed_contact_not_exist">Позиция %1$d на SIM картата не е валидна. Стойността трябва да бъде между %2$d и %3$d</string>
+  <string name="sim_indexed_contact_not_exist" formatted="false">Позиция %1$d на SIM картата не е валидна. Позицията трябва да бъде между %2$d и %3$d</string>
   <string name="sim_no_contact">Няма контакти на SIM картата</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Няма членове на групата</string>
+  <string name="slight_cold"/>
+  <string name="slight_heat"/>
   <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">По фирма</string>
   <string name="smart_group_company_unavailable">Неизвестна фирма</string>
@@ -1035,44 +937,58 @@
   <string name="sms_work_pager">SMS: до сл. пейджър</string>
   <string name="social_widget_label">Контакт</string>
   <string name="social_widget_loading">Зареждане…</string>
+  <string name="solar_calendar"/>
   <string name="splitConfirmation">Ще разделите ли контакта?</string>
   <string name="splitConfirmation_title">Този контакт ще бъде разделен на няколко контакта.</string>
+  <string name="spring_begins"/>
   <string name="starredList">Любими</string>
   <string name="starred_contacts">Любими</string>
   <string name="status_available">Достъпен</string>
   <string name="status_away">Отсъстващ</string>
   <string name="status_busy">Зает</string>
+  <string name="stopping_the_heat"/>
   <string name="strequentList">Любими</string>
   <string name="success_message_import_from_account">Успешно импортиране</string>
   <string name="summary_kind_title">Инфо:</string>
-  <string name="t9_search_guide">Въведи номер или намери контакти с помощта на Т9</string>
+  <string name="summer_begins"/>
+  <string name="summer_solstice"/>
   <string name="t9_search_guide_pinyin">Въведете 32 за търсене на Димитър Бербатов</string>
   <string name="t9_search_guide_zhuyin">Въведете 32 за търсене на Димитър Бербатов</string>
   <string name="take_new_photo">Направи нова снимка</string>
   <string name="take_photo">Направи снимка</string>
+  <string name="teachers_day"/>
+  <string name="the_armys_day"/>
+  <string name="the_double_ninth_festival"/>
+  <string name="the_dragon_boat_festival"/>
+  <string name="the_first_weekday_after_christmas"/>
+  <string name="the_laba_rice_porridge_festival">腊八</string>
+  <string name="the_mid_autumn_festival"/>
+  <string name="the_rains"/>
+  <string name="the_spring_festival"/>
   <string name="titleJoinContactDataWith">Обедини контакти</string>
   <string name="title_other_devices">Други налични устройства</string>
   <string name="title_paired_devices">Сдвоени устройства</string>
-  <string name="to_activate_the_account">Активирайте Вашият Xiaomi профил</string>
   <string name="toast_call_detail_error">"Не можете да прочетете подробности за повикването."</string>
   <string name="toast_copy_done">Копирането завърши успешно</string>
   <string name="toast_copying">Копиране, моля изчакайте...</string>
   <string name="toast_displaying_all_contacts">Показване на всички контакти</string>
   <string name="toast_finish_delete_call_log">Списъкът с повиквания е изтрит</string>
-  <string name="toast_finish_delete_selected_call_log">Избраният списък с повиквания е изтрит</string>
   <string name="toast_for_failed_saving_nickname">Грешка при запазване на псевдоним!</string>
   <string name="toast_for_saving_nickname">Псевдонимът е запазен</string>
   <string name="toast_join_with_empty_contact">Именувайте контакта, преди обединяването му с друг.</string>
   <string name="toast_making_personal_copy">Създаване на индивидуално копие…</string>
   <string name="toast_text_copied">Текстът е копиран</string>
   <string name="today">Днес</string>
+  <string name="tw_childrens_day"/>
+  <string name="tw_youth_day"/>
   <string name="type_incoming">Входящо обаждане</string>
   <string name="type_missed">Пропуснато обаждане</string>
   <string name="type_mx_msg">Облачно съобщения</string>
   <string name="type_outgoing">Изходящо обаждане</string>
-  <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Гласова поща</string>
+  <string name="united_nations_day"/>
   <string name="unknown">Неизвестно</string>
+  <string name="unknown_caller">Неизвестен номер</string>
   <string name="unknown_contact_name">Неизвестен контакт</string>
   <string name="upgrade_in_progress">Списъкът с контакти се обновява...</string>
   <string name="upgrade_out_of_memory">"Контактите са в процес на обновяване. За процеса са необходими приблизително %s MB памет. Изберете един от следните варианти:"</string>
@@ -1081,13 +997,21 @@
   <string name="use_photo_as_primary">Използвайте тази снимка</string>
   <string name="use_photo_as_primary2">"Използвайте като снимка на контакт за %1$s"</string>
   <string name="user_profile_contacts_list_header">Аз</string>
+  <string name="v5_date_picker_label_day"/>
+  <string name="v5_date_picker_label_month"/>
+  <string name="v5_date_picker_label_year"/>
+  <string name="v5_date_time_picker_dialog_title"/>
+  <string name="v5_time_picker_label_hour"/>
+  <string name="v5_time_picker_label_minute"/>
+  <string name="valentines_day"/>
   <string name="vcard_export_request_rejected_message">Експортирането на визитка се провали, моля опитайте по-късно.</string>
   <string name="vcard_export_will_start_message">%s ще бъде експортирана скоро.</string>
   <string name="vcard_import_failed">"Неуспешно импортиране на визитка."</string>
   <string name="vcard_import_request_rejected_message">Импортирането на визитка се провали, моля опитайте по-късно.</string>
   <string name="vcard_import_will_start_message">%s ще бъде импортирана скоро.</string>
-  <string name="vcard_import_will_start_message_with_default_name">Файлът ще бъде импортиран скоро.</string>
+  <string name="vcard_import_will_start_message_with_default_name">Файлът ще бъде импортиран скоро.</string> 
   <string name="vcard_unknown_filename">контакт</string>
+  <string name="vernal_equinox"/>
   <string name="video_chat">Видео чат</string>
   <string name="viewContactDesription">Покажи контакт</string>
   <string name="viewContactTitle">Детайли на контакт</string>
@@ -1109,15 +1033,13 @@
   <string name="voicemail_status_messages_waiting">"Няма връзка със сървъра на гласовата поща. Имате нови съобщения."</string>
   <string name="voicemail_status_voicemail_not_available">"Няма връзка със сървъра на гласовата поща."</string>
   <string name="websiteLabelsGroup">Уеб сайт</string>
+  <string name="white_dews"/>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
+  <string name="winter_begins"/>
+  <string name="winter_solstice"/>
   <string name="wipe_data">Изчисти данни</string>
   <string name="yellowPageNavigationIconLabel">Директория</string>
   <string name="yellowPageNavigationLabel">Директория</string>
-  <string name="yellowpage_navigation_menu_order">Моята поръчка</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_title">Местоположение според мрежата</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Списъкът на номера на услуги и магазини, според местоположението ви, може да се подобри с тази функция.</string>
-  <string name="yellowpage_navigation_network_location_enable">Разреши</string>
-  <string name="yellowpage_navigation_network_location_enable_later">По-късно</string>
   <string name="yellowpage_navigation_no_content">Няма намерени резултати</string>
   <string name="yellowpage_navigation_search_city_name_hint">Търсене по град</string>
   <string name="yellowpage_navigation_search_hint">Търси</string>
@@ -1127,6 +1049,5 @@
   <string name="yellowpage_navigation_search_result_service_error">Услугата не е достъпна</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Непозната грешка!</string>
   <string name="yellowpage_navigation_search_select_city">Изберете град</string>
-  <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавено на началните екрани</string>
   <string name="zero_items_selected">Нищо не е избрано</string>
 </resources>

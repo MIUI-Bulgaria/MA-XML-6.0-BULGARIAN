@@ -8,7 +8,6 @@
   <string name="clear_history">Изчистване на историята</string>
   <string name="cos">cos</string>
   <string name="cosDesc">косинус</string>
-  <string name="cos_mathematical_value">cos</string>
   <string name="del">DEL</string>
   <string name="delDesc">изтриване</string>
   <string name="digit0">0</string>
@@ -27,7 +26,6 @@
   <string name="dotDesc">десетична запетая</string>
   <string name="e">e</string>
   <string name="eDesc">Неперово число</string>
-  <string name="e_mathematical_value">e</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">равно</string>
@@ -39,8 +37,6 @@
   <string name="leftParenDesc">лява скоба</string>
   <string name="lg">log</string>
   <string name="lgDesc">логаритъм</string>
-  <string name="lg_mathematical_value">lg</string>
-  <string name="ln">ln</string>
   <string name="lnDesc">естествен логаритъм</string>
   <string name="ln_mathematical_value">ln</string>
   <string name="minus">−</string>
@@ -56,7 +52,6 @@
   <string name="rightParen">)</string>
   <string name="rightParenDesc">дясна скоба</string>
   <string name="scientific">научен</string>
-  <string name="sin">sin</string>
   <string name="sinDesc">синус</string>
   <string name="sin_mathematical_value">sin</string>
   <string name="sqrt">√</string>
@@ -64,7 +59,6 @@
   <string name="standard">стандартен</string>
   <string name="switch_to_scientific_pad">Превключване към научен</string>
   <string name="switch_to_standard_pad">Превключване към стандартен</string>
-  <string name="tan">tan</string>
   <string name="tanDesc">тангенс</string>
   <string name="tan_mathematical_value">tan</string>
   <string name="text_copied_toast">Текстът е копиран.</string>

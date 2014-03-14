@@ -1,17 +1,31 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activate">Активиране</string>
+  <string name="activate_fail_notification_title">Активирайте отново</string>
   <string name="app_name">Мениджър на профили Xiaomi</string>
+  <string name="check_phone_error_title">Синхронизацията не е активирана</string>
+  <string name="check_phone_io_error">Грешка на мрежата</string>
+  <string name="error_forbidden">Възникнаха проблеми с вашия профил: Синхр. е деактивирана.</string>
+  <string name="error_not_acceptable">Грешка на сървъра: Синхр. е деактивирана.</string>
+  <string name="error_title">Грешка при синхр.</string>
+  <string name="error_unauthorized">Твърде много опити за влизане: Синхр. е деактивирана.</string>
   <string name="find_device">Намери телефона</string>
   <string name="find_device_stop_noise">Натиснете OK за заглушаване</string>
+  <string name="no_sim">Не е открита SIM карта</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Спестява мобилни данни (това може да ви спести пари)</string>
   <string name="pref_title_sync_contacts_title">Синхронизация на контакти</string>
-  <string name="pref_title_sync_my_profile_title">Синхр. моят профил</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Само по Wi-Fi</string>
+  <string name="send_sms_for_sync_notice">Ще бъде изпратен SMS за активиране.</string>
+  <string name="send_sms_for_sync_title">Синхронизацията не е активирана</string>
+  <string name="sim_changed_reactivate_int_notice">Текущата SIM карта е деактивирана. Автоматично ще бъде изпратен SMS за активиране.</string>
+  <string name="sim_changed_reactivate_notice">Текущата SIM карта е деактивирана. Автоматично ще бъде изпратен SMS за активиране.</string>
+  <string name="sim_in_airplane_mode">Трябва да изключите Самолетен режим.</string>
+  <string name="sim_locked">SIM картата е заключена</string>
+  <string name="sim_not_ready">SIM картата е в употреба. Опитайте отново по-късно.</string>
+  <string name="sim_unavailable">SIM картата е недостъпна</string>
   <string name="sub_sync_item_sms_summary">Спестява мобилни данни (това може да ви спести пари)</string>
   <string name="sub_sync_item_sms_title_wifi_only">Синхр. MMS/SMS: само по Wi-Fi</string>
   <string name="sync_item_sms_summary">Синхронизиране на текстовите съобщения между устройствата</string>
   <string name="sync_item_sms_title">Синхр. съобщения</string>
   <string name="find_device_noise_title">Звук при намиране на телефона</string>
-  <string name="sync_item_calllog_title">Синхр. списъци с обаждания</string>
-  <string name="sync_item_calllog_summary">Синхронизиране на списъците с входящи и изходящи повиквания на този телефон</string>
 </resources>
