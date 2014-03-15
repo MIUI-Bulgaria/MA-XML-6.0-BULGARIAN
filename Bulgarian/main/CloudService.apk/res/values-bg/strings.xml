@@ -18,7 +18,7 @@
   <string name="send_sms_for_sync_notice">Ще бъде изпратен SMS за активиране.</string>
   <string name="send_sms_for_sync_title">Синхронизацията не е активирана</string>
   <string name="sim_changed_reactivate_int_notice">Текущата SIM карта е деактивирана. Автоматично ще бъде изпратен SMS за активиране.</string>
-  <string name="sim_changed_reactivate_notice">Текущата SIM карта е деактивирана. Автоматично ще бъде изпратен SMS за активиране.</string>
+  <string name="sim_changed_reactivate_notice">Текущата SIM карта не е активирана. Автоматично ще бъде изпратен SMS за активиране.</string>
   <string name="sim_in_airplane_mode">Трябва да изключите Самолетен режим.</string>
   <string name="sim_locked">SIM картата е заключена</string>
   <string name="sim_not_ready">SIM картата е в употреба. Опитайте отново по-късно.</string>
