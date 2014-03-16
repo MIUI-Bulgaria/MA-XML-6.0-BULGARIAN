@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="exchange_name">Корпоративен</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="meeting_accepted">Прието: %s</string>
     <string name="meeting_declined">Отклонено: %s</string>
@@ -16,28 +15,28 @@
     <string name="app_name">Услуги на Exchange</string>
     <string name="exception_cancel">Това събитие от %s е анулирано</string>
     <string name="exception_updated">Подробностите за това събитие са променени за: %s</string>
-    <string name="policy_dont_allow_storage_cards">забраняване на карти за съхранение</string>
-    <string name="policy_dont_allow_unsigned_apps">забраняване на неподписани приложения</string>
-    <string name="policy_dont_allow_unsigned_installers">без неподписани инсталатори на приложения</string>
-    <string name="policy_dont_allow_wifi">забраняване на Wi-Fi</string>
-    <string name="policy_dont_allow_text_messaging">забраняване на текстови съобщения</string>
-    <string name="policy_dont_allow_pop_imap">забраняване на POP3 или IMAP профили</string>
-    <string name="policy_dont_allow_irda">забраняване на инфрачервени комуникации</string>
-    <string name="policy_dont_allow_html">забраняване на HTML имейли</string>
-    <string name="policy_dont_allow_browser">забраняване на браузъри</string>
-    <string name="policy_dont_allow_consumer_email">забраняване на маркетингови имейли</string>
-    <string name="policy_dont_allow_internet_sharing">забраняване на споделянето на интернет</string>
-    <string name="policy_require_smime">изискване на SMIME съобщения</string>
-    <string name="policy_bluetooth_restricted">ограничаване използването на Bluetooth</string>
-    <string name="policy_app_blacklist">забраняване на посочените приложения</string>
-    <string name="policy_app_whitelist">разрешаване само на посочени приложения</string>
-    <string name="policy_text_truncation">ограничаване размера на имейлите с текст</string>
-    <string name="policy_html_truncation">ограничаване размера на HTML имейлите</string>
-    <string name="policy_require_sd_encryption">изискване за шифроване на SD картата</string>
-    <string name="policy_dont_allow_attachments">забраняване на прикачени файлове</string>
-    <string name="policy_max_attachment_size">огранич. размера на прикачените файлове</string>
-    <string name="policy_require_manual_sync_roaming">само ръчно синхронизиране при роуминг</string>
-    <string name="policy_require_encryption">изискване за шифроване на устройството</string>
+    <string name="policy_dont_allow_storage_cards">Забраняване на карти за съхранение</string>
+    <string name="policy_dont_allow_unsigned_apps">Без неподписани приложения</string>
+    <string name="policy_dont_allow_unsigned_installers">Без неподп. инсталатори на приложения</string>
+    <string name="policy_dont_allow_wifi">Без разрешаване на Wi-Fi</string>
+    <string name="policy_dont_allow_text_messaging">Забраняване на текстови съобщения</string>
+    <string name="policy_dont_allow_pop_imap">Забраняване на POP3 или IMAP профили</string>
+    <string name="policy_dont_allow_irda">Забраняване на инфрачервени комуникации</string>
+    <string name="policy_dont_allow_html">Забраняване на HTML имейли</string>
+    <string name="policy_dont_allow_browser">Забраняване на браузъри</string>
+    <string name="policy_dont_allow_consumer_email">Забраняване на маркетингови имейли</string>
+    <string name="policy_dont_allow_internet_sharing">Без споделяне на интернет</string>
+    <string name="policy_require_smime">Изискване на SMIME съобщения</string>
+    <string name="policy_bluetooth_restricted">Ограничаване на ползването на Bluetooth</string>
+    <string name="policy_app_blacklist">Забраняване на посочените приложения</string>
+    <string name="policy_app_whitelist">Разрешаване само на посочени приложения</string>
+    <string name="policy_text_truncation">Ограничаване на размера на текст. имейли</string>
+    <string name="policy_html_truncation">Ограничаване на размера на HTML имейлите</string>
+    <string name="policy_require_sd_encryption">Изискване за шифроване на SD картата</string>
+    <string name="policy_dont_allow_attachments">Забраняване на прикачени файлове</string>
+    <string name="policy_max_attachment_size">Огранич. на размера на прикач. файлове</string>
+    <string name="policy_require_manual_sync_roaming">Само ръчно синхронизиране при роуминг</string>
+    <string name="policy_require_encryption">Изискване за шифроване на устройството</string>
     <string name="account_setup_options_mail_window_auto">Автоматично</string>
     <string name="account_setup_options_mail_window_1day">Един ден</string>
     <string name="account_setup_options_mail_window_3days">Три дни</string>
@@ -45,4 +44,6 @@
     <string name="account_setup_options_mail_window_2weeks">Две седмици</string>
     <string name="account_setup_options_mail_window_1month">Един месец</string>
     <string name="account_setup_options_mail_window_all">Всички</string>
+    <string name="auth_error_notification_title">Грешка при удостоверяването</string>
+    <string name="auth_error_notification_text">Докоснете, за да редактирате настройките за профила %s</string>
 </resources>

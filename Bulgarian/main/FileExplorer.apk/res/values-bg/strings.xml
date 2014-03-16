@@ -46,7 +46,6 @@
   <string name="cleanup_complete">Готово</string>
   <string name="cleanup_stopped">Почистването спря</string>
   <string name="close">Затвори</string>
-  <string name="colon">": "</string>
   <string name="compress_fail">Грешка при архивиране, файлът вече съществува</string>
   <string name="compress_message">Име на архива:</string>
   <string name="compress_title">Създаване на архив</string>
@@ -311,4 +310,11 @@
   <string name="wifi_state">Wi-Fi статус</string>
   <string name="xiaomi_account">Xiaomi профил</string>
   <string name="yes">Да</string>
+  <string name="byteShort">Б</string>
+  <string name="kilobyteShort">КБ</string>
+  <string name="megabyteShort">МБ</string>
+  <string name="gigabyteShort">ГБ</string>
+  <string name="terabyteShort">ТБ</string>
+  <string name="petabyteShort">ПБ</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
 </resources>
