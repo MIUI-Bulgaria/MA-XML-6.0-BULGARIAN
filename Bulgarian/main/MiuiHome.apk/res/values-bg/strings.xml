@@ -2,6 +2,8 @@
 <resources>
   <string name="activity_not_found">Приложението не е инсталирано на телефона Ви.</string>
   <string name="application_name">MIUI Launcher</string>
+  <string name="apply_as_lock_wallpaper">Прилагане</string>
+  <string name="apply_as_lock_wallpaper_message">Тапетът да се приложи ли също и на закл. екран?</string>
   <string name="aqi_quality_index_dangerous">Опасно</string>
   <string name="aqi_quality_index_good">Добро</string>
   <string name="aqi_quality_index_hazardous">Хазартно</string>
@@ -16,6 +18,7 @@
   <string name="cant_remove_system_app">Системни приложения не може да се деинсталират</string>
   <string name="chooser_wallpaper">Изберете тапет от</string>
   <string name="confirm_btn_label">OK</string>
+  <string name="custom_wallpaper_picker">По избор</string>
   <string name="default_folder_title_game">Игри</string>
   <string name="default_folder_title_recommend">Препоръчителни</string>
   <string name="default_folder_title_security">Безопасност</string>
@@ -25,7 +28,10 @@
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Редактиране на името на папка</string>
+  <string name="editing_add_widget_tips">Добавяне на джаджи</string>
   <string name="editing_mode_title_empty">Изберете елементи</string>
+  <string name="editing_set_transition_effect_tips">Промяна на ефекта за преход м/у екраните</string>
+  <string name="editing_set_wallpaper_tips">Промяна на тапета</string>
   <string name="editing_tips">Добави или редактирай джаджа</string>
   <string name="emptyplaylist">Плейлистата е празна</string>
   <string name="encryption">Кодиране</string>
@@ -53,12 +59,15 @@
   <string name="gadget_clock_12_label">Часовник 2x1</string>
   <string name="gadget_clock_22_label">Часовник 2x2</string>
   <string name="gadget_clock_24_label">Часовник 4x2</string>
+  <string name="gadget_clock_label">Часовник</string>
   <string name="gadget_error_text">Проблем при зареждането на джаджа</string>
   <string name="gadget_google_search_label">Google търсене</string>
   <string name="gadget_load_error">Грешка при зареждане на джаджа...</string>
   <string name="gadget_photo_22_label">Фоторамка 2x2</string>
   <string name="gadget_photo_24_label">Фоторамка 4x2</string>
   <string name="gadget_photo_44_label">Фоторамка 4x4</string>
+  <string name="gadget_photo_label">Фоторамка</string>
+  <string name="gadget_search_label">Търсене</string>
   <string name="gadget_weather_app_not_installed">Моля, инсталирайте Времето BZ</string>
   <string name="gadget_weather_aqi_title">Kачество на въздуха</string>
   <string name="gadget_weather_download_message">Пакети за изтегляне: %1$s. размер: %2$s. Моля, изберете отново след завършване на изтеглянето</string>
@@ -69,6 +78,7 @@
   <string name="gadget_weather_low_temp">Минимални</string>
   <string name="gadget_weather_theme_type">Вид джаджа</string>
   <string name="gadget_weather_time_format">dd.MM.yyyy</string>
+  <string name="gadget_weather_title">Времето</string>
   <string name="gadget_weather_title_14">Времето 4X1</string>
   <string name="gadget_weather_title_24">Времето 4X2</string>
   <string name="global_search_hint">Въведете дума за търсене</string>
@@ -82,6 +92,8 @@
   <string name="install">Инсталиране</string>
   <string name="invalid_contact_shortcut">Невалиден пряк път</string>
   <string name="loading_desktop">Зареждане начален екран...</string>
+  <string name="lock_screen_failed_message">Неуспешно прилагане</string>
+  <string name="lock_screen_success_message">Приложен</string>
   <string name="maml_component_customization_title">Настройки</string>
   <string name="menu_add">Добави</string>
   <string name="menu_back_desktop">Обратно към началния екран</string>
@@ -97,6 +109,8 @@
   <string name="menu_sort">Сортиране на икони</string>
   <string name="menu_wallpaper">Тапет</string>
   <string name="menu_workspace_preview">Преглед</string>
+  <string name="multi_selecting_tips">Натиснете икона за начало</string>
+  <string name="online_wallpaper">Онлайн тапет</string>
   <string name="out_of_space">На този екран няма свободно място.</string>
   <string name="permdesc_install_shortcut">Позволява на приложението да добавя преки пътища без намеса от потребителя.</string>
   <string name="permdesc_install_widget">Позволява на приложението да добавя джаджи без намеса от потребителя.</string>
@@ -135,6 +149,7 @@
   <string name="scroll_tip_format_when_announce_accessibility">Страница %1$d, %2$d приложения</string>
   <string name="select_frame">Рамка</string>
   <string name="select_photo">Снимка</string>
+  <string name="settings_shortcut">Пряк път настройки</string>
   <string name="sharedUserId"/>
   <string name="sort_by_abc">Подреди по име</string>
   <string name="sort_by_frequency">Подреди по популярност</string>
@@ -178,8 +193,8 @@
   <string name="title_select_shortcut">Избери пряк път</string>
   <string name="toggle_select_title">Избери превкл.</string>
   <string name="toggle_title">Превключватели</string>
-  <string name="transformation_type_classic">Стандартно</string>
-  <string name="transformation_type_classic_no_overshoot">Стандартно (без ефекти)</string>
+  <string name="transformation_type_classic">Приплъзване</string>
+  <string name="transformation_type_classic_no_overshoot">Плъзване</string>
   <string name="transformation_type_crossfade">Избледняване</string>
   <string name="transformation_type_cube">3D куб</string>
   <string name="transformation_type_falldown">2D ротация</string>
@@ -197,19 +212,4 @@
   <string name="widget_favorite_contacts_style">Размер</string>
   <string name="widget_gadget_player">Музика</string>
   <string name="widget_global_search">Търсене</string>
-  <string name="multi_selecting_tips">Натиснете икона за начало</string>
-  <string name="editing_add_widget_tips">Добавяне на джаджи</string>
-  <string name="editing_set_wallpaper_tips">Промяна на тапета</string>
-  <string name="editing_set_transition_effect_tips">Промяна на ефекта за преход м/у екраните</string>
-  <string name="online_wallpaper">Онлайн тапет</string>
-  <string name="custom_wallpaper_picker">По избор</string>
-  <string name="gadget_search_label">Търсене</string>
-  <string name="gadget_clock_label">Часовник</string>
-  <string name="gadget_photo_label">Фоторамка</string>
-  <string name="gadget_weather_title">Времето</string>
-  <string name="settings_shortcut">Пряк път настройки</string>
-  <string name="apply_as_lock_wallpaper">Прилагане</string>
-  <string name="apply_as_lock_wallpaper_message">Тапетът да се приложи ли също и на закл. екран?</string>
-  <string name="lock_screen_failed_message">Неуспешно прилагане</string>
-  <string name="lock_screen_success_message">Приложен</string>
 </resources>

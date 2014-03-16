@@ -8,13 +8,13 @@
   <string name="add_account">Добави профил</string>
   <string name="add_sharer">Добави получател</string>
   <string name="add_to_cloud_album">Добави към облака</string>
-  <string name="add_to_cloud_image_limit_exceeded_message">Квотата за снимки е надвишена.</string>
-  <string name="add_to_cloud_local_space_full_message">Хранилището е пълно или още не е готово.</string>
   <string name="add_to_cloud_exceeded_the_size_message">Файлът е твърде голям.</string>
   <string name="add_to_cloud_fail_too_many_items">Операцията не може да се довърши, избрани са твърде много файлове</string>
   <string name="add_to_cloud_failed_message_with_count">%2$s файлове не могaт да бъдат добавени към облачния албум: %1$s</string>
   <string name="add_to_cloud_file_exist_message">Снимката вече съществува в този албум.</string>
   <string name="add_to_cloud_folder">Добави към папка в облака</string>
+  <string name="add_to_cloud_image_limit_exceeded_message">Квотата за снимки е надвишена.</string>
+  <string name="add_to_cloud_local_space_full_message">Хранилището е пълно или още не е готово.</string>
   <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">Облачният албум е пълен.</string>
   <string name="add_to_cloud_successfully_message">Добавено към облака.</string>
@@ -108,9 +108,11 @@
   <string name="cloudfolder_name_cannot_empty">Моля въведете име на папката.</string>
   <string name="cloudfolder_name_reserved">Това име на папка вече не може да се използва.</string>
   <string name="comfirm_delete_current_album">Ще изтриете ли този албум?</string>
+  <string name="comma">, </string>
   <string name="confirm">ОК</string>
   <string name="confirm_delete">Сигурни ли сте, че искате да изтриете избраните файлове %s ?</string>
   <string name="confirm_delete_album" formatted="false">Ще изтрете ли албум(и) %s (вкл. %s файла)?</string>
+  <string name="confirm_delete_home_merge_item">Да се изтрият ли локално и в облака %s снимки?</string>
   <string name="confirm_delete_pictures">%s снимки</string>
   <string name="confirm_delete_system_album">%s е системен албум, сигурен ли сте, че искате да го изтриете?</string>
   <string name="confirm_delete_this_picture">Сигурни ли сте, че искате да изтриете избраната снимка?</string>
@@ -151,6 +153,7 @@
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_sharer">Споделно от</string>
   <string name="details_title">%1$d от %2$d:</string>
+  <string name="device_model">Устройство</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="documentary">Документални</string>
   <string name="done">Готово</string>
@@ -170,10 +173,10 @@
   <string name="error_cloud_not_active">Облачният албум не се използва</string>
   <string name="error_invalid_link">Тази връзка е невалидна. Поискайте от собственика да създаде нова връзка.</string>
   <string name="error_repeat_apply">Този албум е вече споделен</string>
+  <string name="error_share_with_creator">Вече сте член на този албум</string>
   <string name="error_should_not_select_image">Внимание: не избирайте снимка.</string>
   <string name="error_should_not_select_video">Внимание: не избирайте видео.</string>
   <string name="error_socket_timeout">Грешка в мрежата. Моля опитайте по-късно</string>
-  <string name="error_share_with_creator">Вече сте член на този албум</string>
   <string name="error_unknown_host">Мрежата не е намерена.</string>
   <string name="exit">Изход</string>
   <string name="exit_share">Затвори албума</string>
@@ -188,6 +191,7 @@
   <string name="facetan">Потъмняване на лицето</string>
   <string name="fail_hint">Операцията е невалидна.</string>
   <string name="fail_init_gallery_db_helper">Грешка при отваряне на базата данни на галерията. Дискът е пълен.</string>
+  <string name="fail_to_download_n_items">Неуспешно изтегляне на %s</string>
   <string name="fail_to_pick_email">Не е избран валиден Имейл</string>
   <string name="fail_to_sync_album">Възникна грешка при синхронизирането със сървъра. Проверете мрежовите си настройки.</string>
   <string name="file_not_exist_message">Файлът не съществува.</string>
@@ -222,6 +226,9 @@
   <string name="height">Височина</string>
   <string name="highlight">Яркост</string>
   <string name="home_my_captured_items">" снимки"</string>
+  <string name="home_page_tab_cloud">Облак</string>
+  <string name="home_page_tab_local">Локално</string>
+  <string name="home_page_tab_photo">Снимки</string>
   <string name="how_many_pics">Снимки: %d</string>
   <string name="how_many_sub_folders">Папки: %d</string>
   <string name="how_many_videos">Видео: %d</string>
@@ -283,6 +290,7 @@
   <string name="mimetype">MIME шрифт</string>
   <string name="mishop_saved_folder_display_name">MiShop</string>
   <string name="miui_capture_screen_folder_display_name">Екранни снимки</string>
+  <string name="modified_time">Редактирано на</string>
   <string name="more">Още</string>
   <string name="move">Премести</string>
   <string name="move_to_cloud_album">Премести на облака</string>
@@ -329,10 +337,12 @@
   <string name="path">Път до файла</string>
   <string name="people">Хора</string>
   <string name="photo_page_always_rotate">Авто завъртане</string>
+  <string name="photo_page_detail_show_in_the_map">Покажи местоположението на картата</string>
   <string name="photo_page_save_image">Запиши</string>
   <string name="photo_page_save_uri_image_fail">Неуспешно записване на снимката.</string>
   <string name="photo_page_save_uri_image_ok">Снимката е записана в папката на камерата.</string>
   <string name="photo_saved">Снимката е записана в %s</string>
+  <string name="photo_size">Размер</string>
   <string name="photoeditor_name">Фото студио</string>
   <string name="photos">Снимки</string>
   <string name="pick_too_many_recipients">Твърде много получатели</string>
@@ -351,12 +361,14 @@
   <string name="publishing">Публикуване...</string>
   <string name="qqbrowser_img">QQ Браузър</string>
   <string name="qsbk_save">QSBK</string>
+  <string name="quotation">\"%s\"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="redeye">Червени очи</string>
   <string name="redeye_tooltip">Натиснете за премахване на ефекта червени очи</string>
   <string name="remove_hidden_album">Премахване на скрити</string>
   <string name="remove_recent_album">Премахни от последните албуми</string>
   <string name="rename_failed">Преименуването е неуспешно</string>
+  <string name="rename_failed_duplicated_name">Вече съществува файл със същото име.</string>
   <string name="renren_image">RenRen</string>
   <string name="request_qr_code_failed">Създаването на QR кода е неуспешно, опитайте отново</string>
   <string name="request_sms_url_failed">Създаването на връзка за споделяне чрез SMS е неуспешно</string>
@@ -437,6 +449,7 @@
   <string name="slideshow_repeat_mode">Повтаряй</string>
   <string name="slideshow_time_select_title">Избери време на слайдшоуто</string>
   <string name="slideshow_time_title">Време на слайдшоуто</string>
+  <string name="start_slide_show">Начало на слайдшоу</string>
   <string name="storage_all_volumes">Всички устройства с памет</string>
   <string name="storage_no_space">"Няма място в хранилището."</string>
   <string name="straighten">Подравняване</string>
@@ -455,6 +468,7 @@
   <string name="tab_lockscreen_text">На закл. екран</string>
   <string name="tab_wallpaper_text">На нач. екран</string>
   <string name="tags">Етикети</string>
+  <string name="taken_time">Заснето на</string>
   <string name="temperature">Топлина</string>
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
@@ -491,18 +505,4 @@
   <string name="widget_type_shuffle">Разбъркай всички снимки</string>
   <string name="width">Ширина</string>
   <string name="yes">Да</string>
-  <string name="confirm_delete_home_merge_item">Да се изтрият ли локално и в облака %s снимки?</string>
-  <string name="device_model">Устройство</string>
-  <string name="taken_time">Заснето на</string>
-  <string name="modified_time">Редактирано на</string>
-  <string name="photo_size">Размер</string>
-  <string name="rename_failed_duplicated_name">Вече съществува файл със същото име.</string>
-  <string name="comma">, </string>
-  <string name="quotation">\"%s\"</string>
-  <string name="fail_to_download_n_items">Неуспешно изтегляне на %s</string>
-  <string name="home_page_tab_photo">Снимки</string>
-  <string name="home_page_tab_cloud">Облак</string>
-  <string name="home_page_tab_local">Локално</string>
-  <string name="photo_page_detail_show_in_the_map">Покажи местоположението на картата</string>
-  <string name="start_slide_show">Начало на слайдшоу</string>
 </resources>
