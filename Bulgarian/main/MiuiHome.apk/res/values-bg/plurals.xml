@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="editing_mode_title">
+        <item quantity="other">%1$d избрани</item>
+        <item quantity="one">%1$d избрано</item>
+    </plurals>
      <plurals name="uninstall_dialog_title_format">
         <item quantity="other">Ще деинсталирате ли %1$s и %2$d други приложения?</item>
         <item quantity="one">Ще деинсталирате ли \"%s\"?</item>

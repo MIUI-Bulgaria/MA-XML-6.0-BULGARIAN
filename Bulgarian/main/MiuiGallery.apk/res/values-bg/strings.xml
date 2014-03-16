@@ -14,7 +14,6 @@
   <string name="add_to_cloud_fail_too_many_items">Операцията не може да се довърши, избрани са твърде много файлове</string>
   <string name="add_to_cloud_failed_message_with_count">%2$s файлове не могaт да бъдат добавени към облачния албум: %1$s</string>
   <string name="add_to_cloud_file_exist_message">Снимката вече съществува в този албум.</string>
-  <string name="add_to_cloud_file_not_exist_message">Файлът не съществува.</string>
   <string name="add_to_cloud_folder">Добави към папка в облака</string>
   <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">Облачният албум е пълен.</string>
@@ -39,14 +38,12 @@
   <string name="albums">Албуми</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Внимание</string>
-  <string name="alert_message_initial_cloud">Снимките и екранните снимки ще бъдат изпратени в облачния албум само когато е налична връзка с Wi-Fi.</string>
   <string name="alert_message_open_sync">Необходима е синхронизация, искате ли да синхронизирате сега?</string>
   <string name="already_apply_album">Ще отворите ли %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Тапети</string>
   <string name="aperture">Апертура</string>
   <string name="app_name">Галерия</string>
-  <string name="apply_successfully">Успешно добавено към албума</string>
   <string name="appwidget_empty_text">Няма снимки.</string>
   <string name="appwidget_title">Фотогалерия</string>
   <string name="auto">Авто</string>
@@ -61,7 +58,6 @@
   <string name="big_screen_alertdialog_title">Проектор</string>
   <string name="bigscreen_slide_exit">Изход от слайдшоуто</string>
   <string name="bigscreen_slide_fail_cause_loading">Опитайте отново след зареждане на изображението.</string>
-  <string name="bigscrren_slide_exit">Изход от слайдшоу на ТВ</string>
   <string name="browse_category">Преглед на снимки</string>
   <string name="by_email">Имейл</string>
   <string name="by_others">Друго</string>
@@ -72,7 +68,6 @@
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Тапети</string>
   <string name="camera_view_none_message">Снимките ще бъдат показани тук.</string>
-  <string name="can_modified">Позволи на потребителите да добавят снимки</string>
   <string name="cancel">Отказ</string>
   <string name="cancel_hint">Операцията е отменена</string>
   <string name="cannot_delete_sharer_photo">Не може да бъдат изтрити %s елемента, добавени от други потребители.</string>
@@ -80,12 +75,10 @@
   <string name="cannot_send_message">"Не може да бъде изпратено съобщение"</string>
   <string name="cannot_send_message_reason">Вашето съобщение няма получател.</string>
   <string name="cant_delete_cloud_album">Грешка при изтриване: %s е системен албум или е споделен от други потребители.</string>
-  <string name="cant_delete_system_album">\"%s\" е системен албум, който не може да бъде изтрит!</string>
   <string name="cleaning_cache">Изчистване на кеша...</string>
   <string name="clear_thumbnail_cache">Изчисти кеша с миниатюрите</string>
   <string name="clear_thumbnail_cache_confirm">Кеша с миниатюрите е изчистен. Галерията ще сканира отново файловете, за да създаде миниатюри. Това ще се отрази на скоростта на работа на приложението.</string>
   <string name="clear_thumbnail_cache_summary">Прегледа на галерията ще създаде миниатюри. Изчистването на кеша ще освободи памет.</string>
-  <string name="click_to_enter_camera">Отвори камерата</string>
   <string name="click_top_right">Натиснете иконата горе вдясно</string>
   <string name="close">Затвори</string>
   <string name="cloud_album_more_settings">Синхронизация на MiCloud</string>
@@ -118,11 +111,6 @@
   <string name="confirm">ОК</string>
   <string name="confirm_delete">Сигурни ли сте, че искате да изтриете избраните файлове %s ?</string>
   <string name="confirm_delete_album" formatted="false">Ще изтрете ли албум(и) %s (вкл. %s файла)?</string>
-  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s снимки в %s албуми, сигурни ли сте, че искате да ги изтриете?</string>
-  <string name="confirm_delete_folders_and_pictures">Сигурни ли сте, че искате да изтриете %s?</string>
-  <string name="confirm_delete_folders_including" formatted="false">%s папки (включително %s)</string>
-  <string name="confirm_delete_including_null">0 файлове</string>
-  <string name="confirm_delete_items">%s файлове</string>
   <string name="confirm_delete_pictures">%s снимки</string>
   <string name="confirm_delete_system_album">%s е системен албум, сигурен ли сте, че искате да го изтриете?</string>
   <string name="confirm_delete_this_picture">Сигурни ли сте, че искате да изтриете избраната снимка?</string>
@@ -135,8 +123,6 @@
   <string name="context_menu_add_contact">Добави към контакти</string>
   <string name="context_menu_copy">Копирай</string>
   <string name="context_menu_copy_notice">Копирано в буферната памет</string>
-  <string name="context_menu_new_contact">Нов контакт</string>
-  <string name="context_menu_view_contact">Преглед на контакт</string>
   <string name="contrast">Контраст</string>
   <string name="create_new_cloud_folder">Създай нов облачен албум</string>
   <string name="crop">Подрежи</string>
@@ -152,7 +138,6 @@
   <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">Мобилен</string>
   <string name="delete">Изтрий</string>
-  <string name="delete_fail_too_many_items">Грешка при изтриване. Избрани са твърде много изображения.</string>
   <string name="delete_file">Сигурни ли сте, че искате да изтриете избраните файлове: %1$d?</string>
   <string name="delete_files_and_folders">Сигурни ли сте, че искате да изтриете избраните файлове: %1$d и папки: %2$d?</string>
   <string name="delete_folder">Сигурни ли сте, че искате да изтриете избраните папки: %1$d?</string>
@@ -179,7 +164,6 @@
   <string name="edit">Редактирай</string>
   <string name="edited_photo_bucket_name">Редактирано</string>
   <string name="email_picker_title">Добави споделен Имейл</string>
-  <string name="empty_album">Няма снимки и видео.</string>
   <string name="enable_cloud_for_sharing">Необходимо е да активирате облачните албуми за преглед на споделените снимки.</string>
   <string name="enter_email_hint">"Въведете Имейл адрес "</string>
   <string name="error_album_not_exist">"Албумът не съществува."</string>
@@ -204,7 +188,6 @@
   <string name="facetan">Потъмняване на лицето</string>
   <string name="fail_hint">Операцията е невалидна.</string>
   <string name="fail_init_gallery_db_helper">Грешка при отваряне на базата данни на галерията. Дискът е пълен.</string>
-  <string name="fail_to_apply">Присъединяването към албума се провали.</string>
   <string name="fail_to_pick_email">Не е избран валиден Имейл</string>
   <string name="fail_to_sync_album">Възникна грешка при синхронизирането със сървъра. Проверете мрежовите си настройки.</string>
   <string name="file_not_exist_message">Файлът не съществува.</string>
@@ -217,7 +200,6 @@
   <string name="flip">Отразяване</string>
   <string name="flip_tooltip">За да отразите снимката, плъзнете от нейния край</string>
   <string name="focal_length">Фокусна дължина</string>
-  <string name="folder_holder_file">Трябва да премахнете този файл по-късно</string>
   <string name="frame_black">Черна</string>
   <string name="frame_button">Рамка</string>
   <string name="frame_classic">Класическа</string>
@@ -266,7 +248,6 @@
   <string name="kick_sharer">Премахни получателят</string>
   <string name="kick_sharer_failed">Премахването на получателя е неуспешно</string>
   <string name="kick_sharer_successfully">Премахването на получателя е успешно</string>
-  <string name="landscape_mode">Включи Пейзажен режим</string>
   <string name="loading">Зареждане...</string>
   <string name="loading_failure">Снимката не може да бъде заредена</string>
   <string name="loading_image">Зареждане на изображение…</string>
@@ -281,7 +262,6 @@
   <string name="make_download_dir_fail">Създаването на папка с файлове е неуспешно!</string>
   <string name="maker">Създател</string>
   <string name="manual">Ръчно</string>
-  <string name="marked_by_others">%d души маркираха това</string>
   <string name="me">Аз</string>
   <string name="menu_item_sort">Сортиране</string>
   <string name="menu_item_sort_date_asc">По дата (възходящо)</string>
@@ -303,9 +283,6 @@
   <string name="mimetype">MIME шрифт</string>
   <string name="mishop_saved_folder_display_name">MiShop</string>
   <string name="miui_capture_screen_folder_display_name">Екранни снимки</string>
-  <string name="model">Модел</string>
-  <string name="modify_allow_hint">Добавянето на нови снимки към албума е разрешено</string>
-  <string name="modify_disallow_hint">Добавянето на нови снимки към албума е забранено</string>
   <string name="more">Още</string>
   <string name="move">Премести</string>
   <string name="move_to_cloud_album">Премести на облака</string>
@@ -381,7 +358,6 @@
   <string name="remove_recent_album">Премахни от последните албуми</string>
   <string name="rename_failed">Преименуването е неуспешно</string>
   <string name="renren_image">RenRen</string>
-  <string name="request_qr_code">Създаване на QR код...</string>
   <string name="request_qr_code_failed">Създаването на QR кода е неуспешно, опитайте отново</string>
   <string name="request_sms_url_failed">Създаването на връзка за споделяне чрез SMS е неуспешно</string>
   <string name="request_sms_url_msg">Създаване на URL за споделяне чрез SMS...</string>
@@ -396,17 +372,13 @@
   <string name="save_photo">Ще запишете ли редактираната снимка?</string>
   <string name="saving_failure">Снимката не може да се запише</string>
   <string name="saving_image">Запазване на снимката...</string>
-  <string name="scan_barcode">Сканиране</string>
   <string name="scan_barcode_guide">За да видите QR кода на албума, натиснете иконата за споделяне в горният десен ъгъл.</string>
   <string name="scan_barcode_to_join">Сканирайте QR кода за да се присъедините към албума.</string>
-  <string name="scan_qr_code">Позволи на другите да сканират QR кода за да видят този албум</string>
   <string name="scan_qr_code_buttom_text">QR код за показване на този албум.</string>
   <string name="scan_qr_code_failure">Сканирането е неуспешно.</string>
-  <string name="scan_qr_code_top_text">Членовете могат да преглеждат и добавят снимки.</string>
   <string name="screensaver_activate_mode">Скрийнсейвър слайдшоу</string>
   <string name="screensaver_activate_only_charging">Активирай само при зареждане на телефона</string>
   <string name="screensaver_category">Скрийнсейвър</string>
-  <string name="screensaver_no_data">Няма снимки в албума.</string>
   <string name="screensaver_path">Скрийнсейвър албум:</string>
   <string name="screensaver_path_not_set">Не е зададен</string>
   <string name="sd_not_available">SD картата не е поставена или е недостъпна</string>
@@ -420,7 +392,6 @@
   <string name="send">Изпрати</string>
   <string name="send_multiple_files_hint_format">Изпрати няколко файла (%s)</string>
   <string name="send_public_url">Изпрати връзка към албума</string>
-  <string name="send_to_cloud_failed_message">Не може да се добави в облачния албум</string>
   <string name="sepia">Сепия</string>
   <string name="set_hidden_album">Скрий албума</string>
   <string name="set_image">Задай снимката като</string>
@@ -440,19 +411,12 @@
   <string name="shadow">Сенки</string>
   <string name="share_album">Сподели албум</string>
   <string name="share_album_owner">Собственик</string>
-  <string name="share_album_qr_code">QR код</string>
-  <string name="share_album_share_to">Сподели с</string>
   <string name="share_album_space_full">Този споделен албум е пълен. Моля изтрийте някои от ненужните снимки.</string>
   <string name="share_by_email_start">Изпробвайте да споделите %1$s във фонов режим</string>
   <string name="share_by_email_successfully">Вие споделихте %1$s чрез Имейл</string>
   <string name="share_current_album">Сподели този албум</string>
   <string name="share_public_url_text">Споделям албумът %1$s. Разгледайте го тук: %2$s</string>
-  <string name="share_user_name">Име</string>
   <string name="sharer_quota_fulfiled">"Не може да се добави член на албума, лимитът е изчерпан."</string>
-  <string name="sharer_status_accepted">Приет</string>
-  <string name="sharer_status_refused">Отхвърлен</string>
-  <string name="sharer_status_waiting">Изчакване…</string>
-  <string name="sharer_status_waitting">Изчакване…</string>
   <string name="sharpen">Острота</string>
   <string name="show_all">Снимки и видео</string>
   <string name="show_hidden_album">Покажи скритият албум</string>
@@ -505,8 +469,6 @@
   <string name="to_count">%d общо</string>
   <string name="too_many_recipients">Съобщението има прекалено много получатели (%1$s), позволени са %2$s.</string>
   <string name="try_to_send">Опитай изпращане</string>
-  <string name="turn_left">Завърти наляво</string>
-  <string name="turn_right">Завърти надясно</string>
   <string name="ucdownloads_screenshot">UC Браузър</string>
   <string name="unit_mm">мм</string>
   <string name="unpublish_failed">Неуспешно премахване от споделени албуми!</string>
@@ -514,8 +476,6 @@
   <string name="unpublishing">Отмяна на публикуването, моля изчакайте...</string>
   <string name="untagged">Без етикет</string>
   <string name="user_alias_self">Аз</string>
-  <string name="video_download_in_process">Изтегляне на видео...</string>
-  <string name="video_download_start">Начало на изтегляне...</string>
   <string name="video_err">"Видеото не може да се възпроизведе."</string>
   <string name="video_not_exist">Видеото не съществува!</string>
   <string name="view_sharers">Споделено с</string>
@@ -531,4 +491,18 @@
   <string name="widget_type_shuffle">Разбъркай всички снимки</string>
   <string name="width">Ширина</string>
   <string name="yes">Да</string>
+  <string name="confirm_delete_home_merge_item">Да се изтрият ли локално и в облака %s снимки?</string>
+  <string name="device_model">Устройство</string>
+  <string name="taken_time">Заснето на</string>
+  <string name="modified_time">Редактирано на</string>
+  <string name="photo_size">Размер</string>
+  <string name="rename_failed_duplicated_name">Вече съществува файл със същото име.</string>
+  <string name="comma">, </string>
+  <string name="quotation">\"%s\"</string>
+  <string name="fail_to_download_n_items">Неуспешно изтегляне на %s</string>
+  <string name="home_page_tab_photo">Снимки</string>
+  <string name="home_page_tab_cloud">Облак</string>
+  <string name="home_page_tab_local">Локално</string>
+  <string name="photo_page_detail_show_in_the_map">Покажи местоположението на картата</string>
+  <string name="start_slide_show">Начало на слайдшоу</string>
 </resources>

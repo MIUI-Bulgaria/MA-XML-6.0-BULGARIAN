@@ -10,13 +10,14 @@
         <item quantity="zero">%1$d</item>
         <item quantity="one">%1$d</item>
     </plurals>
-    <plurals name="number_of_cloudimages">
+    <plurals name="number_of_images">
         <item quantity="other">Изображения: %1$d</item>
         <item quantity="zero">Изображения: %1$d</item>
         <item quantity="one">Изображения: %1$d</item>
     </plurals>
-    <plurals name="make_albums_available_offline">
-        <item quantity="other">Направи албумите достъпни офлайн.</item>
-        <item quantity="one">Направи албума достъпен офлайн.</item>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d елементи</item>
+        <item quantity="zero">%1$d елементи</item>
+        <item quantity="one">%1$d елемент</item>
     </plurals>
 </resources>

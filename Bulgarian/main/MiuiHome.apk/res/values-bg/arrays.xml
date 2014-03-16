@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-        <item>Стандартно</item>
-        <item>Стандартно (без ефекти)</item>
+        <item>Приплъзване</item>
+        <item>Плъзване</item>
         <item>Избледняване</item>
         <item>2D ротация</item>
         <item>Страница</item>
@@ -20,10 +20,37 @@
         <item>По подразбиране</item>
         <item>Класическа</item>
     </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Ясно</item>
+        <item>Облачно</item>
+        <item>Неясно</item>
+        <item>Мъгливо</item>
+        <item>Силна дъждовна буря</item>
+        <item>Дъждовна буря</item>
+        <item>Много обилни валежи</item>
+        <item>Гръмотевична буря</item>
+        <item>Преваляване</item>
+        <item>Проливен дъжд</item>
+        <item>Дъжд</item>
+        <item>Ръмеж</item>
+        <item>Суграшица</item>
+        <item>Снежна буря</item>
+        <item>Превалявания от сняг</item>
+        <item>Силен снеговалеж</item>
+        <item>Снеговалеж</item>
+        <item>Слаб снеговалеж</item>
+        <item>Силна снежна буря</item>
+        <item>Пясъчна буря</item>
+        <item>Лека пясъчна буря</item>
+        <item>Пясъчна буря</item>
+        <item>Градушка</item>
+        <item>Плаващ прах</item>
+        <item>Мараня</item>
+    </string-array>
     <string-array name="editing_mode_entries">
-        <item>Сортиране на нач. екрани</item>
-        <item>Добавяне на джаджи</item>
-        <item>Промяна на тапет</item>
-        <item>Преход м/у екраните</item>
+        <item>Сортиране</item>
+        <item>Джаджи</item>
+        <item>Тапет</item>
+        <item>Ефекти</item>
     </string-array>
 </resources>
