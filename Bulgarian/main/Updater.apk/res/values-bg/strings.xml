@@ -26,13 +26,6 @@
   <string name="check_update_when_wifi_available">Само чрез Wi-Fi</string>
   <string name="checking_for_updates">Проверка за нова актуализация...</string>
   <string name="choose_recommend">Моля, изберете препоръчвате ли или не</string>
-  <string name="comment_invalid">Изберете брой на звездите за оценка</string>
-  <string name="comment_publish">Изпрати</string>
-  <string name="comment_sending">Изпращане на коментар...</string>
-  <string name="comment_upload_failed">Неуспешно изпращане на коментара</string>
-  <string name="comment_upload_hint">Благодарим Ви за коментара</string>
-  <string name="comment_upload_not_logined">Трябва да влезете преди да изпратите своя коментар</string>
-  <string name="comment_upload_success">Коментара е изпратен успешно!</string>
   <string name="confirm_download_cancelation_dialog_message">Сигурни ли сте, че искате да прекратите изтеглянето?</string>
   <string name="copy_install_log">Копиране</string>
   <string name="current_version_text">"Текуща версия"</string>
@@ -45,9 +38,6 @@
   <string name="download_ota_rom">Изтеглете (%s)</string>
   <string name="download_whole_rom">Изтеглете пълния ROM (%s)</string>
   <string name="downloading_description">Изтегляне...</string>
-  <string name="edit_comment">Коментирайте</string>
-  <string name="edit_comment_title">Редактирайте</string>
-  <string name="edit_text_default">Напишете коментар</string>
   <string name="emegency_build">Версия:</string>
   <string name="exception_while_downloading">Грешка при изтеглянето на актуализацията</string>
   <string name="expect">4.Очаквания</string>
@@ -63,7 +53,6 @@
   <string name="install_file_explorer">Моля, инсталирайте файлов мениджър</string>
   <string name="install_qq">Инсталирайте QQ приложение</string>
   <string name="install_rom_from_sd">Изберете инсталационен пакет</string>
-  <string name="install_sina">Инсталирайте Sina приложението</string>
   <string name="install_whole_rom">Препоръчва се изтеглянето на пълния ROM</string>
   <string name="internal_build">Вътрешна версия</string>
   <string name="kernel_upgrade_link"/>
@@ -75,10 +64,6 @@
   <string name="mione_update_fail_title">Актуализацията е неуспешна</string>
   <string name="mione_update_success_title">Актуализацията е успешна</string>
   <string name="monthly_build">Месечна версия</string>
-  <string name="move_data_to_sdcard_not_enough_space_message">Няма достатъчно място (%dMB) на SD картата, за да изместите посочения файл</string>
-  <string name="move_data_to_sdcard_title">Преместване на данните в SD картата</string>
-  <string name="moving_data_to_sdcard_message">"Протича прехвърляне на данни към SD картата. Моля, не включвайте режим USB и не премахвайте SD картата."</string>
-  <string name="moving_data_to_sdcard_progress_format">Прехвърлени %1$ddKb от %2$dKb</string>
   <string name="my_best_update">Най-добра актуализация</string>
   <string name="my_expect_update">Според очакванията ми</string>
   <string name="my_rank">Оценка:</string>
@@ -125,11 +110,6 @@
   <string name="sign_in_info">"Вашият ранг на актуализацията е %1$s %2$s потребители са оценили MIUI %3$s</string>
   <string name="sign_in_info_rank_more">Вашият ранг на актуализацията е %1$s. Още %2$s потребители са инсталирали MIUI %3$s</string>
   <string name="sign_in_info_total_more">"Вашият ранг на актуализацията е %1$s. Още %2$s потребители са инсталирали MIUI %3$s"</string>
-  <string name="sina_share_fail">Грешка при изпращането!</string>
-  <string name="sina_share_pendding">Изпращане...</string>
-  <string name="sina_share_success">Изпращането завърши!</string>
-  <string name="sina_token_expired_warning">Срокът на Weibo профила е изтекъл, моля свържете се отново</string>
-  <string name="sina_token_invalid_warning">Грешка в Weibo профила, моля свържете се отново</string>
   <string name="stable_build">Стабилна версия</string>
   <string name="start_update">Актуализирай</string>
   <string name="submit">Изпрати</string>
@@ -145,7 +125,6 @@
   <string name="system_backup_helper"></string>
   <string name="system_backup_ok_text">Резервно копие</string>
   <string name="top_secret_build">Тайна версия</string>
-  <string name="unstable_build">Нестабилна версия</string>
   <string name="update_comment_hint">(по желание)</string>
   <string name="update_comment_title">Искам да коментирам</string>
   <string name="update_feedback">Отзиви за актуализацията</string>
@@ -158,7 +137,6 @@
   <string name="update_success">Актуализацията е инсталирана успешно!</string>
   <string name="update_success_body">Актуализирано до версия %s</string>
   <string name="update_success_title">MIUI е актуализиран</string>
-  <string name="updater_finish_download">Изтеглянето на ROM-а завърши</string>
   <string name="upgrade_close">Затвори</string>
   <string name="upgrade_kernel">Ядрото трябва да се актуализира</string>
   <string name="upgrade_kernel_msg">"Текущото ядро не е подходящо за MIUI ROM. Трябва да обновите ядрото ръчно. Следвайте ръководството:"</string>
@@ -170,5 +148,4 @@
   <string name="wifi_not_available_body">Препоръчително е да използвате Wi-Fi връзка за да изтеглите актуализациите, поради големия им размер. В момента не сте свързани към Wi-Fi, искате ли да продължите?</string>
   <string name="wifi_not_available_title">Wi-Fi не е свързан</string>
   <string name="worst_update">3.Най-лоша актуализация</string>
-  <string name="new_update_content_notification_shade" />
 </resources>
