@@ -614,4 +614,13 @@ phone will open automatically when connected to a computer."</item>
        <item>Музика</item>
        <item>Имейл</item>
    </string-array>
+   <string-array name="led_color_entries">
+       <item>Син</item>
+       <item>Червен</item>
+       <item>Жълт</item>
+       <item>Зелен</item>
+       <item>Св. син</item>
+       <item>Бял</item>
+       <item>Лилав</item>
+   </string-array>
 </resources>
