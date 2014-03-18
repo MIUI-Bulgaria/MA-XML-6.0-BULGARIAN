@@ -64,12 +64,14 @@
     <timezone id="Asia/Rangoon">Рангун</timezone>
     <timezone id="Asia/Krasnoyarsk">Красноярск</timezone>
     <timezone id="Asia/Bangkok">Бангкок</timezone>
+    <timezone id="Asia/Jakarta">Джакарта</timezone>
     <timezone id="Asia/Shanghai">Китайска часова зона (Шанхай)</timezone>
     <timezone id="Asia/Hong_Kong">Хонг Конг</timezone>
     <timezone id="Asia/Irkutsk">Иркутск</timezone>
     <timezone id="Asia/Kuala_Lumpur">Куала Лумпур</timezone>
     <timezone id="Australia/Perth">Пърт</timezone>
     <timezone id="Asia/Taipei">Китайска часова зона (Тайпей)</timezone>
+    <timezone id="Asia/Singapore">Сингапур</timezone>
     <timezone id="Asia/Seoul">Сеул</timezone>
     <timezone id="Asia/Tokyo">Японска часова зона (Токио)</timezone>
     <timezone id="Asia/Yakutsk">Якутск</timezone>
