@@ -124,6 +124,7 @@
   <string name="system_backup_error_message">Не може да се открие системното MIUI приложение за резервно копие.</string>
   <string name="system_backup_helper"></string>
   <string name="system_backup_ok_text">Резервно копие</string>
+  <string name="toast_update_failed_hints">Неуспешно актуализиране, изтеглете пълният ROM!</string>
   <string name="top_secret_build">Тайна версия</string>
   <string name="update_comment_hint">(по желание)</string>
   <string name="update_comment_title">Искам да коментирам</string>

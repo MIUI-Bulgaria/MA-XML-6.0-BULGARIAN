@@ -1503,8 +1503,11 @@ for MAC"</li>"
   <string name="privacy_relative">Безопасност</string>
   <string name="privacy_settings">Резервни копия и нулиране</string>
   <string name="privacy_settings_title">Резервни копия и нулиране</string>
+  <string name="private_gallery_need_to_unlock">Изисква се парола:</string>
+  <string name="private_gallery_reset_by_account">Влезте в Xiaomi профила си за възстановяване на паролата</string>
+  <string name="private_gallery_recording_intro_header">Начертайте фигура за отключване:</string>
   <string name="private_sms_need_to_unlock">Въведете паролата за лични SMS-и</string>
-  <string name="private_sms_recording_intro_header">Начертайте фигура за създаване на ключ</string>
+  <string name="private_sms_recording_intro_header">Начертайте фигура за отключване</string>
   <string name="private_sms_reset_by_account">Влезте в Xiaomi профила си за възстановяване на паролата</string>
   <string name="process_kernel_label">Android операционна система</string>
   <string name="process_mediaserver_label">Медиен сървър</string>
