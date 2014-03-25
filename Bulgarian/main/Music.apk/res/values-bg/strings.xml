@@ -93,4 +93,6 @@
     <string name="trigger_to_scan_media_library_start">Обновява се…</string>
     <string name="unknown_album_name">Неизвестен албум</string>
     <string name="unknown_artist_name">Неизвестен изпълнител</string>
+    <string name="blank_reminder">Не може да е празно</string>
+    <string name="same_name_reminder">Имената не може да се дублират</string>
 </resources>

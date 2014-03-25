@@ -294,6 +294,7 @@
   <string name="miui_edit_mode_title_empty">Няма избрани</string>
   <string name="miui_function_menu_add_to_bookmark">Отметка</string>
   <string name="miui_function_menu_add_to_quicklinks">Бърза връзка</string>
+  <string name="miui_function_menu_delete_to_quicklinks">Изтрий бърза връзка</string>
   <string name="miui_function_menu_delete_to_bookmark">Изтрий отметка</string>
   <string name="miui_function_menu_find_in_page">Търси на страницата</string>
   <string name="miui_function_menu_share_system">Сподели</string>
@@ -456,6 +457,7 @@
   <string name="quicklink_have_modified">Този сайт е променен</string>
   <string name="quicklink_management_title">Добавяне към началната страница</string>
   <string name="quicklink_saved_before">Сайтът е добавен</string>
+  <string name="quicklink_have_deleted">Сайтът е изтрит</string>
   <string name="quicklink_user_define_webpage_title">Име</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
   <string name="quicklinks_management">Полезни връзки</string>
