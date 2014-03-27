@@ -36,8 +36,8 @@
     <string name="clear_cache">Изчисти кеша</string>
     <string name="clear_cache_summary">Изтрива кешираните изображения</string>
     <string name="comment">Коментари</string>
-    <string name="comment_count_less_tip">Трябва да въведете поне d% символа</string>
-    <string name="comment_count_much_tip">Коментарът ви не може да надхвърля d% символа</string>
+    <string name="comment_count_less_tip">Трябва да въведете поне %d символа</string>
+    <string name="comment_count_much_tip">Коментарът ви не може да надхвърля %d символа</string>
     <string name="comment_edit_blog_hint">Споделете по sina</string>
     <string name="comment_edit_et_hint">Въведете коментар</string>
     <string name="comment_edit_start_hint">Докоснете звездите, за да оцените:</string>

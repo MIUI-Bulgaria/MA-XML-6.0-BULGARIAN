@@ -15,7 +15,7 @@
         <item quantity="two">"Не може да се деинсталират \"%s\" и още 1 приложение"</item>
      </plurals>
      <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%d прил. са деинсталирани</item>
+        <item quantity="other">%1$d прил. са деинсталирани</item>
         <item quantity="one">Приложението е деинсталирано</item>
      </plurals>
 </resources>
