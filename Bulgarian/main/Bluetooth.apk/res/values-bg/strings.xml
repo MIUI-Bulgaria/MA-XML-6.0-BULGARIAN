@@ -121,4 +121,7 @@
     <string name="upload_succ_line5">Файлът е изпратен</string>
     <string name="upload_succ_ok">OK</string>
     <string name="upload_success">%1$s – Изпращането завърши.</string>
+    <string name="miui_transfer_history_title">Bluetooth трафик</string>
+    <string name="miui_transfer_inbound_title">Входящи</string>
+    <string name="miui_transfer_outbound_title">Изходящи</string>
 </resources>

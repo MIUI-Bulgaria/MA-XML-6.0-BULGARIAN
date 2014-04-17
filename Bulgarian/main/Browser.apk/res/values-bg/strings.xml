@@ -598,4 +598,6 @@
   <string name="sub_sync_item_browser_title_bookmark_summary">Синхронизира отметките в Браузъра</string>
   <string name="sub_sync_item_browser_title_cloud_tab">Синхрон. на раздели</string>
   <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронизира отворените раздели в Браузъра</string>
+  <string name="loading_tips">Плъзнете надолу за опресняване</string>
+  <string name="up_to_loading_tips">Отпуснете за опресняване</string>
 </resources>

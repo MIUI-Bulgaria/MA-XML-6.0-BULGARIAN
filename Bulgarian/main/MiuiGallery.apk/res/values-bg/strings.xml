@@ -507,4 +507,6 @@
   <string name="width">Ширина</string>
   <string name="yellow_page">Папка</string>
   <string name="yes">Да</string>
+  <string name="bigscreen_video_quit">Докоснете за сприране на възпоизвеждането</string>
+  <string name="click_to_add_picture">Докоснете за добавяне на снимки</string>
 </resources>

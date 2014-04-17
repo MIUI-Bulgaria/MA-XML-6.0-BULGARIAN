@@ -40,4 +40,12 @@
         <item quantity="other">Намерени са %1$s принтера</item>
         <item quantity="one">Намерен е %1$s принтер</item>
     </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">You are now %1$d steps away from entering cit.</item>
+        <item quantity="one">You are now %1$d step away from entering cit.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">You are now %1$d steps away from bugreporting.</item>
+        <item quantity="one">You are now %1$d step away from bugreporting.</item>
+    </plurals>
 </resources>

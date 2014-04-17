@@ -2712,4 +2712,6 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="zone_list_menu_sort_alphabetically">Сортиране по азбучен ред</string>
   <string name="zone_list_menu_sort_by_timezone">Сортиране по часова зона</string>
   <string name="update_progress_for_updates">Актуализиране（%s）</string>
+  <string name="launching_cit">Launching cit, please wait.</string>
+  <string name="launching_rep">Bugreporting, please wait.</string>
   </resources>

@@ -267,4 +267,5 @@
   <string name="voucher_edit_limit">цифри</string>
   <string name="voucher_error_password">Грешен код за ваучер!</string>
   <string name="voucher_input_password_prompt">Въведете кода</string>
+  <string name="voucher_card_text">Изтрийте защитата на кода</string>
 </resources>

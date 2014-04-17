@@ -73,7 +73,7 @@
     <string name="ok">OK</string>
     <string name="online_music">Онлайн музика</string>
     <string name="playback_failed_no_title_by_bad_file">Песента не може да бъде възпроизведена, форматът не се поддържа или файла не същестува.</string>
-    <string name="recommend_fragment_title">Препоръчване</string>
+    <string name="recommend_fragment_title">Албум</string>
     <string name="retry">Нов опит</string>
     <string name="search_hint">Изпълнител.Песен.Албум</string>
     <string name="search_title">Търсене</string>
@@ -101,4 +101,7 @@
     <string name="playlist_renamed_message">Плейлистът е преименуван</string>
     <string name="action_item_delete">Изтриване</string>
     <string name="dialog_delete_descript">Да се изтрие ли %s?</string>
+    <string name="project_device">MiBox</string>
+    <string name="project_device_mobile">Мобилно устройство</string>
+    <string name="bill_list_fragment_title">Тема</string>
 </resources>
