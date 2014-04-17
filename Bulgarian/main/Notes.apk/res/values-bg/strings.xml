@@ -82,4 +82,6 @@
   <string name="toast_reach_text_limit_truncate">"Съдържанието на бележката ще се намали автоматично, защото е много дълго."</string>
   <string name="widget_havenot_content">Няма бележки, натиснете тук за създаване.</string>
   <string name="widget_under_visit_mode">Защитен режим，не може да видите съдържанието</string>
+  <string name="undo">Отмени</string>
+  <string name="redo">Възстанови</string>
 </resources>

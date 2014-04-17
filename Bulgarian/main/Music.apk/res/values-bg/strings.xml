@@ -95,4 +95,10 @@
     <string name="unknown_artist_name">Неизвестен изпълнител</string>
     <string name="blank_reminder">Не може да е празно</string>
     <string name="same_name_reminder">Имената не може да се дублират</string>
+    <string name="favorite_succeed">Вече е в любими</string>
+    <string name="favorite_canceled">Премахнато от любими</string>
+    <string name="playlist_deleted_message">Плейлистът е изтрит</string>
+    <string name="playlist_renamed_message">Плейлистът е преименуван</string>
+    <string name="action_item_delete">Изтриване</string>
+    <string name="dialog_delete_descript">Да се изтрие ли %s?</string>
 </resources>

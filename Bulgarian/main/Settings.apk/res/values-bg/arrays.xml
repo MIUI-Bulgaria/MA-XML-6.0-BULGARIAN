@@ -623,4 +623,9 @@ phone will open automatically when connected to a computer."</item>
        <item>Бял</item>
        <item>Лилав</item>
    </string-array>
+   <string-array name="network_speed_slow_summary">
+       <item>Връзката е бавна поради засилен трафик</item>
+       <item>Връзката е бавна поради слаб сигнал</item>
+       <item>Прехвърля се…</item>
+   </string-array>
 </resources>

@@ -121,4 +121,8 @@
     <string name="white_dews"/>
     <string name="winter_begins"/>
     <string name="winter_solstice"/>
+    <string name="call_record_sample_prefix_miui">Обаждане</string>
+    <string name="fm_record_smaple_prefix_miui">FM запис</string>
+    <string name="unknown_caller">Неизвестен</string>
+    <string name="call_record_or">или</string>
   </resources>

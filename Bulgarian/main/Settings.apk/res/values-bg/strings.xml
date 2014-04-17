@@ -934,6 +934,22 @@
   <string name="force_stop_dlg_title">Да се спре ли принудително?</string>
   <string name="forget_wifi_message">Вашето устройство ще спре да се свързва автоматично към тази мрежа.</string>
   <string name="found_new_version">Налична е нова версия</string>
+  <string name="free_wifi_confirm">Разбирам</string>
+  <string name="free_wifi_connect">Свързване</string>
+  <string name="free_wifi_connect_dialog_summary">Тази безплатна Wi-Fi мрежа %1$s е предоставена от %2$s.</string>
+  <string name="free_wifi_connect_dialog_title">Достъпна е безплатна Wi-Fi мрежа</string>
+  <string name="free_wifi_connect_fail">Неуспешно свързване с мрежата</string>
+  <string name="free_wifi_connect_fail2">Неуспешно влизане. Изчакайте малко и опитайте отново.</string>
+  <string name="free_wifi_connect_summary">Тази безплатна Wi-Fi мрежа е предоставена от %1$s. Докоснете за свързване. </string>
+  <string name="free_wifi_connect_title">Достъпна е Wi-Fi мрежа</string>
+  <string name="free_wifi_connected">Свързан към безплатна Wi-Fi мрежа</string>
+  <string name="free_wifi_connected_count">%1$s свързани потребители</string>
+  <string name="free_wifi_connected_time">Свързан от： %1$s</string>
+  <string name="free_wifi_connecting">Установява се връзка…</string>
+  <string name="free_wifi_login_again">Влез отново</string>
+  <string name="free_wifi_speed_title">Бавна ли е връзката?</string>
+  <string name="free_wifi_summary">Безплатна Wi-Fi， предоставена от %1$s</string>
+  <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="frequently_fragment_delete">Премахни</string>
   <string name="frequently_fragment_tempty">Често използваните елементи ще бъдат показани тук</string>
   <string name="gadget_bluetooth">Bluetooth</string>
@@ -1615,6 +1631,7 @@ for MAC"</li>"
   <string name="radio_info_toggle_dns_check_label">Превключване на проверка на DNS</string>
   <string name="really_remove_account_message">Премахването на този профил ще изтрие всички съобщения, контакти и други данни в него от устройството!</string>
   <string name="really_remove_account_title">Да се премахне ли профилът?</string>
+  <string name="rebootiing_for_updates">Рестартира се...</string>
   <string name="recognizer_settings_summary">Настройки за „%s“</string>
   <string name="recognizer_settings_title">Гласово търсене</string>
   <string name="recognizer_title">Разпознаване на глас</string>
@@ -2694,4 +2711,5 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="zone_auto_summaryOn">Използване на часовата зона, предоставена от мрежата</string>
   <string name="zone_list_menu_sort_alphabetically">Сортиране по азбучен ред</string>
   <string name="zone_list_menu_sort_by_timezone">Сортиране по часова зона</string>
+  <string name="update_progress_for_updates">Актуализиране（%s）</string>
   </resources>

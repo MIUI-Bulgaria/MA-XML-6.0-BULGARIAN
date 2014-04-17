@@ -505,5 +505,6 @@
   <string name="widget_type_photo">Избери снимка</string>
   <string name="widget_type_shuffle">Разбъркай всички снимки</string>
   <string name="width">Ширина</string>
+  <string name="yellow_page">Папка</string>
   <string name="yes">Да</string>
 </resources>

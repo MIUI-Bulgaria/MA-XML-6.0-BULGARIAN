@@ -586,4 +586,16 @@
   <string name="webview_today">Днес</string>
   <string name="webview_yesterday">Вчера</string>
   <string name="week_picker_dialog_title">Задай седмица</string>
+  <string name="download_failed">Неуспешно изтегляне</string>
+  <string name="download_complete">Изтеглянето завърши</string>
+  <string name="app_update_install">Новата версия е изтеглена и готова за инсталиране</string>
+  <string name="app_new_version">Вие вече сте инсталирали най-новата версия на програмата</string>
+  <string name="sync_item_browser_title">Синхрон. на браузъра</string>
+  <string name="sync_item_browser_summary">Синхронизирайте вашите данни в облака и улеснете използването на Браузъра на другите си устройства</string>
+  <string name="sub_sync_item_browser_title_history">Синхрон. на история</string>
+  <string name="sub_sync_item_browser_title_history_summary">Синхронизира историята на Браузъра</string>
+  <string name="sub_sync_item_browser_title_bookmark">Синхрон. на отметки</string>
+  <string name="sub_sync_item_browser_title_bookmark_summary">Синхронизира отметките в Браузъра</string>
+  <string name="sub_sync_item_browser_title_cloud_tab">Синхрон. на раздели</string>
+  <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронизира отворените раздели в Браузъра</string>
 </resources>
