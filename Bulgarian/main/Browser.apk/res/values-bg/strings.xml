@@ -600,4 +600,9 @@
   <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронизира отворените раздели в Браузъра</string>
   <string name="loading_tips">Плъзнете надолу за опресняване</string>
   <string name="up_to_loading_tips">Отпуснете за опресняване</string>
+  <string name="cloud_loading_tips">Плъзнете надолу за синхрон.</string>
+  <string name="cloud_up_to_loading_tips">Отпуснете за синхрон.</string>
+  <string name="cloud_time_tips">Последно</string>
+  <string name="cloud_tab">Карта на облака</string>
+  <string name="cloud_no_new_data_toast">Няма нови данни</string>
 </resources>
