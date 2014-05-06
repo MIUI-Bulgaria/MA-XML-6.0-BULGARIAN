@@ -103,4 +103,5 @@
     <string name="project_device">MiBox</string>
     <string name="project_device_mobile">Мобилно устройство</string>
     <string name="bill_list_fragment_title">Тема</string>
+    <string name="available_playlist_name_format">Нов плейлист %d</string>
 </resources>

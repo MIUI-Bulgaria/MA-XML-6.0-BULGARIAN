@@ -605,27 +605,52 @@ phone will open automatically when connected to a computer."</item>
         <item>Винаги питай</item>
     </string-array>
     <string-array name="preferred_app_entries">
-       <item>Launcher</item>
-       <item>Телефон</item>
-       <item>Съобщения</item>
-       <item>Браузър</item>
-       <item>Камера</item>
-       <item>Галерия</item>
-       <item>Музика</item>
-       <item>Имейл</item>
-   </string-array>
-   <string-array name="led_color_entries">
-       <item>Син</item>
-       <item>Червен</item>
-       <item>Жълт</item>
-       <item>Зелен</item>
-       <item>Св. син</item>
-       <item>Бял</item>
-       <item>Лилав</item>
-   </string-array>
-   <string-array name="network_speed_slow_summary">
-       <item>Връзката е бавна поради засилен трафик</item>
-       <item>Връзката е бавна поради слаб сигнал</item>
-       <item>Прехвърля се…</item>
-   </string-array>
+        <item>Launcher</item>
+        <item>Телефон</item>
+        <item>Съобщения</item>
+        <item>Браузър</item>
+        <item>Камера</item>
+        <item>Галерия</item>
+        <item>Музика</item>
+        <item>Имейл</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Син</item>
+        <item>Червен</item>
+        <item>Жълт</item>
+        <item>Зелен</item>
+        <item>Св. син</item>
+        <item>Бял</item>
+        <item>Лилав</item>
+    </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>Връзката е бавна поради засилен трафик</item>
+        <item>Връзката е бавна поради слаб сигнал</item>
+        <item>Прехвърля се…</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>След 1 минута</item>
+        <item>След 5 минути</item>
+        <item>След 10 минути</item>
+        <item>Никога</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 секунди</item>
+        <item>30 секунди</item>
+        <item>1 минута</item>
+        <item>2 минути</item>
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>Никога</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Производително</item>
+        <item>Балансирано</item>
+        <item>Икономично</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Никога</item>
+        <item>Само при тих режим</item>
+        <item>Винаги</item>
+    </string-array>
 </resources>

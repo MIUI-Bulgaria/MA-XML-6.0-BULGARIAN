@@ -291,7 +291,7 @@
   <string name="miui_content_select_all">Всички</string>
   <string name="miui_content_share">Споделяне</string>
   <string name="miui_content_web_search">Търсене</string>
-  <string name="miui_edit_mode_title_empty">Няма избрани</string>
+  <string name="miui_edit_mode_title_empty">Изберете елементи</string>
   <string name="miui_function_menu_add_to_bookmark">Отметка</string>
   <string name="miui_function_menu_add_to_quicklinks">Бърза връзка</string>
   <string name="miui_function_menu_delete_to_quicklinks">Изтрий бърза връзка</string>
