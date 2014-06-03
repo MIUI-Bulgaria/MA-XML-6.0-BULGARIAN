@@ -37,4 +37,7 @@
     <string name="reason_unknown">няма данни</string>
     <string name="printer_unavailable">%1$s – не е налице</string>
     <string name="print_error_default_message">Заданието за отпечатване не можа да се генерира</string>
+    <string name="advanced_settings_button">Настройки на принтера</string>
+    <string name="print_select_printer">Избиране на принтер</string>
+    <string name="print_forget_printer">Забравяне на принтера</string>
 </resources>

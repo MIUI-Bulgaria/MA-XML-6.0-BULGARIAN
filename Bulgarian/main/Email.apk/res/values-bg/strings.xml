@@ -541,4 +541,6 @@
     <string name="wait_for_sync_title">Изчаква се синхронизиране</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="yes">Да</string>
+    <string name="accounts_heading">Профили</string>
+    <string name="from_label">Изпращач</string>
 </resources>

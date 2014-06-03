@@ -40,6 +40,10 @@
         <item quantity="other">Намерени са %1$s принтера</item>
         <item quantity="one">Намерен е %1$s принтер</item>
     </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Вече сте на %1$d стъпки от влизането в информацията за телефона.</item>
+        <item quantity="one">Вече сте на %1$d стъпка от влизането в информацията за телефона.</item>
+    </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Вече сте на %1$d стъпки от това, да влезете в инженерно меню Cit.</item>
         <item quantity="one">Вече сте на %1$d стъпка от това, да влезете в инженерно меню Cit.</item>
@@ -47,17 +51,5 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Вече сте на %1$d стъпки от докладването на грешка.</item>
         <item quantity="one">Вече сте на %1$d стъпка от докладването на грешка.</item>
-    </plurals>
-    <plurals name="power_center_battery_day">
-        <item quantity="other">"%d дни "</item>
-        <item quantity="one">"%d ден "</item>
-    </plurals>
-    <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d ч. "</item>
-        <item quantity="one">"%d ч. "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d мин. "</item>
-        <item quantity="one">"%d мин. "</item>
     </plurals>
 </resources>

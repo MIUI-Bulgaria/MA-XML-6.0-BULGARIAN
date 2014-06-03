@@ -492,6 +492,7 @@
         <item>Гласов асистент</item>
         <item>Google Now</item>
         <item>Затваря текущото приложение</item>
+        <item>Показва меню</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 секунди</item>
@@ -508,11 +509,11 @@
         <item>Винаги</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Устройството е свързано…</item>
-        <item>Session created.</item>
-        <item>Session tearing down…</item>
-        <item>Session failed.</item>
-        <item>Timed out, retrying…</item>
+        <item>Устройството е свързано, създава се сесия…</item>
+        <item>Сесията е създадена.</item>
+        <item>Сесията се прекратява…</item>
+        <item>Сесията е неуспешна.</item>
+        <item>Времето изтече, повторен опит…</item>
         <item>Устройството е свързано</item>
     </string-array>
     <string-array name="power_mode_entries">
@@ -525,40 +526,6 @@
         <item>Windows Vista, 7 и 8</item>
         <item>Mac OS</item>
         <item>Linux</item>
-    </string-array>
-    <string-array name="msd_pc_system_install_start_summary">
-        <item>"При Windows XP и по-стари версии на Windows,
-драйвера трябва да бъде инсталиран ръчно"</item>
-        <item>"При Windows Vista и по-нови версии на Windows, 
-музикалният плеър ще се появи на вашия компютър"</item>
-        <item>"При Mac OS,
-драйвера трябва да бъде инсталиран ръчно"</item>
-        <item></item>
-    </string-array>
-    <string-array name="msd_pc_system_install_step_1_summary">
-        <item>"(Ignore the Setup Wizard)
-When connected, Xiaomi will appear as a USB mass storage device.
- Open and select Setup.exe to install"</item>
-        <item></item>
-        <item>"When connected, Xiaomi will appear as a USB mass storage device on your desktop.
-Open and select AndroidFileTransfer.dmg to install."</item>
-        <item></item>
-    </string-array>
-    <string-array name="msd_pc_system_install_step_2_summary">
-        <item>"2. MI 2 will appear as a USB mass storage
- device when connected to your computer."</item>
-        <item></item>
-        <item>Transfer files like you would to any other external hard drive.</item>
-        <item></item>
-    </string-array>
-    <string-array name="msd_pc_system_install_finish_summary">
-        <item>"After you install this driver
-MI 2 will appear as a USB mass storage device when connected to a computer."</item>
-        <item>"For Windows Vista and newer versions of Windows,
-the MI 2 music player will appear on your computer automatically"</item>
-        <item>"When you install this driver
-phone will open automatically when connected to a computer."</item>
-        <item></item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Топли цветове</item>
@@ -627,30 +594,5 @@ phone will open automatically when connected to a computer."</item>
         <item>Връзката е бавна поради засилен трафик</item>
         <item>Връзката е бавна поради слаб сигнал</item>
         <item>Прехвърля се…</item>
-    </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>След 1 минута</item>
-        <item>След 5 минути</item>
-        <item>След 10 минути</item>
-        <item>Никога</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 секунди</item>
-        <item>30 секунди</item>
-        <item>1 минута</item>
-        <item>2 минути</item>
-        <item>5 минути</item>
-        <item>10 минути</item>
-        <item>Никога</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Производително</item>
-        <item>Балансирано</item>
-        <item>Икономично</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>Никога</item>
-        <item>Само при тих режим</item>
-        <item>Винаги</item>
     </string-array>
 </resources>

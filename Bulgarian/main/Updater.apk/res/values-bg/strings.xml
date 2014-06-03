@@ -150,4 +150,8 @@
   <string name="wifi_not_available_title">Wi-Fi не е свързан</string>
   <string name="worst_update">3.Най-лоша актуализация</string>
   <string name="toast_msg_reboot">Актуализацията завърши, рестартирайте устройството</string>
+  <string name="toast_need_login">Влезте с вашия Mi профил</string>
+  <string name="notify_title_reboot_now">Актуализацията завърши</string>
+  <string name="button_text_reboot_now">Рестарт</string>
+  <string name="toast_not_enough_free_space">Няма достатъчно свободно място за OTA, моля освободете място</string>
 </resources>

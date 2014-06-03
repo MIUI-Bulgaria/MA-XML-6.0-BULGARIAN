@@ -9,7 +9,6 @@
     <string name="all_tracks">Всички песни</string>
     <string name="allow_to_use_traffic_summary">Може да генерира високи такси, препоръчва се да е изкл.</string>
     <string name="allow_to_use_traffic_title">Позволява ползване на платено Wi-Fi за слушане  на музика онлайн</string>
-    <string name="app_class">com.miui.player.ui.base.MusicApplication</string>
     <string name="artist_search_title">Изпълнител</string>
     <string name="artist_view">Изпълнител</string>
     <string name="audio_picker_title">Изберете песен</string>
@@ -18,7 +17,6 @@
     <string name="cancel">Отказ</string>
     <string name="channel_list_fragment_title">FM</string>
     <string name="click_to_shuffle">Докоснете, за да разбъркате всички</string>
-    <string name="create_new_playlist">Нов</string>
     <string name="dialog_button_agree">Приемам</string>
     <string name="dialog_button_create_playlist">Създаване на плейлист</string>
     <string name="dialog_button_find_music">Търсене на нова музика</string>
@@ -47,8 +45,6 @@
     <string name="file_not_found">Файлът не съществува</string>
     <string name="find_ktv">Преоткрийте KTV</string>
     <string name="find_music">Търси песни~</string>
-    <string name="find_music_left"/>
-    <string name="find_music_right"/>
     <string name="fragment_more">Още</string>
     <string name="function_error">Функцията не се поддържа</string>
     <string name="go_to_add_music">Добави песни~</string>
@@ -92,16 +88,20 @@
     <string name="trigger_to_scan_media_library_start">Обновява се…</string>
     <string name="unknown_album_name">Неизвестен албум</string>
     <string name="unknown_artist_name">Неизвестен изпълнител</string>
-    <string name="blank_reminder">Не може да е празно</string>
-    <string name="same_name_reminder">Имената не може да се дублират</string>
     <string name="favorite_succeed">Вече е в любими</string>
     <string name="favorite_canceled">Премахнато от любими</string>
     <string name="playlist_deleted_message">Плейлистът е изтрит</string>
     <string name="playlist_renamed_message">Плейлистът е преименуван</string>
     <string name="action_item_delete">Изтриване</string>
     <string name="dialog_delete_descript">Да се изтрие ли %s?</string>
-    <string name="project_device">MiBox</string>
     <string name="project_device_mobile">Мобилно устройство</string>
     <string name="bill_list_fragment_title">Тема</string>
     <string name="available_playlist_name_format">Нов плейлист %d</string>
+    <string name="loading_hint">Зарежда се...</string>
+    <string name="online_playlist_is_empty">Онлайн плейлистът е празен!</string>
+    <string name="dialog_title_delete_tracks">Изтриване</string>
+    <string name="select_device">Избор на устройство</string>
+    <string name="network_failure">Неуспешна връзка с мрежата, моля опитайте отново по-късно.</string>
+    <string name="local_music_is_not_available">Няма песни.</string>
+    <string name="source_from">Източник: %1$s</string>
 </resources>

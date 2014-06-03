@@ -1,5 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="timezone_rename_labels">
+        <item>Центр. австрал. – Сев. територия</item>
+        <item>Центр. австрал. – Южна Австралия</item>
+        <item>Австралийско източно – Куинсланд</item>
+        <item>Австр. източно – Нови Южен Уелс</item>
+        <item>Планинско – Доусън Крийк</item>
+        <item>Центр. стандартно – Съскачеуан</item>
+        <item>Източно стандартно – Атикокан</item>
+        <item>Атлантическо стандартно – Квебек</item>
+        <item>Хавайско алеутско – Хаваи</item>
+        <item>Хавайско алеутско – Аляска</item>
+        <item>Тихоокеанско – Метлакатла</item>
+        <item>Планинско – Аризона</item>
+        <item>Тихоокеанско – Долна Калифорния</item>
+        <item>Планинско – Чихуахуа</item>
+        <item>Централно – Тамаулипас</item>
+        <item>Планинско – Сонора</item>
+        <item>Източноафриканско време</item>
+        <item>Атлантическо часово време</item>
+        <item>Атлантическо часово време</item>
+        <item>Източноевропейско време</item>
+        <item>Калининградско време</item>
+        <item>Амазонско – Рондония</item>
+        <item>Бразилско – Пара</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Синт Мартен</item>
+        <item>Карибска Нидерландия</item>
+        <item>Кюрасао</item>
+        <item>Южен Судан</item>
+    </string-array>
     <string-array name="reminder_methods_labels">
         <item>Известие</item>
         <item>Имейл</item>
@@ -94,6 +125,12 @@
     <string-array name="preferences_skip_reminders_labels">
         <item>Само при отхвърляне</item>
         <item>При отхвърляне или липса на отговор</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ПОВТАРЯНЕ ДНЕВНО</item>
+        <item>ПОВТАРЯНЕ СЕДМИЧНО</item>
+        <item>ПОВТАРЯНЕ МЕСЕЧНО</item>
+        <item>ПОВТАРЯНЕ ГОДИШНО</item>
     </string-array>
     <string-array name="repeat_by_nth_sun">
         <item>всяка първа неделя</item>

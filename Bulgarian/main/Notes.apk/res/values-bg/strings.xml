@@ -8,7 +8,6 @@
   <string name="alert_message_delete_folders_notes">Ще изтриете ли избраните папки %1$s и бележки %2$s?</string>
   <string name="alert_message_delete_note">Искате ли да изтриете тази бележка?</string>
   <string name="alert_message_delete_notes">Искате ли да изтриете избраните бележки %1$s?</string>
-  <string name="alert_message_discard_changes">Ще отмените ли всички промени?</string>
   <string name="alert_message_edit_anyway">Тази бележка съдържа неподдържани данни. Тяхната редакция може да доведе до загуба на данни.</string>
   <string name="alert_title_edit_anyway">Сигурни ли сте че искате да редактирате, дори при риск от загуба на данни?</string>
   <string name="app_name">Бележки</string>
@@ -37,7 +36,6 @@
   <string name="login_sync">Вход и синхронизация</string>
   <string name="menu_create_folder">Нова папка</string>
   <string name="menu_delete">Изтрий</string>
-  <string name="menu_discard">Отмени</string>
   <string name="menu_folder_change_name">Преименувай папка</string>
   <string name="menu_move">Премести в папка</string>
   <string name="menu_move_parent_folder">Основна папка</string>
@@ -58,8 +56,6 @@
   <string name="notealert_ok">Готово</string>
   <string name="notelist_menu_new">Добави бележка</string>
   <string name="notelist_string_info">...</string>
-  <string name="notify_alarm_action_mute">Без звук</string>
-  <string name="notify_alarm_action_view">Преглед</string>
   <string name="notify_alarm_title">Напомняне</string>
   <string name="permdesc_accessNote">Злонамерените приложения могат да използват това за достъп до личните ви данни.</string>
   <string name="permlab_accessNote">Достъп до бележките</string>

@@ -213,4 +213,9 @@
   <string name="widget_gadget_player">Музика</string>
   <string name="widget_global_search">Търсене</string>
   <string name="current_wallpaper">Текущ</string>
+  <string name="status_pending">изчакване</string>
+  <string name="status_downloading">изтегля се</string>
+  <string name="status_paused">на пауза</string>
+  <string name="status_downloaded">изтеглено</string>
+  <string name="status_installing">инсталира се</string>
 </resources>

@@ -29,4 +29,6 @@
     <string name="cert_read_error">Не можа да се инсталира, защото файлът със сертификата не можа да бъде прочетен.</string>
     <string name="no_cert_file_found">На SD картата не бе намерен файл със сертификат.</string>
     <string name="sdcard_not_present">SD картата липсва.</string>
+    <string name="only_primary_user_allowed">Само собственикът на това устройство може да инсталира сертификати.</string>
+    <string name="credential_usage_label">Използв. на идент. данни</string>
 </resources>

@@ -278,8 +278,6 @@
   <string name="menu_item_sort_name_desc">По име (Z-A)</string>
   <string name="menu_item_sort_size_asc">По размер (възходящо)</string>
   <string name="menu_item_sort_size_desc">По размер (низходящо)</string>
-  <string name="menu_item_sort_visit_asc">По прегледи (възходящо)</string>
-  <string name="menu_item_sort_visit_desc">По прегледи (низходящо)</string>
   <string name="menu_view_contact">Преглед на контакт</string>
   <string name="message_no_delete_access">Достъпът е отказан. Не можете да изтриете този файл или папка: %s</string>
   <string name="message_no_delete_access_with_count">Не можете да премахнете файл(ове) или папка(и) %d. Възможно е да не съществуват или да нямате достъп до тях.</string>
@@ -351,7 +349,6 @@
   <string name="picker_no_album_selected">Няма избран албум</string>
   <string name="picker_no_items_selected">Нищо не е избрано</string>
   <string name="picker_select_album_title_empty">Изберете албум</string>
-  <string name="picker_tab_camera">Камера</string>
   <string name="posterize">Постеризация</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Подготовка на изображения за изтриване.</string>
@@ -509,4 +506,15 @@
   <string name="yes">Да</string>
   <string name="bigscreen_video_quit">Докоснете за сприране на възпоизвеждането</string>
   <string name="click_to_add_picture">Докоснете за добавяне на снимки</string>
+  <string name="local_time">(Локално)</string>
+  <string name="sync_in_progress_message">Протича синхронизация...</string>
+  <string name="alert_init_merged_title">Всички ваши снимки заедно</string>
+  <string name="alert_init_merged_message">Вече снимките на вашето устройство и снимките, които сте съхранили в Mi Cloud ще се показват заедно.</string>
+  <string name="picker_tab_photo">Снимки</string>
+  <string name="error_title">Грешка при синхронизация</string>
+  <string name="error_unauthorized">Синхронизацията е изключена, поради твърде много опити за влизане.</string>
+  <string name="error_forbidden">Вашият профил има някакви грешки. Синхронизацията е изключена.</string>
+  <string name="error_not_acceptable">Грешки в сървъра. Синхронизацията е изключена.</string>
+  <string name="long_press_to_refocus">Задръжте за дофокусиране</string>
+  <string name="ubifocus_data_missing">Неуспешно дофокусиране поради грешни или липсващи данни</string>
 </resources>

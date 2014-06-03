@@ -268,4 +268,6 @@
   <string name="voucher_error_password">Грешен код за ваучер!</string>
   <string name="voucher_input_password_prompt">Въведете кода</string>
   <string name="voucher_card_text">Изтрийте защитата на кода</string>
+  <string name="payment_actionbar_title">Потвърди</string>
+  <string name="btn_finish">Завършване</string>
 </resources>

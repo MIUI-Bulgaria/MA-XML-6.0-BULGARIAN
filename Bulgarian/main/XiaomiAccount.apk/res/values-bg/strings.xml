@@ -68,14 +68,11 @@
     <string name="check_phone_io_error">Грешка в мрежата</string>
     <string name="checking_account">Потвърждаване на профила…</string>
     <string name="checking_input">Проверка...</string>
-    <string name="cloud_find_pad">Намерете устройството</string>
     <string name="cloud_messaging">Облачни съобщения</string>
     <string name="cloud_service">Облачни услуги</string>
-    <string name="cmcc_data_sync_notice">Използвайте вашият Xiaomi профил за синхронизиране на съобщения и контакти между устройствата си.</string>
     <string name="completed">Готово</string>
     <string name="confirm">Потвърди</string>
     <string name="data_keep_in_device">Запазване в устройството</string>
-    <string name="data_sync_notice">Използвайте вашият Xiaomi профил за синхронизиране на съобщения и контакти между устройствата си.</string>
     <string name="data_wipe_from_device">Изтриване от устройството</string>
     <string name="dirty_contacts_count">контакти: %d</string>
     <string name="dirty_image_count">%d снимки</string>
@@ -198,9 +195,6 @@
     <string name="remove_confirm">Отписване</string>
     <string name="remove_unactivated_account_notice">Вашият профил не беше активиран.</string>
     <string name="removing_account">Отписване…</string>
-    <string name="send_int_sms_for_sync_notice">Ще бъде изпратено международно SMS съобщение за потвърждение.</string>
-    <string name="send_sms_for_sync_notice">Ще бъде изпратено SMS съобщение за потвърждение.</string>
-    <string name="send_sms_for_sync_title">Синхронизирането не е активирано</string>
     <string name="seperator_forget_and_foreign">|</string>
     <string name="service_error">Грешка в услугата</string>
     <string name="show_password">Покажи паролата</string>
@@ -211,12 +205,8 @@
     <string name="skip_register">Пропусни вписването</string>
     <string name="skip_setup_account_msg">Може да настроите вашият профил по-късно от \"Настройки\".</string>
     <string name="skip_setup_account_title">Пропусни настройката на профила</string>
-    <string name="sync_dspt">Включи синхр.</string>
     <string name="sync_off">Изкл.</string>
     <string name="sync_on">Вкл.</string>
-    <string name="sync_sub_dspt">Ще бъде изпратено SMS съобщение за активиране на услугата.</string>
-    <string name="sync_sub_dspt_provision">Преглед и управление на вашите данни навсякъде</string>
-    <string name="sync_sub_int_dspt">Ще бъде изпратено международно SMS съобщение за активиране на услугата.</string>
     <string name="title_reg">Регистрация</string>
     <string name="trust_device">Доверявам се на устройството</string>
     <string name="unactivated_user">Профилът не беше активиран</string>
@@ -242,4 +232,14 @@
     <string name="wrong_captcha">Captcha кодът, който сте въвели е грешен</string>
     <string name="wrong_phone_number_format">Форматът на въведения телефонен номер е невалиден</string>
     <string name="wrong_vcode">Грешен код</string>
+    <string name="error_ssl_hand_shake">Грешка при кореспондирането със сървъра. Опитайте да настроите времето на системата до текущото време.</string>
+    <string name="quick_login_dialog_title">Проверка на паролата</string>
+    <string name="quick_login_dialog_step2_title">Потвърждаване в 2 стъпки</string>
+    <string name="email_reg_success_summary">"%1$s е обвързан с профила ви.
+ Може да го използвате за вход в системата и за възстановяване на вашата парола."</string>
+    <string name="account_sec_dspt2" />
+    <string name="account_not_activated">Вашият профил не е потвърден!</string>
+    <string name="change_account">Промяна на профила</string>
+    <string name="register_account_verified_confirm">Потвърден</string>
+    <string name="register_account_goto_email">Към имейла</string>
 </resources>

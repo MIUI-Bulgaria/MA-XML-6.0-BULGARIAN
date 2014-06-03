@@ -237,4 +237,6 @@
   <string name="user_guide_for_notification">Ново известие，плъзнете надолу за да видите повече информация.</string>
   <string name="user_guide_for_toggle">Списъкът с превключвателите може да бъде преглеждан и хоризонтално</string>
   <string name="user_guide_for_toggle_list">Управление на превключвателите</string>
+  <string name="call_status_ringing">Звънене</string>
+  <string name="reject_call">Отхвърляне</string>
 </resources>
