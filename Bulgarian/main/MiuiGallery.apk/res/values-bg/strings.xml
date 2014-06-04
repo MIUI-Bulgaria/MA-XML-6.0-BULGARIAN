@@ -516,5 +516,7 @@
   <string name="error_forbidden">Вашият профил има някакви грешки. Синхронизацията е изключена.</string>
   <string name="error_not_acceptable">Грешки в сървъра. Синхронизацията е изключена.</string>
   <string name="long_press_to_refocus">Задръжте за дофокусиране</string>
-  <string name="ubifocus_data_missing">Неуспешно дофокусиране поради грешни или липсващи данни</string>
+  <string name="ubifocus_data_missing">Някои данни липсват</string>
+  <string name="ubifocus_map_error">Някои данни са грешни</string>
+  <string name="ubifocus_refocus_fail_tip">Не може да се дофокусира поради липсващи или грешни данни</string>
 </resources>
