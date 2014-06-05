@@ -165,4 +165,5 @@
   <string name="welcome_page_alert">&lt;font color=#fb3500>Забележка:&lt;/font>Не изтривайте ключа, в противен случай няма как да влезете</string>
   <string name="welcome_page_details">Потвърждаването в две стъпки защитава профила ви в Xiaomi дори ако паролата ви бъде открадната.</string>
   <string name="welcome_page_title">Всеки ден защитата на хиляди профили бива пробита.</string>
+  <string name="success_copy_to_clipboard">Копирано в буфера</string>
 </resources>
