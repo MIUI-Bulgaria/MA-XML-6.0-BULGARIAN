@@ -1085,8 +1085,8 @@
     <string name="hardware">Хардуер</string>
     <string name="select_keyboard_layout_notification_title">Избиране на клавиатурна подредба</string>
     <string name="select_keyboard_layout_notification_message">Докоснете, за да изберете клавиатурна подредба.</string>
-    <string name="fast_scroll_alphabet">" АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЬЮЯ"</string>
-    <string name="fast_scroll_numeric_alphabet">" 0123456789АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЬЮЯABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="candidates_style"><u>кандидати</u></string>
     <string name="ext_media_checking_notification_title">USB хранилището се подготвя</string>
     <string name="ext_media_checking_notification_message">Проверява се за грешки.</string>

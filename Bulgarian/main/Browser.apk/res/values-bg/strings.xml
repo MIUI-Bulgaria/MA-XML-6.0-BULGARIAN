@@ -599,4 +599,12 @@
   <string name="webview_today">Днес</string>
   <string name="webview_yesterday">Вчера</string>
   <string name="week_picker_dialog_title">Задай седмица</string>
+  <string name="contextmenu_selecttext">Изберете текстът</string>
+  <string name="miuichromium_error_page_title">Страницата не може да бъде намерена</string>
+  <string name="miuichromium_error_page_reason_network">Преглед на URL</string>
+  <string name="miuichromium_error_page_mobile">Мобилна мрежа</string>
+  <string name="miuichromium_error_page_wlan">Настройки на Wi-Fi</string>
+  <string name="miuichromium_error_page_reason_server">Браузърът не може да зареди страницата</string>
+  <string name="miuichromium_error_page_reload">Презареди</string>
+  <string name="miuichromium_error_page_url">Преглед на URL на страницата</string>
 </resources>

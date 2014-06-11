@@ -63,7 +63,7 @@
   <string name="accessibility_toggle_screen_magnification_preference_title">Ниво на мащаба на екрана</string>
   <string name="accessibility_toggle_speak_password_preference_title">Изговаряне на паролите</string>
   <string name="account_add">Добави</string>
-  <string name="account_autostar_label">Автоматично вписване</string>
+  <string name="account_autostar_label">Автоматично стартирани</string>
   <string name="account_list">Всички</string>
   <string name="account_settings">Профили</string>
   <string name="account_sync_settings_title">Синхронизиране</string>
@@ -1928,7 +1928,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="status_bar_settings_show_network_speed">Показвай скоростта на връзката</string>
   <string name="status_bar_settings_show_notificationBar_notification">Показвай в лентата с известия</string>
   <string name="status_bar_settings_show_screenshot_notification">Показвай известия за екр. снимки</string>
-  <string name="status_bar_settings_show_statusBar_notification">Показвай в статус лентата</string>
+  <string name="status_bar_settings_show_statusBar_notification">Показвай на закл. екран</string>
   <string name="status_bar_settings_show_wifi_name">Показвай Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Статус лента</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Свиване при докосване</string>
