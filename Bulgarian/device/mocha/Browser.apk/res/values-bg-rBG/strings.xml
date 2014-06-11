@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="download_no_sdcard_dlg_msg">Изисква се SD карта за изтеглянето на %s.</string>
+  <string name="download_no_sdcard_dlg_title">Няма SD карта</string>
+  <string name="download_sdcard_busy_dlg_msg">SD картата е заета. За да разрешите изтегляния, докоснете „Изключване на USB хранилището“ в известието.</string>
+  <string name="download_sdcard_busy_dlg_title">Няма SD карта</string>
+</resources>
