@@ -5,7 +5,7 @@
     <string name="anti_aggression_day"/>
     <string name="app_no_notification">Без известия</string>
     <string name="app_notificaiton_on_notificationBar">Лента с известия</string>
-    <string name="app_notificaiton_on_statusBar_and_notificationBar">Лента за статус и известия</string>
+    <string name="app_notificaiton_on_statusBar_and_notificationBar">Закл. екран, лента с известия</string>
     <string name="arbor_day"/>
     <string name="armed_forces_day"/>
     <string name="autumn_begins"/>

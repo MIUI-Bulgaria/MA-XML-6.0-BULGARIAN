@@ -519,4 +519,17 @@
   <string name="ubifocus_data_missing">Някои данни липсват</string>
   <string name="ubifocus_map_error">Някои данни са грешни</string>
   <string name="ubifocus_refocus_fail_tip">Не може да се дофокусира поради липсващи или грешни данни</string>
+  <string name="confirm_delete_init_title">Напомняне</string>
+  <string name="confirm_delete_init_message">Когато изтривате от Снимки, снимката ще бъде изтрита локално и от облака. Ако искате да изтриете само локално, ползвайте преглед Локално.</string>
+  <string name="confirm_delete_has_cloud_local_image_video">Да се изтрият ли %s елемента локално и от облака?</string>
+  <string name="confirm_delete_has_cloud_local_image">Да се изтрият ли %s снимки локално и от облака?</string>
+  <string name="confirm_delete_has_cloud_local_video">Да се изтрият ли %s видеоклипа локално и от облака?</string>
+  <string name="confirm_delete_has_cloud_image_video">Да се изтрият ли %s елемента от облака?</string>
+  <string name="confirm_delete_has_cloud_image">Да се изтрият ли %s снимки от облака?</string>
+  <string name="confirm_delete_has_cloud_video">Да се изтрият ли %s видеоклипа от облака?</string>
+  <string name="confirm_delete_has_local_image_video">Да се изтрият ли %s елемента?</string>
+  <string name="confirm_delete_has_local_image">Да се изтрият ли %s снимки?</string>
+  <string name="confirm_delete_has_local_video">Да се изтрият ли %s видеоклипа?</string>
+  <string name="skip_hide_special_album">Системните албуми (Камера, Екр. снимки) не могат да се настроят като скрити.</string>
+  <string name="bigscreen_slide_playing">Слайдшоуто се възпроизвежда на устройството: %s</string>
 </resources>
