@@ -238,8 +238,8 @@
     <string name="email_reg_success_summary">"%1$s е обвързан с профила ви.
  Може да го използвате за вход в системата и за възстановяване на вашата парола."</string>
     <string name="account_sec_dspt2" />
-    <string name="account_not_activated">Вашият профил не е потвърден!</string>
+    <string name="account_not_activated">Профилът ви не бе активиран</string>
     <string name="change_account">Промяна на профила</string>
-    <string name="register_account_verified_confirm">Потвърден</string>
+    <string name="register_account_verified_confirm">Активиран</string>
     <string name="register_account_goto_email">Към имейла</string>
 </resources>

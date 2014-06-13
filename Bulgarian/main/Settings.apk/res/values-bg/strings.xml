@@ -2727,4 +2727,5 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="button_text_login">Вписване</string>
   <string name="dialog_title_login">Вписване в Xiaomi профил</string>
   <string name="dialog_content_login">Необходим е Xiaomi профил за актуализацията, ще се впишете ли?</string>
+  <string name="lockpassword_pin_fixed_length">PIN кодът трябва да е с %d цифри</string>
 </resources>

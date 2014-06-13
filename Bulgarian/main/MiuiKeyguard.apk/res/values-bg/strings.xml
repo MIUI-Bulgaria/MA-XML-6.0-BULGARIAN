@@ -71,4 +71,5 @@
     <string name="unlockscreen_low_battery">Свържете зарядното устройство</string>
     <string name="unlockscreen_recharge_completed">Батерията е заредена</string>
     <string name="unlockscreen_recharging_message">Зареждане %d%%</string>
+    <string name="default_lockscreen_unlock_hint_text">Плъзнете нагоре за отключване</string>
 </resources>
