@@ -519,4 +519,5 @@
   <string name="find_wechat_qrcode">Открит е WeChat QR код</string>
   <string name="pref_face_beauty_title">Кожа</string>
   <string name="pref_camera_hdr_type_title">Тип HDR</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Не може да преглеждате снимка или клип, когато екрана е заключен..</string>
 </resources>
