@@ -2,7 +2,7 @@
 <resources>
     <string name="abbrev_wday_month_day_no_year">EEEMMMMd</string>
     <string name="add_alarm">Добавяне на будилник</string>
-    <string name="add_time_zone">Часова зона</string>
+    <string name="add_time_zone">Добавяне на часова зона</string>
     <string name="alarm_alert_dismiss_now_text">Отхвърляне сега</string>
     <string name="alarm_alert_dismiss_text">Отхвърляне</string>
     <string name="alarm_alert_predismiss_title">Предстоящ будилник</string>

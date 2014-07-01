@@ -10,7 +10,7 @@
     <string name="adjust_position_next_media_notice">Следващ</string>
     <string name="adjust_position_prev_media_notice">Предишен</string>
     <string name="airkan_control_device_des">Можете да управлявате възпроизвеждането на видео чрез бутоните долу</string>
-    <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+    <string name="airkan_device_xiaomi_phone">Xiaomi Pad</string>
     <string name="airkan_video_playing">Възпроизвеждане</string>
     <string name="airkan_video_playing_in">Възпроизвеждане на видео...</string>
     <string name="all">Всички</string>
@@ -258,4 +258,7 @@
     <string name="clarity_supper">Супер качество</string>
     <string name="clarity_high">Високо качество</string>
     <string name="clarity_standard">Стандартно качество</string>
+    <string name="vp_get_url_error">URL адресът не може да възпроизведе.</string>
+    <string name="vp_exit">Изход</string>
+    <string name="vp_back">Назад</string>
 </resources>
