@@ -1,11 +1,11 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="input_method_category">Избиране на метод за въвеждане по подразбиране</string>
+  <string name="input_method_category">Избиране на метод за въвеждане по подразбиране, който ще използвате при въвеждане на текст в имейли, бележки и др. Запомнете, че можете да си инсталирате клавиатури от трети страни по-късно.</string>
   <string name="input_method_setting">Избор на метод за въвеждане</string>
-  <string name="other_settings">Други настройки</string>
+  <string name="other_settings">Допълнителни настройки</string>
   <string name="other_settings_location">Достъп до местоположение</string>
-  <string name="other_settings_location_summary">Позволява на карти и други приложения да определят местоположението ви чрез GPS</string>
-  <string name="other_settings_user_experience">Споделяне на потребителски опит</string>
-  <string name="other_settings_user_experience_summary">Помогнете на Xiaomi да подобри своите продукти и услуги, като изпращате анонимни данни от устройството си</string>
+  <string name="other_settings_location_summary">Позволява на приложенията да определят точно местоположението ви</string>
+  <string name="other_settings_user_experience">Потребителски отзив</string>
+  <string name="other_settings_user_experience_summary">Помогнете да подобрим MIUI чрез изпращане на анонимни потребителски данни</string>
   <string name="welcome">Добре дошли</string>
 </resources>

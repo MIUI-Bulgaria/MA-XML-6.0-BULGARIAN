@@ -110,11 +110,11 @@
   <string name="comfirm_delete_current_album">Ще изтриете ли този албум?</string>
   <string name="comma">, </string>
   <string name="confirm">ОК</string>
-  <string name="confirm_delete">Сигурни ли сте, че искате да изтриете избраните файлове %s ?</string>
-  <string name="confirm_delete_album" formatted="false">Ще изтрете ли албум(и) %s (вкл. %s файла)?</string>
+  <string name="confirm_delete">Да се изтрият ли %s снимки?</string>
+  <string name="confirm_delete_album" formatted="false">Ще изтрете ли %s албуми (общо %s елементи)?</string>
   <string name="confirm_delete_home_merge_item">Да се изтрият ли локално и в облака %s снимки?</string>
   <string name="confirm_delete_pictures">%s снимки</string>
-  <string name="confirm_delete_system_album">%s е системен албум, сигурен ли сте, че искате да го изтриете?</string>
+  <string name="confirm_delete_system_album">%s е системен албум.</string>
   <string name="confirm_delete_this_picture">Сигурни ли сте, че искате да изтриете избраната снимка?</string>
   <string name="confirm_delete_this_video">Сигурни ли сте, че искате да изтриете избраното видео?</string>
   <string name="confirm_delete_videos">%s видео клипове</string>
@@ -295,7 +295,7 @@
   <string name="move_to_cloud_album">Премести на облака</string>
   <string name="mtgif">MTGIF</string>
   <string name="mtxx">MTXX</string>
-  <string name="multiface_crop_help">Натиснете на лицето, за да започнете.</string>
+  <string name="multiface_crop_help">Натиснете на лицето, за да започнете</string>
   <string name="must_pick_file">Изберете снимка</string>
   <string name="negative">Негатив</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
@@ -304,7 +304,7 @@
   <string name="no_albums_alert">Няма налични албуми.</string>
   <string name="no_connectivity">"Някои местоположения не могат да бъдат идентифицирани поради проблеми с мрежата."</string>
   <string name="no_location">Няма местоположение</string>
-  <string name="no_map_app">Няма приложение за карти</string>
+  <string name="no_map_app">Няма приложение за извършване на това действие</string>
   <string name="no_network_connected">Няма връзка с мрежата</string>
   <string name="no_picture_or_video">Няма снимки или видео</string>
   <string name="no_storage_disable_cloud_albums">Облачните албуми са забранени. Опитайте отново, когато хранилището е достъпно.</string>
@@ -319,8 +319,7 @@
   <string name="open_single_image_failure">Снимката не може да се отвори!</string>
   <string name="open_sync_title">Моля, включете синхронизацията</string>
   <string name="operation_add_picture">Добавете снимки</string>
-  <string name="operation_delete_confirm_message_folder">"Папките и файловете в тях ще бъдат изтрити едновременно.
-"</string>
+  <string name="operation_delete_confirm_message_folder">"Цялото съдържание на папките ще бъде изтрито. "</string>
   <string name="operation_failed">Операцията е неуспешна.</string>
   <string name="operation_in_process">Зареждане...</string>
   <string name="operation_refresh">Обнови</string>
@@ -410,12 +409,12 @@
   <string name="set_label_mtp_devices">MTP устройства</string>
   <string name="set_lock_and_wallpaper">Задаване на тапета...</string>
   <string name="set_lock_or_wallpaper">Задай като тапет</string>
-  <string name="set_lockscreen">Задаване като фон на закл. екран...</string>
+  <string name="set_lockscreen">Задаване на тапета…</string>
   <string name="set_recent_album">Задай като често преглеждан албум</string>
   <string name="set_screensaver_path_message">Снимките от този албум ще се показват 5 секунди след изключване на екрана.</string>
   <string name="set_screensaver_path_message_if_only_charging">Снимките в този албум ще се показват само когато телефона се зарежда.</string>
   <string name="set_screensaver_path_title">Скрийнсейвър слайдшоу</string>
-  <string name="set_wallpaper">Задава се тапет на нач. екран...</string>
+  <string name="set_wallpaper">Задаване на тапета…</string>
   <string name="settings">Настройки</string>
   <string name="settings_i_xiaomi_com">Влезте в i.xiaomi.com за преглеждане на Вашите облачни албуми</string>
   <string name="shadow">Сенки</string>
@@ -504,7 +503,7 @@
   <string name="width">Ширина</string>
   <string name="yellow_page">Папка</string>
   <string name="yes">Да</string>
-  <string name="bigscreen_video_quit">Докоснете за сприране на възпоизвеждането</string>
+  <string name="bigscreen_video_quit">Докоснете за изход</string>
   <string name="click_to_add_picture">Докоснете за добавяне на снимки</string>
   <string name="local_time">(Локално)</string>
   <string name="sync_in_progress_message">Протича синхронизация...</string>
