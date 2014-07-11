@@ -2,9 +2,9 @@
 <resources>
   <string name="about_preference_screen_title">Информация</string>
   <string name="about_preference_title">Информация</string>
-  <string name="acknowledge_button">Продължи</string>
+  <string name="acknowledge_btn">Продължи</string>
   <string name="action_settings">Настройки</string>
-  <string name="activation_page">Кодът а неактивен</string>
+  <string name="activation_page">Кодът e неактивен</string>
   <string name="activation_page_btn_txt">Активиране</string>
   <string name="activation_page_info">Впишете се на account.xiaomi.com</string>
   <string name="add_account_menu_item">Добавяне на профил</string>
@@ -166,4 +166,7 @@
   <string name="welcome_page_details">Потвърждаването в две стъпки защитава профила ви в Xiaomi дори ако паролата ви бъде открадната.</string>
   <string name="welcome_page_title">Всеки ден защитата на хиляди профили бива пробита.</string>
   <string name="success_copy_to_clipboard">Копирано в буфера</string>
+  <string name="continue_btn">Продължи</string>
+  <string name="authenticator_invalid_tip">Можете да затворите приложението или да генерирате друг код за удостоверяване</string>
+  <string name="authenticator_invalid_title">Профил: %1$s неправилен код</string>
 </resources>
