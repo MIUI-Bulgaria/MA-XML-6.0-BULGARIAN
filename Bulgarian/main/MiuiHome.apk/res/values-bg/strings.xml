@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_not_found">Приложението не е инсталирано на телефона Ви.</string>
+  <string name="activity_not_found">Приложението не е инсталирано на устройството ви.</string>
   <string name="application_name">MIUI Launcher</string>
   <string name="apply_as_lock_wallpaper">Прилагане</string>
   <string name="apply_as_lock_wallpaper_message">Тапетът да се приложи ли също и на закл. екран?</string>

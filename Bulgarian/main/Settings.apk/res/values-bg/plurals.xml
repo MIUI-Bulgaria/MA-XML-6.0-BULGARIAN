@@ -41,8 +41,8 @@
         <item quantity="one">Намерен е %1$s принтер</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">Вече сте на %1$d стъпки от влизането в информацията за телефона.</item>
-        <item quantity="one">Вече сте на %1$d стъпка от влизането в информацията за телефона.</item>
+        <item quantity="other">Вече сте на %1$d стъпки от влизането в информацията за устройството.</item>
+        <item quantity="one">Вече сте на %1$d стъпка от влизането в информацията за устройството.</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Вече сте на %1$d стъпки от това, да влезете в инженерно меню Cit.</item>

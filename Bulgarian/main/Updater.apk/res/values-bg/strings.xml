@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_device">Информация за телефона</string>
+  <string name="about_device">Информация за устройството</string>
   <string name="active_xiaomi_account">Активиране</string>
   <string name="active_xiaomi_account_msg">"Моля посетете MIUI форума за активиране на своя Xiaomi профил:"</string>
   <string name="active_xiaomi_account_title">Активиране на Xiaomi профил</string>
@@ -14,7 +14,7 @@
   <string name="apply_update_dialog_update_button">Актуализация</string>
   <string name="apply_update_fail">Актуализирането е неуспешно</string>
   <string name="apply_update_timer">Актуализацията е завършена，телефонът ще се рестартира след %d секунди</string>
-  <string name="apply_upload_info_message">За прилагането на актуализацията и рестартиране на телефона, натиснете \"Актуализирай\".</string>
+  <string name="apply_upload_info_message">За прилагането на актуализацията и рестартиране на устройството, натиснете \"Актуализирай\".</string>
   <string name="apply_upload_info_message_manually">След рестартиране, можете ръчно да влезете в режим Recovery за да приложите актуализацията %s ръчно. Ако желаете да създадете резервно копие на данните си, трябва да го направите преди прилагане на актуализацията.</string>
   <string name="applying_rom_message">Инсталиране на актуализацията</string>
   <string name="applying_update">Протича актуализация... %s</string>

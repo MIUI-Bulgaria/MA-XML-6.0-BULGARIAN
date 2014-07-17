@@ -263,7 +263,7 @@
   <string name="loading_suspend">Изтеглянето спря: Ще бъде подновено при налична Wi-Fi връзка</string>
   <string name="loading_thumbnail">Зареждане на миниатюри...</string>
   <string name="loading_video">Зареждане на видео…</string>
-  <string name="local_albums">Албуми на телефона</string>
+  <string name="local_albums">Албуми на устройството</string>
   <string name="location">Местоположение</string>
   <string name="locations">Мостоположения</string>
   <string name="lomoish">Ломо</string>
@@ -386,7 +386,7 @@
   <string name="scan_qr_code_buttom_text">QR код за показване на този албум.</string>
   <string name="scan_qr_code_failure">Сканирането е неуспешно.</string>
   <string name="screensaver_activate_mode">Скрийнсейвър слайдшоу</string>
-  <string name="screensaver_activate_only_charging">Активирай само при зареждане на телефона</string>
+  <string name="screensaver_activate_only_charging">Активирай само при зареждане на устройството</string>
   <string name="screensaver_category">Скрийнсейвър</string>
   <string name="screensaver_path">Скрийнсейвър албум:</string>
   <string name="screensaver_path_not_set">Не е зададен</string>
@@ -412,7 +412,7 @@
   <string name="set_lockscreen">Задаване на тапета…</string>
   <string name="set_recent_album">Задай като често преглеждан албум</string>
   <string name="set_screensaver_path_message">Снимките от този албум ще се показват 5 секунди след изключване на екрана.</string>
-  <string name="set_screensaver_path_message_if_only_charging">Снимките в този албум ще се показват само когато телефона се зарежда.</string>
+  <string name="set_screensaver_path_message_if_only_charging">Снимките в този албум ще се показват само когато устройството се зарежда.</string>
   <string name="set_screensaver_path_title">Скрийнсейвър слайдшоу</string>
   <string name="set_wallpaper">Задаване на тапета…</string>
   <string name="settings">Настройки</string>

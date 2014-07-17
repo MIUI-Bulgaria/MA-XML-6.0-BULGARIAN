@@ -7,7 +7,7 @@
   <string name="app_name">Теми</string>
   <string name="apply_font_btn_exclude">Приложи без шрифта</string>
   <string name="apply_font_btn_reboot">Приложи и рестартирай</string>
-  <string name="apply_font_tip">Тази тема съдържа шрифт, необходимо е рестартиране на телефона за прилагането му.</string>
+  <string name="apply_font_tip">Тази тема съдържа шрифт, необходимо е рестартиране на устройството за прилагането му.</string>
   <string name="apply_lockscreen_paper_tips">Заключването на екрана не поддържа промяна на тапета.</string>
   <string name="apply_theme_no_select_message">Изберете компоненти.</string>
   <string name="apply_theme_with_ringtones">Приложи мелодиите на темата</string>

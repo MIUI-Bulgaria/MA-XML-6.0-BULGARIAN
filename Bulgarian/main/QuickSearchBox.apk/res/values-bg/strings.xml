@@ -35,7 +35,7 @@
   <string name="search_in_web">Търсене в интернет</string>
   <string name="search_settings">Настройки на търсенето</string>
   <string name="search_sources">Търсени елементи</string>
-  <string name="search_sources_summary">Изберете какво да търсите в телефона</string>
+  <string name="search_sources_summary">Изберете какво да търсите в устройството</string>
   <string name="search_widget">Търсене</string>
   <string name="system_search_category_title">Телефон</string>
   <string name="voice_search_hint_quotation_end">\"</string>

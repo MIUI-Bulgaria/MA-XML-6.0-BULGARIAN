@@ -25,7 +25,7 @@
   <string name="aperture">Апертура</string>
   <string name="app_details">За програмата:</string>
   <string name="auto">Авто</string>
-  <string name="bg_replacement_message">"Поставете телефона върху повърхност
+  <string name="bg_replacement_message">"Поставете устройството върху повърхност
 Излезте от обзора на камерата за известно време"</string>
   <string name="camera_disabled">Камерата беше деактивирана.</string>
   <string name="camera_error_title">Грешка на камерата</string>
@@ -34,7 +34,7 @@
   <string name="can_not_play_video">За възпроизвеждане отключете екрана</string>
   <string name="cancel">Отказ</string>
   <string name="cannot_connect_camera_once">Няма връзка с камерата, затворете приложението</string>
-  <string name="cannot_connect_camera_twice">Няма връзка с камерата, рестартирайте телефона</string>
+  <string name="cannot_connect_camera_twice">Няма връзка с камерата, рестартирайте устройството</string>
   <string name="clear_effects">Изчисти ефектите</string>
   <string name="close">Затвори</string>
   <string name="cloud_album_details">Облачен албум:</string>
@@ -171,8 +171,8 @@
   <string name="pano_dialog_waiting_previous">Изчакване на обработката на предната панорама</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_how_to_use_prompt">Натиснете бутона на затвора за начало на панорамна снимка</string>
-  <string name="pano_how_to_use_prompt_go_on_moving">Продължете да движите телефона</string>
-  <string name="pano_how_to_use_prompt_to_move">Движете телефона плавно и в хоризонтална позиция</string>
+  <string name="pano_how_to_use_prompt_go_on_moving">Продължете да движите устройството</string>
+  <string name="pano_how_to_use_prompt_to_move">Движете устройството плавно и в хоризонтална позиция</string>
   <string name="pano_review_saving_indication_str">Записване...</string>
   <string name="pano_too_fast_prompt">Прекалено бързо</string>
   <string name="path">Път</string>

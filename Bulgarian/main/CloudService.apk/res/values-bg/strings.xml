@@ -9,7 +9,7 @@
   <string name="error_not_acceptable">Грешка на сървъра: Синхр. е деактивирана.</string>
   <string name="error_title">Грешка при синхр.</string>
   <string name="error_unauthorized">Твърде много опити за влизане: Синхр. е деактивирана.</string>
-  <string name="find_device">Намери телефона</string>
+  <string name="find_device">Намери устройството</string>
   <string name="find_device_stop_noise">Натиснете OK за заглушаване</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Спестява мобилни данни (това може да ви спести пари)</string>
   <string name="pref_title_sync_contacts_title">Синхронизация на контакти</string>
@@ -26,7 +26,7 @@
   <string name="sub_sync_item_sms_title_wifi_only">Синхр. MMS/SMS: само по Wi-Fi</string>
   <string name="sync_item_sms_summary">Синхронизиране на текстовите съобщения между устройствата</string>
   <string name="sync_item_sms_title">Синхр. съобщения</string>
-  <string name="find_device_noise_title">Звук при намиране на телефона</string>
+  <string name="find_device_noise_title">Звук при намиране на устройството</string>
   <string name="access_denied">Достъпът е отказан</string>
   <string name="account">Профил</string>
   <string name="account_bind_settings">Обвързване на профил</string>
@@ -90,7 +90,7 @@
   <string name="cloud_messaging">Облачни съобщения</string>
   <string name="cloud_service">Облачни услуги</string>
   <string name="cmcc_data_sync_notice">Използвайте вашият Xiaomi профил за синхронизиране на съобщения и контакти между устройствата си.</string>
-  <string name="cmcc_micloud_dspt">Използвайте Mi Cloud за синхронизиране на данни, локализиране на телефона ви и споделяне на съдържание с приятели.</string>
+  <string name="cmcc_micloud_dspt">Използвайте Mi Cloud за синхронизиране на данни, локализиране на устройството ви и споделяне на съдържание с приятели.</string>
   <string name="completed">Готово</string>
   <string name="confirm">Потвърди</string>
   <string name="current_account">Текущ профил</string>
@@ -127,7 +127,7 @@
   <string name="find_device_error_server">Грешка на сървъра</string>
   <string name="find_device_notice_p1">Посетете</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
-  <string name="find_device_notice_p3">за да намерите, заключите или нулирате вашия телефон дистанционно.</string>
+  <string name="find_device_notice_p3">за да намерите, заключите или нулирате вашето устройство дистанционно.</string>
   <string name="find_device_success_title">\"Намиране на устройството\" е включено</string>
   <string name="find_password_on_web_msg">Посетете account.xiaomi.com за възстановяване на вашата парола.</string>
   <string name="foreign_login"><u>Държава/Код</u></string>
@@ -154,9 +154,9 @@
   <string name="login_title">Вписване във вашия Mi профил</string>
   <string name="logout_failed">Неуспешно отписване</string>
   <string name="master_alert_notif_dspt_add">"През този период сте добавили %s. 
-Ако вашият телефон бъде загубен или изтрит, тези данни ще бъдат безвъзвратно загубени"</string>
+Ако вашето устройство бъде загубено или изтрито, тези данни ще бъдат безвъзвратно загубени"</string>
   <string name="master_alert_notif_dspt_no">"През този период не сте добавили нищо. 
-Ако вашият телефон бъде загубен или изтрит, тези данни ще бъдат безвъзвратно загубени"</string>
+Ако вашето устройство бъде загубено или изтрито, тези данни ще бъдат безвъзвратно загубени"</string>
   <string name="master_alert_notif_title">Данните не са синхронизирани от %s дни</string>
   <string name="micloud_account">Xiaomi</string>
   <string name="micloud_account_details">Детайли на профила</string>
@@ -189,7 +189,7 @@
 последвайте връзката за активиране от писмото в пощата ви."</string>
   <string name="micloud_data_loading">Зареждане…</string>
   <string name="micloud_delete_account">Отписване</string>
-  <string name="micloud_dspt">Използвайте Mi Cloud за синхронизиране на данни, локализиране на телефона ви и споделяне на съдържание с приятели.</string>
+  <string name="micloud_dspt">Използвайте Mi Cloud за синхронизиране на данни, локализиране на устройство ви и споделяне на съдържание с приятели.</string>
   <string name="micloud_email">Имейл адрес</string>
   <string name="micloud_error_email">Невалиден имейл</string>
   <string name="micloud_error_empty_captcha_code">Въведете captcha код</string>
@@ -200,7 +200,7 @@
   <string name="micloud_error_invalid_phone_num">Невалиден телефонен номер</string>
   <string name="micloud_full_influence_dspt">"Всички ваши снимки, видеоклипове, бележки и приложения ще бъдат архивирани в Mi Cloud профила ви. 
 
-Така, дори да изгубите или повредите телефона си, данните ви ще бъдат на сигурно място. 
+Така, дори да изгубите или повредите устройство си, данните ви ще бъдат на сигурно място. 
 
 Ако вашият облак е пълен, старите данни няма да бъдат автоматично премахнати, но няма да имате възможност за архивиране на нови данни.
 
@@ -213,8 +213,8 @@
   <string name="micloud_intro_01_part_02">Безплатни съобщения чрез Wi-Fi</string>
   <string name="micloud_intro_02_part_01">Спрете да използвате външни носители и имейл профили, за да местите файловете си!</string>
   <string name="micloud_intro_02_part_02">Синхронизирайте контакти, съобщения, снимки и други файлове помежду устройствата ви</string>
-  <string name="micloud_intro_03_part_01">Дистанционно подсигуряване на съдържанието в телефона</string>
-  <string name="micloud_intro_03_part_02">Локализиране, заключване или изтриване на съдържанието на телефона от i.xiaomi.com</string>
+  <string name="micloud_intro_03_part_01">Дистанционно подсигуряване на съдържанието в устройството</string>
+  <string name="micloud_intro_03_part_02">Локализиране, заключване или изтриване на съдържанието на устройството от i.xiaomi.com</string>
   <string name="micloud_is_what">Какво е Mi Cloud?</string>
   <string name="micloud_more"><u>Научете повече</u></string>
   <string name="micloud_none">Никой</string>
@@ -288,9 +288,9 @@
   <string name="skip_setup_account_title">Пропусни настройката на профила</string>
   <string name="start_micloud">Начало</string>
   <string name="sub_alert_notif_dspt_add">"%s не са синхронизирани. 
-Ако вашият телефон бъде загубен или изтрит, тези данни ще бъдат безвъзвратно загубени"</string>
+Ако вашето устройство бъде загубено или изтрито, тези данни ще бъдат безвъзвратно загубени"</string>
   <string name="sub_alert_notif_dspt_no">"Нищо не е синхронизирано. 
-Ако вашият телефон бъде загубен или изтрит, тези данни ще бъдат безвъзвратно загубени"</string>
+Ако вашето устройство бъде загубено или изтрито, тези данни ще бъдат безвъзвратно загубени"</string>
   <string name="sub_alert_notif_title">Синхронизацията не е включена</string>
   <string name="sync_dspt">Включи синхр.</string>
   <string name="sync_off">Изкл.</string>

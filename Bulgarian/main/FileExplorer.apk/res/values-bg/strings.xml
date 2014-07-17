@@ -130,7 +130,7 @@
   <string name="header_text_scanned">Намерени файлове</string>
   <string name="header_text_scanning">Търсене…</string>
   <string name="instruction">Въведете адреса във вашия FTP клиент:</string>
-  <string name="instruction_pre">Използва се за прехвърляне на файлове между телефона и компютъра с помощта на FTP протокол.</string>
+  <string name="instruction_pre">Използва се за прехвърляне на файлове между устройството и компютъра с помощта на FTP протокол.</string>
   <string name="item_name">Без име</string>
   <string name="kuaipan_label">MiDrive</string>
   <string name="kuaipan_over_space">Вашият MiDrive вече няма свободно място.</string>

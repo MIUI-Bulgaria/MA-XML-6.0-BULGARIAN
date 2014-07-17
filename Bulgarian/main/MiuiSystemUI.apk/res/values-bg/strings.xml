@@ -110,7 +110,7 @@
   <string name="lockscreen_carrier_default">Няма покритие</string>
   <string name="mdb_entering">Вход в MDB</string>
   <string name="mdb_restore_cancel">Отказ</string>
-  <string name="mdb_restore_info1">"Възстановява всички ваши данни на телефона"</string>
+  <string name="mdb_restore_info1">"Възстановява всички ваши данни на устройството"</string>
   <string name="mdb_restore_info2">Не изключвайте USB</string>
   <string name="mdb_restore_label">MDB възстановяване</string>
   <string name="mdb_restore_mode">Режим възстановяване</string>
