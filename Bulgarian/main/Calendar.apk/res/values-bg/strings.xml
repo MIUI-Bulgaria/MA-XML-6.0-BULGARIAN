@@ -238,4 +238,7 @@
   <string name="year_picker_description">Списък на годините</string>
   <string name="yearly">Всяка година (на %s)</string>
   <string name="yearly_plain">Всяка година</string>
+  <string name="rsvp_accepted">Отговорихте с „да“.</string>
+  <string name="rsvp_tentative">Отговорихте с „може би“.</string>
+  <string name="rsvp_declined">Отговорихте с „не“.</string>
 </resources>
