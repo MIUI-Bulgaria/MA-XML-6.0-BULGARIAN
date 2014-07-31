@@ -32,7 +32,6 @@
     <string name="app_name">MiKey</string>
     <string name="back_camera">Задна камера</string>
     <string name="birthday">Рожден ден:</string>
-    <string name="buy">Купете MiKey</string>
     <string name="call_to">Набиране</string>
     <string name="cancel">Отказ</string>
     <string name="category_app">Приложения</string>
@@ -69,7 +68,7 @@
     <string name="earphone">Слушалки</string>
     <string name="email">Имейл:</string>
     <string name="fail_generate_barcode">Неуспешно генериране на баркод</string>
-    <string name="faq_comp_text">За устройства с  MIUIv5 и Xiaomi устройства. Актуалната версия на приложението за MiKey можете да намерите на адрес <a href="http://miui.bg/community/">miui.bg/community</a></string>
+    <string name="faq_comp_text">За устройства с  MIUIv5 и Xiaomi телефони. Актуалната версия на приложението за MiKey можете да намерите на адрес <a href="http://miui.bg/community/">miui.bg/community</a></string>
     <string name="faq_comp_title">Кои устройства могат да използват MiKey?</string>
     <string name="faq_focus_text">Фокусирането при светкавица забавя момента на заснемане на снимката, но получените снимки са по-качествени. Можете да го изключите, но снимката ще бъде замъглена.</string>
     <string name="faq_focus_title">Бавно фотографиране?</string>
@@ -81,13 +80,13 @@
     <string name="faq_quni_title">Колко е издържливо MiKey?</string>
     <string name="faq_slow_text">Настройте скоростта на натискане на “0”</string>
     <string name="faq_slow_title">Реакцията при натискане е бавна?</string>
-    <string name="faq_speed_text">Тъй като мобилните телефони имат различна скорост на реакция, скоростта на щракване може да се регулира в настройките. Така сам можете да откриете ритъма на вашия мобилен телефон.</string>
+    <string name="faq_speed_text">Тъй като мобилните устройства имат различна скорост на реакция, скоростта на щракване може да се регулира в настройките. Така сам можете да откриете ритъма на вашето мобилно устройство.</string>
     <string name="faq_speed_title">Защо понякога действията са неуспешни?</string>
     <string name="faq_stat_text">Зануляването е в полунощ, така всяка сутрин имате “0” натискания</string>
     <string name="faq_stat_title">Кога се зануляват натисканията?</string>
     <string name="faq_title">Инструкции за употреба</string>
     <string name="faq_voice_text">Поставете отново MiKey и изберете, че сте свързали “MiKey”</string>
-    <string name="faq_voice_title">Телефонът няма никакъв звук?</string>
+    <string name="faq_voice_title">Устройството няма никакъв звук?</string>
     <string name="faq_vsm_text">Преди премахване на задния капак на устройството се уверете, че MiKey е извадено от него!</string>
     <string name="faq_vsm_title">Предупреждение</string>
     <string name="file_delimiter">/</string>
@@ -152,7 +151,7 @@
     <string name="sms_template">Текст на съобщението</string>
     <string name="sms_to">Изпращане на SMS</string>
     <string name="splash_tip">Свържете MiKey</string>
-    <string name="task_title_prefix">"Действие N: "</string>
+    <string name="task_title_prefix">"Действие %1$s: %2$s"</string>
     <string name="test_user_entry">Тест</string>
     <string name="times">пъти</string>
     <string name="title">Титла:</string>
@@ -161,4 +160,29 @@
     <string name="vcard_prompt">Не може да се добави в контакти защото името липсва</string>
     <string name="web">Уеб:</string>
     <string name="write_pic_fail">Грешка при запазване на снимката!</string>
+    <string name="chooser_dust_cap">Тапа против прах</string>
+    <string name="toast_open">Включено</string>
+    <string name="toast_close">Изключено</string>
+    <string name="toggle_wifi">Wi-Fi</string>
+    <string name="toggle_bluetooth">Bluetooth</string>
+    <string name="toggle_shake">Вибриране</string>
+    <string name="toggle_ring">Звънене</string>
+    <string name="toggle_gps">GPS</string>
+    <string name="toggle_data">3G/2G данни</string>
+    <string name="toggle_sleep">Сън</string>
+    <string name="toggle_bright">Яркост</string>
+    <string name="toggle_flight">Самолетен режим</string>
+    <string name="toggle_nfc">NFC</string>
+    <string name="action_open_camera360_capture">Camera360 ефекти</string>
+    <string name="action_open_camera360_edit">Camera360 редактиране</string>
+    <string name="setting_buy">Купете MiKey</string>
+    <string name="app_not_installed">Приложението не е инсталирано</string>
+    <string name="setting_toolbar">Панел с инстр.</string>
+    <string name="setting_toolbar_desc">"За по-голямо удобство, функциите на панела с инструменти са леснодостъпни от лентата с известия."</string>
+    <string name="setting_toolbar_tip">"Натиснете +, за да добавите функция.
+Задръжте дълго за изтриване.
+Можете и да създадете собствен панел с инструменти!
+
+Отворете панела с инструменти.
+От горната част на екрана плъзнете надолу, за да го използвате."</string>
 </resources>

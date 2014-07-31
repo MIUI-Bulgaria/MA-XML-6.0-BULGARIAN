@@ -165,8 +165,8 @@
   <string name="application_forbid_auto_startup">Забранете на %s стартиране във фонов режим</string>
   <string name="application_info_label">Информация за приложението</string>
   <string name="application_item_already_permission">Разрешено</string>
-  <string name="application_item_disable">Забрани</string>
-  <string name="application_item_permission">Разреши</string>
+  <string name="application_item_disable">-</string>
+  <string name="application_item_permission">+</string>
   <string name="application_restrictions">Разрешаване на приложения и съдържание</string>
   <string name="application_size_label">Приложение</string>
   <string name="applications_settings">Приложения</string>
