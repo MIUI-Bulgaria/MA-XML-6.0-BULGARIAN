@@ -2729,4 +2729,8 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="dialog_content_login">Необходим е Xiaomi профил за актуализацията, ще се впишете ли?</string>
   <string name="lockpassword_pin_fixed_length">PIN кодът трябва да е с %d цифри</string>
   <string name="add_auto_startup_application">Добави приложение</string>
+  <string name="priority_storage_app_settings">Потр. данни ще се съхраняват на %1$s</string>
+  <string name="priority_storage_settings_summary">Ако не е поставена SD карта, потребителските данни автоматично ще се записват на вътрешното хранилище</string>
+  <string name="priority_storage_summary">Изберете хранилище по подразбиране за съхранение на потребителските данни</string>
+  <string name="priority_storage_title">Избор на хранилище</string>
 </resources>
