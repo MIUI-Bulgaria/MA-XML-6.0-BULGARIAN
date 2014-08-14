@@ -69,7 +69,7 @@
     <string name="email">Имейл:</string>
     <string name="fail_generate_barcode">Неуспешно генериране на баркод</string>
     <string name="faq_comp_text">За устройства с  MIUIv5 и Xiaomi телефони. Актуалната версия на приложението за MiKey можете да намерите на адрес <a href="http://miui.bg/community/">miui.bg/community</a></string>
-    <string name="faq_comp_title">Кои телефони могат да използват MiKey?</string>
+    <string name="faq_comp_title">Кои устройства могат да използват MiKey?</string>
     <string name="faq_focus_text">Фокусирането при светкавица забавя момента на заснемане на снимката, но получените снимки са по-качествени. Можете да го изключите, но снимката ще бъде замъглена.</string>
     <string name="faq_focus_title">Бавно фотографиране?</string>
     <string name="faq_misreq_text">Ако при слушане на музика MiKey не реагира на заключен екран, затворете и изчистете от RAM паметта приложението Музика, свържете отново MiKey и изберете, че сте свързали “MiKey”. Този проблем ни е известен и работим по неговото отстраняване.</string>
@@ -80,14 +80,14 @@
     <string name="faq_quni_title">Колко е издържливо MiKey?</string>
     <string name="faq_slow_text">Настройте скоростта на натискане на “0”</string>
     <string name="faq_slow_title">Реакцията при натискане е бавна?</string>
-    <string name="faq_speed_text">Тъй като мобилните телефони имат различна скорост на реакция, скоростта на щракване може да се регулира в настройките. Така сам можете да откриете ритъма на вашия мобилен телефон.</string>
+    <string name="faq_speed_text">Тъй като мобилните устройства имат различна скорост на реакция, скоростта на щракване може да се регулира в настройките. Така сам можете да откриете ритъма на вашето мобилно устройство.</string>
     <string name="faq_speed_title">Защо понякога действията са неуспешни?</string>
     <string name="faq_stat_text">Зануляването е в полунощ, така всяка сутрин имате “0” натискания</string>
     <string name="faq_stat_title">Кога се зануляват натисканията?</string>
     <string name="faq_title">Инструкции за употреба</string>
     <string name="faq_voice_text">Поставете отново MiKey и изберете, че сте свързали “MiKey”</string>
-    <string name="faq_voice_title">Телефонът няма никакъв звук?</string>
-    <string name="faq_vsm_text">Преди премахване на задния капак на телефона се уверете, че MiKey е извадено от него!</string>
+    <string name="faq_voice_title">Устройството няма никакъв звук?</string>
+    <string name="faq_vsm_text">Преди премахване на задния капак на устройството се уверете, че MiKey е извадено от него!</string>
     <string name="faq_vsm_title">Предупреждение</string>
     <string name="file_delimiter">/</string>
     <string name="flash_lable">Светкавица</string>
