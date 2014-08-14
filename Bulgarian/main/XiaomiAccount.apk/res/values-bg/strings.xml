@@ -242,4 +242,6 @@
     <string name="change_account">Промяна на профила</string>
     <string name="register_account_verified_confirm">Активиран</string>
     <string name="register_account_goto_email">Към имейла</string>
+    <string name="error_login">Неуспешно вписване</string>
+    <string name="relogin_notice">Необходимо е да влезете отново</string>
 </resources>
