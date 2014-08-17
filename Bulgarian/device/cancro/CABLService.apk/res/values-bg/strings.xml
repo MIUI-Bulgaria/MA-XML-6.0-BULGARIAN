@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Адаптивна подсветка</string>
+    <string name="cabl_settings_title">Настройка на адаптивната подсветка</string>
+    <string name="cabl_enable_title">Включи адаптивната подсветка</string>
+    <string name="cabl_enable_summary_on">Подсветката ще се регулира според изобразеното на екрана</string>
+    <string name="cabl_enable_summary_off">Подсветката няма да се регулира според изобразеното на екрана</string>
+    <string name="cabl_levels_title">Нива на подсветката</string>
+    <string name="cabl_levels_summary">По-ниското ниво означава спестяване на енергия, но може да доведе до прекалено затъмняване на екрана</string>
+    <string name="cabl_info_default">Неизвестно</string>
+    <string name="cabl_level_default">Авто</string>
+    <string name="cabl_version_title">Версия</string>
+</resources>
