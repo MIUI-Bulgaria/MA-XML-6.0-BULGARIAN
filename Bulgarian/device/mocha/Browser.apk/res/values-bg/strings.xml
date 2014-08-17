@@ -181,11 +181,7 @@
   <string name="done">Готово</string>
   <string name="download_complete">Изтеглянето завърши</string>
   <string name="download_failed">Неуспешно изтегляне</string>
-  <string name="download_no_sdcard_dlg_msg">За изтегляне на %s е необходимo USB хранилище.</string>
-  <string name="download_no_sdcard_dlg_title">USB хранилището е недостъпно</string>
   <string name="download_pending">Започва изтегляне...</string>
-  <string name="download_sdcard_busy_dlg_msg">USB хранилище е заето. За да разрешите изтегляне, натиснете "Изключи USB хранилището" в лентата с известия.</string>
-  <string name="download_sdcard_busy_dlg_title">USB хранилището е недостъпно</string>
   <string name="dump_nav">Изчисти кеша на навигацията</string>
   <string name="edit">Редактирай</string>
   <string name="edit_bookmark">Редактирай отметка</string>
@@ -607,4 +603,8 @@
   <string name="miuichromium_error_page_reason_server">Браузърът не може да зареди страницата</string>
   <string name="miuichromium_error_page_reload">Презареди</string>
   <string name="miuichromium_error_page_url">Преглед на URL на страницата</string>
+  <string name="download_no_sdcard_dlg_msg">Изисква се SD карта за изтеглянето на %s.</string>
+  <string name="download_no_sdcard_dlg_title">Няма SD карта</string>
+  <string name="download_sdcard_busy_dlg_msg">SD картата е заета. За да разрешите изтегляния, докоснете „Изключване на USB хранилището“ в известието.</string>
+  <string name="download_sdcard_busy_dlg_title">Няма SD карта</string>
 </resources>

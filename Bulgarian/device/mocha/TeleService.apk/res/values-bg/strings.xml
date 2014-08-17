@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_call_muted">Обаждането бе спряно.</string>
     <string name="accessibility_speakerphone_enabled">Високоговорителят бе активиран.</string>
