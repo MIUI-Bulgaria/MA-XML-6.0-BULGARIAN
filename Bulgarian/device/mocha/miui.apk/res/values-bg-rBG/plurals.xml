@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Току що</item>
+        <item quantity="other">Току-що</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Току що</item>
+        <item quantity="other">Току-що</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Незабавно</item>
