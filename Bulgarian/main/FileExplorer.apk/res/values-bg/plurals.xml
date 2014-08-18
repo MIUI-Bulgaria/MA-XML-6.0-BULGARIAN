@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d елементи</item>
+        <item quantity="zero">%d елементи</item>
+        <item quantity="one">%d елемент</item>
+        <item quantity="two">%d елементи</item>
+        <item quantity="few">%d елементи</item>
+        <item quantity="many">%d елементи</item>
+    </plurals>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Да се изтрият ли %1$d файлове</item>
+        <item quantity="zero">Да се изтрият ли %1$d файлове</item>
+        <item quantity="one">Да се изтрият ли %1$d файл</item>
+        <item quantity="two">Да се изтрият ли %1$d файла</item>
+        <item quantity="few">Да се изтрият ли %1$d файла</item>
+        <item quantity="many">Да се изтрият ли %1$d файлове</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" и %1$d папки?"</item>
+        <item quantity="zero">" и %1$d папки?"</item>
+        <item quantity="one">" и %1$d папка?"</item>
+        <item quantity="two">" и %1$d папки?"</item>
+        <item quantity="few">" и %1$d папки?"</item>
+        <item quantity="many">" и %1$d папки?"</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Остават %1$d файла за изтегляне</item>
+        <item quantity="zero">Остават %1$d файла за изтегляне</item>
+        <item quantity="one">Остава %1$d файл за изтегляне</item>
+        <item quantity="two">Остават %1$d файла за изтегляне</item>
+        <item quantity="few">Остават %1$d файла за изтегляне</item>
+        <item quantity="many">Остават %1$d файла за изтегляне</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Остават %1$d файла за качване</item>
+        <item quantity="zero">Остават %1$d файла за качване</item>
+        <item quantity="one">Остава %1$d файл за качване</item>
+        <item quantity="two">Остават %1$d файла за качване</item>
+        <item quantity="few">Остават %1$d файла за качване</item>
+        <item quantity="many">Остават %1$d файла за качване</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d избрани</item>
+        <item quantity="zero">%1$d избрани</item>
+        <item quantity="one">%1$d избран</item>
+        <item quantity="two">%1$d избрани</item>
+        <item quantity="few">%1$d избрани</item>
+        <item quantity="many">%1$d избрани</item>
+    </plurals>
+</resources>

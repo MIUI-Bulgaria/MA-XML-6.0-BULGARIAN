@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Отговор</item>
+        <item>Отг. до всички</item>
+        <item>Препращане</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Успех</item>
+        <item>Няма връзка.</item>
+        <item>Не можахте да влезете.</item>
+        <item>Грешка в сигурността.</item>
+        <item>Не можа да се синхронизира.</item>
+        <item>Изключение на сървъра</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Система</item>
+        <item>Често ползвано</item>
+        <item>Всички папки</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>По-нова</item>
+        <item>По-стара</item>
+        <item>Списък с кореспонденции</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Показване на по-новата кореспонденция след изтриване</item>
+        <item>Показване на по-старата кореспонденция след изтриване</item>
+        <item>Показване на списъка с кореспонденции след изтриване</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Показване само на архивирането</item>
+        <item>Показване само на изтриването</item>
+        <item>Показване на архивирането и изтриването</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Показване само на архивирането</item>
+        <item>Показване само на изтриването</item>
+        <item>Показване на архивирането и изтриването</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Скорошни</item>
+        <item>Формат</item>
+        <item>Име</item>
+        <item>Подател</item>
+        <item>Дата</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Миниатюрен текст</item>
+        <item>Малък текст</item>
+        <item>Нормален текст</item>
+        <item>Голям текст</item>
+        <item>Огромен текст</item>
+    </string-array>
+</resources>

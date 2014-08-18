@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Преместване на %1$d кореспонденции</item>
+        <item quantity="zero">Преместване на %1$d кореспонденции</item>
+        <item quantity="one">Преместване на кореспонденция</item>
+        <item quantity="two">Преместване на %1$d кореспонденции</item>
+        <item quantity="few">Преместване на %1$d кореспонденции</item>
+        <item quantity="many">Преместване на %1$d кореспонденции</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Чернови</item>
+        <item quantity="one">Чернова</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Да се изтрият ли тези %1$d кореспонденции?</item>
+        <item quantity="zero">Да се изтрият ли тези %1$d кореспонденции?</item>
+        <item quantity="one">Да се изтрие ли тази кореспонденция?</item>
+        <item quantity="two">Да се изтрият ли тези %1$d кореспонденции?</item>
+        <item quantity="few">Да се изтрият ли тези %1$d кореспонденции?</item>
+        <item quantity="many">Да се изтрият ли тези %1$d кореспонденции?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Тези кореспонденции имат обединени елементи, да се изтрият ли всичките?</item>
+        <item quantity="zero">Тези кореспонденции имат обединени елементи, да се изтрият ли всичките?</item>
+        <item quantity="one">Тази кореспонденция има обединени елементи, да се изтрият ли всичките?</item>
+        <item quantity="two">Тези кореспонденции имат обединени елементи, да се изтрият ли всичките?</item>
+        <item quantity="few">Тези кореспонденции имат обединени елементи, да се изтрият ли всичките?</item>
+        <item quantity="many">Тези кореспонденции имат обединени елементи, да се изтрият ли всичките?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Да се архивират ли тези %1$d кореспонденции?</item>
+        <item quantity="zero">Да се архивират ли тези %1$d кореспонденции?</item>
+        <item quantity="one">Да се архивира ли тази кореспонденция?</item>
+        <item quantity="two">Да се архивират ли тези %1$d кореспонденции?</item>
+        <item quantity="few">Да се архивират ли тези %1$d кореспонденции?</item>
+        <item quantity="many">Да се архивират ли тези %1$d кореспонденции?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Да се отхвърлят ли черновите от %1$d кореспонденции?</item>
+        <item quantity="one">Да се отхвърлят ли черновите от кореспонденцията?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Звездите се премахват от %1$d кореспонденции.</item>
+        <item quantity="one">Звездата се премахва от %1$d кореспонденция.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Спряхте %1$d.</item>
+        <item quantity="one">Спряхте %1$d.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Подадохте сигнал за спам за %1$d.</item>
+        <item quantity="one">Подадохте сигнал за спам за %1$d.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Подадохте сигнал „Не е спам“ за %1$d.</item>
+        <item quantity="one">Подадохте сигнал „Не е спам“ за %1$d.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Означихте %1$d като маловажни.</item>
+        <item quantity="one">Означихте %1$d като маловажна.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Подадохте сигнал за фишинг за %1$d.</item>
+        <item quantity="one">Подадохте сигнал за фишинг за %1$d.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Архивирахте %1$d.</item>
+        <item quantity="one">Архивирахте %1$d.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Изтрихте %1$d.</item>
+        <item quantity="one">Изтрихте %1$d.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Променихте папките.</item>
+        <item quantity="one">Променихте папката.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d нови съобщения. Показване.</item>
+        <item quantity="zero">%1$d нови съобщения. Показване.</item>
+        <item quantity="one">Показване на %1$d ново съобщение.</item>
+        <item quantity="two">%1$d нови съобщения. Показване.</item>
+        <item quantity="few">%1$d нови съобщения. Показване.</item>
+        <item quantity="many">%1$d нови съобщения. Показване.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d по-стари съобщения</item>
+        <item quantity="zero">%1$d по-стари съобщения</item>
+        <item quantity="one">%1$d по-стари съобщения</item>
+        <item quantity="two">%1$d по-стари съобщения</item>
+        <item quantity="few">%1$d по-стари съобщения</item>
+        <item quantity="many">%1$d по-стари съобщения</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d непрочетени</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d съобщения ще бъдат изтрити за постоянно.</item>
+        <item quantity="zero">%1$d съобщения ще бъдат изтрити за постоянно.</item>
+        <item quantity="one">%1$d съобщение ще бъде изтрито за постоянно.</item>
+        <item quantity="two">%1$d съобщения ще бъдат изтрити за постоянно.</item>
+        <item quantity="few">%1$d съобщения ще бъдат изтрити за постоянно.</item>
+        <item quantity="many">%1$d съобщения ще бъдат изтрити за постоянно.</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Преместване на съобщения</item>
+        <item quantity="zero">Преместване на съобщения</item>
+        <item quantity="one">Преместване на съобщение</item>
+        <item quantity="two">Преместване на съобщения</item>
+        <item quantity="few">Преместване на съобщения</item>
+        <item quantity="many">Преместване на съобщения</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d Б</item>
+        <item quantity="zero">%d Б</item>
+        <item quantity="one">%d Б</item>
+        <item quantity="two">%d Б</item>
+        <item quantity="few">%d Б</item>
+        <item quantity="many">%d Б</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d КБ</item>
+        <item quantity="zero">%d КБ</item>
+        <item quantity="one">%d КБ</item>
+        <item quantity="two">%d КБ</item>
+        <item quantity="few">%d КБ</item>
+        <item quantity="many">%d КБ</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d МБ</item>
+        <item quantity="zero">%d МБ</item>
+        <item quantity="one">%d МБ</item>
+        <item quantity="two">%d МБ</item>
+        <item quantity="few">%d МБ</item>
+        <item quantity="many">%d МБ</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d ГБ</item>
+        <item quantity="zero">%d ГБ</item>
+        <item quantity="one">%d ГБ</item>
+        <item quantity="two">%d ГБ</item>
+        <item quantity="few">%d ГБ</item>
+        <item quantity="many">%d ГБ</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">Избрани: %d</item>
+        <item quantity="zero">Избрани: %d</item>
+        <item quantity="one">Избрани: %d</item>
+        <item quantity="two">Избрани: %d</item>
+        <item quantity="few">Избрани: %d</item>
+        <item quantity="many">Избрани: %d</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">Избрани: %d</item>
+        <item quantity="zero">Избрани: %d</item>
+        <item quantity="one">Избрани: %d</item>
+        <item quantity="two">Избрани: %d</item>
+        <item quantity="few">Избрани: %d</item>
+        <item quantity="many">Избрани: %d</item>
+    </plurals>
+</resources>
