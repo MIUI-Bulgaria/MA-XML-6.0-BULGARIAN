@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Винаги включено</item>
+        <item>При поискване</item>
+        <item>Изключено</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Начална страница</item>
+        <item>По избор</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Много малък</item>
+        <item>Малък</item>
+        <item>Нормален</item>
+        <item>Голям</item>
+        <item>Най-голям</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Малък</item>
+        <item>Среден</item>
+        <item>Голям</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Никога</item>
+        <item>Само по Wi-Fi</item>
+        <item>Винаги</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Никога</item>
+        <item>Само по Wi-Fi</item>
+        <item>Винаги</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Никога</item>
+        <item>Само по Wi-Fi</item>
+        <item>Винаги</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Скролиране по страницата</item>
+        <item>Превключване м/у раздели</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Напред/назад за страница</item>
+        <item>Превключване м/у раздели</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>Никога</item>
+        <item>Само по Wi-Fi</item>
+        <item>Винаги</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Бяла</item>
+        <item>Жълта</item>
+        <item>Сива</item>
+        <item>Кафява</item>
+        <item>Зелена</item>
+        <item>Синя</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>Огромен</item>
+        <item>Голям</item>
+        <item>Нормален</item>
+        <item>Малък</item>
+    </string-array>
+</resources>

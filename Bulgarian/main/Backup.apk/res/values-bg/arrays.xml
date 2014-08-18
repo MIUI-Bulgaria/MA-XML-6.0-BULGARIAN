@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Параметри на Wi-Fi</item>
+        <item>Всички приложения</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Браузър</item>
+        <item>Галерия</item>
+        <item>Разрешения</item>
+        <item>Камера</item>
+        <item>Монитор на моб. данни</item>   
+        <item>Данни за времето</item>
+        <item>Времето</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Контакти</item>
+        <item>Списък с повиквания</item>
+        <item>Съобщения</item>
+        <item>MMS</item>
+        <item>Системни настройки</item>
+        <item>Настройки на Wi-Fi</item>
+        <item>Икони на началния екран</item>
+        <item>Настройки на аларми</item>
+        <item>Бележки</item>
+        <item>Не безпокойте</item>
+        <item>Профили</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Данни</item>
+        <item>Приложения</item>
+        <item>Приложения и Данни</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Контакти</item>
+        <item>Списък с повиквания</item>
+        <item>Съобщения</item>
+        <item>Настройки на Wi-Fi</item>
+        <item>Бележки</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Контакти</item>
+        <item>Настройки на Wi-Fi</item>
+        <item>Бележки</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Списък с повиквания</item>
+        <item>Съобщения</item>
+    </string-array>
+</resources>
