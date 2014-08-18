@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Показани %d контакта с телефонни номера</item>
+        <item quantity="one">Показан 1 контакт с телефонен номер</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Показани %d контакта</item>
+        <item quantity="one">Показан 1 контакт</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Открити %d контакта</item>
+        <item quantity="one">Открит 1 контакт</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d контакта</item>
+        <item quantity="one">1 контакт</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Обединен от %0$d източника</item>
+        <item quantity="one">Необединен</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d групи</item>
+        <item quantity="one">1 група</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d души от %2$s</item>
+        <item quantity="one">%1$d човек от %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d души</item>
+        <item quantity="one">%1$d човек</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d номера</item>
+        <item quantity="one">%1$d номер</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Гласови съобщения: %1$d</item>
+        <item quantity="one">Гласова поща</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Избрано: %1$d</item>
+        <item quantity="zero">Избрано: %1$d</item>
+        <item quantity="one">Избрано: %1$d</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d добавени контакти"</item>
+        <item quantity="one">%1$d добавен контакт</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d души</item>
+        <item quantity="one">1 човек</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">Избрано: %1$d</item>
+        <item quantity="zero">Избрано: %1$d</item>
+        <item quantity="one">Избрано: %1$d</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">Любими: %1$d</item>
+        <item quantity="one">Любими: %1$d</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">Последни контакти: %1$d</item>
+        <item quantity="one">1 последен контакт</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">Контакти: %1$d</item>
+        <item quantity="one">Контакти: %1$d</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">Номера: %1$d</item>
+        <item quantity="one">Номера: %1$d</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">Имейли: %1$d</item>
+        <item quantity="one">1 Имейл</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">Любими: %1$d</item>
+        <item quantity="one">Любими: %1$d</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">Последни контакти: %1$d</item>
+        <item quantity="one">Последни контакти: %1$d</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">Импортирани контакти: %1$d</item>
+        <item quantity="one">Импортирани контакти: %1$d</item>
+    </plurals>
+</resources>

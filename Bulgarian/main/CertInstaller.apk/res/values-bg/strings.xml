@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Инсталатор на сертиф.</string>
+    <string name="pick_file_title">Избор на сертификат</string>
+    <string name="pkcs12_password_dialog_title">Извличане на сертификата</string>
+    <string name="extracting_pkcs12">Извличат се...</string>
+    <string name="pkcs12_file_password_dialog_title">Извличане от %s</string>
+    <string name="name_credential_dialog_title">Наименуване на сертификата</string>
+    <string name="credential_name">Име на сертификата:</string>
+    <string name="credential_password">Въведете паролата за извличане на сертификатите.</string>
+    <string name="credential_info">Съдържание на пакета:</string>
+    <string name="p12_description">Сертификати в хранилище за ключове във формат PKCS12</string>
+    <string name="one_userkey">един потребителски ключ</string>
+    <string name="one_usercrt">един потребителски сертификат</string>
+    <string name="one_cacrt">един сертификат от сертифициращ орган</string>
+    <string name="n_cacrts">%d сертификата от сертифициращи органи</string>
+    <string name="password_error">Въведете правилната парола.</string>
+    <string name="password_empty_error">Въведете паролата.</string>
+    <string name="name_empty_error">Въведете име.</string>
+    <string name="name_char_error">Въведете име, което съдържа само букви и цифри.</string>
+    <string name="storage_error">Сертификатът не можа да се запази. Докоснете „OK“, за да опитате отново.</string>
+    <string name="unable_to_save_cert">Сертификатът не можа да бъде запазен. Хранилището за идентификационни данни не е активирано или не е подготвено за работа правилно.</string>
+    <string name="cert_not_saved">Сертификатът не е инсталиран.</string>
+    <string name="no_cert_to_saved">Няма сертификат за инсталиране.</string>
+    <string name="invalid_cert">Сертификатът е невалиден.</string>
+    <string name="cert_is_added">%s е инсталиран.</string>
+    <string name="cert_too_large_error">Не можа да се инсталира, защото размерът на сертификата е твърде голям.</string>
+    <string name="cert_missing_error">Не можа да се инсталира, защото файлът със сертификата не можа да бъде намерен.</string>
+    <string name="cert_read_error">Не можа да се инсталира, защото файлът със сертификата не можа да бъде прочетен.</string>
+    <string name="no_cert_file_found">На SD картата не бе намерен файл със сертификат.</string>
+    <string name="sdcard_not_present">SD картата липсва.</string>
+    <string name="only_primary_user_allowed">Само собственикът на това устройство може да инсталира сертификати.</string>
+    <string name="credential_usage_label">Използв. на идент. данни</string>
+</resources>
