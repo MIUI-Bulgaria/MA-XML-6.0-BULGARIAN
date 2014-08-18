@@ -1678,10 +1678,8 @@
   <string name="screensaver_settings_summary_sleep">При зареждане</string>
   <string name="screensaver_settings_title">Мечта</string>
   <string name="screensaver_settings_when_to_dream">Време за мечти</string>
-  <string name="sd_card_settings_label">USB хранилище</string>
   <string name="sd_ejecting_summary">Извършва се активиране</string>
   <string name="sd_ejecting_title">Деактивиране</string>
-  <string name="sd_format">Изтриване на USB</string>
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Промените влизат в сила, когато USB кабелът се свърже отново.</string>
   <string name="sdcard_settings_available_bytes_label">Налични байтове:</string>
