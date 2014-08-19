@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="altitude">%.1f</string>
+  <string name="altitude_title">Височина</string>
+  <string name="altitude_unit">m</string>
+  <string name="app_label">Компас</string>
+  <string name="calibrate_failed_no_location">Калибрирането се провали: Географската ширина и дължина не може да бъде определена</string>
+  <string name="calibrate_failed_timeout">Калибрирането се провали: Изтече времето за връзка със сървъра</string>
+  <string name="calibrate_success">Калибрирането е изпълнено</string>
+  <string name="cannot_get_location">Неизвестно местоположение</string>
+  <string name="dialog_calibrat_altitude">Калибриране на височината чрез интернет връзка.</string>
+  <string name="dialog_title_no_network">Не е открита мрежа. Свържете се с Wi-Fi мрежа или включете мобилните данни</string>
+  <string name="direction_east">И</string>
+  <string name="direction_north">С</string>
+  <string name="direction_south">Ю</string>
+  <string name="direction_west">З</string>
+  <string name="getting_location">Определяне на местоположението...</string>
+  <string name="guide_toast">"Възможни са смущения в магнитното поле. Моля, калибрирайте компаса чрез следното движение."</string>
+  <string name="latitude">Ширина</string>
+  <string name="location_east">И.Д.</string>
+  <string name="location_north">С.Ш.</string>
+  <string name="location_south">Ю.Ш.</string>
+  <string name="location_west">З.Д.</string>
+  <string name="longitude">Дължина</string>
+  <string name="menu_calibrate">Калибриране</string>
+  <string name="menu_calibrate_altitude">Калибриране на височината</string>
+  <string name="pressure">%.1f</string>
+  <string name="pressure_title">Налягане</string>
+  <string name="pressure_unit">hPa</string>
+  <string name="direction_north_east">СИ</string>
+  <string name="direction_north_west">СЗ</string>
+  <string name="direction_south_east">ЮИ</string>
+  <string name="direction_south_west">ЮЗ</string>
+  <string name="do_not_show_next_time">"Don't show again"</string>
+  <string name="mobiledata_alert_dialog_message">Connect to the internet to calibrate altitude?</string>
+  <string name="mobiledata_alert_dialog_title">Data usage warning</string>
+</resources>

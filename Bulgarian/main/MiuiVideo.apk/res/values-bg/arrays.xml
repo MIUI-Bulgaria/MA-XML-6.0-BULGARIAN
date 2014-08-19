@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Горещи</item>
+        <item>Популярни</item>
+        <item>Най-нови</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Избрани</item>
+        <item>Популярни</item>
+        <item>Най-нови</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Онлайн</item>
+        <item>Телефон</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Сериал</item>
+        <item>Описание</item>
+    </string-array>
+    <string-array name="addon_list_tabs">
+        <item>Всички промоции</item>
+        <item>Моите промоции</item>
+    </string-array>
+</resources>

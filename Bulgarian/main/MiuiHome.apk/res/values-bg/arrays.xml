@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Приплъзване</item>
+        <item>Плъзване</item>
+        <item>Избледняване</item>
+        <item>2D ротация</item>
+        <item>Страница</item>
+        <item>Каскадно</item>
+        <item>3D ротация</item>
+        <item>3D куб</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Според темата</item>
+        <item>Централно</item>
+        <item>Отляво</item>
+        <item>Отдясно</item>
+    </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>По подразбиране</item>
+        <item>Класическа</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Clear</item>
+        <item>Cloudy</item>
+        <item>Hazy</item>
+        <item>Foggy</item>
+        <item>Severe rainstorm</item>
+        <item>Rainstorm</item>
+        <item>Very heavy rainfall</item>
+        <item>Thunderstorm</item>
+        <item>Shower</item>
+        <item>Heavy rainfall</item>
+        <item>Rain</item>
+        <item>Drizzle</item>
+        <item>Sleet</item>
+        <item>Snowstorm</item>
+        <item>Patches of snowfall</item>
+        <item>Heavy snowfall</item>
+        <item>Snowfall</item>
+        <item>Light snowfall</item>
+        <item>Strong sandstorm</item>
+        <item>Sandstorm</item>
+        <item>Light sandstorm</item>
+        <item>Sandstorm</item>
+        <item>Hail</item>
+        <item>Floating Dust</item>
+        <item>Haze</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Сортиране</item>
+        <item>Джаджи</item>
+        <item>Тапет</item>
+        <item>Ефекти</item>
+    </string-array>
+</resources>

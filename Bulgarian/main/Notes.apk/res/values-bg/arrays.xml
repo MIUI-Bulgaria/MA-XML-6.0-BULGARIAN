@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Име</item>
+        <item>Псевдоним</item>
+        <item>Телефон</item>
+        <item>Имейл</item>
+        <item>Организация</item>
+        <item>IM</item>
+        <item>Интернет-телефон</item>
+        <item>Рожден ден</item>
+        <item>Уеб сайт</item>
+        <item>Адрес</item>
+        <item>Бележка</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Малък</item>
+        <item>Среден</item>
+        <item>Голям</item>
+        <item>Огромен</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Now you can easily jot down ideas, memos, thoughts using
+"</item>
+        <item>"Attach pictures or contacts
+"</item>
+        <item>"Check off tasks with your finger
+"</item>
+        <item>"And more great features!
+  - Sync with Mi Cloud
+  - Set reminders
+
+To learn more, visit
+http://www.miui.com/forum.php?lang=1
+"</item>
+    </string-array>
+</resources>

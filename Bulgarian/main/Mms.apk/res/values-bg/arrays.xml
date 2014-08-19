@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Усмивка</item>
+        <item>Тъга</item>
+        <item>Намигване</item>
+        <item>Изплезен език</item>
+        <item>Учудване</item>
+        <item>Целувка</item>
+        <item>Крещене</item>
+        <item>Хладнокръвие</item>
+        <item>Изчервяване</item>
+        <item>Много говоря</item>
+        <item>Объркване</item>
+        <item>Ангел</item>
+        <item>Нерешителност</item>
+        <item>Ридание</item>
+        <item>Гроб съм!</item>
+        <item>Смях</item>
+        <item>Смущение</item>
+        <item>Сърце</item>
+        <item>Ядосване</item>
+        <item>Самодоволство</item>
+        <item>Без изражение</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 път</item>
+        <item>2 пъти</item>
+        <item>3 пъти</item>
+        <item>5 пъти</item>
+        <item>10 пъти</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Име</item>
+        <item>Псевдоним</item>
+        <item>Телефон</item>
+        <item>Имейл</item>
+        <item>Фирма</item>
+        <item>IM</item>
+        <item>Интернет номер</item>
+        <item>Рожден ден</item>
+        <item>Уеб сайт</item>
+        <item>Адрес</item>
+        <item>Бележка</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Време на получаване</item>
+        <item>Време на изпращане</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Чрез SMS</item>
+        <item>Чрез облачно съобщение</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Чрез MMS</item>
+        <item>Чрез облачно съобщение</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунди</item>
+        <item>3 секунди</item>
+        <item>4 секунди</item>
+        <item>5 секунди</item>
+        <item>6 секунди</item>
+        <item>7 секунди</item>
+        <item>8 секунди</item>
+        <item>9 секунди</item>
+        <item>10 секунди</item>
+        <item>Друго</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Винаги</item>
+        <item>В \"Тих режим\"</item>
+        <item>Никога</item>
+    </string-array>
+</resources>

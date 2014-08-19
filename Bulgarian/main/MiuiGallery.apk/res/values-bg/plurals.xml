@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Да се изтрият ли %s снимки от &amp;lt;b>облака&amp;lt;/b>?</item>
+        <item quantity="one">Да се изтрие ли %s снимка от &amp;lt;b>облака&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Да се изтрият ли %s снимки?</item>
+        <item quantity="one">Да се изтрие ли %s снимка?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Да се изтрият ли %s видеоклипа от &amp;lt;b>облака&amp;lt;/b>?</item>
+        <item quantity="one">Да се изтрие ли %s видеоклип от &amp;lt;b>облака&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Да се изтрият ли %s видеоклипа?</item>
+        <item quantity="one">Да се изтрие ли %s видеоклип?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Да се изтрият ли %s снимки &amp;lt;b>локално и от облака&amp;lt;/b>?</item>
+        <item quantity="one">Да се изтрие ли %s снимка &amp;lt;b>локално и от облака&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Да се изтрият ли %s видеоклипа &amp;lt;b>локално и от облака&amp;lt;/b>?</item>
+        <item quantity="one">Да се изтрие ли %s видеоклип &amp;lt;b>локално и от облака&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Избрани: %1$d</item>
+        <item quantity="zero">Избрани: %1$d</item>
+        <item quantity="one">Избрани: %1$d</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">Изображения: %1$d</item>
+        <item quantity="zero">Изображения: %1$d</item>
+        <item quantity="one">Изображения: %1$d</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d елементи</item>
+        <item quantity="zero">%1$d елементи</item>
+        <item quantity="one">%1$d елемент</item>
+    </plurals>
+</resources>

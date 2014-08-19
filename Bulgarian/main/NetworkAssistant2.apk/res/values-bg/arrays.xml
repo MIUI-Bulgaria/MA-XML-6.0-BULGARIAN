@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_uints">
+        <item>МБ</item>
+        <item>ГБ</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Вчера "</item>
+        <item>"Днес "</item>
+        <item>"Този месец "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Вчера (3G)</item>
+        <item>Днес (3G)</item>
+        <item>Този месец (3G)</item>
+        <item>Вчера (Wi-Fi)</item>
+        <item>Днес (Wi-Fi)</item>
+        <item>Този месец (Wi-Fi)</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Вчера (3G)</item>
+        <item>Днес (3G)</item>
+        <item>Този месец (3G)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Употреба на мобилни данни "</item>
+        <item>"Употреба на Wi-Fi "</item>
+        <item>"Спестени данни "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Автоматичен шаблон на съобщението</item>
+        <item>Ръчно задаване на шаблон на съобщението</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Вчера "</item>
+        <item>"Днес "</item>
+        <item>"Този месец "</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Мобилни данни "</item>
+        <item>"Wi-Fi "</item>
+        <item>"Спестени данни "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Мобилни данни "</item>
+        <item>"Wi-Fi "</item>
+    </string-array>
+</resources>
