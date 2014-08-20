@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ръководство</string>
+    <string name="loading_userbook">Зарежда се…</string>
+    <string name="bakc_key_toast_txt">Натиснете отново бутона Назад, за да затворите</string>
+    <string name="non_wifi_not_download_data">За изтеглянето на този пакет не може да се използват мобилни данни. Опитайте отново, след като се свържете с Wi-Fi мрежа.</string>
+    <string name="cta_dialog_title">Съвет</string>
+    <string name="cta_dialog_msg">"Вие сте напът да използвате ръководството, предоставено от Xiaomi, в което можете да получите нови и интересни функции. С цел да се гарантира, че можете да получите пълна и ефективна информация, ръководството ще се актуализира автоматично чрез Wi-Fi, съгласни ли сте?
+ * Забележка: изход с натискане на бутон Назад"</string>
+    <string name="cta_dialog_button_text">Да, не питай повече</string>
+    <string name="downloading_data">Изтегля се…</string>
+    <string name="downloading_error">Грешка при изтегляне, опитайте отново по-късно!</string>
+</resources>
