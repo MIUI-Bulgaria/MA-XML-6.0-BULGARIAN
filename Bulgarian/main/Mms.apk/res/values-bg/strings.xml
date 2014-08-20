@@ -246,7 +246,7 @@
   <string name="new_phrase_hint">Въведи нов шаблон</string>
   <string name="nickname_placeholder">Име</string>
   <string name="no">Отмени</string>
-  <string name="no_block_button_msg">"Не блокирай съобщения от този номер"</string>
+  <string name="no_block_button_msg">Деблокирай</string>
   <string name="no_conversations">Няма разговори</string>
   <string name="no_subject">(Няма тема)</string>
   <string name="no_subject_view">(Няма тема)</string>

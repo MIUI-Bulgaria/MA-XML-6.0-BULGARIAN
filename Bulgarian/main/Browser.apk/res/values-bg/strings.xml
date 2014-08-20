@@ -622,7 +622,7 @@
   <string name="account_prifix">Профил:</string>
   <string name="miui_autologin_bar_error">Неуспешно вписване, опитайте отново</string>
   <string name="pref_adblock_title">Блокиране на реклами</string>
-  <string name="pref_enable_adblock_notification">Съвети за блок. на реклами</string>
+  <string name="pref_enable_adblock_notification">Известия за блок. на реклами</string>
   <string name="pref_clear_adblock_statistics">Изчистване на статистиките за блокиране</string>
   <string name="pref_adblock_counts">общо %d блокирани реклами</string>
   <string name="pref_clear_adblock_statistics_dlg">Да се изчистят ли всички броячи за блокиране?</string>
@@ -678,10 +678,10 @@
   <string name="quicklink_saved">Added to start page</string>
   <string name="remove_bookmark_group">Delete group</string>
   <string name="root_folder_lable">None</string>
-  <string name="save_to_camera">save to camera</string>
-  <string name="save_to_camera_failed">save picture failed</string>
-  <string name="save_to_camera_success">have saved to camera</string>
-  <string name="sdcard_error">please check sdcard status</string>
+  <string name="save_to_camera">Save to camera</string>
+  <string name="save_to_camera_failed">"Can't save picture"</string>
+  <string name="save_to_camera_success">Saved to camera</string>
+  <string name="sdcard_error">Check your SD card</string>
   <string name="share_page_text">"I'm enjoying 【%1$s】, share it with you! | %2$s"</string>
   <string name="sub_sync_item_browser_title_bookmark">Sync bookmark</string>
   <string name="sub_sync_item_browser_title_bookmark_summary">Sync bookmark of browser</string>
@@ -704,4 +704,7 @@
   <string name="webpage_history_title">History</string>
   <string name="webpage_title">Bookmarks and History</string>
   <string name="pref_other_title">Other</string>
+  <string name="copy_url">Copy URL</string>
+  <string name="create_qr_code">QR code</string>
+
 </resources>

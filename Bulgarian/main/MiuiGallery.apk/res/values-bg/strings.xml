@@ -548,4 +548,8 @@
   <string name="quotation">\"%s\"</string>
   <string name="rename_failed_duplicated_name">A file with the same name already exists.</string>
   <string name="secret_album_display_name">Secret album</string>
+  <string name="add_to_secret_failed_message_with_count">"%2$s items can't be added to secret: %1$s."</string>
+  <string name="add_to_secret_successfully_message">Added to secret album</string>
+  <string name="remove_from_secret_failed_message_with_count">"%2$s items can't be removed from secret: %1$s."</string>
+  <string name="remove_from_secret_successfully_message">Removed from secret album</string>
 </resources>

@@ -74,11 +74,10 @@
   <string name="main_toolbar_firewall">Ограничения</string>
   <string name="main_toolbar_purchase">Зареждане</string>
   <string name="main_toolbar_statistic">Статистика</string>
-  <string name="main_traffic_overlimit_text">"%s
-над лимита"</string>
-  <string name="main_traffic_remian_text">%s\nОстават</string>
+  <string name="main_traffic_overlimit_text">над лимита</string>
+  <string name="main_traffic_remian_text">остават</string>
   <string name="main_traffic_used_only">Използвани: %s</string>
-  <string name="main_traffic_used_text">%s\nИзползвани</string>
+  <string name="main_traffic_used_text">използвани</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">Задайте лимит за трафика</string>
   <string name="network_assistant_upgraded_title">Актуализацията завърши</string>

@@ -745,7 +745,7 @@
     <string name="bottom_bar_more_delete">Delete</string>
     <string name="bottom_bar_more_quickreply">Quick reply</string>
     <string name="bottom_bar_more_unread">Mark Unread</string>
-    <string name="chat_type_name">Conversation</string>
+    <string name="chat_type_name">chat</string>
     <string name="check_setup_data">Validating server settings…</string>
     <string name="confirm">confirm</string>
     <string name="confirm_delete">Are you sure to delete this mail ?</string>
@@ -757,14 +757,14 @@
     <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>
     <string name="debug_enable_verbose_logging_label">Enable extremely verbose logging?</string>
     <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
-    <string name="delete_conversation_hint_message">%1$d %2$s deleted</string>
+    <string name="delete_conversation_hint_message">%1$d %2$s has been deleted</string>
     <string name="downloading_message_body">Downloading email, please wait…</string>
     <string name="header_category_account">Account settings</string>
     <string name="header_category_other">Others</string>
     <string name="message_body_auto_download_complete">Automatically downloaded email using WLAN</string>
     <string name="message_body_auto_download_tip">"You're currently using WLAN. it will automatically download email"</string>
     <string name="message_body_download_failed">Time out when downloading email</string>
-    <string name="message_type_name">Email</string>
+    <string name="message_type_name">message</string>
     <string name="network_not_available">Network connection is not available, please try again later</string>
     <string name="quick_reply_dialog_title">Please choose</string>
     <string name="refreshing_done">Synchroniztion complete</string>

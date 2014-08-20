@@ -96,7 +96,7 @@
   <string name="gps_notification_found_text">Местоположението е зададено от GPS</string>
   <string name="gps_notification_searching_text">Търси се GPS</string>
   <string name="headset_custom">Персонализиране</string>
-  <string name="headset_info">Персонализиране на бутоните</string>
+  <string name="headset_info">Докоснете, за да настроите вида слушалки и да персонализирате функциите на бутоните им</string>
   <string name="headset_settings">Слушалките са включени</string>
   <string name="invalid_charger">"Не се поддържа зареждане през USB.
 Използвайте само доставеното зарядно устройство."</string>
