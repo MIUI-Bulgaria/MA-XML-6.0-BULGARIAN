@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Няма връзка за данни в продължение на %s минути</item>
+        <item quantity="one">Няма връзка за данни в продължение на %s минута</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Телефонът ще бъде в режим на обратно спешно повикване за %s минути. В този режим, приложенията не могат да използват връзка за данни. Искате ли да излезете сега?</item>
+        <item quantity="one">Телефонът ще бъде в режим на обратно спешно повикване за %s минута. В този режим, приложенията не могат да използват връзка за данни. Искате ли да излезете сега?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Избраното действието не е налично в режим на обратно спешно повикване. Телефонът ще бъде в този режим за %d минути. Искате ли да излезете сега?</item>
+        <item quantity="one">Избраното действието не е налично в режим на обратно спешно повикване. Телефонът ще бъде в този режим за %d минута. Искате ли да излезете сега?</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d избрани елементи"</item>
+        <item quantity="zero">%1$d избрани елементи</item>
+        <item quantity="one">%1$d избран елемент</item>
+    </plurals>
+</resources>
