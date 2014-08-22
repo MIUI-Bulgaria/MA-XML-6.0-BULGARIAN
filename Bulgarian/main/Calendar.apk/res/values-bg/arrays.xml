@@ -14,11 +14,9 @@
         <item>15 минути</item>
         <item>30 минути</item>
         <item>1 час</item>
-        <item>12 часа</item>
         <item>1 ден</item>
         <item>2 дни</item>
         <item>1 седмица</item>
-        <item>2 седмици</item>
     </string-array>
     <integer-array name="reminder_minutes_values">
         <item>-1</item>
@@ -28,11 +26,9 @@
         <item>15</item>
         <item>30</item>
         <item>60</item>
-        <item>720</item>
         <item>1440</item>
         <item>2880</item>
         <item>10080</item>
-        <item>20160</item>
     </integer-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Без напомняне</item>
@@ -42,11 +38,9 @@
         <item>15 минути</item>
         <item>30 минути</item>
         <item>1 час</item>
-        <item>12 часа</item>
         <item>1 ден</item>
         <item>2 дни</item>
         <item>1 седмица</item>
-        <item>2 седмици</item>
     </string-array>
     <string-array name="preferences_default_reminder_values">
         <item>-1</item>
@@ -56,11 +50,9 @@
         <item>15</item>
         <item>30</item>
         <item>60</item>
-        <item>720</item>
         <item>1440</item>
         <item>2880</item>
         <item>10080</item>
-        <item>20160</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Според региона</item>
