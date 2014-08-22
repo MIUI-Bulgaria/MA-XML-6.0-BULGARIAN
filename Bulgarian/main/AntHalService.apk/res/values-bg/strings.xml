@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">ANT HAL Service</string>
-  <string name="permdesc_ant">Allows the application to communicate with ANT devices using the proxy service. Malicious applications may acquire information from, or transmit to, ANT devices without your knowledge.</string>
-  <string name="permdesc_antAdmin">Allows the application to directly configure the ANT radio through the proxy service. Malicious applications may prevent other ANT applications from connecting to ANT devices.</string>
-  <string name="permdesc_antradio">Allows the application to directly configure the ANT radio. Malicious applications may prevent the ANT Radio Service from providing ANT functionality to oter applications.</string>
-  <string name="permlab_ant">use ANT radio interface</string>
-  <string name="permlab_antAdmin">control ANT radio configuration</string>
-  <string name="permlab_antradio">use ANT hardware</string>
+  <string name="app_name">Услуга ANT HAL</string>
+  <string name="permdesc_ant">Позволява на приложението да се свърже с ANT устройства, използвайки прокси услуга. Злонамерените приложения могат да придобиват или предават информация чрез ANT устройствата без ваше знание.</string>
+  <string name="permdesc_antAdmin">Позволява приложението директно да конфигурира ANT радиото през прокси услуга. Злонамерените приложения могат да попречат на други ANT приложения да се свържат към ANT устройствата.</string>
+  <string name="permdesc_antradio">Позволява приложението директно да конфигурира ANT радиото. Злонамерените приложения могат да попречат на ANT радио услугата да предостави ANT функционалност за други приложения.</string>
+  <string name="permlab_ant">Използване на интерфейса на ANT радиото</string>
+  <string name="permlab_antAdmin">Промяна на настройките на ANT услугата</string>
+  <string name="permlab_antradio">Използване на ANT хадруера</string>
 </resources>
