@@ -261,4 +261,26 @@
     <string name="vp_get_url_error">URL адресът не може да възпроизведе.</string>
     <string name="vp_exit">Изход</string>
     <string name="vp_back">Назад</string>
+    <string name="add_more_addons">Добави още</string>
+    <string name="addon"/>
+    <string name="addon_category">Препоръчани</string>
+    <string name="addon_empty_hint">Не е налице</string>
+    <string name="addon_install_complete_disc">%s добавки са инсталирани. Можете да ги прегледате в /Мои видеота/.</string>
+    <string name="addon_update_desc">Открита е нова версия, да се актуализира ли сега?</string>
+    <string name="check_network">Не може да се свърже с мрежата. Проверете настройките на мрежата и опитайте отново.</string>
+    <string name="click_star_rate">Докоснете звездите за рейтинг</string>
+    <string name="delete_addon">Изтриване</string>
+    <string name="delete_addon_content">Да се изтрие ли този елемент?</string>
+    <string name="download_file_fail">Няма достъп до файла, вероятно няма свободно място на SD картата</string>
+    <string name="hot_special">Hot Special</string>
+    <string name="install_comfirm">click to install</string>
+    <string name="offline_video">offline</string>
+    <string name="pick_addon_to_delete">choose items</string>
+    <string name="shared_devices">Споделени устройства</string>
+    <string name="start_addon">start addon</string>
+    <string name="upgrade">Надстройка</string>
+    <string name="userdata_alert_content">Понастоящем използвате мобилни данни, сигурни ли сте, че искате да продължите?</string>
+    <string name="userdata_alert_ok">Продължи</string>
+    <string name="userdata_alert_title">Използване на данни</string>
+    <string name="vp_select_video_source">Избор на източник</string>
 </resources>
