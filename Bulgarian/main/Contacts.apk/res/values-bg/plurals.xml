@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Показани %d контакта с телефонни номера</item>
@@ -42,7 +42,6 @@
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Избрано: %1$d</item>
-        <item quantity="zero">Избрано: %1$d</item>
         <item quantity="one">Избрано: %1$d</item>
     </plurals>
     <plurals name="group_add_success_toast">
