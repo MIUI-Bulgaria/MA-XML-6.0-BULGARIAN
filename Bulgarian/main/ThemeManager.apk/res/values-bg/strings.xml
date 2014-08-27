@@ -62,6 +62,8 @@
   <string name="resource_buy">Купи</string>
   <string name="resource_can_not_selected">%1$s не може да бъде избрано!</string>
   <string name="resource_category">Категория</string>
+  <string name="resource_clear_search_history">Изчистване на историята на търсенията</string>
+  <string name="resource_clear_search_history_dialog">Да се изчисти ли историята на търсенията?</string>
   <string name="resource_comment_1_star">*</string>
   <string name="resource_comment_2_star">**</string>
   <string name="resource_comment_3_star">***</string>
@@ -87,6 +89,7 @@
   <string name="resource_comment_no_comment">Няма коментари</string>
   <string name="resource_comment_publish">Изпрати</string>
   <string name="resource_comment_rate">Рейтинг:</string>
+  <string name="resource_comment_rating_star_tips">Докоснете звездите, за да оцените:</string>
   <string name="resource_comment_score_count">%1$s потребители</string>
   <string name="resource_comment_sending">Изпращане на коментар...</string>
   <string name="resource_comment_title">Коментари: %1$s</string>
@@ -189,6 +192,10 @@
   <string name="resource_trial_end_purchase">Купи</string>
   <string name="resource_trial_end_restore">Прекрати теста</string>
   <string name="resource_trial_end_title">Тестът изтече</string>
+  <string name="resource_trial_fail_cancel">OK</string>
+  <string name="resource_trial_fail_go_settings">Настройки</string>
+  <string name="resource_trial_fail_message">Уверете се, че системният часовник е настроен правилно.</string>
+  <string name="resource_trial_fail_title">Не може да се създаде пробна сесия</string>
   <string name="resource_trial_time">（тест за %1$d минути）</string>
   <string name="resource_unable_to_access">"За съжаление,
 съдържанието което търсите в момента не се предлага за вашия регион."</string>
@@ -242,6 +249,16 @@
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Не</string>
   <string name="theme_select_others">Други</string>
+  <string name="theme_user_agreement_allow">Приемам</string>
+  <string name="theme_user_agreement_content1">"Натискайки Приемам, вие се съгласявате с условията, посочени в нашето "</string>
+  <string name="theme_user_agreement_content2">" Потребителско споразумение"</string>
+  <string name="theme_user_agreement_content3">" и "</string>
+  <string name="theme_user_agreement_content4">Политика на поверителност</string>
+  <string name="theme_user_agreement_content5">.</string>
+  <string name="theme_user_agreement_remind_again">Показване на известие за усл. на ползване</string>
+  <string name="theme_user_agreement_remind_never">Не показвай отново</string>
+  <string name="theme_user_agreement_remind_summary">Показване на известие за условията на ползване. Настройката се активира се след рестартиране на устройството.</string>
+  <string name="theme_user_agreement_title">Декларация</string>
   <string name="theme_yes">Да</string>
   <string name="third_party_pickers_activity_title">Задай %1$s</string>
   <string name="title_component">Редактиране на темата</string>
@@ -253,22 +270,5 @@
   <string name="wallpaper_set_as_both">Начало и закл. екран</string>
   <string name="wallpaper_set_as_destop">Начален екран</string>
   <string name="wallpaper_set_as_lockscreen">Заключен екран</string>
-  <string name="wallpaper_settings">Настройки на тапетите</string>
-  <string name="theme_user_agreement_content1">"Натискайки Приемам, вие се съгласявате с условията, посочени в нашето "</string>
-  <string name="theme_user_agreement_content2">" Потребителско споразумение"</string>
-  <string name="theme_user_agreement_content3">" и "</string>
-  <string name="theme_user_agreement_content4">Политика на поверителност</string>
-  <string name="theme_user_agreement_content5">.</string>
-  <string name="theme_user_agreement_title">Декларация</string>
-  <string name="theme_user_agreement_allow">Приемам</string>
-  <string name="theme_user_agreement_remind_never">Не показвай отново</string>
-  <string name="theme_user_agreement_remind_again">Показване на известие за усл. на ползване</string>
-  <string name="theme_user_agreement_remind_summary">Показване на известие за условията на ползване. Настройката се активира се след рестартиране на устройството.</string>
-  <string name="resource_clear_search_history">Clear search history</string>
-  <string name="resource_clear_search_history_dialog">Clear all search history?</string>
-  <string name="resource_comment_rating_star_tips">Touch stars to rate:</string>
-  <string name="resource_trial_fail_cancel">OK</string>
-  <string name="resource_trial_fail_go_settings">Settings</string>
-  <string name="resource_trial_fail_message">Make sure your system clock is set to the correct time.</string>
-  <string name="resource_trial_fail_title">"Couldn't set up trial session"</string>  
+  <string name="wallpaper_settings">Настройки на тапетите</string>  
 </resources>

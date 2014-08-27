@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Weather Provider</string>
-  <string name="aqi_quality_index_break">AQI %1$s</string>
-  <string name="aqi_quality_index_dangerous">AQI %1$s</string>
-  <string name="aqi_quality_index_good">AQI %1$s</string>
-  <string name="aqi_quality_index_hazardous">AQI %1$s</string>
-  <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
-  <string name="aqi_quality_index_moderate">AQI %1$s</string>
-  <string name="aqi_quality_index_pure">AQI %1$s</string>
-  <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+  <string name="aqi_quality_index_break">ИКВ %1$s</string>
+  <string name="aqi_quality_index_dangerous">ИКВ %1$s</string>
+  <string name="aqi_quality_index_good">ИКВ %1$s</string>
+  <string name="aqi_quality_index_hazardous">ИКВ %1$s</string>
+  <string name="aqi_quality_index_light_pollution">ИКВ %1$s</string>
+  <string name="aqi_quality_index_moderate">ИКВ %1$s</string>
+  <string name="aqi_quality_index_pure">ИКВ %1$s</string>
+  <string name="aqi_quality_index_unhealthy">ИКВ %1$s</string>
 </resources>

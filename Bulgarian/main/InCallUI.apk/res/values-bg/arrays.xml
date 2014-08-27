@@ -5,13 +5,13 @@
         <item>TCP</item>
     </string-array>
     <string-array name="ims_call_types">
-        <item>Voice</item>
-        <item>Video</item>
+        <item>Глас</item>
+        <item>Видео</item>
     </string-array>
     <string-array name="clir_display_values">
-        <item>Network default</item>
-        <item>Hide number</item>
-        <item>Show number</item>
+        <item>Мрежа по подразбиране</item>
+        <item>Скриване на номера</item>
+        <item>Номерът да се показва</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE / WCDMA</item>
@@ -20,39 +20,39 @@
         <item>GSM/WCDMA/LTE</item>
         <item>CDMA + LTE/EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>EvDo only</item>
-        <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo auto</item>
-        <item>GSM/WCDMA auto</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM/WCDMA preferred</item>
+        <item>Само EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>Авт. CDMA/EvDo</item>
+        <item>Авт. GSM/WCDMA</item>
+        <item>Само WCDMA</item>
+        <item>Само GSM</item>
+        <item>Предпочита се GSM/WCDMA</item>
     </string-array>
     <string-array name="list_language_entries">
-        <item>English</item>
-        <item>French</item>
-        <item>Spanish</item>
-        <item>Japanese</item>
-        <item>Korean</item>
-        <item>Chinese</item>
-        <item>Hebrew</item>
+        <item>английски</item>
+        <item>френски</item>
+        <item>испански</item>
+        <item>японски</item>
+        <item>корейски</item>
+        <item>китайски</item>
+        <item>иврит</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Home only</item>
-        <item>Automatic</item>
+        <item>Само „Начало“</item>
+        <item>Автоматично</item>
     </string-array>
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY Off</item>
-        <item>TTY Full</item>
+        <item>TTY е изкл.</item>
+        <item>Пълен TTY режим</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Normal</item>
-        <item>Long</item>
+        <item>Нормална</item>
+        <item>Продължително</item>
     </string-array>
 </resources>

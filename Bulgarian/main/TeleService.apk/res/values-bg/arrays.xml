@@ -5,20 +5,20 @@
         <item>TCP</item>
     </string-array>
     <string-array name="ims_call_cap_types">
-        <item>Voice</item>
-        <item>Video</item>
+        <item>Глас</item>
+        <item>Видео</item>
     </string-array>
     <string-array name="ims_call_types">
-        <item>Voice</item>
-        <item>Video</item>
+        <item>Глас</item>
+        <item>Видео</item>
         <item>CSVoice</item>
     </string-array>
     <string-array name="ims_video_cs_call_types">
-        <item>Video</item>
+        <item>Видео</item>
         <item>CSVoice</item>
     </string-array>
     <string-array name="ims_voice_cs_call_types">
-        <item>Voice</item>
+        <item>Глас</item>
         <item>CSVoice</item>
     </string-array>
     <string-array name="cs_call_type">
@@ -34,36 +34,36 @@
         <item>TD-SCDMA/GSM</item>
         <item>TD-SCDMA/LTE</item>
         <item>TD-SCDMA/WCDMA</item>
-        <item>TD-SCDMA only</item>
+        <item>Само TD-SCDMA</item>
         <item>LTE / WCDMA</item>
         <item>LTE</item>
         <item>Global</item>
         <item>GSM/WCDMA/LTE</item>
         <item>CDMA + LTE/EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>EvDo only</item>
-        <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo auto</item>
-        <item>GSM/WCDMA auto</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM/WCDMA preferred</item>
+        <item>Само EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>Авт. CDMA/EvDo</item>
+        <item>Авт. GSM/WCDMA</item>
+        <item>Само WCDMA</item>
+        <item>Само GSM</item>
+        <item>Предпочита се GSM/WCDMA</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Home only</item>
-        <item>Automatic</item>
+        <item>Само „Начало“</item>
+        <item>Автоматично</item>
     </string-array>
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
     </string-array>
     <string-array name="list_language_entries">
-        <item>English</item>
-        <item>French</item>
-        <item>Spanish</item>
-        <item>Japanese</item>
-        <item>Korean</item>
-        <item>Chinese</item>
-        <item>Hebrew</item>
+        <item>английски</item>
+        <item>френски</item>
+        <item>испански</item>
+        <item>японски</item>
+        <item>корейски</item>
+        <item>китайски</item>
+        <item>иврит</item>
     </string-array>
 </resources>
