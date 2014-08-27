@@ -10,6 +10,7 @@
   <string name="aqi_quality_index_light_pollution">Леко замърсено</string>
   <string name="aqi_quality_index_moderate">Умерено</string>
   <string name="aqi_quality_index_unhealthy">Вредно</string>
+  <string name="bad_wallpaper_source_prompt">Тапетът не може да се зареди</string>
   <string name="buffering">Буфериране...</string>
   <string name="cancel_action">Отмяна</string>
   <string name="cancel_btn_label">Отмени</string>
@@ -18,6 +19,7 @@
   <string name="cant_remove_system_app">Системни приложения не може да се деинсталират</string>
   <string name="chooser_wallpaper">Изберете тапет от</string>
   <string name="confirm_btn_label">OK</string>
+  <string name="current_wallpaper">Текущ</string>
   <string name="custom_wallpaper_picker">Преглеждане</string>
   <string name="default_folder_title_game">Игри</string>
   <string name="default_folder_title_recommend">Препоръчителни</string>
@@ -29,6 +31,7 @@
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Редактиране на името на папка</string>
   <string name="editing_add_widget_tips">Редактиране на джаджи</string>
+  <string name="editing_mode_title_empty">Изберете елементи</string>
   <string name="editing_set_transition_effect_tips">Избиране на ефект за преход м/у екраните</string>
   <string name="editing_set_wallpaper_tips">Избиране на тапет</string>
   <string name="editing_tips">Добави или редактирай джаджа</string>
@@ -62,6 +65,7 @@
   <string name="gadget_error_text">Проблем при зареждането на джаджа</string>
   <string name="gadget_google_search_label">Google търсене</string>
   <string name="gadget_load_error">Грешка при зареждане на джаджа...</string>
+  <string name="gadget_mtz_label">Mi Gadgets</string>
   <string name="gadget_photo_22_label">Фоторамка 2x2</string>
   <string name="gadget_photo_24_label">Фоторамка 4x2</string>
   <string name="gadget_photo_44_label">Фоторамка 4x4</string>
@@ -183,6 +187,11 @@
   <string name="status_bar_toggle_vibrate">Вибрация</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi VPN</string>
+  <string name="status_downloaded">изтеглено</string>
+  <string name="status_downloading">изтегля се</string>
+  <string name="status_installing">инсталира се</string>
+  <string name="status_paused">на пауза</string>
+  <string name="status_pending">изчаква се</string>
   <string name="title_select_live_folder">Избери папка</string>
   <string name="title_select_shortcut">Избери пряк път</string>
   <string name="toggle_select_title">Избери превкл.</string>
@@ -206,13 +215,4 @@
   <string name="widget_favorite_contacts_style">Размер</string>
   <string name="widget_gadget_player">Музика</string>
   <string name="widget_global_search">Търсене</string>
-  <string name="status_pending">изчаква се</string>
-  <string name="status_downloading">изтегля се</string>
-  <string name="status_paused">на пауза</string>
-  <string name="status_downloaded">изтеглено</string>
-  <string name="status_installing">инсталира се</string>
-  <string name="bad_wallpaper_source_prompt">"Can't load wallpaper"</string>
-  <string name="current_wallpaper">Current</string>
-  <string name="editing_mode_title_empty">Select items</string>
-  <string name="gadget_mtz_label">Mi Gadgets</string>
 </resources>

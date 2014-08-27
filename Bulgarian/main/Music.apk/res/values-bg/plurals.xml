@@ -5,16 +5,16 @@
         <item quantity="one">%d песен беше открита</item>
     </plurals>
     <plurals name="Nexpired_remind">
-        <item quantity="other">%d days remaining</item>
-        <item quantity="one">%d day remaining</item>
+        <item quantity="other">остават %d дни</item>
+        <item quantity="one">остава %d ден</item>
     </plurals>
     <plurals name="NTrackstoDownload">
-        <item quantity="other">%d songs will be downloaded</item>
-        <item quantity="one">1 song will be downloaded</item>
+        <item quantity="other">%d песни ще бъдат изтеглени</item>
+        <item quantity="one">1 песен ще бъде изтеглена</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d песни</item>
-        <item quantity="one">%d песни</item>
+        <item quantity="one">%d песен</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d песни са премахнати от плейлиста.</item>
@@ -25,15 +25,15 @@
         <item quantity="one">1 песен е добавена към плейлиста</item>
     </plurals>
     <plurals name="artist_list_fragment_item_count_format">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">1 song</item>
+        <item quantity="other">%d песни</item>
+        <item quantity="one">1 песен</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">%d songs will be sent</item>
-        <item quantity="one">1 song will be sent</item>
+        <item quantity="other">%d песни ще бъдат изпратени</item>
+        <item quantity="one">1 песен ще бъде изпратена</item>
     </plurals>
     <plurals name="folder_songs_count">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">1 song</item>
+        <item quantity="other">%d песни</item>
+        <item quantity="one">1 песен</item>
     </plurals>
 </resources>

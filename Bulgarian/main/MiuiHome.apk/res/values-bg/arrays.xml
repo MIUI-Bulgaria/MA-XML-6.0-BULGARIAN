@@ -25,31 +25,31 @@
         <item>Класическа</item>
     </string-array>
     <string-array name="gadget_weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rainstorm</item>
-        <item>Rainstorm</item>
-        <item>Very heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snowstorm</item>
-        <item>Patches of snowfall</item>
-        <item>Heavy snowfall</item>
-        <item>Snowfall</item>
-        <item>Light snowfall</item>
-        <item>Strong sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Light sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Hail</item>
-        <item>Floating Dust</item>
-        <item>Haze</item>
+        <item>Ясно</item>
+        <item>Облачно</item>
+        <item>Неясно</item>
+        <item>Мъгливо</item>
+        <item>Силна дъждовна буря</item>
+        <item>Дъждовна буря</item>
+        <item>Много обилни валежи</item>
+        <item>Гръмотевична буря</item>
+        <item>Преваляване</item>
+        <item>Проливен дъжд</item>
+        <item>Дъжд</item>
+        <item>Ръмеж</item>
+        <item>Суграшица</item>
+        <item>Снежна буря</item>
+        <item>Превалявания от сняг</item>
+        <item>Силен снеговалеж</item>
+        <item>Снеговалеж</item>
+        <item>Слаб снеговалеж</item>
+        <item>Силна снежна буря</item>
+        <item>Пясъчна буря</item>
+        <item>Лека пясъчна буря</item>
+        <item>Пясъчна буря</item>
+        <item>Градушка</item>
+        <item>Плаващ прах</item>
+        <item>Мараня</item>
     </string-array>
     <string-array name="editing_mode_entries">
         <item>Сортиране</item>

@@ -96,15 +96,15 @@
   <string name="view_list_of_recordings">Виж звукозаписите</string>
   <string name="wifi_recommended_title">Предупреждение за трафик</string>
   <string name="toast_file_is_downloading">Файлът се изтегля, моля изчакайте</string>
-  <string name="data_connection_body">"Tip:
-In operator network, downloading will cost much."</string>
+  <string name="data_connection_body">"Съвет:
+В операторска мрежа изтеглянето ще начисли такси."</string>
   <string name="data_connection_button_text">OK</string>
-  <string name="data_connection_title">Tip</string>
-  <string name="error_sdcard_unmounted">SD card is unmounted, please insert an SD card</string>
-  <string name="notification_recording_ticker">Phone muted. Recording…</string>
-  <string name="record_download_pending">Pending</string>
-  <string name="wifi_recommended_body" formatted="false">"Starting this %s  download now may shorten your battery life and/or result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan.
+  <string name="data_connection_title">Съвет</string>
+  <string name="error_sdcard_unmounted">SD картата е демонтирана, моля поставете SD карта</string>
+  <string name="notification_recording_ticker">Телефонът е заглушен. Записва се…</string>
+  <string name="record_download_pending">В очакване</string>
+  <string name="wifi_recommended_body" formatted="false">"Започването на това изтегляне (%s) може бързо да изразходва батерията ви и/или да използва голямо количество мобилни данни, което може да ви начисли допълнителни такси.
 
- Touch %s to start this download the next time that you're connected to a WLAN network."</string>
+ Докоснете %s, за да започнете това изтегляне следващия път, когато сте свързан към Wi-Fi мрежа."</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

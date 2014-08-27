@@ -6,6 +6,7 @@
   <string name="accessibility_bluetooth_connected">Bluetooth е включен</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth е изключен</string>
   <string name="accessibility_bluetooth_tether">Тетъринг през Bluetooth</string>
+  <string name="accessibility_camera_button">Камера</string>
   <string name="accessibility_clear_all">Изчисти всички известия</string>
   <string name="accessibility_data_connection_3.5g">3.5G</string>
   <string name="accessibility_data_connection_3g">3G</string>
@@ -31,6 +32,7 @@
   <string name="accessibility_remove_notification">Изчисти известието</string>
   <string name="accessibility_ringer_silent">Звънът е заглушен</string>
   <string name="accessibility_ringer_vibrate">Вибрира при звънене</string>
+  <string name="accessibility_search_light">Търсене</string>
   <string name="accessibility_tty_enabled">TeleTypewriter бе активиран</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi: едно деление</string>
   <string name="accessibility_wifi_signal_full">Надежден Wi-Fi сигнал</string>
@@ -49,6 +51,7 @@
   <string name="battery_low_why">Използване на батерията</string>
   <string name="bluetooth_tethered">Bluetooth има връзка с тетъринг</string>
   <string name="call_status_dialing">Набиране</string>
+  <string name="call_status_ringing">Звънене</string>
   <string name="camera_key_action_app_title">Отвори приложение</string>
   <string name="camera_key_action_category_title">Използвай ако камерата не е стартирана</string>
   <string name="camera_key_action_none_title">Няма действие</string>
@@ -127,6 +130,7 @@
   <string name="notification_otg_trackball_out">Trackball е изключен</string>
   <string name="notification_otg_unknow_in">OTG устройството е включено</string>
   <string name="notification_otg_unknow_out">OTG устройството е изключено</string>
+  <string name="reject_call">Отхвърляне</string>
   <string name="return_to_incall_screen">Обратно към обаждането</string>
   <string name="screen_button_disabled_message">Бутоните под екрана са изключени. За да ги включите, натиснете \"Начало\" и \"Захр.\" едновременно</string>
   <string name="screen_button_enabled_message">Бутоните под екрана са включени</string>
@@ -153,6 +157,8 @@ d MMMM yyyy"</string>
   <string name="status_bar_recent_guide_bottom">Плъзнете надолу за заключване</string>
   <string name="status_bar_recent_guide_top">Плъзнете нагоре за да затваряне</string>
   <string name="status_bar_recent_inspect_item_title">За приложението</string>
+  <string name="status_bar_recent_memory_info1">"%s "</string>
+  <string name="status_bar_recent_memory_info2">" %s свободни"</string>
   <string name="status_bar_recording_back">Обратно към Звукозапис</string>
   <string name="status_bar_recording_pause">"Записването е на пауза. "</string>
   <string name="status_bar_settings_airplane">Самолетен режим</string>
@@ -226,10 +232,4 @@ d MMMM yyyy"</string>
   <string name="user_guide_for_notification">Ново известие，плъзнете надолу за да видите повече информация.</string>
   <string name="user_guide_for_toggle">Списъкът с превключвателите може да бъде преглеждан и хоризонтално</string>
   <string name="user_guide_for_toggle_list">Управление на превключвателите</string>
-  <string name="call_status_ringing">Звънене</string>
-  <string name="reject_call">Отхвърляне</string>
-  <string name="accessibility_camera_button">Камера</string>
-  <string name="accessibility_search_light">Търсене</string>
-  <string name="status_bar_recent_memory_info1">"%s "</string>
-  <string name="status_bar_recent_memory_info2">" %s свободни"</string>
 </resources>
