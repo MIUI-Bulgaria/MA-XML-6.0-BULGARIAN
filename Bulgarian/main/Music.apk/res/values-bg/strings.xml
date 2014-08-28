@@ -68,6 +68,10 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+  <string name="empty_page_no_album">Няма албуми.</string>
+  <string name="empty_page_no_artist">Няма изпълнители.</string>
+  <string name="empty_page_no_document">Няма документи.</string>
+  <string name="empty_page_no_track">Няма песни.</string>
   <string name="enabled">Активирано</string>
   <string name="eq_auto">По избор</string>
   <string name="eq_blues">Блус</string>
@@ -134,6 +138,7 @@
   <string name="lrc_search_failed">Текстът на песента не е намерен</string>
   <string name="lrc_searching">Търсене на текст…</string>
   <string name="lyric_open_other_connect">Изтегляне на текста чрез мобилни данни</string>
+  <string name="max_sleep_time">90</string>
   <string name="mediaplaybacklabel">Музика</string>
   <string name="metered_alert">Предупреждение</string>
   <string name="metered_alert_msg">"Използването на мобилни данни, за да стриймвате музика ще увеличи използването на данни. Бъдете внимателни да не се превишава месечния лимит на вашия план, тъй като това може да доведе до високи такси."</string>
@@ -141,6 +146,7 @@
   <string name="metered_disallow">Отказ</string>
   <string name="metered_play_toast">Стрийминг чрез мобилни данни</string>
   <string name="mi_effect">Mi Sound</string>
+  <string name="min_sleep_time">1</string>
   <string name="music_browser_label">Музика</string>
   <string name="music_picker_title">Изберете песен</string>
   <string name="music_quality">Качество на музиката</string>

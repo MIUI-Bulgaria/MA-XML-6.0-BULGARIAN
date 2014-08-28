@@ -98,4 +98,5 @@
   <string name="sns_toast_empty">"Can't send empty post"</string>
   <string name="sns_toast_over_limit">Send as picture for over text limit</string>
   <string name="unknown_source">Unknown source</string>
+  <string name="widget_content_loading">Зарежда се…</string>
 </resources>

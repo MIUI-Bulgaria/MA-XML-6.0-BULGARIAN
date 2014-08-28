@@ -85,6 +85,7 @@
   <string name="effect_goofy_face_small_mouth">Малка уста</string>
   <string name="effect_goofy_face_squeeze">Свиване</string>
   <string name="effect_none">Без ефекти</string>
+  <string name="effect_setting_top_text">Филтри</string>
   <string name="effect_silly_faces">СМЕШНИ ЛИЦА</string>
   <string name="empty">" "</string>
   <string name="error_app_unsupported">Този вид кодиране не поддържа резолюцията.</string>
@@ -122,6 +123,7 @@
   <string name="find_other_qrcode">Открит QR код</string>
   <string name="find_qq_qrcode">Открит е QQ QR код</string>
   <string name="find_web_qrcode">Открит QR код на уебсайт</string>
+  <string name="find_wechat_qrcode">Открит е WeChat QR код</string>
   <string name="find_wifi_qrcode">Открит е Wi-Fi QR код</string>
   <string name="flash">Светкавица</string>
   <string name="flash_off">Светкавица изкл.</string>
@@ -177,8 +179,12 @@
   <string name="pano_too_fast_prompt">Прекалено бързо</string>
   <string name="path">Път</string>
   <string name="people">Хора</string>
+  <string name="pref_advance_settings">Разширени настройки</string>
   <string name="pref_advanced_functions">Разширени функции</string>
   <string name="pref_advanced_settings">Разширени</string>
+  <string name="pref_audio_indicator_entry_off">Аудиото е изкл.</string>
+  <string name="pref_audio_indicator_entry_on">Аудиото е вкл.</string>
+  <string name="pref_camcorder_settings">Настройка на видеокамерата</string>
   <string name="pref_camcorder_settings_category">Настройки на видеокамерата</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
   <string name="pref_camera_antibanding_entry_0">Изкл.</string>
@@ -215,6 +221,7 @@
   <string name="pref_camera_coloreffect_entry_yesteryear">Винтидж</string>
   <string name="pref_camera_coloreffect_title">Филтри</string>
   <string name="pref_camera_contrast_title">Контраст</string>
+  <string name="pref_camera_countdown_title">Отброяване</string>
   <string name="pref_camera_current_k_value">Текуща стойност</string>
   <string name="pref_camera_default_suffix">(Стандартно)</string>
   <string name="pref_camera_denoise_title">Намаляване на шумовете</string>
@@ -251,6 +258,7 @@
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">На живо</string>
   <string name="pref_camera_hdr_type_entry_normal">Нормален</string>
+  <string name="pref_camera_hdr_type_title">Тип HDR</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
@@ -275,8 +283,6 @@
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Фокусиране</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Серия от снимки</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Задържане бутона на затвора</string>
-  <string name="pref_camera_movie_solid_entry_off">Изкл.</string>
-  <string name="pref_camera_movie_solid_entry_on">Вкл.</string>
   <string name="pref_camera_movie_solid_title">Стабилизация на изображението</string>
   <string name="pref_camera_multilevel_entry_high">Високо</string>
   <string name="pref_camera_multilevel_entry_higher">По-високо</string>
@@ -344,6 +350,7 @@
   <string name="pref_camera_scenemode_entry_sports">Спорт</string>
   <string name="pref_camera_scenemode_entry_sunset">Залез</string>
   <string name="pref_camera_scenemode_title">Сценичен режим</string>
+  <string name="pref_camera_settings">Настройка на устройството</string>
   <string name="pref_camera_settings_category">Настройки на камерата</string>
   <string name="pref_camera_settings_title">Настройки</string>
   <string name="pref_camera_sharpness_title">Острота</string>
@@ -369,6 +376,7 @@
   <string name="pref_camera_volumekey_function_entry_exposure">Експониране</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Затвор</string>
   <string name="pref_camera_volumekey_function_entry_volume">Звук</string>
+  <string name="pref_camera_volumekey_function_entry_zoom">Мащабиране</string>
   <string name="pref_camera_volumekey_function_title">Функция на бутоните за звук</string>
   <string name="pref_camera_watermark_title">Дата на снимката</string>
   <string name="pref_camera_whitebalance_entry_auto">Aвто</string>
@@ -383,12 +391,16 @@
   <string name="pref_camera_zsl_entry_off">Изкл.</string>
   <string name="pref_camera_zsl_entry_on">Вкл.</string>
   <string name="pref_camera_zsl_title">ZSL (снима без забавяне)</string>
+  <string name="pref_capture_settings">Настройка на фотоапарата</string>
   <string name="pref_exposure_title">Експониране</string>
+  <string name="pref_face_beauty_title">Кожа</string>
+  <string name="pref_front_mirror_title">Предно огледало</string>
   <string name="pref_grp_advanced_settings">Разширени настройки</string>
   <string name="pref_grp_capture_settings">Настройки на запис</string>
   <string name="pref_grp_picture_settings">Настройки на снимане</string>
   <string name="pref_grp_restore_settings">Нулиране на настройките</string>
   <string name="pref_manual_exposure_title">Ръчно експониране</string>
+  <string name="pref_priority_storage_title">Съхраняване на външната SD карта</string>
   <string name="pref_scan_qrcode_entry_off">Изкл.</string>
   <string name="pref_scan_qrcode_entry_on">Вкл.</string>
   <string name="pref_scan_qrcode_title">Сканиране на QR код</string>
@@ -410,6 +422,8 @@
   <string name="pref_video_speed_entry_fast">Бърза</string>
   <string name="pref_video_speed_entry_normal">Нормална</string>
   <string name="pref_video_speed_entry_slow">Бавна</string>
+  <string name="pref_video_speed_fast_title">Бързо</string>
+  <string name="pref_video_speed_slow_title">Бавно</string>
   <string name="pref_video_speed_title">Скорост на видеозапис</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">0.3 секунди (10 пъти)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">4 секунди (120 пъти)</string>
@@ -452,6 +466,7 @@
   <string name="set_image">Задай снимката като</string>
   <string name="set_label_all_albums">Всички албуми</string>
   <string name="set_label_local_albums">Локални албуми</string>
+  <string name="setting_top_text">Опции</string>
   <string name="share">Сподели</string>
   <string name="show_all">Снимки и видео</string>
   <string name="show_images_only">Само снимки</string>
@@ -459,6 +474,7 @@
   <string name="show_videos_only">Само видео</string>
   <string name="simple_mode_button_text_audio_capture">Спри снимането чрез звук</string>
   <string name="simple_mode_button_text_color_effect">Спри филтъра</string>
+  <string name="simple_mode_button_text_countdown">Спри отброяването</string>
   <string name="simple_mode_button_text_face_beauty">Спри разкрасяване на лица</string>
   <string name="simple_mode_button_text_hand_night">Спри нощен режим</string>
   <string name="simple_mode_button_text_hdr">Спри HDR</string>
@@ -472,6 +488,7 @@
   <string name="spaceIsLow_content">Мястото във Вашата USB памет привършва. Променете настройките за качество или изтрийте някои снимки и други файлове.</string>
   <string name="success_message_import_from_account">Импортирането е успешно</string>
   <string name="tags">Тагове</string>
+  <string name="tap_to_exposure">Докоснете за ръчно експониране</string>
   <string name="tap_to_focus">Докоснете за фокусиране</string>
   <string name="time">Време</string>
   <string name="time_lapse_error">Невалидна резолюция за записване на \"Time lapse\" видео.</string>
@@ -483,6 +500,7 @@
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Серийното снимане не се поддържа, когато е включено разкрасяване на лица.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Серийното снимане не се поддържа, когато е включен HDR.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">Необходимо е да настроите ISO на АВТО.</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Не може да преглеждате снимка или клип, когато екрана е заключен.</string>
   <string name="toast_start_audio_capture">Издайте звук, за да сработи затвора</string>
   <string name="undo">ОТМЕНИ</string>
   <string name="unit_mm">мм</string>
@@ -511,14 +529,4 @@
   <string name="wifi_security">Сигурност:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Преди да се свържете, убедете се в безопасността на Wi-Fi мрежата</string>
-  <string name="pref_front_mirror_title">Предно огледало</string>
-  <string name="tap_to_exposure">Докоснете за ръчно експониране</string>
-  <string name="pref_audio_indicator_entry_off">Аудиото е изкл.</string>
-  <string name="pref_audio_indicator_entry_on">Аудиото е вкл.</string>
-  <string name="pref_camera_volumekey_function_entry_zoom">Мащабиране</string>
-  <string name="find_wechat_qrcode">Открит е WeChat QR код</string>
-  <string name="pref_face_beauty_title">Кожа</string>
-  <string name="pref_camera_hdr_type_title">Тип HDR</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">Не може да преглеждате снимка или клип, когато екрана е заключен.</string>
-  <string name="effect_setting_top_text">Camera Filters</string>
 </resources>

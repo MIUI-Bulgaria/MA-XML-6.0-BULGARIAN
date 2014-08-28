@@ -10,8 +10,11 @@
   <string name="add_favorite_success">Добавено към любими</string>
   <string name="add_more_addons">Add more</string>
   <string name="addon"/>
+  <string name="addon_all">Всички</string>
   <string name="addon_category">Препоръчани</string>
   <string name="addon_install_complete_disc">%s добавки са инсталирани. Можете да ги прегледате в /Мои видеота/.</string>
+  <string name="addon_installed_empty_hint">Празно</string>
+  <string name="addon_list_empty_hint">Празно</string>
   <string name="addon_update_desc">Открита е нова версия, да се актуализира ли сега?</string>
   <string name="adjust_position_next_media_notice">Следващ</string>
   <string name="adjust_position_prev_media_notice">Предишен</string>
@@ -30,8 +33,6 @@
   <string name="authenticated_failed">Неуспешно вписване</string>
   <string name="authenticating"><CDATA>Проверка </CDATA></string>
   <string name="authenticating_manually">Грешка при удостоверяване</string>
-  <string name="auto_play">Авто-възпроизвеждане</string>
-  <string name="auto_play_summary">Възпроизвеждане на видеото след завършване на изтеглянето или буферирането</string>
   <string name="average_score">Рейтинг</string>
   <string name="avg_score">%.1f</string>
   <string name="back">Назад</string>
@@ -42,6 +43,7 @@
   <string name="cancel_favorite_success">Премахнато от любими</string>
   <string name="channel_choice_empty_hint">Празно</string>
   <string name="channel_empty_hint">Празно</string>
+  <string name="check_network">Не може да се свърже с мрежата. Проверете настройките на мрежата и опитайте отново.</string>
   <string name="choice">Горещи</string>
   <string name="clarity_high">Високо</string>
   <string name="clarity_standard">Стандартно</string>
@@ -50,6 +52,7 @@
   <string name="clear_cache">Изчисти кеша</string>
   <string name="clear_cache_success">Кешът е изчистен</string>
   <string name="clear_cache_summary">Изтрива кешираните изображения</string>
+  <string name="click_star_rate">Докоснете звездите за рейтинг</string>
   <string name="click_to_login">Докоснете снимката за вписване</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Коментари</string>
@@ -61,8 +64,6 @@
   <string name="comment_review_list_empty_hint">Няма коментари</string>
   <string name="connect_error">Грешка на мрежата</string>
   <string name="connecting">Свързване…</string>
-  <string name="continue_to_play_nextset">Пусни следващия епизод автоматично</string>
-  <string name="continue_to_play_nextset_summary">Когато епизода който гледате завърши, следващия започва автоматично</string>
   <string name="count_comment">%d оценки</string>
   <string name="count_comment_wan">%.2f0 оценки</string>
   <string name="count_ge">"Файлове: %d "</string>
@@ -76,6 +77,7 @@
   <string name="day">". "</string>
   <string name="declaration">Условия за ползване</string>
   <string name="declaration_content">Приемате ли условията за употреба, определени от Sohu Video, iQiyi и другите доставчици на видео?</string>
+  <string name="defaults">Стандартни</string>
   <string name="delete">Изтрий</string>
   <string name="delete_addon">Изтриване</string>
   <string name="delete_addon_content">Да се изтрие ли този елемент?</string>
@@ -91,6 +93,7 @@
   <string name="disk_volume">USB хранилище</string>
   <string name="dlna_list_name">DLNA устройство</string>
   <string name="dlna_name">Споделено устройство</string>
+  <string name="done">Готово</string>
   <string name="download_add_success">Добавено за изтегляне</string>
   <string name="download_error">Грешка при изтегляне</string>
   <string name="download_file_fail">Няма достъп до файла, вероятно няма свободно място в хранилището</string>
@@ -116,8 +119,10 @@
   <string name="forecast">Справочник</string>
   <string name="forecast_empty_hint">Няма програми</string>
   <string name="forecasts">Справочник</string>
+  <string name="fullscreen">Цял екран</string>
   <string name="funshion">Мода</string>
   <string name="gong_count_dlna">DLNA: %d</string>
+  <string name="gong_count_ge">Общо: %d</string>
   <string name="gong_count_ji">%d Еп. общо</string>
   <string name="gong_count_xiang">"Файлове: %d "</string>
   <string name="good">OK</string>
@@ -127,6 +132,8 @@
   <string name="imports">Импорт</string>
   <string name="init">Init</string>
   <string name="install_comfirm">Install</string>
+  <string name="installed">Инсталирано</string>
+  <string name="installed_count_ge">%d инсталирани</string>
   <string name="introduce">Резюме</string>
   <string name="key_back_down_toast">Натиснете отново за изход</string>
   <string name="lekan">Lekan</string>
@@ -152,6 +159,7 @@
   <string name="menu_item_orientation_auto_sensor_action">Включи ротация</string>
   <string name="menu_item_orientation_fixed_by_videosize_action">Изключи ротация</string>
   <string name="menu_item_sub_title">Субтитри</string>
+  <string name="mipush_setting">Xiaomi push</string>
   <string name="month">"."</string>
   <string name="more">Още</string>
   <string name="my_favorite">Любими</string>
@@ -163,6 +171,7 @@
   <string name="negative_comment">Негативен</string>
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">Влезте в Mi профила си, преди да коментирате.</string>
+  <string name="no_longer_tips">Не показвай отново</string>
   <string name="not_login">Не сте вписан</string>
   <string name="nowifi_alert_dialog_continue">Продължи</string>
   <string name="nowifi_alert_dialog_exit">Изход</string>
@@ -186,12 +195,13 @@
   <string name="play_count_ci">%d гледани</string>
   <string name="play_his_empty_hint">Празно</string>
   <string name="play_history">Последно гледани</string>
-  <string name="play_setting">Възпроизвеждане</string>
   <string name="positive_comment">Позитивни</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank">Оценени</string>
+  <string name="receive_mipush">Получаване на xiaomi push</string>
+  <string name="receive_mipush_summary">Получаване на известия за ново или обновено онлайн съдържание</string>
   <string name="recent_play">Последно гледан: Еп.%d</string>
   <string name="recentplay">Последно гледани</string>
   <string name="recommend">Препоръчани</string>
@@ -251,6 +261,9 @@
   <string name="upgrade">Надстройка</string>
   <string name="use_cellular_network">Използвай мобилната мрежа</string>
   <string name="use_cellular_network_summary">Използване на мобилната мрежа за изтегляне на видео</string>
+  <string name="userdata_alert_content">Понастоящем използвате мобилни данни, сигурни ли сте, че искате да продължите?</string>
+  <string name="userdata_alert_ok">Продължи</string>
+  <string name="userdata_alert_title">Използване на данни</string>
   <string name="video">Видео</string>
   <string name="video_info_audio_bitrate_label">Аудио битрейт:</string>
   <string name="video_info_audio_coding_label">Аудио кодек:</string>

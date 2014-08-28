@@ -8,7 +8,7 @@
   <string name="stock_photo_album_name">Стокови снимки</string>
   <string name="local_source_name">Снимки на устройството</string>
   <string name="need_to_configure">Няма избрани снимки.</string>
-  <string name="no_photos">No photos on the device.</string>
-  <string name="photodream_select_all">Select All</string>
-  <string name="photodream_select_none">Deselect All</string>
+  <string name="no_photos">Няма снимки в устройството.</string>
+  <string name="photodream_select_all">Избери всички</string>
+  <string name="photodream_select_none">Размаркирай всички</string>
 </resources>

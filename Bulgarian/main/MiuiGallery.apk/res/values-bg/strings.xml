@@ -19,7 +19,11 @@
   <string name="add_to_cloud_space_full_message">Облачният албум е пълен.</string>
   <string name="add_to_cloud_successfully_message">Добавено към облака.</string>
   <string name="add_to_cloud_type_not_support_message">Този файл не се поддържа.</string>
+  <string name="add_to_cloud_unfinished_message_with_count">%1$s елемента не са добавени в облака</string>
   <string name="add_to_cloud_unknow_reasons">Възникна неизвестна грешка</string>
+  <string name="add_to_secret_failed_message_with_count">%2$s елемента не могат да се добавят към тайната: %1$s.</string>
+  <string name="add_to_secret_successfully_message">Добавено към таен албум</string>
+  <string name="add_to_secret_unfinished_message_with_count">%1$s елемента не са добавени към тайната</string>
   <string name="adding_recipients">Добавяне на получатели...</string>
   <string name="album_member">Член на албума %s</string>
   <string name="album_name">Име на албума</string>
@@ -310,9 +314,9 @@
   <string name="messagelist_sender_self">Аз</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk рисунки</string>
-  <string name="miliao_saved">MiChat</string>
   <string name="miliao_saved_folder_display_name">MiTalk</string>
   <string name="mimetype">MIME шрифт</string>
+  <string name="mipc_1">Джобна Камера</string>
   <string name="mishop_saved_folder_display_name">MiShop</string>
   <string name="miui_capture_screen_folder_display_name">Екранни снимки</string>
   <string name="modified_time">Променено на</string>
@@ -363,6 +367,8 @@
   <string name="orientation">Ориентация</string>
   <string name="other_category">Други настройки</string>
   <string name="owner_album_subtitle">Споделено с %1$s членове</string>
+  <string name="paint_cancel_context">Да се прекрати ли редактирането?</string>
+  <string name="paint_cancel_title">Прекратяване</string>
   <string name="path">Път до файла</string>
   <string name="people">Хора</string>
   <string name="photo_page_always_rotate">Авто завъртане</string>
@@ -370,6 +376,10 @@
   <string name="photo_page_save_image">Запиши</string>
   <string name="photo_page_save_uri_image_fail">Неуспешно записване на снимката.</string>
   <string name="photo_page_save_uri_image_ok">Снимката е записана в папката на камерата.</string>
+  <string name="photo_paint_adjust">настроите</string>
+  <string name="photo_paint_crop">Подрязване</string>
+  <string name="photo_paint_effect">ефект</string>
+  <string name="photo_paint_rotate">Завъртане</string>
   <string name="photo_saved">Снимката е записана в %s</string>
   <string name="photo_size">Размер</string>
   <string name="photoeditor_name">Фото студио</string>
@@ -398,6 +408,9 @@
   <string name="redeye">Червени очи</string>
   <string name="redeye_tooltip">Натиснете за премахване на ефекта червени очи</string>
   <string name="refocus_data_downloading">Изтеглят се данни за дофокусиране…</string>
+  <string name="remove_from_secret_failed_message_with_count">%2$s елемента не могат да се премахнат от тайната: %1$s.</string>
+  <string name="remove_from_secret_successfully_message">Премахнато от таен албум</string>
+  <string name="remove_from_secret_unfinished_message_with_count">%1$s елемента не са премахнати от тайната</string>
   <string name="remove_hidden_album">Премахване на скрити</string>
   <string name="remove_recent_album">Премахни от последните албуми</string>
   <string name="rename_failed">Преименуването е неуспешно</string>
@@ -517,7 +530,7 @@
   <string name="tint">Оттенък</string>
   <string name="title">Име</string>
   <string name="to_count">%d общо</string>
-  <string name="too_many_recipients">Съобщението има прекалено много получатели (%1$s), позволени са %2$s.</string>
+  <string name="too_many_recipients">Съобщението има прекалено много получатели (%1$s), позволени са %2$s.</string>  
   <string name="try_to_send">Опитай изпращане</string>
   <string name="ubifocus_data_missing">Някои данни липсват</string>
   <string name="ubifocus_guide_text">Задръжте продължително за дофокусиране</string>
@@ -531,7 +544,7 @@
   <string name="unpublish_succeeded">Албумът не е публикуван!</string>
   <string name="unpublishing">Отмяна на публикуването, моля изчакайте...</string>
   <string name="untagged">Без етикет</string>
-  <string name="user_alias_self">Аз</string>  
+  <string name="user_alias_self">Аз</string>
   <string name="video_err">"Видеото не може да се възпроизведе."</string>
   <string name="video_not_exist">Видеото не съществува!</string>
   <string name="view_sharers">Споделено с</string>

@@ -20,18 +20,18 @@
         <item>Огромен</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"Now you can easily jot down ideas, memos, thoughts using
+        <item>"Сега можете да лесно да нахвърляте идеи, известия и мисли с помощта на
 "</item>
-        <item>"Attach pictures or contacts
+        <item>"Прикачите снимки или контакти
 "</item>
-        <item>"Check off tasks with your finger
+        <item>"Отмятате задачи с прокарване на пръст
 "</item>
-        <item>"And more great features!
-  - Sync with Mi Cloud
-  - Set reminders
+        <item>"И още много функции!
+  - Синхронизация с Mi Cloud
+  - Създаване на напомняния
 
-To learn more, visit
-http://www.miui.com/forum.php?lang=1
+За да научите повече, посетете
+http://miui.bg/community/
 "</item>
     </string-array>
 </resources>

@@ -314,4 +314,7 @@ Please check your local date and try again."</string>
   <string name="unit">Mi Credit</string>
   <string name="unit_value">%1$s Mi Credit</string>
   <string name="voucher_card_text">Please scratch off the coat</string>
+  <string name="confirm_title">提示</string>
+  <string name="ensure">确定</string>
+  <string name="processing">加载中</string>
 </resources>
