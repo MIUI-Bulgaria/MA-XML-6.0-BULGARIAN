@@ -996,11 +996,11 @@
     <string name="volume_alarm">Сила на звука на будилника</string>
     <string name="volume_notification">Сила на звука при известие</string>
     <string name="volume_unknown">Сила на звука</string>
-    <string name="volume_icon_description_bluetooth">Сила на звука за Bluetooth</string>
-    <string name="volume_icon_description_ringer">Сила на звука за мелодия</string>
-    <string name="volume_icon_description_incall">Сила на звука за обаждания</string>
-    <string name="volume_icon_description_media">Сила на звука</string>
-    <string name="volume_icon_description_notification">Сила на звука при известие</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_ringer">Звънене</string>
+    <string name="volume_icon_description_incall">Обаждания</string>
+    <string name="volume_icon_description_media">Медиа</string>
+    <string name="volume_icon_description_notification">Известия</string>
     <string name="ringtone_default">Стандартна мелодия</string>
     <string name="ringtone_default_with_actual">Стандартна мелодия (%1$s)</string>
     <string name="ringtone_silent">Без</string>

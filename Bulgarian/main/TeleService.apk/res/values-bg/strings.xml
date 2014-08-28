@@ -216,6 +216,7 @@
   <string name="dial_emergency_error">баждането не е изпратено, %s не е номер за спешен номер!</string>
   <string name="dial_pad_autocomplete">Авт. довършване на клавиат. за набиране</string>
   <string name="dial_related_setting_catory">Набиране</string>
+  <string name="dialog_network_priority_title">Приоритет</string>
   <string name="disable">Деактивиране</string>
   <string name="disable_all_cf">Изключи всички пренасочвания</string>
   <string name="disable_cfb_forbidden">Операторът ви не поддържа деактивиране на пренасочване на обаждането по време на разговор.</string>
@@ -316,6 +317,8 @@
   <string name="get_pin2">Въвеждане на PIN2</string>
   <string name="get_smsc_address_error">Грешка при изискване на номера на SMS-центъра.</string>
   <string name="get_smsc_address_timeout">Времето за свързване изтече</string>
+  <string name="gsm_umts_network_preferences_dialogtitle">Мрежов режим</string>
+  <string name="gsm_umts_network_preferences_title">Мрежов режим</string>
   <string name="gsm_umts_options">Опции за GSM/UMTS</string>
   <string name="hac_mode_summary">Включване на съвместимостта за слухов апарат</string>
   <string name="hac_mode_title">Слухови апарати</string>
@@ -329,6 +332,8 @@
   <string name="ims_edit_title">Данни за IMS акаунт</string>
   <string name="ims_menu_discard">Отхвърляне</string>
   <string name="ims_menu_save">Запазване</string>
+  <string name="ims_service_capability">Активиране/Деактивиране възможностите на услугата</string>
+  <string name="ims_service_capability_title">Активиране/Деактивиране възможностите на IMS услугата</string>
   <string name="incall_error_call_failed">Обаждането не е изпратено.</string>
   <string name="incall_error_emergency_only">Няма регистрация в мрежата.</string>
   <string name="incall_error_no_phone_number_supplied">Обаждането не е изпратено, не е въведен валиден номер.</string>
@@ -425,6 +430,7 @@
   <string name="national_disable">Националните новини са деактивирани</string>
   <string name="national_enable">Националните новини са активирани</string>
   <string name="network_forbidden">%s (забранена)</string>
+  <string name="network_id">ИД на мрежата</string>
   <string name="network_message">Мрежово съобщение</string>
   <string name="network_settings_auto_select_title">Изключване на авт. избор на мрежа</string>
   <string name="network_settings_automatically_option">Автоматичен избор на мобилна мрежа (%s)</string>
@@ -649,6 +655,7 @@
   <string name="saving_account">Профилът се запазва...</string>
   <string name="selectContact">избиране на контакта</string>
   <string name="select_automatically">Да се избира автоматично</string>
+  <string name="select_voice_call_sim">изберете</string>
   <string name="sendSms">Изпрати текстово съобщение</string>
   <string name="send_button">Изпращане</string>
   <string name="send_keepalive_title">Изпращане на съобщение за проверка на връзката</string>
@@ -769,11 +776,14 @@
   <string name="tty_mode_option_title">TTY mode</string>
   <string name="turnover_mute_summary">Обърнете за изключване на звука, докато телефона е в хоризонтално положение</string>
   <string name="turnover_mute_title">Обръщане за заглушаване</string>
+  <string name="undefined">Неопределено</string>
   <string name="unknown">Неизвестен</string>
   <string name="unlock_failed">Заявката за отключване на мрежата не бе успешна.</string>
   <string name="unlock_success">Отключването на мрежата бе успешно.</string>
   <string name="updating_fdn_contact">Фиксирани номера за набиране се актуализират…</string>
   <string name="updating_settings">Настройките се актуализират…</string>
+  <string name="uplmn_list_setting_add_plmn">Нов PLMN</string>
+  <string name="uplmn_list_setting_title">Предпочитани мрежи</string>
   <string name="username_title">Потребителско име</string>
   <string name="ussdRunning">USSD кодът се изпълнява…</string>
   <string name="ussd_dialog_sep">----------</string>

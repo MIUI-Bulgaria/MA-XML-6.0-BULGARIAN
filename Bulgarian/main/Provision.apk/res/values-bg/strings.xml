@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="congratulation_label">Enjoy your new phone :)</string>
-  <string name="congratulation_next">Start using MIUI</string>
-  <string name="input_method_category">"Choose the default input method that you'll use when writing emails, notes, and everywhere else. Note that you can install third-party keyboards later."</string>
-  <string name="input_method_setting">Choose input method</string>
-  <string name="logo_congratulation">"You're all set!"</string>
-  <string name="next">Next</string>
-  <string name="other_settings">Additional settings</string>
-  <string name="other_settings_location">Location access</string>
-  <string name="other_settings_location_summary">Let apps pinpoint your location</string>
-  <string name="other_settings_user_experience">User feedback</string>
-  <string name="other_settings_user_experience_summary">Help improve MIUI by sending anonymous usage data</string>
-  <string name="shut_down">Shut down</string>
-  <string name="sim_card_detecting">Checking for SIM card…</string>
-  <string name="sim_card_detection">SIM card not detected</string>
-  <string name="sim_card_detection_info">You need a SIM card to set up a Mi Account.</string>
-  <string name="sim_dectection_next">Continue</string>
-  <string name="sim_redetection">Check for SIM card again</string>
-  <string name="welcome">Welcome to</string>
+  <string name="congratulation_label">Насладете се на новият си телефон :)</string>
+  <string name="congratulation_next">Започнете да използвате MIUI</string>
+  <string name="input_method_category">Избиране на метод за въвеждане по подразбиране, който ще използвате при въвеждане на текст в имейли, бележки и др. Запомнете, че можете да си инсталирате клавиатури от трети страни по-късно.</string>
+  <string name="input_method_setting">Метод на въвеждане</string>
+  <string name="logo_congratulation">Настроихте всичко!</string>
+  <string name="multisim_settings_category">Предпочитани SIM настройки</string>
+  <string name="multisim_settings_title">Открити са 2 SIM карти</string>
+  <string name="next">Напред</string>
+  <string name="other_settings">Допълнителни настройки</string>
+  <string name="other_settings_location">Достъп до местоположение</string>
+  <string name="other_settings_location_summary">Позволява приложенията да определят точно местоположението ви</string>
+  <string name="other_settings_user_experience">Потребителски отзив</string>
+  <string name="other_settings_user_experience_summary">"Помогнете ни да подобрим MIUI чрез изпращане на анонимни потребителски данни. "</string>
+  <string name="other_settings_user_experience_summary1">(Политика на поверителност)</string>
+  <string name="pref_title_data_slot">Предпочитана SIM карта за данни</string>
+  <string name="pref_title_voice_slot">Предпочитана SIM карта за глас</string>
+  <string name="shut_down">Изключване</string>
+  <string name="sim_card_detecting">Проверява се за SIM карта…</string>
+  <string name="sim_card_detection">Не е открита SIM карта</string>
+  <string name="sim_card_detection_info">Нуждаете се от SIM карта, за да настроите Mi профила.</string>
+  <string name="sim_dectection_next">Продължи</string>
+  <string name="sim_redetection">Провери отново за SIM карта</string>
+  <string name="summary_not_set">Не е настроено</string>
+  <string name="summary_sim_card">Карта %1$d%2$s</string>
+  <string name="welcome">Добре дошли в</string>
 </resources>

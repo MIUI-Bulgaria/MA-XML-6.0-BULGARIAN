@@ -481,6 +481,7 @@
   <string name="bt_trace_log_summary">Разрешете Bluetooth Trace log</string>
   <string name="bugreport_in_power">Сигнали за програмни грешки в менюто за захранване</string>
   <string name="bugreport_in_power_summary">Включване на опцията за получаване на сигнал за програмна грешка в менюто за захранване</string>
+  <string name="bugreport_tool_log">Записване на доклад за грешка</string>
   <string name="bugreport_tool_log_toast">Логът е съхранен в %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Създаването на сигнал за грешка ще отнеме около 1 минута.</string>
   <string name="build_number">Номер на версията</string>
@@ -1792,8 +1793,8 @@
 
 Настройката засяга всички потребители на това устройство."</string>
   <string name="rssi_label">RSSI:</string>
-  <string name="running_process_item_removed_user_label">Премахнат потребител</string>
-  <string name="running_process_item_user_label">Потребител: %1$s</string> 
+  <string name="running_process_item_removed_user_label">Премахнат потребител</string> 
+  <string name="running_process_item_user_label">Потребител: %1$s</string>
   <string name="running_processes_item_description_p_p">%1$d процеса и %2$d услуги</string>
   <string name="running_processes_item_description_p_s">%1$d процеса и %2$d услуга</string>
   <string name="running_processes_item_description_s_p">%1$d процес и %2$d услуги</string>
@@ -2627,8 +2628,8 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="wifi_p2p_peer_devices">Съответни устройства</string>
   <string name="wifi_p2p_persist_network">Запомняне на тази връзка</string>
   <string name="wifi_p2p_remembered_groups">Запомнени групи</string>
-  <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
-  <string name="wifi_p2p_wps_setup">Защитена настройка на Wi-Fi</string>  
+  <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>  
+  <string name="wifi_p2p_wps_setup">Защитена настройка на Wi-Fi</string>
   <string name="wifi_password">Парола</string>
   <string name="wifi_poor_network_detection">Да се избягват лоши връзки</string>
   <string name="wifi_poor_network_detection_summary">Да не се използва Wi-Fi мрежа, освен ако няма добра връзка с интернет</string>
@@ -2776,6 +2777,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="wifi_tether_setting_title">Основни настройки</string>
   <string name="wifi_tether_starting">Точката за достъп се включва…</string>
   <string name="wifi_tether_stopping">Точката за достъп се изключва…</string>
+  <string name="wifi_type_approval_title">Type Approval</string>
   <string name="wifi_unchanged">(непроменени)</string>
   <string name="wifi_unspecified">(неизвестни)</string>
   <string name="wifi_update">Обнови статистиката</string>
