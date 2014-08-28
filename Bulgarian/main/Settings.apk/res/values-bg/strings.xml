@@ -63,7 +63,7 @@
   <string name="accessibility_toggle_screen_magnification_preference_title">Ниво на мащаба на екрана</string>
   <string name="accessibility_toggle_speak_password_preference_title">Изговаряне на паролите</string>
   <string name="account_add">Добави</string>
-  <string name="account_autostar_label">Автоматично стартирани</string>
+  <string name="account_autostar_label">Автостарт управление</string>
   <string name="account_list">Всички</string>
   <string name="account_settings">Профили</string>
   <string name="account_sync_settings_title">Синхронизиране</string>
@@ -77,6 +77,7 @@
   <string name="adb_warning_message">Отстраняването на грешки през USB е предназначено само за програмни цели. Използвайте го за копиране на данни между компютъра и устройството си, за инсталиране на приложения на устройството си без известяване и за четене на регистрационни данни.</string>
   <string name="adb_warning_title">Разрешаване на отстраняването на грешки през USB?</string>
   <string name="add_account_label">Добавяне на профил</string>
+  <string name="add_auto_startup_application">Добави приложения за автостарт</string>
   <string name="add_device_admin">Активиране</string>
   <string name="add_device_admin_msg">Да се активира ли администраторът на устройството?</string>
   <string name="additional_system_update"/>
@@ -489,6 +490,7 @@
   <string name="builtin_keyboard_settings_title">Физическа клавиатура</string>
   <string name="button_disconnect_network">Изключване от мрежата</string>
   <string name="button_light_timeout">Продължителност на подсветка</string>
+  <string name="button_text_login">Вписване</string>
   <string name="button_text_reboot_now">Рестарт</string>
   <string name="cache_header_label">Кеш</string>
   <string name="cache_size_label">Кеш</string>
@@ -772,10 +774,12 @@
   <string name="device_status">Състояние</string>
   <string name="device_status_activity_title">Състояние</string>
   <string name="device_status_summary">Състояние на батерията, мрежата и друга информация</string>
+  <string name="dialog_content_login">Необходим е Xiaomi профил за актуализацията, ще се впишете ли?</string>
   <string name="dialog_no">Не</string>
   <string name="dialog_title_color_calibration">Опции за настройка на цветовете</string>
   <string name="dialog_title_font_size">Размер на шрифта</string>
   <string name="dialog_title_hdmi_color_calibration">Настройка на цветовете</string>
+  <string name="dialog_title_login">Вписване в Xiaomi профил</string>
   <string name="dialog_yes">Да</string>
   <string name="dirac_control">Оптимизация на звука</string>
   <string name="dirac_mode_earbuds">Слушалки</string>
@@ -1242,6 +1246,7 @@
   <string name="lte_ram_dump_on">Включване на разтоварването на lte ram</string>
   <string name="macaddr_label">"MAC адрес: "</string>
   <string name="main_running_process_description">Използва се основният процес.</string>
+  <string name="make_sure_cancel_update">Да се отмени ли актуализацията?</string>
   <string name="man_add_application">Добави приложения за авт. стартиране</string>
   <string name="manage_device_admin">Администратори на устройството</string>
   <string name="manage_device_admin_summary">Преглед или деактивиране на администраторите на устройството</string>
@@ -1546,6 +1551,8 @@
   <string name="pointer_location_summary">Насл. на екран показва текущи данни при докосване</string>
   <string name="pointer_settings_category">Мишка/тракпад</string>
   <string name="pointer_speed">Скорост на курсора</string>
+  <string name="power_autorun_apps_empty">Няма приложения с автостарт</string>
+  <string name="power_autorun_empty">Няма приложения</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">В режим на готовност</string>
   <string name="power_idle">Устройството е неактивно</string>

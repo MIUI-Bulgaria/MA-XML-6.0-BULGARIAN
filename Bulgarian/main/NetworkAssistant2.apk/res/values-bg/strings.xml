@@ -309,7 +309,4 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_config_alert_setted">Settings applied</string>
   <string name="traffic_config_alert_title">%s correction</string>
   <string name="traffic_setting_fragment_button1_text">Cancel</string>
-  <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
-  <string name="pref_data_usage_ignore_settings">Ignore data usage</string>
-  <string name="pref_data_usage_ignore_settings_summary">"Don't keep track of a select group of apps' data usage"</string>
 </resources>
