@@ -187,4 +187,17 @@
 От горната част на екрана плъзнете надолу, за да го използвате."</string>
     <string name="action_kuaidi">Бързо такси</string>
     <string name="hint_long_press_del">Дълго натискане за премахване</string>
+  <string name="dialog_title_disable_mikey_sprite">Disable MiKey wizard?</string>
+  <string name="disable_mikey_sprite">Disable MiKey wizard</string>
+  <string name="enable_mikey_sprite">Enable MiKey wizard</string>
+  <string name="hint_mikey_sprite">"点击米键就是点击屏幕
+发语音、拍照片、打游戏…
+使用米键精灵无法使用米键其它功能"</string>
+  <string name="notify_content_sprite">点击右侧叉号可以关闭</string>
+  <string name="notify_ticker_sprite">MiKey wizard is running</string>
+  <string name="notify_title_sprite">MiKey Wizard</string>
+  <string name="splash_mikey_sprite">"可以拖动小白点儿到屏幕的任何地方
+点击米键就是点击小白点儿下的屏幕"</string>
+  <string name="tab_mikey">MiKey</string>
+  <string name="tab_mikey_sprite">MiKey Wizard</string>
 </resources>

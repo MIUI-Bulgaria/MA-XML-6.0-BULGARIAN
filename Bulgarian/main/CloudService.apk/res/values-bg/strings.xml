@@ -17,6 +17,8 @@
   <string name="enable_micloud">Регистрирайте се или влезте</string>
   <string name="enable_sync">Включи</string>
   <string name="enable_sync_dspt">Синхр. е изключена</string>
+  <string name="error_data_in_transfer">Вашите данни се прехвърлят. Моля, изчакайте %s часа.</string>
+  <string name="error_data_in_transfer_title">Понастоящем облачната услуга е недостъпна.</string>
   <string name="error_forbidden">Синхронизацията е изключена поради проблеми с вашия Mi профил.</string>
   <string name="error_network">Грешка в мрежата</string>
   <string name="error_not_acceptable">Синхронизацията е изключена.</string>

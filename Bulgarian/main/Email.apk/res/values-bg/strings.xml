@@ -761,4 +761,6 @@
     <string name="xiaomi_update_dialog_title">Актуализация на %1$s!</string>
     <string name="yes">Да</string>
     <string name="zip_viewer_no_file">Няма файлове!</string>
+    <string name="feedback_sent">"Thanks for your feedback. We'll keep on improving for you"</string>
+    <string name="send_att_title">Alert</string>
 </resources>

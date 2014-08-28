@@ -5,6 +5,7 @@
   <string name="account_default">Телефон</string>
   <string name="account_phone">Само телефон, без синхронизация</string>
   <string name="account_sim">Само на SIM карта</string>
+  <string name="account_sim2">SIM карта %d</string>
   <string name="account_type_format">Контакт %1$s </string>
   <string name="account_unactivated">Профилът не е активиран.</string>
   <string name="actionIncomingCall">Входящи повиквания</string>
@@ -54,6 +55,7 @@
   <string name="callBack">Обратно повикване</string>
   <string name="callDetailTitle">Детайли за повикване</string>
   <string name="callDetailsDurationFormat" formatted="false">%s мин. %s сек.</string>
+  <string name="callNoAnswerTimeFormat">Звънял %s пъти</string>
   <string name="callShortcutActivityTitle">Изберете номер за повикване</string>
   <string name="call_assistant">Набери номера %s</string>
   <string name="call_callback">Набери за обратно повикване</string>
@@ -105,6 +107,7 @@
   <string name="callrecordview_menu_delete_missed">Изтрий списъка с пропуснати повиквания</string>
   <string name="callrecordview_menu_delete_new">Изтрий списъка с повиквания от нови контакти</string>
   <string name="callrecordview_menu_delete_one">Премахни от списъка</string>
+  <string name="callrecordview_menu_delete_sim">Изчисти списъка с повиквания на %s</string>
   <string name="callrecordview_menu_delete_stranger">Изтрий списъка с повиквания от непознати номера</string>
   <string name="callrecordview_menu_edit_call_note">Редактирай бележка</string>
   <string name="callrecordview_menu_paste">Постави</string>
@@ -115,6 +118,7 @@
   <string name="callrecordview_menu_show_called">Изходящи повиквания</string>
   <string name="callrecordview_menu_show_missed">Пропуснати повиквания</string>
   <string name="callrecordview_menu_show_new">От нови контакти</string>
+  <string name="callrecordview_menu_show_sim">%s обаждания</string>
   <string name="callrecordview_menu_show_stranger">От непознати номера</string>
   <string name="callrecordview_menu_show_title">Избери тип списък с повиквания, които да се показват</string>
   <string name="cancel_confirmation_dialog_message">Ще отмените ли промените?</string>
@@ -142,6 +146,7 @@
   <string name="clear_default">Изтрий настройки по подразбиране</string>
   <string name="clear_digits">Изтрий телефонен номер</string>
   <string name="click_close">Натиснете, за да затворите</string>
+  <string name="clip_dialog_title">Набиране на копираният номер?</string>
   <string name="close_dial_pad">Затворете клавиатура</string>
   <string name="cloud_antispam_mark">Спам</string>
   <string name="cloud_antispam_title">Антиспам (в облак)</string>
@@ -320,6 +325,7 @@
   <string name="editGroupDescription">Редактирайте група</string>
   <string name="edit_contact">Редактирайте контакт</string>
   <string name="edit_contact_card_title">Редактирайте контакт</string>
+  <string name="edit_contact_photo">Промени снимката на контакта</string>
   <string name="email">Имейл</string>
   <string name="emailLabelsGroup">Имейл</string>
   <string name="email_custom">Имейл %s</string>
@@ -331,6 +337,7 @@
   <string name="empty_divider_title">Можете да</string>
   <string name="enter_contact_name">"Въведи име на контакт"</string>
   <string name="eventLabelsGroup">Рожден ден</string>
+  <string name="eventTypeCustom">По избор</string>
   <string name="event_edit_field_hint_text">Дата</string>
   <string name="export_sim_contact_finish">Експортирането към SIM картата завърши</string>
   <string name="export_sim_contact_finish_failure">Паметта на SIM картата е пълна.Копирани: %1$d Недовършени: %2$d</string>
@@ -338,6 +345,7 @@
   <string name="export_sim_contacts_dialog_message">Вашата SIM карта има памет за %d контакти. Сигурни ли сте, че ще продължите?</string>
   <string name="export_to_sdcard">Експортиране в хранилището</string>
   <string name="export_to_sim">Експортиране в SIM карта</string>
+  <string name="export_to_sim2">Експортиране в SIM карта 2</string>
   <string name="export_to_sim_title">Експортиране…</string>
   <string name="export_vcard_description">Експортиране на визитка във вътрешната памет на телефона</string>
   <string name="exporting_contact_failed_message">"Неуспешно експортиране на данни.
@@ -366,8 +374,10 @@
   <string name="favoritesFrequentCalled">Често набирани</string>
   <string name="favoritesFrequentContacted">Често контактувани</string>
   <string name="favorites_list_empty">Няма любими</string>
+  <string name="firewall_setting">Блокирани</string>
   <string name="foundTooManyContacts">Открити са повече от %d.</string>
   <string name="frequentList">Често използвани</string>
+  <string name="from_account_format">%1$s</string>
   <string name="full_name">Име</string>
   <string name="generic_no_account_prompt">Запазете своите контакти в безопасност дори ако загубите телефона си: синхронизирайте ги с онлайн услуга.</string>
   <string name="generic_no_account_prompt_title">Добави профил</string>
@@ -400,6 +410,7 @@
   <string name="ic_menu_done">Готово</string>
   <string name="imLabelsGroup">Чат</string>
   <string name="imei">IMEI</string>
+  <string name="imei_invalid">Невалиден IMEI</string>
   <string name="import_all_sim_entries_miui">Импортиране на всички контакти</string>
   <string name="import_all_vcard_string">Импортиране на всички файлове с визитки</string>
   <string name="import_contact_card_button">Импортиране</string>
@@ -407,6 +418,7 @@
   <string name="import_from_other_phone">Импортиране от друг телефон</string>
   <string name="import_from_sdcard">Импортиране от SD карта</string>
   <string name="import_from_sim">Импортиране от SIM карта</string>
+  <string name="import_from_sim2">Импортиране от SIM карта 2</string>
   <string name="import_multiple_vcard_string">Импортиране на няколко визитки</string>
   <string name="import_name">име</string>
   <string name="import_one_vcard_string">Импортиране на една визитка</string>
@@ -477,6 +489,7 @@
   <string name="map_other">Покажи адрес</string>
   <string name="map_work">Покажи служебен адрес</string>
   <string name="meid">MEID</string>
+  <string name="meid_invalid">Невалиден MEID</string>
   <string name="menu_accounts">Профили</string>
   <string name="menu_addStar">Добави в любими</string>
   <string name="menu_bar_group_add">Добави</string>
@@ -504,6 +517,7 @@
   <string name="menu_done">Готово</string>
   <string name="menu_editContact">Редактирай</string>
   <string name="menu_editGroup">Редактирай</string>
+  <string name="menu_edit_mode">Режим редактиране</string>
   <string name="menu_help">Помощ</string>
   <string name="menu_import_export">Импорт/експорт</string>
   <string name="menu_joinAggregate">Обедини</string>
@@ -652,6 +666,9 @@
   <string name="pref_key_photo_word_summary">Автоматично избиране на снимка за контакти без снимка.</string>
   <string name="pref_key_photo_word_title">Автоматична снимка на контакт</string>
   <string name="pref_key_rebuild_t9_index_message">Актуализиране на търсенето на контакти</string>
+  <string name="pref_key_rebuild_t9_index_title">Обновяване на Т9 индекса</string>
+  <string name="pref_key_sim_manage">Управление на SIM карта</string>
+  <string name="pref_key_sim_manage2">Управление на SIM карта 2</string>
   <string name="pref_summary_import_from_account">Импортиране на контактите от профилите в Google и Exchange към профила ми в Mi</string>
   <string name="pref_title_account_import">Импортиране от профил</string>
   <string name="pref_title_import_from_account">Импортиране от Mi профилa</string>
@@ -743,6 +760,8 @@
   <string name="resource_buy">Купи</string>
   <string name="resource_can_not_selected">%1$s не може да бъде избрано!</string>
   <string name="resource_category">Категория</string>
+  <string name="resource_clear_search_history">Истриване на историята на търсене</string>
+  <string name="resource_clear_search_history_dialog">Да се изтрие ли историята на търсене?</string>
   <string name="resource_comment_1_star">*</string>
   <string name="resource_comment_2_star">**</string>
   <string name="resource_comment_3_star">***</string>
@@ -752,6 +771,7 @@
   <string name="resource_comment_average_score">Средно</string>
   <string name="resource_comment_bad_comments">Негативни</string>
   <string name="resource_comment_current_version">Текуща версия</string>
+  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Добави коментар</string>
   <string name="resource_comment_edit_comment_waiting">Проверка на потребителската история…</string>
   <string name="resource_comment_edit_text_default">Напиши коментар</string>
@@ -767,6 +787,7 @@
   <string name="resource_comment_no_comment">Няма коментари</string>
   <string name="resource_comment_publish">Изпрати</string>
   <string name="resource_comment_rate">Рейтинг:</string>
+  <string name="resource_comment_rating_star_tips">Докоснете звездите, за да оцените:</string>
   <string name="resource_comment_score_count">%1$s потребители</string>
   <string name="resource_comment_sending">Изпращане на коментар…</string>
   <string name="resource_comment_title">Коментари: %1$s</string>
@@ -816,6 +837,7 @@
   <string name="resource_exchange_wrong_format_by_local">Въведен е грешен код</string>
   <string name="resource_exchange_wrong_format_by_server">Кодът не може да бъде потвърден. Моля проверете кода и опитайте отново.</string>
   <string name="resource_expand_full_text">Разшири</string>
+  <string name="resource_failed_to_load_list">Неуспешно зареждане на списъка</string>
   <string name="resource_get_auth_checking">Проверка...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Темата не може да се приложи на устройството, тъй като сте надвишили лимита за Вашия профил (10). Моля, влезте с друг Mi профил.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Надвишен лимит ауторизации</string>
@@ -852,6 +874,7 @@
   <string name="resource_ringtone_playing_error">грешка при възпроизвеждане</string>
   <string name="resource_ringtone_volume_mute">Звъненето е заглушено</string>
   <string name="resource_save_to_note">Запази в бележки</string>
+  <string name="resource_search_list_empty">Нищо не е открито</string>
   <string name="resource_see_more">Подробно</string>
   <string name="resource_select">Избери</string>
   <string name="resource_selected">Най-добри</string>
@@ -869,9 +892,11 @@
   <string name="resource_trial_end_purchase">Купи</string>
   <string name="resource_trial_end_restore">Прекрати теста</string>
   <string name="resource_trial_end_title">Тестът изтече</string>
+  <string name="resource_trial_fail_cancel">OK</string>
+  <string name="resource_trial_fail_go_settings">Настройки</string>
+  <string name="resource_trial_fail_message">Уверете се, че системният часовник е настроен правилно.</string>
+  <string name="resource_trial_fail_title">Не може да се създаде пробна сесия</string>
   <string name="resource_trial_time">（тест за %1$d минути）</string>
-  <string name="resource_unable_to_access">"За съжаление,
-съдържанието което търсите в момента не се предлага за вашия регион."</string>
   <string name="resource_unknow_error">Възникна неизвестна грешка.</string>
   <string name="resource_update">Обнови</string>
   <string name="resource_user_know">OK</string>
@@ -923,17 +948,22 @@
   <string name="simContacts_empty">Няма контакти на SIM картата.</string>
   <string name="simContacts_emptyLoading">Зареждане на контакти от SIM картата…</string>
   <string name="simContacts_title">Контакти на SIM карта</string>
+  <string name="sim_account_name">SIM</string>
+  <string name="sim_capacity">Преглед на капацитета на SIM картата</string>
   <string name="sim_capacity_content" formatted="false">Общо %d, използвано %d</string>
   <string name="sim_card_no_free_space_message">Няма достатъчно свободна памет</string>
   <string name="sim_card_no_free_space_title">SIM картата е пълна!</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Размаркирай всички</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Избери всички</string>
+  <string name="sim_contact_existing">Вече съществува такъв SIM контакт.</string>
+  <string name="sim_contact_invalid">Невалиден SIM контакт</string>
   <string name="sim_contact_search_error">Възникна грешка при търсене на контакти на SIM карта</string>
   <string name="sim_contacts">SIM Контакти</string>
   <string name="sim_error_anr_full">Хранилището за номера е пълно!</string>
   <string name="sim_error_email_full">Хранилището за имейл адреси е пълно!</string>
   <string name="sim_error_email_too_long">Имейл адресът е прекалено дълъг.</string>
   <string name="sim_error_generic_failure">Неуспех.</string>
+  <string name="sim_error_not_ready">Зареждане на SIM контакти…</string>
   <string name="sim_error_number_too_long">Номерът е прекалено дълъг!</string>
   <string name="sim_error_password_error">Неправилна парола.</string>
   <string name="sim_error_storage_full">Паметта на SIM картата е пълна</string>
@@ -1056,10 +1086,12 @@
   <string name="wipe_data">Изчисти данни</string>
   <string name="yellowPageNavigationIconLabel">Директория</string>
   <string name="yellowPageNavigationLabel">Директория</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_title">Местоположение според мрежата</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Списъкът на номера на услуги и магазини, според местоположението ви, може да се подобри с тази функция.</string>
+  <string name="yellowpage_navigation_more_items">Още</string>
   <string name="yellowpage_navigation_network_location_enable">Разреши</string>
   <string name="yellowpage_navigation_network_location_enable_later">По-късно</string>
+  <string name="yellowpage_navigation_network_location_enabled">Услугата е активна, можете да я деактивирате в Настройки > Местоположение</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Списъкът на номера на услуги и магазини, според местоположението ви, може да се подобри с тази функция.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Местоположение според мрежата</string>
   <string name="yellowpage_navigation_no_content">Няма намерени резултати</string>
   <string name="yellowpage_navigation_search_city_name_hint">Търсене по град</string>
   <string name="yellowpage_navigation_search_offline_hint">Вие не сте на линия</string>
@@ -1068,41 +1100,9 @@
   <string name="yellowpage_navigation_search_result_service_error">Услугата не е достъпна</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Непозната грешка!</string>
   <string name="yellowpage_navigation_search_select_city">Изберете град</string>
-  <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавено на началните екрани</string>
-  <string name="zero_items_selected">Нищо не е избрано</string>
-  <string name="import_from_sim2">Импортиране от SIM карта 2</string>
-  <string name="eventTypeCustom">По избор</string>
-  <string name="callrecordview_menu_show_sim">%s обаждания</string>
-  <string name="callrecordview_menu_delete_sim">Изчисти списъка с повиквания на %s</string>
-  <string name="export_to_sim2">Експортиране в SIM карта 2</string>
-  <string name="pref_key_sim_manage2">Управление на SIM карта 2</string>
-  <string name="account_sim2">SIM карта %d</string>
-  <string name="imei_invalid">Невалиден IMEI</string>
-  <string name="meid_invalid">Невалиден MEID</string>
-  <string name="sim_error_not_ready">Зареждане на SIM контакти…</string>
-  <string name="sim_capacity">Преглед на капацитета на SIM картата</string>
-  <string name="sim_contact_existing">Вече съществува такъв SIM контакт.</string>
-  <string name="sim_contact_invalid">Невалиден SIM контакт</string>
-  <string name="yellowpage_navigation_network_location_enabled">Услугата е активна, можете да я деактивирате в Настройки > Местоположение</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Изтегля се икона…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Неуспешно, проверете вашите мрежови настройки</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавено на началните екрани</string>
   <string name="yellowpage_user_profile">Профил</string>
-  <string name="yellowpage_navigation_more_items">Още</string>
-  <string name="callNoAnswerTimeFormat">Звънял %s пъти</string>
-  <string name="clip_dialog_title">Набиране на копираният номер?</string>
-  <string name="edit_contact_photo">Промени снимката на контакта</string>
-  <string name="firewall_setting">Блокирани</string>
-  <string name="from_account_format">%1$s</string>
-  <string name="menu_edit_mode">Режим редактиране</string>
-  <string name="pref_key_rebuild_t9_index_title">Обновяване на Т9 индекса</string>
-  <string name="pref_key_sim_manage">Управление на SIM карта</string>
-  <string name="resource_clear_search_history">Истриване на историята на търсене</string>
-  <string name="resource_clear_search_history_dialog">Да се изтрие ли историята на търсене?</string>
-  <string name="resource_comment_date">%1$02d-%2$02d</string>
-  <string name="resource_comment_rating_star_tips">Докоснете звездите, за да оцените:</string>
-  <string name="resource_trial_fail_cancel">OK</string>
-  <string name="resource_trial_fail_go_settings">Настройки</string>
-  <string name="resource_trial_fail_message">Уверете се, че системният часовник е настроен правилно.</string>
-  <string name="resource_trial_fail_title">Не може да се създаде пробна сесия</string>
-  <string name="sim_account_name">SIM</string>
+  <string name="zero_items_selected">Нищо не е избрано</string>
 </resources>

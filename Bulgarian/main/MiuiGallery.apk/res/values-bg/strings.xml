@@ -376,7 +376,7 @@
   <string name="photo_page_save_image">Запиши</string>
   <string name="photo_page_save_uri_image_fail">Неуспешно записване на снимката.</string>
   <string name="photo_page_save_uri_image_ok">Снимката е записана в папката на камерата.</string>
-  <string name="photo_paint_adjust">настроите</string>
+  <string name="photo_paint_adjust">настройте</string>
   <string name="photo_paint_crop">Подрязване</string>
   <string name="photo_paint_effect">ефект</string>
   <string name="photo_paint_rotate">Завъртане</string>

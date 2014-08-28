@@ -197,6 +197,8 @@
   <string name="download_no_sdcard_dlg_msg">За изтегляне на %s е необходимo USB хранилище.</string>
   <string name="download_no_sdcard_dlg_title">USB хранилището е недостъпно</string>
   <string name="download_pending">Започва изтегляне...</string>
+  <string name="download_phone_tip">Телефон</string>
+  <string name="download_router_tip">Изтегляне в Mi Router</string>
   <string name="download_sdcard_busy_dlg_msg">USB хранилище е заето. За да разрешите изтегляне, натиснете "Изключи USB хранилището" в лентата с известия.</string>
   <string name="download_sdcard_busy_dlg_title">USB хранилището е недостъпно</string>
   <string name="downloaded">Изтеглено</string>
@@ -548,6 +550,9 @@
   <string name="replace">Замени</string>
   <string name="return_to_homepage">Към началната страница</string>
   <string name="root_folder_lable">Няма</string>
+  <string name="router_download_exist">Този файл за изтегляне вече съществува</string>
+  <string name="router_download_failed">Неуспешно изтегляне</string>
+  <string name="router_download_success">Изтеглянето завърши</string>
   <string name="same_bookmarks_warning">Тази отметка вече съществува</string>
   <string name="same_folder_name_warning">Тази папка вече съществува</string>
   <string name="save">OK</string>
@@ -583,6 +588,7 @@
   <string name="search_yicha">Yicha</string>
   <string name="security_warning">Предупреждения за защита</string>
   <string name="select_dot">Избери текст</string>
+  <string name="select_download_device">Изберете устройство</string>
   <string name="send_bookmark_to_home_screen">Създай пряк път на началните екрани</string>
   <string name="send_to_popular">Популярни</string>
   <string name="set_as_homepage">Задай като начална страница</string>
