@@ -185,7 +185,7 @@
   <string name="hints_garbage_cleanup_result_danger">Опасност</string>
   <string name="hints_garbage_cleanup_result_risk">Риск</string>
   <string name="hints_garbage_cleanup_result_safe">ОК</string>
-  <string name="hints_garbage_handle_item_content">%1$ елементи, %2$s</string>
+  <string name="hints_garbage_handle_item_content">%1$d елементи, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Празно</string>
   <string name="hints_get_root_disable_title">%d приложения нямат ROOT достъп</string>
   <string name="hints_get_root_enable_title">%d приложения имат ROOT достъп</string>
@@ -533,7 +533,7 @@
   <string name="summary_usb">Избягвай вируси, изпратени чрез USB връзка</string>
   <string name="summary_virus">Намерени вируси: %2$d</string>
   <string name="summary_virus_update">Обновявай вирусните дефиниции автоматично, когато има връзка с Wi-Fi</string>
-  <string name="system_check_content">Рискови: %1$d, Препоръчителни: %2$d</string>
+  <string name="system_check_content">Подозрителни елементи: %1$d</string>
   <string name="system_header_title">Почистването на %1$d процеса ще освободи %2$s памет</string>
   <string name="title_app_update_no">%d приложения имат актуализация</string>
   <string name="title_app_update_yes">Всички приложения са актуални</string>
@@ -541,8 +541,8 @@
   <string name="title_data_flow_yes">Контрола на трафика е включен</string>
   <string name="title_dev_no">Опции на програмиста: вкл.</string>
   <string name="title_dev_yes">Опции на програмиста: изкл.</string>
-  <string name="title_install_virus_no">Контрола на инсталации е изключен</string>
-  <string name="title_install_virus_yes">Контрола на инсталации е включен</string>
+  <string name="title_install_virus_no">Контролът при инсталиране е изключен</string>
+  <string name="title_install_virus_yes">Контролът при инсталиране е включен</string>
   <string name="title_miui_update_no">Актуализации на MIUI: %s</string>
   <string name="title_miui_update_yes">MIUI е актуална</string>
   <string name="title_mms_no">Филтрирането на съобщения е изключено</string>
