@@ -2452,7 +2452,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="volume_notification_description">Известия</string>
   <string name="volume_notification_mute">Спиране на известията</string>
   <string name="volume_restore">Възстанови силата на звука</string>
-  <string name="volume_restore_alert">Всички настройки за силата на звука ще бъдат върнати по подразбиране. Продължавате ли?</string>
+  <string name="volume_restore_alert">Всички настройки за силата на звука ще бъдат нулирани.</string>
   <string name="volume_ring_description">Мелодия и известия</string>
   <string name="volume_ring_mute">Спиране на мелодията и известията</string>
   <string name="volume_system_description">Сила на звука на затвора на камерата, заключването на екрана и други системни известия</string>

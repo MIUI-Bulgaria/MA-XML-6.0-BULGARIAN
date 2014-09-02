@@ -21,7 +21,7 @@
   <string name="activity_title_memory">Памет</string>
   <string name="activity_title_networkassistants">Монитор за данни</string>
   <string name="activity_title_notification_bar_manager">Известия</string>
-  <string name="activity_title_perm_manager">Управление на лицензите</string>
+  <string name="activity_title_perm_manager">Разрешения</string>
   <string name="activity_title_permission_manager">Разрешения</string>
   <string name="activity_title_permissions_manager">Разрешения</string>
   <string name="activity_title_power_manager">Батерия</string>
@@ -224,8 +224,8 @@
   <string name="hints_remember_choice">Запомни това</string>
   <string name="hints_residual_header_left">Остатъчни файлове: %d</string>
   <string name="hints_residual_tips">Открити са %s остатъчни файлове</string>
-  <string name="hints_risk_apk_list_item_summary">Риск （Apk）</string>
-  <string name="hints_risk_app_list_item_summary">Риск （Прил.）</string>
+  <string name="hints_risk_apk_list_item_summary">Риск (Apk)</string>
+  <string name="hints_risk_app_list_item_summary">Риск (Прил.)</string>
   <string name="hints_risk_descx_title">Описание на риска:</string>
   <string name="hints_risk_name_title">Име на риска:</string>
   <string name="hints_scan_result_risk">Съдържа рискове</string>
@@ -235,9 +235,9 @@
   <string name="hints_storage_free">Свободно</string>
   <string name="hints_title_garbage">Отпадъци</string>
   <string name="hints_unknown_virus_name">Неизвестно</string>
-  <string name="hints_virus_apk_list_item_summary">Вирус （Apk）</string>
+  <string name="hints_virus_apk_list_item_summary">Вирус (Apk)</string>
   <string name="hints_virus_apk_summary">%s (Apk)</string>
-  <string name="hints_virus_app_list_item_summary">Вирус （Прил.）</string>
+  <string name="hints_virus_app_list_item_summary">Вирус (Прил.)</string>
   <string name="hints_virus_app_summary">%s (Прил.)</string>
   <string name="hints_virus_descx_title">Описание на вируса:</string>
   <string name="hints_virus_lib_update_default_summary">Последна актуализация: неизвестна</string>

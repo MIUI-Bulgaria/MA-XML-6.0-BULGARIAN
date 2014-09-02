@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="cit_OTG_plugin_check_summary">Когато OTG устройството е свързано, текстът \"USB OTG устройството е засечено\" трябва да се покаже по-долу.</string>
   <string name="cit_OTG_plugin_check_title">OTG тест (откриване)</string>
@@ -24,7 +24,7 @@
 Дръжте телефона така, все едно провеждате обаждане и говорете на основния микрофон. Би следвало да чуете гласа си в слушалката. Не правете теста в шумна среда."</string>
   <string name="cit_audio_lb_summary_topmic_to_speaker">"Тест на горния микрофон чрез високоговорителя.
 
- Обърнете телефона и говорете на горния микрофон. Би следвало да чуете гласа си през високоговорителя."</string>
+Обърнете телефона и говорете на горния микрофон. Би следвало да чуете гласа си през високоговорителя."</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Тест на горния микрофон</string>
   <string name="cit_audio_loopback_check_one_title">Тест на основния микрофон чрез слушалката</string>
   <string name="cit_audio_loopback_check_summary_first">"Тест на основния микрофон чрез слушалката
@@ -94,7 +94,7 @@
   <string name="cit_front_camera_check_title">Тест на предната камера</string>
   <string name="cit_gps_check_summary">Съответната GPS информация трябва да се покаже по-долу.</string>
   <string name="cit_gps_check_title">Тест на GPS</string>
-    <string name="cit_gps_disabled">"GPS-ът не е стартиран
+  <string name="cit_gps_disabled">"GPS-ът не е стартиран
 
 Докоснете екрана за старт на GPS…"</string>
   <string name="cit_gps_satellite_count">Брой спътници: %d</string>
@@ -157,6 +157,8 @@
   <string name="cit_notificationlight_on">Включи светодиода</string>
   <string name="cit_otg_not_supported">Този модел не поддържа тестване на OTG.</string>
   <string name="cit_pass">Издържан</string>
+  <string name="cit_play_sd_mp3_hifi_summary">Уверете се, че има файл на име \"music.mp3\" в основната директория на SD картата. Файлът \"music.mp3\" трябва да се възпроизведе през HIFI пътя на устройството, когато стартирате този тест.</string>
+  <string name="cit_play_sd_mp3_hifi_title">Възпр. на MP3 (HIFI) файл от SD картата</string>
   <string name="cit_play_sd_mp3_summary">Уверете се, че има файл на име \"music.mp3\" в основната директория на SD картата. Файлът \"music.mp3\" трябва да се възпроизведе през високоговорителя на устройството, когато стартирате този тест.</string>
   <string name="cit_play_sd_mp3_title">Възпр. на MP3 файл от SD картата</string>
   <string name="cit_playing_sd_mp3">Възпроизвежда се music.mp3…</string>
@@ -165,7 +167,7 @@
   <string name="cit_power_check_title">Тест на батерията</string>
   <string name="cit_pressure_sensor_check_summary">Стойността на налягането трябва да се покаже по-долу</string>
   <string name="cit_pressure_sensor_check_title">Тест на сензора за налягане</string>
-    <string name="cit_proximity_sensor_check_summary">"Покрийте сензора за близост с ръка (намира се в горната част на телефона, в близост до слушалката) и след това я отместете от него. Стойността трябва да е 0.0 когато сензора е закрит с ръката ви и да нарастне при отместването и.
+  <string name="cit_proximity_sensor_check_summary">"Покрийте сензора за близост с ръка (намира се в горната част на телефона, в близост до слушалката) и след това я отместете от него. Стойността трябва да е 0.0 когато сензора е закрит с ръката ви и да нарастне при отместването и.
 Когато калибрирате, уверете се че няма нищо между сензора и вашата ръка (например протектор на екрана или ръкавици)."</string>
   <string name="cit_proximity_sensor_check_title">Тест на сензора за близост</string>
   <string name="cit_reset_check_summary">Този тест ще рестартира устройството. Всички данни от предишни тестове ще бъдат заличени.</string>
@@ -213,6 +215,7 @@
   <string name="cit_tool_bluetooth_on">Включи Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_h">Влизане в режим Bluetooth single sound тест （2.480GHz)</string>
   <string name="cit_tool_bluetooth_tx_l">Влизане в режим Bluetooth single sound тест （2.402GHz)</string>
+  <string name="cit_tool_enable_3A_log">Активирай 3A log</string>
   <string name="cit_tool_log">Регистри</string>
   <string name="cit_tool_log_bugreport">Доклади за грешки</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -235,59 +238,25 @@
   <string name="cit_tool_nfc_st_run">Стартирай</string>
   <string name="cit_tool_nfc_st_stop">Спри</string>
   <string name="cit_tool_wifi">Tест на Wi-Fi</string>
-  <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
-  <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
-  <string name="cit_tool_wifi_5g_100c">Tx:100/MCS0/13dBm</string>
-  <string name="cit_tool_wifi_5g_100d">Tx:100/MCS7/13dBm</string>
-  <string name="cit_tool_wifi_5g_165a">Tx:165/6M/13dBm</string>
-  <string name="cit_tool_wifi_5g_165b">Tx:165/54M/13dBm</string>
-  <string name="cit_tool_wifi_5g_165c">Tx:165/MCS0/13dBm</string>
-  <string name="cit_tool_wifi_5g_165d">Tx:165/MCS7/13dBm</string>
-  <string name="cit_tool_wifi_5g_36a">Tx:36/6M/13dBm</string>
-  <string name="cit_tool_wifi_5g_36b">Tx:36/54M/13dBm</string>
-  <string name="cit_tool_wifi_5g_36c">Tx:36/MCS0/13dBm</string>
-  <string name="cit_tool_wifi_5g_36d">Tx:36/MCS7/13dBm</string>
-  <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
-  <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
-  <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
-  <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
-  <string name="cit_tool_wifi_band_24">band: 2.4G</string>
-  <string name="cit_tool_wifi_band_5">band: 5G</string>
-  <string name="cit_tool_wifi_band_change">Напред</string>
+  <string name="cit_tool_wifi_chain_1">1</string>
+  <string name="cit_tool_wifi_chain_1_2">1+2</string>
+  <string name="cit_tool_wifi_chain_2">2</string>
   <string name="cit_tool_wifi_exit">Изход</string>
-  <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
-  <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
-  <string name="cit_tool_wifi_g_1a">Tx:1/6M/13dBm</string>
-  <string name="cit_tool_wifi_g_1b">Tx:1/54M/13dBm</string>
-  <string name="cit_tool_wifi_n_13a">Tx:13/MCS0/11dBm</string>
-  <string name="cit_tool_wifi_n_13b">Tx:13/MCS7/11dBm</string>
-  <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
-  <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
-  <string name="cit_tool_wifi_rx_1">Rx:1</string>
-  <string name="cit_tool_wifi_rx_100">Rx:100</string>
-  <string name="cit_tool_wifi_rx_13">Rx:13</string>
-  <string name="cit_tool_wifi_rx_165">Rx:165</string>
-  <string name="cit_tool_wifi_rx_36">Rx:36</string>
-  <string name="cit_tool_wifi_rx_7">Rx:7</string>
   <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
   <string name="cit_tool_wifi_rx_ap_name">MT</string>
-  <string name="cit_tool_wifi_rx_ap_not_null">Името или типа на точката за достъп не може да бъде празно</string>
-  <string name="cit_tool_wifi_rx_ap_type">bss</string>
-  <string name="cit_tool_wifi_rx_ap_type_error">Грешка на AP, въведете отново (bss/adhoc)</string>
   <string name="cit_tool_wifi_rx_chan">Rx: Канал</string>
   <string name="cit_tool_wifi_rx_count_error">Изходната стойност не е число</string>
-  <string name="cit_tool_wifi_rx_error">Възникна грешка при стартиране на програмата</string>
   <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
+  <string name="cit_tool_wifi_rx_error">Възникна грешка при стартиране на програмата</string>
   <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
   <string name="cit_tool_wifi_rx_run">Стартирай</string>
   <string name="cit_tool_wifi_rx_stop">Спри</string>
-  <string name="cit_tool_wifi_rx_total_format">Общо предадени: %s</string>
   <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
   <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
-  <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
   <string name="cit_tool_wifi_rxn_test">Rx:N</string>
+  <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
   <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
-  <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
+  <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: B/G</string>
   <string name="cit_tool_wifi_tx_bg_chan">channel:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">TX power:</string>
@@ -299,6 +268,7 @@
   <string name="cit_tool_wifi_tx_n_txrt">datarate: MCS</string>
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">channel:</string>
+  <string name="cit_tool_wifi_txrx_chain_selection">Избор на антена</string>
   <string name="cit_torch_off">Изключи светкавицата</string>
   <string name="cit_torch_on">Включи светкавицата</string>
   <string name="cit_touch_calib_fail">Калибрирането е неуспешно, опитайте отново</string>
@@ -335,7 +305,4 @@
   <string name="cit_wifi_ap_scanning">Търсене на точки за достъп...</string>
   <string name="cit_wifi_fail_to_scan">Не може да се сканира за Wi-Fi мрежи</string>
   <string name="cit_wifi_state_refresh">Опресни</string>
-  <string name="cit_play_sd_mp3_hifi_title">Възпр. на MP3 (HIFI) файл от SD картата</string>
-  <string name="cit_play_sd_mp3_hifi_summary">Уверете се, че има файл на име \"music.mp3\" в основната директория на SD картата. Файлът \"music.mp3\" трябва да се възпроизведе през HIFI пътя на устройството, когато стартирате този тест.</string>
-  <string name="cit_tool_enable_3A_log">Активирай 3A log</string>
 </resources>

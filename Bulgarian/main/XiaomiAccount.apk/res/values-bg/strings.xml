@@ -267,7 +267,7 @@
   <string name="remove_confirm">Отписване</string>
   <string name="remove_unactivated_account_notice">Вашият профил не беше активиран.</string>
   <string name="removing_account">Отписване…</string>
-  <string name="scan_barcode_title">Сигурно вписване в Mi профила с помощта на сканиране на QR код от уеб страница или ТВ</string>
+  <string name="scan_barcode_title">За да се впишете в Mi профила си, сканирайте QR кодът</string>
   <string name="seperator_forget_and_foreign">|</string>
   <string name="service_error">Грешка в услугата</string>
   <string name="show_password">Покажи паролата</string>

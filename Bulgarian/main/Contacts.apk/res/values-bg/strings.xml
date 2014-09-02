@@ -837,7 +837,6 @@
   <string name="resource_exchange_wrong_format_by_local">Въведен е грешен код</string>
   <string name="resource_exchange_wrong_format_by_server">Кодът не може да бъде потвърден. Моля проверете кода и опитайте отново.</string>
   <string name="resource_expand_full_text">Разшири</string>
-  <string name="resource_failed_to_load_list">Неуспешно зареждане на списъка</string>
   <string name="resource_get_auth_checking">Проверка...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Темата не може да се приложи на устройството, тъй като сте надвишили лимита за Вашия профил (10). Моля, влезте с друг Mi профил.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Надвишен лимит ауторизации</string>
@@ -874,7 +873,6 @@
   <string name="resource_ringtone_playing_error">грешка при възпроизвеждане</string>
   <string name="resource_ringtone_volume_mute">Звъненето е заглушено</string>
   <string name="resource_save_to_note">Запази в бележки</string>
-  <string name="resource_search_list_empty">Нищо не е открито</string>
   <string name="resource_see_more">Подробно</string>
   <string name="resource_select">Избери</string>
   <string name="resource_selected">Най-добри</string>
@@ -897,6 +895,8 @@
   <string name="resource_trial_fail_message">Уверете се, че системният часовник е настроен правилно.</string>
   <string name="resource_trial_fail_title">Не може да се създаде пробна сесия</string>
   <string name="resource_trial_time">（тест за %1$d минути）</string>
+  <string name="resource_unable_to_access">"За съжаление,
+съдържанието което търсите в момента не се предлага за вашия регион."</string>
   <string name="resource_unknow_error">Възникна неизвестна грешка.</string>
   <string name="resource_update">Обнови</string>
   <string name="resource_user_know">OK</string>
