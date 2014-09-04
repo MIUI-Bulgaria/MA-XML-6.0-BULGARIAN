@@ -8,6 +8,14 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
+    <string-array name="baidu">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Винаги включено</item>
         <item>При поискване</item>
@@ -77,5 +85,15 @@
         <item>Голям</item>
         <item>Нормален</item>
         <item>Малък</item>
+    </string-array>
+	<string-array name="search_bar_search_engines_rCN">
+       <item>google</item>
+       <item>yahoo</item>
+       <item>bing</item>
+    </string-array>
+    <string-array name="search_engines_rCN">
+       <item>google</item>
+       <item>yahoo</item>
+       <item>bing</item>
     </string-array>
 </resources>

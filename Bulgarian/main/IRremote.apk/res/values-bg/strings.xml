@@ -164,4 +164,21 @@
   <string name="video_name_recommend">Препоръчване</string>
   <string name="video_name_score">Рейтинг</string>
   <string name="video_play_count_label">Гледания:</string>
+  <string name="app_open_inbox">在盒子上打开</string>
+  <string name="app_open_intv">在电视上打开</string>
+  <string name="app_user_used">%1$s人在使用</string>
+  <string name="connected">已连接</string>
+  <string name="input_complete">完成</string>
+  <string name="input_speech_button">按住输入语音</string>
+  <string name="management_app_management">应用管理</string>
+  <string name="management_settings">设置</string>
+  <string name="management_video_favor">历史与收藏</string>
+  <string name="management_video_recent_watch">最近观看</string>
+  <string name="mitv_assistant_setting_version">小米电视助手 V%1$s</string>
+  <string name="privacy_agree">同意</string>
+  <string name="privacy_content">您将使用小米提供的遥控服务，请阅读&lt;u&gt;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&lt;/u&gt;&amp;#21644;&lt;u&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/u&gt;&amp;#12290;&amp;#22312;&amp;#20351;&amp;#29992;&amp;#30340;&amp;#36807;&amp;#31243;&amp;#20013;&amp;#38656;&amp;#35201;&amp;#36830;&amp;#25509;&amp;#32593;&amp;#32476;&amp;#21644;&amp;#20301;&amp;#32622;&amp;#20449;&amp;#24687;&amp;#65292;&amp;#24744;&amp;#26159;&amp;#21542;&amp;#21516;&amp;#24847;</string>
+  <string name="privacy_disagree">取消</string>
+  <string name="privacy_nohit">不再提示</string>
+  <string name="privacy_title">声明与条款</string>
+  <string name="speech_init_failed">未检测到科大讯飞语音服务，可点击这里下载...</string>
 </resources>

@@ -239,6 +239,7 @@
   <string name="pref_camera_exposuretime_entry_8">1/8 сек.</string>
   <string name="pref_camera_exposuretime_entry_auto">Авто</string>
   <string name="pref_camera_exposuretime_title">Време на експониране</string>
+  <string name="pref_camera_facedetection_title">Разпознаване на лице</string>
   <string name="pref_camera_flashmode_entry_auto">Авто</string>
   <string name="pref_camera_flashmode_entry_off">Изкл.</string>
   <string name="pref_camera_flashmode_entry_on">Вкл.</string>
@@ -419,8 +420,8 @@
   <string name="pref_video_speed_entry_fast">Бърза</string>
   <string name="pref_video_speed_entry_normal">Нормална</string>
   <string name="pref_video_speed_entry_slow">Бавна</string>
-  <string name="pref_video_speed_fast_title">Бързо</string>
-  <string name="pref_video_speed_slow_title">Бавно</string>
+  <string name="pref_video_speed_fast_title">Fast-motion</string>
+  <string name="pref_video_speed_slow_title">Slow-motion</string>
   <string name="pref_video_speed_title">Скорост на видеозапис</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">0.3 секунди (10 пъти)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">4 секунди (120 пъти)</string>
@@ -473,6 +474,7 @@
   <string name="simple_mode_button_text_color_effect">Спри филтъра</string>
   <string name="simple_mode_button_text_countdown">Спри отброяването</string>
   <string name="simple_mode_button_text_face_beauty">Спри разкрасяване на лица</string>
+  <string name="simple_mode_button_text_fast_video">Затвори slow-motion камерата</string>
   <string name="simple_mode_button_text_hand_night">Спри нощен режим</string>
   <string name="simple_mode_button_text_hdr">Спри HDR</string>
   <string name="simple_mode_button_text_panorama">Спри панорама</string>
