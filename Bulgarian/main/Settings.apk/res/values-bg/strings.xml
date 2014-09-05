@@ -2846,4 +2846,11 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="zone_auto_summaryOn">Използване на часовата зона, предоставена от мрежата</string>
   <string name="zone_list_menu_sort_alphabetically">Сортиране по азбучен ред</string>
   <string name="zone_list_menu_sort_by_timezone">Сортиране по часова зона</string>
+  <string name="apply_update_fail">Неуспешна актуализация.</string>
+  <string name="download_current_rom">Вземи последната версия на MIUI</string>
+  <string name="install_whole_rom">Изтегляне на ROM (стандартно)</string>
+  <string name="later">Рестартирай по-късно</string>
+  <string name="mione_update_success_title">Актуализацията завърши</string>
+  <string name="now">Рестартирай сега</string>
+  <string name="view_install_log">Регистър с грешки</string> 
 </resources>
