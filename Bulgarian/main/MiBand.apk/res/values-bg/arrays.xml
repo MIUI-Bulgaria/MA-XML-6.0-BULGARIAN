@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<resources>
+    <string-array name="weeks">
+        <item>Понеделник</item> 
+        <item>Вторник</item> 
+        <item>Сряда</item> 
+        <item>Четвъртък</item> 
+        <item>Петък</item> 
+        <item>Събота</item> 
+        <item>Неделя</item> 
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Пн</item> 
+        <item>Вт</item> 
+        <item>Ср</item> 
+        <item>Чт</item> 
+        <item>Пт</item> 
+        <item>Сб</item> 
+        <item>Нд</item> 
+    </string-array>
+    <string-array name="months">
+        <item>Януари</item> 
+        <item>Февруари</item> 
+        <item>Март</item> 
+        <item>Април</item> 
+        <item>Май</item> 
+        <item>Юни</item> 
+        <item>Юли</item> 
+        <item>Август</item> 
+        <item>Септември</item> 
+        <item>Октомври</item> 
+        <item>Ноември</item> 
+        <item>Декември</item> 
+    </string-array>
+    <string-array name="select_days_simple">
+        <item>Еднократно</item> 
+        <item>Ежедневно</item> 
+        <item>От Пн до Пт</item> 
+        <item>По избор</item> 
+    </string-array>
+    <string-array name="fortune">
+        <item>Лесно е да постигнете целта си за един ден, но е трудно за всеки ден.</item>
+        <item>Не е лесно нещо да постигате целта си всеки ден.</item>
+        <item>Вие правите нов рекорд всеки ден!</item>
+        <item>Насладете се на изграждането на по-доброто ви Аз!</item>
+        <item>Докато не спрете да опитвате, никога не сте губещ.</item>
+        <item>Ние сме това, което правим многократно. Постижението е, че това от действие се превръща в навик.</item>
+        <item>Постигайте една цел на ден.</item>
+        <item>Предизвиквайте себе си, за да бъдете по-добри днес.</item>
+        <item>Просто го направете.</item>
+        <item>Продължавайте, победата ще дойде от само себе си.</item>
+    </string-array>
+</resources>

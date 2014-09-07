@@ -1905,7 +1905,7 @@
   <string name="security_keyguard_category_name">Заключване</string>
   <string name="security_password_category_name">Парола</string>
   <string name="security_passwords_title">Пароли</string>
-  <string name="security_privacy_settings_title">Поверителност</string>
+  <string name="security_privacy_settings_title">Сигурност</string>
   <string name="security_relative">Безопасност</string>
   <string name="security_settings_billing_desc">Това приложение може да ви таксува пари:</string>
   <string name="security_settings_desc">Това приложение има достъп до следното в устройството ви:</string>
