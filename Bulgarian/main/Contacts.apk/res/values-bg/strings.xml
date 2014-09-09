@@ -1,4 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="accessibility_calllog_detail">Подробности</string>
   <string name="account_container_title">От профила</string>
@@ -151,7 +152,7 @@
   <string name="cloud_antispam_mark">Спам</string>
   <string name="cloud_antispam_title">Антиспам (в облак)</string>
   <string name="composer_failed_to_get_database_infomation">"Базата данни е недостъпна."</string>
-  <string name="composer_has_no_exportable_contact">Не са намерени контакти за експортиране. Възможно е експортирането на контакти от телефона да не се поддържа от доставчика Ви на данни.</string>
+  <string name="composer_has_no_exportable_contact">Не са намерени контакти за експортиране. Възможно е експортирането на контакти от телефона да не се поддържа от доставчика ви на данни.</string>
   <string name="composer_not_initialized">"Редактора на визитки не стартира правилно."</string>
   <string name="confirm_delete_contact_all_call_logs">"Сигурни ли сте, че искате да изтриете всички записи %s?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Сигурни ли сте, че искате да изтриете всички записи на избраните контакти?"</string>
@@ -174,7 +175,7 @@
   <string name="contact_edit_title_insert">Добави %s контакти</string>
   <string name="contact_edit_title_readonly">Контакт само за четене</string>
   <string name="contact_editor_prompt_multiple_accounts">Изберете профил, в който да запазите контакта</string>
-  <string name="contact_editor_prompt_one_account">Новият контакт ще бъде синхронизиран с профила Ви в %1$s</string>
+  <string name="contact_editor_prompt_one_account">Новият контакт ще бъде синхронизиран с профила ви в %1$s</string>
   <string name="contact_editor_prompt_zero_accounts">Вашият нов контакт няма да бъде архивиран. Добавете профил за архивиране онлайн</string>
   <string name="contact_is_readOnly">Контакт само за четене не може да се редактира</string>
   <string name="contact_list_loading">Зареждане...</string>
@@ -276,7 +277,7 @@
   <string name="device_import_progress_toast">%1$d контакти са импортирани</string>
   <string name="device_import_title">Импортиране</string>
   <string name="device_list_title">изберете телефон</string>
-  <string name="device_other_guide">ако телефона Ви не присъства в списъка с производители, използвайте бутона за помощ по-долу</string>
+  <string name="device_other_guide">ако телефона ви не присъства в списъка с производители, използвайте бутона за помощ по-долу</string>
   <string name="device_other_title">друг телефон</string>
   <string name="device_paired_dialog_message">Устройствата са свързани (вероятно ще се наложи да потвърдите на другия телефон)...</string>
   <string name="device_paired_dialog_title">Устройствата са свързани</string>
@@ -593,7 +594,7 @@
   <string name="noGroups">Не са открити групи</string>
   <string name="noMatchingContacts">Няма намерени съвпадения.</string>
   <string name="noRecentContacts">Няма последени контакти</string>
-  <string name="no_account_prompt">"Контакти работят най-добре с Google профила Ви.
+  <string name="no_account_prompt">"Контакти работят най-добре с Google профила ви.
 
 • Имате достъп до тях навсякъде.
 • Архивирате Вашите контакти сигурно."</string>

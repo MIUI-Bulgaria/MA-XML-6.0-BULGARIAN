@@ -1,4 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="account_contact_backup_info">Google профил, Mi профил и данни от Контакти</string>
   <string name="account_login">Вписване</string>
@@ -130,7 +131,7 @@
   <string name="restore_launcher_layout_hit">Възстановяване настройките на Launcher-а</string>
   <string name="restore_progress">Възстановяване…</string>
   <string name="restore_report">Отчет за възстановяването</string>
-  <string name="restore_telephony_hit">Възстановяването ще растартира прилжението \"Телефон\"</string>
+  <string name="restore_telephony_hit">Възстановяването ще рестартира приложението \"Телефон\"</string>
   <string name="retry">Нов опит</string>
   <string name="reverse_all">Изчисти всички</string>
   <string name="sc_bad_request">Невалидна заявка</string>

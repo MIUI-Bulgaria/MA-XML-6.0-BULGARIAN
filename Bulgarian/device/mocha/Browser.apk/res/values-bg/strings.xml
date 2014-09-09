@@ -1,4 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="accessibility_button_addbookmark">Добави страницата в Отметки</string>
   <string name="accessibility_button_back">Назад</string>
@@ -441,10 +442,10 @@
   <string name="pref_use_instant_search_summary">Използвай Google Динамично търсене за показване на резултати докато пишете (може да увеличи изполжваните данни).</string>
   <string name="pref_zoom_on_double_tap">Увеличение при двойно почукване</string>
   <string name="preview">Преглед</string>
-  <string name="profiler_error_toast">Failed to start profiler</string>
-  <string name="profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
-  <string name="profiler_started_toast">Profiler started</string>
-  <string name="profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
+  <string name="profiler_error_toast">Стартирането на профайлера не бе успешно</string>
+  <string name="profiler_no_storage_toast">Не можем да стартираме профайлера, защото външното хранилище не е готово</string>
+  <string name="profiler_started_toast">Профайлерът стартира</string>
+  <string name="profiler_stopped_toast">Профайлерът приключи. Резултатите са в/ъв %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Тапетът се задава ...</string>
   <string name="quicklink_have_deleted">Сайтът е изтрит</string>
   <string name="quicklink_have_modified">Този сайт е променен</string>

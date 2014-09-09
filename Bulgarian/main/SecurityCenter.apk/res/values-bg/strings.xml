@@ -1,4 +1,6 @@
-﻿<resources>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
   <string name="Settings_title_anti_spam">Настройка на Антиспам</string>
   <string name="Settings_title_anti_virus">Настройка на Антивирус</string>
   <string name="Settings_title_garbage_cleanup">Настройка на Почистване</string>

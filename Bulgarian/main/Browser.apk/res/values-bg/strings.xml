@@ -1,4 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="MIUI_startpage">Начална страница</string>
   <string name="accessibility_button_clear">Изчисти въведеното</string>
@@ -457,9 +458,9 @@
   <string name="pref_privacy_clear_cache">Изчисти кеш</string>
   <string name="pref_privacy_clear_cache_dlg">Да изтрия ли локалното кеширано съдържание и данни?</string>
   <string name="pref_privacy_clear_cache_summary">Изтрий локалното кеширано съдържание и данни</string>
-  <string name="pref_privacy_clear_cookies">Изтрий всички "Бисквитки"</string>
-  <string name="pref_privacy_clear_cookies_dlg">Да изтрия ли всички "Бисквитки"?</string>
-  <string name="pref_privacy_clear_cookies_summary">Изтрий всички "Бисквитки" от браузъра</string>
+  <string name="pref_privacy_clear_cookies">Изтрий всички \"Бисквитки\"</string>
+  <string name="pref_privacy_clear_cookies_dlg">Да изтрия ли всички \"Бисквитки\"?</string>
+  <string name="pref_privacy_clear_cookies_summary">Изтрий всички \"Бисквитки\" от браузъра</string>
   <string name="pref_privacy_clear_form_data">Изчисти данните за автоматично попълване на форми</string>
   <string name="pref_privacy_clear_form_data_dlg">Да изтрия ли запазените данни за автоматично попълване на форми?</string>
   <string name="pref_privacy_clear_form_data_summary">Изчисти всички запазени данни за автоматично попълване на форми</string>
@@ -483,8 +484,8 @@
   <string name="pref_reading_mode_enabled_title_summary">Необходим е JavaScript</string>
   <string name="pref_save_bandwidth_mode_summary">Ако функцията е включена, браузъра няма да използва мобилни данни за предварително зареждане на страници или автоматично показване на изображения</string>
   <string name="pref_save_bandwidth_mode_title">Използване на мобилни данни</string>
-  <string name="pref_security_accept_cookies">Разреши "Бисквитките"</string>
-  <string name="pref_security_accept_cookies_summary">Разреши на страниците да запазват и четат файловете тип "Бисквитки"</string>
+  <string name="pref_security_accept_cookies">Разреши \"Бисквитките\"</string>
+  <string name="pref_security_accept_cookies_summary">Разреши на страниците да запазват и четат файловете тип \"Бисквитки\"</string>
   <string name="pref_security_passwords_title">Пароли</string>
   <string name="pref_security_remember_passwords">Запазвай пароли</string>
   <string name="pref_security_remember_passwords_summary">Запази имена и пароли за уеб страници</string>
@@ -509,10 +510,10 @@
   <string name="pref_webapp_settings_savewidth">Да не се изтеглят снимки през мобилен интернет</string>
   <string name="pref_zoom_on_double_tap">Увеличение при двойно почукване</string>
   <string name="preview">Преглед</string>
-  <string name="profiler_error_toast">Failed to start profiler</string>
-  <string name="profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
-  <string name="profiler_started_toast">Profiler started</string>
-  <string name="profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
+  <string name="profiler_error_toast">Стартирането на профайлера не бе успешно</string>
+  <string name="profiler_no_storage_toast">Не можем да стартираме профайлера, защото външното хранилище не е готово</string>
+  <string name="profiler_started_toast">Профайлерът стартира</string>
+  <string name="profiler_stopped_toast">Профайлерът приключи. Резултатите са в/ъв %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Тапетът се задава ...</string>
   <string name="qr_code_title">QR код</string>
   <string name="quicklink_not_saved">Не може да се добави към началната страница</string>

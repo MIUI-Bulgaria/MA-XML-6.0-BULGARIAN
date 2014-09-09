@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
     <integer name="power_center_low_battery_percent_start">36</integer>
     <integer name="power_center_low_battery_percent_end">39</integer>

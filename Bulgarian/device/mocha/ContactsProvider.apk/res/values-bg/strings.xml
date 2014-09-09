@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="app_label">Хранилище с контакти</string>
   <string name="debug_dump_database_message">Предстои ви да 1) направите копие на всичките си контакти и списъци с повиквания, както и информацията свързана с тях на вътрешната памет на устройството 2) да ги изпратите по Имейл. Не забравяйте да изтриете копието, веднага след като сте го копирали извън устройството или сте го получили като Имейл.</string>

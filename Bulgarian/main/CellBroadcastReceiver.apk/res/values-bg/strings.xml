@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
     <string name="app_label">Клетъчни излъчвания</string>
     <string name="sms_cb_settings">Настройки на клетъчното излъчване</string>
@@ -93,7 +94,7 @@
     <string name="cmas_opt_out_dialog_text">Понастоящем получавате спешни сигнали. Искате ли да продължите да ги получавате?</string>
     <string name="cmas_opt_out_button_yes">Да</string>
     <string name="cmas_opt_out_button_no">Не</string>
-    <string name="category_india_settings_title">Settings for India</string>
-    <string name="enable_channel_60_alerts_summary">Channel 60 is used in India for Operator specific information</string>
-    <string name="enable_channel_60_alerts_title">Show channel 60 broadcasts</string>
+    <string name="category_india_settings_title">Настройки за Индия</string>
+    <string name="enable_channel_60_alerts_summary">60-и канал се използва за актуализиране на информацията за райони в Индия</string>
+    <string name="enable_channel_60_alerts_title">Излъчвания на 60-и канал</string>
 </resources>

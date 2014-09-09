@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
      <string-array name="alphabet_table">
         <item>\#</item>
@@ -79,13 +80,13 @@
         <item>Бележка</item>
      </string-array>
      <string-array name="alarm_in_future">
-        <item>Аларма след по-малко от минута</item>
-        <item>Аларма след %1$s</item>
-        <item>Аларма след %2$s</item>
-        <item>Аларма след %1$s %2$s</item>
-        <item>Аларма след %3$s</item>
-        <item>Аларма след %1$s %3$s</item>
-        <item>Аларма след %2$s %3$s</item>
-        <item>Аларма след %1$s %2$s %3$s</item>
+        <item>Будилник след по-малко от минута</item>
+        <item>Будилник след %1$s</item>
+        <item>Будилник след %2$s</item>
+        <item>Будилник след %1$s %2$s</item>
+        <item>Будилник след %3$s</item>
+        <item>Будилник след %1$s %3$s</item>
+        <item>Будилник след %2$s %3$s</item>
+        <item>Будилник след %1$s %2$s %3$s</item>
      </string-array>
 </resources>

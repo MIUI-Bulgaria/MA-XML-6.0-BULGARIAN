@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="app_name">SVI Settings</string>
   <string name="svi_enable_summary_off">The viewing experience will not be enhanced for ambient conditions</string>

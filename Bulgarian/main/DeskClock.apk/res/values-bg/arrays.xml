@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
     <string-array name="alarm_set">
-        <item>Алармата е настроена след по-малко от минута.</item>
-        <item>Алармата е настроена след %1$s.</item>
-        <item>Алармата е настроена след %2$s.</item>
-        <item>Алармата е настроена след %1$s и %2$s.</item>
-        <item>Алармата е настроена след %3$s.</item>
-        <item>Алармата е настроена след %1$s и %3$s.</item>
-        <item>Алармата е настроена след %2$s и %3$s.</item>
-        <item>Алармата е настроена след %1$s, %2$s, и %3$s.</item>
+        <item>Будилникът e настроен за след по-малко от минута.</item>
+        <item>Будилникът е настроен за след %1$s.</item>
+        <item>Будилникът е настроен за след %2$s.</item>
+        <item>Будилникът е настроен за след %1$s и %2$s.</item>
+        <item>Будилникът е настроен за след %3$s.</item>
+        <item>Будилникът е настроен за след %1$s и %3$s.</item>
+        <item>Будилникът е настроен за след %2$s и %3$s.</item>
+        <item>Будилникът е настроен за след %1$s, %2$s и %3$s.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 минута</item>
@@ -35,14 +36,14 @@
         <item>Изключване</item>
     </string-array>
     <string-array name="alarm_in_furture">
-        <item>Аларма след по-малко от минута</item>
-        <item>Аларма след %1$s</item>
-        <item>Аларма след %2$s</item>
-        <item>Аларма след %1$s %2$s</item>
-        <item>Аларма след %3$s</item>
-        <item>Аларма след %1$s %3$s</item>
-        <item>Аларма след %2$s %3$s</item>
-        <item>Аларма след %1$s %2$s %3$s</item>
+        <item>Будилник след по-малко от минута</item>
+        <item>Будилник след %1$s</item>
+        <item>Будилник след %2$s</item>
+        <item>Будилник след %1$s %2$s</item>
+        <item>Будилник след %3$s</item>
+        <item>Будилник след %1$s %3$s</item>
+        <item>Будилник след %2$s %3$s</item>
+        <item>Будилник след %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="days">
         <item>Вчера</item>

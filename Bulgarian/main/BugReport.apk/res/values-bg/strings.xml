@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="action_cancel">Отказ</string>
   <string name="action_confirm">Избери</string>
   <string name="action_submit">Изпрати</string>
   <string name="app_empty">Нямате изтеглени приложения</string>
   <string name="app_label">Отзиви</string>
-  <string name="app_title">"Bug     Report     Center"</string>
+  <string name="app_title">"Докладване   на   грешки"</string>
   <string name="bluetooth_problem1">Не можете да се свържете с други устройства</string>
   <string name="bluetooth_problem2">Не можете да откриете други устройства</string>
   <string name="bluetooth_problem3">Не можете да изпращате файлове</string>
