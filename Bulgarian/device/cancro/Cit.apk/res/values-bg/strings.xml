@@ -62,6 +62,11 @@
   <string name="cit_button_light_on">Включи подсветката на бутоните</string>
   <string name="cit_calibration_fail">Неуспешно калибриране</string>
   <string name="cit_calibration_pass">Калибрирането е успешно</string>
+  <string name="cit_camera_calibration_summary">"Инструкции за теста:
+    
+    1.Докоснете бутона за калибриране долу, за да влезете в интерфейса на камерата
+    2.Натиснете бутон Назад, за да излезете от интерфейса на камерата
+    3.Ще има етикет за калибриране, за да посочи че камерата е калибрирана"</string>
   <string name="cit_camera_sdcard_error">Не може да се снима. SD картата е пълна.</string>
   <string name="cit_charger_plugin_check_summary">Когато USB зарядното е свързано, текстът \"USB зарядното е включено\" трябва да се покаже по-долу.</string>
   <string name="cit_charger_plugin_check_title">Зарядно устройство (свързване)</string>
@@ -216,6 +221,7 @@
   <string name="cit_tool_bluetooth_on">Включи Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_h">Влизане в режим Bluetooth single sound тест （2.480GHz)</string>
   <string name="cit_tool_bluetooth_tx_l">Влизане в режим Bluetooth single sound тест （2.402GHz)</string>
+  <string name="cit_tool_cal_camera">Калибриране на камерата</string>
   <string name="cit_tool_enable_3A_log">Активирай 3A log</string>
   <string name="cit_tool_log">Регистри</string>
   <string name="cit_tool_log_bugreport">Доклади за грешки</string>

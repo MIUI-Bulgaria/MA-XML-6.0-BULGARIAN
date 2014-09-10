@@ -421,7 +421,6 @@
   <string name="service_network_problem">Грешка, проблем в мрежата</string>
   <string name="service_not_activated">Услугата не е активирана от мрежата</string>
   <string name="set">Настрой</string>
-  <string name="set_smsc_address_title_miui">Задай номер на SMS центъра</string>
   <string name="share_img">Сподели</string>
   <string name="show_all_messages">Покажи всички съобщения</string>
   <string name="sim_card1">SIM карта 1</string>

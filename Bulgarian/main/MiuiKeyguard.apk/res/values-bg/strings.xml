@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
+    <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth устройството е твърде далече за отключване.</string>
     <string name="contact_carrier_message">Свържете се с мобилния си оператор ако имате допълнителни въпроси.</string>
+    <string name="default_lockscreen_unlock_hint_text">Плъзнете нагоре за отключване</string>
+    <string name="delete">Изтриване</string>
     <string name="emergency_call_string">Спешно повикване</string>
     <string name="experimental_try_string">Опитайте</string>
     <string name="experimental_validate">Проверете</string>
@@ -30,6 +33,7 @@
     <string name="lockscreen_access_pattern_cleared">Фигурата е изчистена</string>
     <string name="lockscreen_access_pattern_detected">Фигурата е завършена</string>
     <string name="lockscreen_access_pattern_start">Фигурата е започната</string>
+    <string name="lockscreen_charging_msg">Зарежда се</string>
     <string name="lockscreen_emergency_call">Спешно обаждане</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Направихте опит да отключите устройството неправилно %d пъти. След още %d неуспешни опита ще бъдат възстановени стандартните му фабрични настройки и всички потребителски данни ще бъдат заличени.</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Въведохте неправилно паролата си %d пъти. След още %d неуспешни опита ще бъдете помолени да отключите устройството посредством данните за вход в профила ви.
@@ -51,6 +55,8 @@
     <string name="lockscreen_transport_play_description">Бутон за пускане</string>
     <string name="lockscreen_transport_prev_description">Бутон за предишния запис</string>
     <string name="login_website_in_case_forget_password">За възстановяване на паролата си, отидете на i.mi.com.</string>
+    <string name="missed_call_text">%d пропуснати обаждания</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Отключено от Bluetooth устройство</string>
     <string name="miui_unlockscreen_password_wrong">Опитайте отново:</string>
     <string name="open_wifi_settings">Настройки на мрежата</string>
     <string name="phone_locked_string">Устройството е заключено</string>
@@ -72,9 +78,5 @@
     <string name="unlockscreen_low_battery">Свържете зарядното устройство</string>
     <string name="unlockscreen_recharge_completed">Батерията е заредена</string>
     <string name="unlockscreen_recharging_message">Зареждане %d%%</string>
-    <string name="miui_keyguard_ble_unlock_succeed_msg">Отключено от Bluetooth устройство</string>
-    <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth устройството е твърде далече за отключване.</string>
-    <string name="default_lockscreen_unlock_hint_text">Плъзнете нагоре за отключване</string>
-    <string name="delete">Изтриване</string>
-    <string name="lockscreen_charging_msg">Зарежда се</string>
+    <string name="wrong_password">Неправилна парола</string>
 </resources>

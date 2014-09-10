@@ -5,4 +5,8 @@
         <item quantity="other">%d купони</item>
         <item quantity="one">1 купон</item>
     </plurals>
+    <plurals name="review_count">
+        <item quantity="other">Преглед на %d коментара</item>
+        <item quantity="one">Преглед на 1 коментар</item>
+    </plurals>
 </resources>

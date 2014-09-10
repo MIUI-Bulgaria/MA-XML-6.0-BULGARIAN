@@ -179,6 +179,7 @@
   <string name="applications_settings_header">Настройки за приложения</string>
   <string name="applications_settings_summary">Управление на приложения, задаване на преки пътища за бързо стартиране</string>
   <string name="apply_now_button_text">Актуализирай</string>
+  <string name="apply_update_fail">Неуспешна актуализация.</string>
   <string name="apps_with_restrictions_header">Приложения с ограничения</string>
   <string name="apps_with_restrictions_settings_button">Настройки за прилож.: Разгъв.</string>
   <string name="ask_compatibility">Да се пита при стартиране</string>
@@ -875,6 +876,7 @@
   <string name="dolby_roomsize_summary">Настройкте за съраунд звук са налични само със слушалки</string>
   <string name="dolby_roomsize_title">Съраунд звук:</string>
   <string name="done_button">Готово</string>
+  <string name="download_current_rom">Вземи последната версия на MIUI</string>
   <string name="downloading_description">Изтегляне…</string>
   <string name="drive_mode">Режим Шофиране</string>
   <string name="drive_mode_auto_reply">Бърз отговор</string>
@@ -1084,6 +1086,7 @@
   <string name="install_applications">Неизвестни източници</string>
   <string name="install_text">Инсталиране</string>
   <string name="install_unknown_applications">Разрешаване на инсталирането на приложения от източници, различни от Google Play Магазин</string>
+  <string name="install_whole_rom">Изтегляне на ROM (стандартно)</string>
   <string name="insufficient_storage">Няма достатъчно място в хранилището.</string>
   <string name="intent_sender_account_label">Профил:</string>
   <string name="intent_sender_action_label">Action:</string>
@@ -1124,6 +1127,7 @@
   <string name="language_settings_category">Езикови настройки</string>
   <string name="large_font">Голям</string>
   <string name="last_synced">Последно синхронизиране: %1$s</string>
+  <string name="later">Рестартирай по-късно</string>
   <string name="launch_count_label">Брой</string>
   <string name="launcher_settings_title">MIUI launcher</string>
   <string name="launching_cit">Launching cit, please wait.</string>
@@ -1338,6 +1342,7 @@
   <string name="menu_stats_total">Обща употреба</string>
   <string name="menu_stats_unplugged">%1$s след изключването</string>
   <string name="menu_use_uss">Използване на USS</string>
+  <string name="mione_update_success_title">Актуализацията завърши</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast е недостъпен, защото ПК е свързан към това устройство.</string>
   <string name="miracast_cancelconnect_dialog">Прекрати връзката</string>
   <string name="miracast_connection_failed_generic">Свързването беше неуспешно.</string>
@@ -1499,6 +1504,7 @@
   <string name="notification_sound_dialog_title">Стандартен звук за известяване</string>
   <string name="notification_sound_title">Стандартен звук за известяване</string>
   <string name="notification_volume_title">Известие</string>
+  <string name="now">Рестартирай сега</string>
   <string name="nsd_quick_toggle_summary">Разрешаване на приложенията от други устройства да намират приложения на това устройство</string>
   <string name="nsd_quick_toggle_title">Откриване на услугата за мрежа</string>
   <string name="oem_radio_info_label">Информация/Настройки специфични за ОЕМ</string>
@@ -1788,10 +1794,12 @@
   <string name="retry">Опитай отново</string>
   <string name="ring_volume_title">Сила на звука при звънене</string>
   <string name="ringtone_mute">Без</string>
+  <string name="ringtone_slot_setting_title">Настройки за една карта</string>
   <string name="ringtone_summary"/>
   <string name="ringtone_title">Мелодия на телефон</string>
+  <string name="ringtone_uniform_setting_title">Настройки за две карти</string>
   <string name="roaming">Роуминг на данни</string>
-  <string name="roaming_disable">Свързване с услуги за данни при роуминг</string>
+  <string name="roaming_disable">Свързване с услуги за данни при роуминг</string> 
   <string name="roaming_enable">Свързване с услуги за данни при роуминг</string>
   <string name="roaming_reenable_message">Изгубихте връзката за данни, защото сте оставили домашната си мрежа с изключен роуминг на данни.</string>
   <string name="roaming_reenable_title">Да се разреши ли роуминг на данни?</string>
@@ -1801,7 +1809,7 @@
 
 Настройката засяга всички потребители на това устройство."</string>
   <string name="rssi_label">RSSI:</string>
-  <string name="running_process_item_removed_user_label">Премахнат потребител</string> 
+  <string name="running_process_item_removed_user_label">Премахнат потребител</string>
   <string name="running_process_item_user_label">Потребител: %1$s</string>
   <string name="running_processes_item_description_p_p">%1$d процеса и %2$d услуги</string>
   <string name="running_processes_item_description_p_s">%1$d процеса и %2$d услуга</string>
@@ -2071,6 +2079,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="status_bar_settings_show_notificationBar_notification">Показвай в лентата с известия</string>
   <string name="status_bar_settings_show_screenshot_notification">Показвай известия за екр. снимки</string>
   <string name="status_bar_settings_show_statusBar_notification">Показвай на закл. екран</string>
+  <string name="status_bar_settings_show_statusBar_notification_summary">Известието ще се появи в горната част на екрана и автоматично ще се скрие</string>
   <string name="status_bar_settings_show_wifi_name">Показвай Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Статус лента</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Свиване при докосване</string>
@@ -2407,6 +2416,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="vibrate_input_devices">Използване на у-вото за вибрация</string>
   <string name="vibrate_input_devices_summary">Пренасочване на устройството за вибрация към контролера за игри, когато е свързан.</string>
   <string name="vibrate_when_ringing_title">Да вибрира при звънене</string>
+  <string name="view_install_log">Регистър с грешки</string>
   <string name="virus_scan">Антивирус</string>
   <string name="virus_scan_app_continue">Продължи сканирането</string>
   <string name="virus_scan_app_find_risk">Подозрителни: %d, препоръчително е да ги деинсталирате веднага.</string>
@@ -2626,7 +2636,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="wifi_p2p_delete_group_message">Да се забрави ли тази група?</string>
   <string name="wifi_p2p_device_info">Информация за устройството</string>
   <string name="wifi_p2p_disconnect_message">"Ако прекъснете връзката,  ще се прекрати и установената със: %1$s."</string>
-  <string name="wifi_p2p_disconnect_multiple_message">Ако прекъснете връзката, ще се прекрати и установената със: %1$s и още %2$s устройства.</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Ако прекъснете връзката, ще се прекрати и установената със: %1$s и още %2$s устройства.</string>  
   <string name="wifi_p2p_disconnect_title">Да се изключи ли?</string>
   <string name="wifi_p2p_failed_connect_message">Не можа да се свърже.</string>
   <string name="wifi_p2p_failed_rename_message">Преименуването на устройството не бе успешно.</string>
@@ -2636,7 +2646,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="wifi_p2p_peer_devices">Съответни устройства</string>
   <string name="wifi_p2p_persist_network">Запомняне на тази връзка</string>
   <string name="wifi_p2p_remembered_groups">Запомнени групи</string>
-  <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>  
+  <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_wps_setup">Защитена настройка на Wi-Fi</string>
   <string name="wifi_password">Парола</string>
   <string name="wifi_poor_network_detection">Да се избягват лоши връзки</string>
@@ -2847,11 +2857,4 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="zone_auto_summaryOn">Използване на часовата зона, предоставена от мрежата</string>
   <string name="zone_list_menu_sort_alphabetically">Сортиране по азбучен ред</string>
   <string name="zone_list_menu_sort_by_timezone">Сортиране по часова зона</string>
-  <string name="apply_update_fail">Неуспешна актуализация.</string>
-  <string name="download_current_rom">Вземи последната версия на MIUI</string>
-  <string name="install_whole_rom">Изтегляне на ROM (стандартно)</string>
-  <string name="later">Рестартирай по-късно</string>
-  <string name="mione_update_success_title">Актуализацията завърши</string>
-  <string name="now">Рестартирай сега</string>
-  <string name="view_install_log">Регистър с грешки</string> 
 </resources>
