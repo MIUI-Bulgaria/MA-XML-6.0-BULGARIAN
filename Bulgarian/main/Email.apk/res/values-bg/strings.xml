@@ -311,7 +311,7 @@
     <string name="default_setup">СТАНДАРТНИ НАСТРОЙКИ</string>
     <string name="default_signature">Изпратено чрез MIUI</string>
     <string name="delete">Изтриване</string>
-    <string name="delete_conversation_hint_message">%1$d %2$s бе изтрит</string>
+    <string name="delete_conversation_hint_message">Изтрити: %1$d %2$s</string>
     <string name="deleted">Изтрита</string>
     <string name="device_activity_btn_str">Връщане за активиране</string>
     <string name="device_activity_lint_str">Включете пълната актуализация на пощенската услуга и активирайте оборудването за безопасност</string>
@@ -414,7 +414,7 @@
     <string name="login_failed_ticker">Не успяхте да влезете в профила си %s.</string>
     <string name="login_failed_title">Не можах да вляза в профила си</string>
     <string name="long_press_to_select_tip">Докоснете и задръжте, за да изберете една кореспонденция, след което докоснете за избиране на още.</string>
-    <string name="mail">Поща</string>
+    <string name="mail">писмо</string>
     <string name="mail_body_turncated">Този имейл е прекалено голям, за да се зареди. Показана е само част от него, прегледайте го по-късно на компютър.</string>
     <string name="mailbox_list_account_selector_combined_view">Комбиниран изглед</string>
     <string name="mailbox_name_display_drafts">Чернови</string>

@@ -1166,7 +1166,7 @@
   <string name="location_mode_title">Режим</string>
   <string name="location_neighborhood_level">Прилож. да ползват услугата ни за местоп., за да прогнозират по-бързо вашето. Анонимни данни за местоп. ще се събират и изпращат на Google.</string>
   <string name="location_neighborhood_level_wifi">Местоположението се определя чрез Wi-Fi</string>
-  <string name="location_network_based">Mестоп. от Wi-Fi и моб. мрежа</string>
+  <string name="location_network_based">Wi-Fi и мобилна мрежа</string>
   <string name="location_no_recent_apps">Нито едно приложение не е заявило достъп до местоположението наскоро</string>
   <string name="location_settings_title">Местоположение</string>
   <string name="location_sources_heading">Източници на местоположение</string>

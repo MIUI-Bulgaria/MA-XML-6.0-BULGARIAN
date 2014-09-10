@@ -58,7 +58,7 @@
   <string name="class_0_message_activity">Съобщение клас 0</string>
   <string name="close">Затвори</string>
   <string name="compressing">Снимката е прекалено голяма. Компресиране…</string>
-  <string name="confirm">Потвърди</string>
+  <string name="confirm">ОК</string>
   <string name="confirm_add_blacklist_dialog_dspt">Ще добавите ли номера към списъка с блокирани?</string>
   <string name="confirm_delete_SIM_message">Съобщението ще бъде изтрито от SIM картата.</string>
   <string name="confirm_delete_all_SIM_messages">Всички съобщения на SIM картата ще бъдат изтрити.</string>
@@ -188,7 +188,7 @@
   <string name="loading_all_messages">Зареждане на всички съобщения…</string>
   <string name="loading_conversations">Зареждане на разговори…</string>
   <string name="loading_mms">Зареждане на MMS…</string>
-  <string name="manage_permission_app_label">Device Management Permission</string>
+  <string name="manage_permission_app_label">Разрешения на устройството</string>
   <string name="me">Аз</string>
   <string name="menu_call">Набери</string>
   <string name="menu_compose_new">Ново съобщение</string>
@@ -256,8 +256,8 @@
   <string name="mx_dspt">Само потребители на MIUI могат да обменят облачни съобщения. Ако няма интернет връзка, съобщенията ще бъдат изпратени чрез мобилния оператор.</string>
   <string name="mx_enable">Активиране на Облачни съобщения</string>
   <string name="mx_enable_int_popup_msg">Активирането Ви позволява да изпращате безплатни SMS към MIUI потребители. За активиране, трябва да изпратите международен SMS. Начисляват се такси от оператора.</string>
-  <string name="mx_enable_popup_msg">Облачните съобщения Ви позволяват да обменяте съобщения с други MIUI потребители. Изисква обикновен SMS за активация. Желаете ли да продължите?</string>
-  <string name="mx_int_warning_notice">За активиране на облачните съобщения ще бъде изпратен международен SMS, който се заплаща според тарифата ви</string>
+  <string name="mx_enable_popup_msg">Изпращане на безплатни съобщения до други MIUI потребители.</string>
+  <string name="mx_int_warning_notice">Ще бъде изпратен международен SMS за активиране на облачните съобщения, който се заплаща според тарифата ви.</string>
   <string name="mx_msg">Облачни съобщения</string>
   <string name="mx_offline">Офлайн</string>
   <string name="mx_online">Онлайн</string>
@@ -356,7 +356,7 @@
   <string name="processing">Обработка...</string>
   <string name="prvate_contact">Частни контакти</string>
   <string name="quick_reply">Отговори</string>
-  <string name="rate_limit_surpassed">Потвърди</string>
+  <string name="rate_limit_surpassed">ОК</string>
   <string name="received_label">"Получени: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Получател: "</string>
@@ -404,7 +404,7 @@
   <string name="select_top_text">Текстът отгоре</string>
   <string name="send">Изпрати</string>
   <string name="send_hms_editor_hints">Облачно съобщение</string>
-  <string name="send_message_dlg_check_hint">Remember my choice</string>
+  <string name="send_message_dlg_check_hint">Не показвай отново</string>
   <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
   <string name="send_message_dlg_title">Device Management</string>
   <string name="send_message_notification_msg">Device Management send message permission request</string>

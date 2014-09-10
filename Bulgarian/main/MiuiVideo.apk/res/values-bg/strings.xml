@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
-  <string name="about_app_name">Mi-Видео</string>
+  <string name="about_app_name">Видео</string>
   <string name="about_developer_label">Разработчик</string>
   <string name="about_developer_name">MIUI</string>
   <string name="about_title">За програмата</string>
@@ -29,7 +29,7 @@
   <string name="all_comment">Всички коментари</string>
   <string name="all_ep">Всички еп.</string>
   <string name="all_media">Цялата медия</string>
-  <string name="app_name">Mi-Видео</string>
+  <string name="app_name">Видео</string>
   <string name="area_colon">"Държава: "</string>
   <string name="authenticated_failed">Неуспешно вписване</string>
   <string name="authenticating"><CDATA>Проверка </CDATA></string>
