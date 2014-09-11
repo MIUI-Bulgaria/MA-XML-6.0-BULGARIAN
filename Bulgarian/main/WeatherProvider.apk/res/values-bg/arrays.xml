@@ -37,4 +37,14 @@
         <item>Силно</item>
         <item>Най-силно</item>
     </string-array>
+    <string-array name="wind_direction">
+        <item>Вятър С</item>
+        <item>Вятър СИ</item>
+        <item>Вятър И</item>
+        <item>Вятър ЮИ</item>
+        <item>Вятър Ю</item>
+        <item>Вятър ЮЗ</item>
+        <item>Вятър З</item>
+        <item>Вятър СЗ</item>
+    </string-array>
 </resources>

@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
-    <plurals name="AD_COUNT">
-        <item quantity="other">%d рекламни плъгини</item>
-        <item quantity="one">1 рекламен плъгин</item>
-    </plurals>
-    <plurals name="AD_TITLE_COUNT">
-        <item quantity="other">%d пр-я съдържат реклами</item>
-        <item quantity="one">1 пр-е съдържа реклами</item>
-    </plurals>
+     <plurals name="fw_blocked_count_call">
+        <item quantity="other">%d обаждания</item>
+        <item quantity="one">1 обаждане</item>
+     </plurals>
+     <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d SMS</item>
+        <item quantity="one">1 SMS</item>
+     </plurals>
 </resources>

@@ -33,6 +33,7 @@
   <string name="err_type_systemapp">MIUI приложения</string>
   <string name="err_type_wifi">Wi-Fi</string>
   <string name="hot_problem">Преглед на честите грешки</string>
+  <string name="hot_problem_empty">Празно</string>
   <string name="loading_apps">Създава се списък…</string>
   <string name="loading_hot_problem">Зарежда се…</string>
   <string name="menu_attach_screenshot">Прикачване на екр. снимка</string>

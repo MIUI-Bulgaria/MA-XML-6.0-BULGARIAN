@@ -310,4 +310,8 @@
   <string name="wrong_captcha">Captcha кодът, който сте въвели е грешен</string>
   <string name="wrong_phone_number_format">Форматът на въведения телефонен номер е невалиден</string>
   <string name="wrong_vcode">Грешен код</string>
+  <string name="license_host_unreachable">Не можа да се свърже с мрежата. За да видите информацията, отидете на %s.</string>
+  <string name="loading">Зарежда се…</string>
+  <string name="privacy_policy">Правила за поверителност</string>
+  <string name="user_agreement">Потребителско споразумение</string>
 </resources>

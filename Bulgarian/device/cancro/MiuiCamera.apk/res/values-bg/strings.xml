@@ -36,6 +36,7 @@
   <string name="cancel">Отказ</string>
   <string name="cannot_connect_camera_once">Няма връзка с камерата, затворете приложението</string>
   <string name="cannot_connect_camera_twice">Няма връзка с камерата, рестартирайте устройството</string>
+  <string name="cannot_move_warning_message">Заснема се снимка, не движете устройството</string>
   <string name="clear_effects">Изчисти ефектите</string>
   <string name="close">Затвори</string>
   <string name="cloud_album_details">Облачен албум:</string>
@@ -166,6 +167,7 @@
   <string name="no_thumbnail">Няма миниатюри</string>
   <string name="not_enough_space">Вътрешната памет е пълна.</string>
   <string name="not_selectable_in_scene_mode">Недостъпно в режима снимане.</string>
+  <string name="object_track_enable_toast">Пипнете и задръжте обекта на екрана за начало на следене на обекта.</string>
   <string name="ok">OK</string>
   <string name="orientation">Ориентация</string>
   <string name="pano_dialog_panorama_failed">Панорамата не може да се запази.</string>
@@ -370,6 +372,7 @@
   <string name="pref_camera_touchafaec_entry_off">Изкл.</string>
   <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
   <string name="pref_camera_touchafaec_title">Фокусиране при докосване</string>
+  <string name="pref_camera_ubifocus_title">Дофокусиране</string>
   <string name="pref_camera_video_duration_entry_10">10 минути</string>
   <string name="pref_camera_video_duration_entry_120">2 часа</string>
   <string name="pref_camera_video_duration_entry_30">30 минути</string>
@@ -484,6 +487,7 @@
   <string name="simple_mode_button_text_hdr">Спри HDR</string>
   <string name="simple_mode_button_text_panorama">Спри панорама</string>
   <string name="simple_mode_button_text_slow_video">Спри бавно видео</string>
+  <string name="simple_mode_button_text_ubifocus">Изход от режим Дофокусиране</string>
   <string name="simple_mode_title">Обикновен режим</string>
   <string name="slideshow">Слайдшоу</string>
   <string name="snapshot_lower_than_video">Размерът на снимката е по-малък от размера на видеото. Моля, изберете резолюция по-висока или равна на тази на видеото.</string>
@@ -506,6 +510,8 @@
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">Необходимо е да настроите ISO на АВТО.</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Не може да преглеждате снимка или клип, когато екрана е заключен.</string>
   <string name="toast_start_audio_capture">Издайте звук, за да сработи затвора</string>
+  <string name="ubi_focus_capture_fail">Кадърът е неуспешен</string>
+  <string name="ubifocus_capture_warning_message">За по-добри резултати, смимката ви трябва да съдържа както близки (на по-малко от метър до обектива), така и далечни обекти</string>
   <string name="undo">ОТМЕНИ</string>
   <string name="unit_mm">мм</string>
   <string name="video_camera_label">Видеокамера</string>

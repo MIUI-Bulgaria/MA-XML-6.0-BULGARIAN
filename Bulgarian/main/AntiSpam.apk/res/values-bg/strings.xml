@@ -103,6 +103,7 @@
   <string name="fw_blocked_count">"Блокирани "</string>
   <string name="fw_blocked_count_call">%d обаждания</string>
   <string name="fw_blocked_count_sms">" и %d съобщения"</string>
+  <string name="fw_blocked_join">" и "</string>
   <string name="hint_antispam_mode_edit">Потребителски режим</string>
   <string name="info_antispam_phone">Блокиране на обаждания</string>
   <string name="info_antispam_phone_sms">Блокиране на обаждания и съобщения</string>
@@ -143,6 +144,7 @@
   <string name="note_sms_none">Празно</string>
   <string name="one_address_choose_hint">%s 1 регион</string>
   <string name="open_callwait">Вкл.</string>
+  <string name="sim_not_ready">SIM картата не е готова</string>
   <string name="sms_delete_hint">Да се изтрият ли всички блокирани съобщения от избрания номер?</string>
   <string name="st_advanced_setting_group">Разширени</string>
   <string name="st_antispam_black_adress_add">Изберете местоположение</string>
@@ -244,9 +246,11 @@
   <string name="st_title_man_head_addblacklist">Добави префикса на номера към блокирани</string>
   <string name="st_title_man_head_addwhitelist">Добави префикса на номера към изключения</string>
   <string name="st_title_mode_choose_group">Правила за блокиране</string>
+  <string name="st_title_not_sim">Празно</string>
   <string name="st_title_open_antispam">Антиспам</string>
   <string name="st_title_settings_other_group">Допълнителни настройки</string>
   <string name="st_title_show_antispamnotification">Известие при блокирани обаждания</string>
+  <string name="st_title_sim_card">%1$s-SIM %2$s</string>
   <string name="st_title_whitelist_numbers">Изключения</string>
   <string name="sure">ОК</string>
   <string name="tab_blacklist">Блокиране</string>

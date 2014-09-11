@@ -27,6 +27,9 @@
   <string name="default_folder_title_security">Безопасност</string>
   <string name="default_folder_title_tools">Инструменти</string>
   <string name="default_name">По подразбиране</string>
+  <string name="disable">Забрани</string>
+  <string name="disable_auto_start_format">Забрани автостарт на %s</string>
+  <string name="disable_auto_start_message">Забрани автостарт при вкл.</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>

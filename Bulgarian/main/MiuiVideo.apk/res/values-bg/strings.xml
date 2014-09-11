@@ -316,4 +316,8 @@
   <string name="yesterday">Вчера</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
+  <string name="ad_moredetail">Подробности</string>
+  <string name="prefix_countdown">реклама през още:</string>
+  <string name="suffix_countdown">секунди</string>
+  <string name="vp_newest_ep">Най-актуален</string>
 </resources>
