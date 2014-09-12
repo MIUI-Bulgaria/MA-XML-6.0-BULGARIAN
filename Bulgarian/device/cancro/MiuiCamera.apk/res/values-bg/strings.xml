@@ -26,12 +26,12 @@
   <string name="aperture">Апертура</string>
   <string name="app_details">За програмата:</string>
   <string name="auto">Авто</string>
-  <string name="bg_replacement_message">"Поставете устройството върху повърхност
+  <string name="bg_replacement_message">"Поставете устройството върху здрава повърхност
 Излезте от обзора на камерата за известно време"</string>
   <string name="camera_disabled">Камерата беше деактивирана.</string>
   <string name="camera_error_title">Грешка на камерата</string>
   <string name="camera_label">Камера</string>
-  <string name="camera_settings_label">Настройки на камерата</string>
+  <string name="camera_settings_label">Камера</string>
   <string name="can_not_play_video">За възпроизвеждане отключете екрана</string>
   <string name="cancel">Отказ</string>
   <string name="cannot_connect_camera_once">Няма връзка с камерата, затворете приложението</string>
@@ -43,9 +43,9 @@
   <string name="confirm_change_mode_title">Превключи режима</string>
   <string name="confirm_change_to_expert_mode_message">Превключвате ли на професионален режим?</string>
   <string name="confirm_change_to_simple_mode_message">Превключвате ли на обикновен режим?</string>
-  <string name="confirm_location_message">Ще записвате ли местоположението на снимките?</string>
-  <string name="confirm_restore_message">Ще възстановите ли настройките по подразбиране?</string>
-  <string name="confirm_restore_title">Настройки по подразбиране</string>
+  <string name="confirm_location_message">Да се маркират ли вашите снимки и видеа с мястото, където са снимани?</string>
+  <string name="confirm_restore_message">Да се възстановят ли стандартните настройки на камерата?</string>
+  <string name="confirm_restore_title">Нулиране до стандартни настройки</string>
   <string name="connect_wifi">Свържи се към тази Wi-Fi мрежа</string>
   <string name="contact_address">Адрес</string>
   <string name="contact_birthday">Рожден ден</string>
@@ -162,7 +162,7 @@
   <string name="measure_whitebalance_text">Моля, поставете бял или сив лист хартия пред камерата и натиснете бутона</string>
   <string name="mimetype">Тип MIME</string>
   <string name="model">Модел</string>
-  <string name="no_save">Не запазвай</string>
+  <string name="no_save">Не, благодаря</string>
   <string name="no_storage">Поставете SD карта преди да използвате камерата.</string>
   <string name="no_thumbnail">Няма миниатюри</string>
   <string name="not_enough_space">Вътрешната памет е пълна.</string>
@@ -182,13 +182,13 @@
   <string name="pano_too_fast_prompt">Прекалено бързо</string>
   <string name="path">Път</string>
   <string name="people">Хора</string>
-  <string name="pref_advance_settings">Разширени настройки</string>
+  <string name="pref_advance_settings">Допълнителни настройки</string>
   <string name="pref_advanced_functions">Разширени функции</string>
   <string name="pref_advanced_settings">Разширени</string>
   <string name="pref_audio_indicator_entry_off">Аудиото е изкл.</string>
   <string name="pref_audio_indicator_entry_on">Аудиото е вкл.</string>
   <string name="pref_camcorder_settings">Настройка на видеокамерата</string>
-  <string name="pref_camcorder_settings_category">Настройки на видеокамерата</string>
+  <string name="pref_camcorder_settings_category">Видео</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
   <string name="pref_camera_antibanding_entry_0">Изкл.</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
@@ -354,7 +354,7 @@
   <string name="pref_camera_scenemode_entry_sports">Спорт</string>
   <string name="pref_camera_scenemode_entry_sunset">Залез</string>
   <string name="pref_camera_scenemode_title">Сценичен режим</string>
-  <string name="pref_camera_settings">Настройка на устройството</string>
+  <string name="pref_camera_settings">Устройство</string>
   <string name="pref_camera_settings_category">Настройки на камерата</string>
   <string name="pref_camera_settings_title">Настройки</string>
   <string name="pref_camera_sharpness_title">Острота</string>
@@ -396,7 +396,7 @@
   <string name="pref_camera_zsl_entry_off">Изкл.</string>
   <string name="pref_camera_zsl_entry_on">Вкл.</string>
   <string name="pref_camera_zsl_title">ZSL (снима без забавяне)</string>
-  <string name="pref_capture_settings">Настройка на фотоапарата</string>
+  <string name="pref_capture_settings">Фотоапарат</string>
   <string name="pref_exposure_title">Експониране</string>
   <string name="pref_face_beauty_title">Кожа</string>
   <string name="pref_front_mirror_title">Предно огледало</string>
@@ -457,7 +457,7 @@
   <string name="review_cancel">ОТКАЗ</string>
   <string name="rotate_left">Завърти наляво</string>
   <string name="rotate_right">Завърти надясно</string>
-  <string name="save">Запази</string>
+  <string name="save">Да</string>
   <string name="scan_qrcode">QR код</string>
   <string name="secure_access_web_url">Безопасен достъп</string>
   <string name="see_app_details">Подробности за приложението</string>

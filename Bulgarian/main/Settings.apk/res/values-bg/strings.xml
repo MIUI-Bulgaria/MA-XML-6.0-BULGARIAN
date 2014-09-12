@@ -2005,7 +2005,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="sim_lock_settings">Настройки за заключването на SIM картата</string>
   <string name="sim_lock_settings_category">Настройване на заключването на SIM картата</string>
   <string name="sim_lock_settings_title">Заключване на SIM картата</string>
-  <string name="sim_management_title">Управление на SIM картата</string>
+  <string name="sim_management_title">SIM карти и мобилни мрежи</string>
   <string name="sim_pin_change">Промяна на PIN за SIM карта</string>
   <string name="sim_pin_toggle">Заключване на SIM картата</string>
   <string name="sim_pins_dont_match">ПИН кодовете не са идентични</string>

@@ -137,7 +137,7 @@
   <string name="error_state">Непоследователно състояние</string>
   <string name="error_state_text">Кореспонденцията не съответства на получателите. Направете скриншот и изпратете съобщение за грешка чрез уебсайта http://go/droidanizer</string>
   <string name="error_timed_msg">Не може да се насрочи време преди настоящото</string>
-  <string name="ex_type_mx">Облачни съобщения</string>
+  <string name="ex_type_mx">Облачно съобщение</string>
   <string name="ex_type_sms">SMS</string>
   <string name="exceed_message_size_limitation">Достигнат е максималния размер на съобщение.</string>
   <string name="expire_on">Изтича на: %s</string>

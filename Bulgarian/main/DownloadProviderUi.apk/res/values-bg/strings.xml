@@ -1,15 +1,15 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
-  <string name="Only_the_wifi">Ефективно е само при Wi-Fi</string>
+  <string name="Only_the_wifi">Използване само на Wi-Fi</string>
   <string name="all_downloads">Всички изтегляния</string>
   <string name="all_fileter">Всички</string>
-  <string name="all_the_internet">Всички мрежи</string>
+  <string name="all_the_internet">"Използвай "</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">Изтегляния от приложения: %s</string>
   <string name="app_label">Изтегляния</string>
   <string name="auth_activity_title">Xunlei профил</string>
-  <string name="bind_xunlei_account">обвържи Xunlei профил ></string>
+  <string name="bind_xunlei_account">Активиране на Xunlei профил</string>
   <string name="button_sort_by_date">Сортиране по дата</string>
   <string name="button_sort_by_size">Сортиране по размер</string>
   <string name="cancel_running_download">Отмени</string>
@@ -21,7 +21,7 @@
   <string name="delete_downloads_records">Изчистване на историята</string>
   <string name="delete_the_downloaded_file">Изтеглените файлове ще бъдат изтрити.</string>
   <string name="deselect_all">Размаркирай всички</string>
-  <string name="determine">Потвърди</string>
+  <string name="determine">ОК</string>
   <string name="dialog_cannot_resume">Изтеглянето прекъсна и не може да продължи.</string>
   <string name="dialog_failed_body">Ще опитате ли да изтеглите файла по-късно или ще го премахнете от списъка?</string>
   <string name="dialog_file_already_exists">Изтеглянето е невъзможно, целевият файл вече съществува.</string>
@@ -47,10 +47,10 @@
   <string name="download_list_get_hightspeed_flow_sucess_head">Създадена е сесията за безплатен тест</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Насладете се на изтегляния с по-бърза скорост. С подкрепата на Xunlei.</string>
   <string name="download_list_intoAuth">Удостоверяване в страницата на MIUI</string>
-  <string name="download_list_intoAuthAlert">Моля, изчакайте</string>
+  <string name="download_list_intoAuthAlert">Изчакайте…</string>
   <string name="download_list_open_xl_cancel">Отказ</string>
-  <string name="download_list_open_xl_message">Достъп до Xunlei изтегляния, услуга за неограничено изтегляне с висока скорост.</string>
-  <string name="download_list_open_xl_ok">Определяне</string>
+  <string name="download_list_open_xl_message">Насладете се на неограничена услуга за бързо изтегляне.</string>
+  <string name="download_list_open_xl_ok">ОК</string>
   <string name="download_list_open_xl_title">Xunlei изтегляния</string>
   <string name="download_no_application_title">Файлът не може да се отвори</string>
   <string name="download_paused">Изтеглянето спря</string>
@@ -79,7 +79,7 @@
   <string name="immediately_a_renewal">Подновяване сега</string>
   <string name="keep_queued_download">Запомни</string>
   <string name="media_filter">МЕДИЯ</string>
-  <string name="member_cost">Годишна такса за профила</string>
+  <string name="member_cost">Годишна такса</string>
   <string name="menu_all_task_pause">Пауза на всички</string>
   <string name="menu_all_task_start">Старт на всички</string>
   <string name="menu_enter_edit_mode">Редактор</string>
@@ -88,7 +88,7 @@
   <string name="mi_money_">MiКредити)</string>
   <string name="missing_title">Неизвестно</string>
   <string name="no_downloads">Няма изтегляния.</string>
-  <string name="one_month">Един месец</string>
+  <string name="one_month">1 месец</string>
   <string name="open_download">Отвори</string>
   <string name="open_xunlei_speed_service">Активиране на Xunlei изтегляния</string>
   <string name="original_price">(Нормална цена</string>
@@ -101,7 +101,7 @@
   <string name="paused_unknown">На пауза</string>
   <string name="paused_waiting_for_network">В очакване на връзка с мрежата</string>
   <string name="paused_waiting_to_retry">Пауза, в очакване на нов опит</string>
-  <string name="period_of_validity">Период на валидност:</string>
+  <string name="period_of_validity">Валидност:</string>
   <string name="pref_download_settings_title">Лимит за размер при изтегляне</string>
   <string name="pref_summary_any_bytes_popup">Винаги изчаквай Wi-Fi връзка за изтегляне на файлове</string>
   <string name="pref_summary_enable_max_bytes_popup">Показвай известие при използване на мобилни данни за изтегляне на съдържание</string>

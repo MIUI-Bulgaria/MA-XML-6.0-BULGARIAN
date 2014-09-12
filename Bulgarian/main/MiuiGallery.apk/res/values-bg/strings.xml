@@ -89,7 +89,7 @@
   <string name="clear_thumbnail_cache_confirm">Всички миниатюри, кеширани в Галерия ще бъдат изчистени.</string>
   <string name="clear_thumbnail_cache_summary">Изчистване на миниатюрите, кеширани в Галерия.</string>
   <string name="click_to_add_picture">Докоснете за добавяне на снимки</string>
-  <string name="click_top_right">Натиснете иконата горе вдясно</string>
+  <string name="click_top_right">Чукнете тази икона</string>
   <string name="close">Затвори</string>
   <string name="cloud_album_more_settings">Синхронизация на MiCloud</string>
   <string name="cloud_album_set_create">Нов</string>
@@ -101,10 +101,10 @@
   <string name="cloud_folder_chooser_move">Изтрий снимките от оригиналния албум</string>
   <string name="cloud_gallery_recyclebin_full">Кошчето на облака е пълно, моля изчистете го като посетите i.mi.com.</string>
   <string name="cloud_gallery_space_full">Грешка при изпращането! Хранилището на облака е пълно</string>
-  <string name="cloud_media_set_set">Албуми на облака</string>
+  <string name="cloud_media_set_set">Облак</string>
   <string name="cloud_owner_album_share_guide">Споделете този албум приятели</string>
   <string name="cloud_screenshots_display_name">Екранни снимки</string>
-  <string name="cloud_share_guide_message">"Споделете вашите MiCloud албуми с
+  <string name="cloud_share_guide_message">"Споделете вашите снимки с
 приятели. Преглеждайте и обновявайте
 албумите си отвсякъде.
 "</string>
@@ -191,7 +191,7 @@
   <string name="enable_cloud_for_sharing">Необходимо е да активирате облачните албуми за преглед на споделените снимки.</string>
   <string name="enter_email_hint">"Въведете Имейл адрес "</string>
   <string name="error_album_not_exist">"Албумът не съществува."</string>
-  <string name="error_cloud_not_active">Облачният албум не се използва</string>
+  <string name="error_cloud_not_active">Няма снимки в облака</string>
   <string name="error_forbidden">Вашият профил има някакви грешки. Синхронизацията е изключена.</string>
   <string name="error_invalid_link">Тази връзка е невалидна. Поискайте от собственика да създаде нова връзка.</string>
   <string name="error_not_acceptable">Грешки в сървъра. Синхронизацията е изключена.</string>
@@ -235,7 +235,7 @@
   <string name="frame_movie">Филм</string>
   <string name="frame_semicircle">Полукръг</string>
   <string name="frame_white">Бяла</string>
-  <string name="gallery_cloud_provider_name">Галерия</string>
+  <string name="gallery_cloud_provider_name">Снимки в облак</string>
   <string name="gallery_setting">Настройки</string>
   <string name="get_album_info_in_process">"Получаване на информация за споделен албум. Моля, изчакайте..."</string>
   <string name="global_setting">Насторйки</string>
@@ -344,8 +344,8 @@
   <string name="none_picture">Няма снимки в галерията.</string>
   <string name="not_auto_create_recent_album">Не създавай автоматично последните албуми</string>
   <string name="not_show_hidden_albums">Не показвай скритите албуми</string>
-  <string name="only_show_camera_in_first_page">Показвай само снимките от албума на първата страница</string>
-  <string name="only_show_camera_in_first_page_summary">Ако е изключено, снимките от всички облачни албуми ще се показват на първата страница.</string>
+  <string name="only_show_camera_in_first_page">Показвай само снимките от камерата</string>
+  <string name="only_show_camera_in_first_page_summary">Показване само на снимките от вашата камера в Mi Cloud.</string>
   <string name="open">Отвори</string>
   <string name="open_public_message">Създай връзка за споделяне приятелите си</string>
   <string name="open_public_title">Сподели</string>
@@ -395,7 +395,7 @@
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Подготовка на изображения за изтриване.</string>
   <string name="priority_storage">Съхраняване на SD картата</string>
-  <string name="priority_storage_summary">Когато използвате SD карта, изтеглените файлове ще се записват автоматично на SD картата.</string>
+  <string name="priority_storage_summary">При поставена SD карта, автоматично записване на файловете на SD картата.</string>
   <string name="projection">Проекция</string>
   <string name="public_url_descript">Всеки може да получи достъп до албума чрез тази връзка</string>
   <string name="publish_failed">Грешка при публикуване.</string>
@@ -455,8 +455,8 @@
   <string name="sepia">Сепия</string>
   <string name="set_hidden_album">Скрий албума</string>
   <string name="set_image">Задай снимката като</string>
-  <string name="set_label_all_albums">Всички албуми</string>
-  <string name="set_label_local_albums">Локални албуми</string>
+  <string name="set_label_all_albums">Всички</string>
+  <string name="set_label_local_albums">Локални</string>
   <string name="set_label_mtp_devices">MTP устройства</string>
   <string name="set_lock_and_wallpaper">Задаване на тапета...</string>
   <string name="set_lock_or_wallpaper">Задай като тапет</string>
@@ -501,7 +501,7 @@
   <string name="start_slide_show">Старт на слайдшоуто</string>
   <string name="storage_all_volumes">Всички устройства с памет</string>
   <string name="storage_no_space">"Няма място в хранилището."</string>
-  <string name="straighten">Подравняване</string>
+  <string name="straighten">Регулиране</string>
   <string name="straighten_tooltip">Плъзнете снимката, за да я изправите</string>
   <string name="sync_album">Синхр. на албум</string>
   <string name="sync_album_error">Неуспешно изтегляне на снимките в този албум. Опитайте отново по-късно.</string>
@@ -510,9 +510,9 @@
   <string name="sync_album_summary">Изпратете Вашите снимки и екр. снимки в личният си MiCloud албум</string>
   <string name="sync_history_power_on">По време на зареждане</string>
   <string name="sync_in_progress_message">Синхронизира се...</string>
-  <string name="sync_only_in_wifi">Само по Wi-Fi</string>
+  <string name="sync_only_in_wifi">Качване на снимки само по Wi-Fi</string>
   <string name="sync_only_in_wifi_alert">Изключването на този режим може да доведе до повишаване трафика на мобилни данни. Ще продължите ли?</string>
-  <string name="sync_only_in_wifi_summary">Когато тази функция е изключена, Галерия ще използва мобилни данни за качване на снимките ви в облака.</string>
+  <string name="sync_only_in_wifi_summary">Ако функцията е изключена, Галерия ще използва мобилни данни за качване на снимки.</string>
   <string name="system_album">Системен албум</string>
   <string name="tab_all_text">На всички</string>
   <string name="tab_lockscreen_text">На закл. екран</string>

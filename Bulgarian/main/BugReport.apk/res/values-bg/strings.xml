@@ -26,9 +26,9 @@
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Камера</string>
   <string name="err_type_nonsystemapp">Други приложения</string>
-  <string name="err_type_power_consuming">Консумация на енергия</string>
-  <string name="err_type_reboot">Случайни рестартирания</string>
-  <string name="err_type_signal">Мрежови грешки</string>
+  <string name="err_type_power_consuming">Консумация</string>
+  <string name="err_type_reboot">Рестартирания</string>
+  <string name="err_type_signal">Мрежи</string>
   <string name="err_type_suggestion">Предложения</string>
   <string name="err_type_systemapp">MIUI приложения</string>
   <string name="err_type_wifi">Wi-Fi</string>
