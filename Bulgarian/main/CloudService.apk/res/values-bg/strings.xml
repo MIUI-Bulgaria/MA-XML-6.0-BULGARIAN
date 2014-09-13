@@ -155,7 +155,7 @@
   <string name="storage">Хранилище</string>
   <string name="sync">Синхр.</string>
   <string name="sync_item_calllog_summary">Синхр. на списъка с повиквания на това устройство</string>
-  <string name="sync_item_calllog_title">Списъкс с повиквания</string>
+  <string name="sync_item_calllog_title">Списък с повиквания</string>
   <string name="sync_setting">Настрой синхр.</string>
   <string name="sync_standard">Стандартно</string>
   <string name="system_sync_off">Синхр. е изключена</string>
