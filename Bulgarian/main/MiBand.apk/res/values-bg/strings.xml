@@ -29,6 +29,8 @@
   <string name="app_info_version">"Версия: %1$s
 Споразумение: %2$s"</string>
   <string name="app_name">Mi Band</string>
+  <string name="awake_format">, събуден %1$s пъти.</string>
+  <string name="awake_format_1">, събуден 1 път.</string>
   <string name="back">Назад</string>
   <string name="battery_charge_full">Батерията е заредена</string>
   <string name="battery_charging">Зарежда се...</string>
@@ -39,6 +41,11 @@
   <string name="bind_bracelet_ok">Свързването е успешно.</string>
   <string name="bind_new_mili">Свързване с нова Mi Band</string>
   <string name="bind_weixin_failed">Неуспешно, опитайте отново.</string>
+  <string name="bind_weixin_new_disable_tips">"After link with your Wechat account and follow Mi Band's Wechat service account, 
+you can check information like the number of steps taken through Wechat. You can also see your result status among your friends."</string>
+  <string name="bind_weixin_new_now">Syncing with Wechat, one moment...</string>
+  <string name="bind_weixin_new_tips">"Tap Link with Wechat to start, 
+then tap Follow to complete sync."</string>
   <string name="bind_weixin_now">Генерира се QR код ...</string>
   <string name="bind_weixin_qrcode_name">Mi Band QR код</string>
   <string name="bind_weixin_save">Съхранено в Галерия,</string>
@@ -101,6 +108,8 @@
   <string name="device_not_found_not_knocked">Потърсете отново след като докоснете веднъж Mi Band once и тя премига.</string>
   <string name="device_not_response">Защо моята Mi Band не премигва?</string>
   <string name="disable_debug_log">Режим отстр. на грешки е изключен!</string>
+  <string name="discard">Отмени</string>
+  <string name="discard_alarm_change">Отменяте ли промените?</string>
   <string name="distance">Разстояние</string>
   <string name="donot_bind">Свържи по-късно</string>
   <string name="download_failed">Изтеглянето е неуспешно.</string>
@@ -171,6 +180,10 @@
   <string name="fw_failed_help_title0">Какво е фърмуер?</string>
   <string name="fw_failed_help_title1">Защо въобще трябва да обновявам фърмуера?</string>
   <string name="fw_failed_help_title2">Какво да направя когато актуализацията е неуспешна?</string>
+  <string name="fw_low_battery_tips">"Не сме в състояние да актуализираме Mi Band, когато заряда на батерията е под 5%. Моля, заредете.
+След като е заредена напълно, Mi Band автоматично ще започне актуализацията."</string>
+  <string name="fw_low_battery_title">Моля, свържете към зарядното докато актуализирате.</string>
+  <string name="fw_low_battery_view_help">Помощ</string>
   <string name="fw_upgrade">Обновяване на фърмуера</string>
   <string name="fw_upgrade_failed">Неуспешно обновяване на фърмуера.</string>
   <string name="fw_upgrade_failed_tips">За съжаление обновяването на фърмуера е неуспешно. Това ще деактивира част от функциите.</string>
@@ -204,6 +217,7 @@
   <string name="help_title_3">Свързана ли е Mi Band с друг телефон?</string>
   <string name="hot_des">Енергия</string>
   <string name="hour_1"/>
+  <string name="in">В </string>
   <string name="incoming_call_notify">Входящо повикване</string>
   <string name="incoming_call_notify_tips">Извести ме за пропуснато повикване на всеки %s сек.</string>
   <string name="input_precise_person_info">Моля, въведете вашите лични данни. Повечето данни ще помогне да получите по-точни резултати.</string>
@@ -237,6 +251,10 @@
   <string name="login_failed_check_sys_time">Неуспешно вписване, моля проверете настройките си за време и използвайте часовата зона от мрежата.</string>
   <string name="logining">Вписване...</string>
   <string name="look_device_list">Търсене за Mi Band наоколо</string>
+  <string name="main_ui_share_tips">"Обща активност днес %1$s%2$s.
+%3$s"</string>
+  <string name="main_ui_sleep_share_tips">"Лек сън %1$s%2$s
+Заспах в %3$s, събудих се в %4$s."</string>
   <string name="male">Мъж</string>
   <string name="marathon_format_0">Това са %1$s маратона.</string>
   <string name="marathon_format_1">Повече от %1$s маратона.</string>
@@ -307,6 +325,7 @@
   <string name="pull_to_refresh_pull_label">Дръпнете за опресняване</string>
   <string name="pull_to_refresh_refreshing_label">Опреснява се…</string>
   <string name="pull_to_refresh_release_label">Отпуснете за зареждане</string>
+  <string name="ran">"пробягани "</string>
   <string name="red">Червен</string>
   <string name="register">Регистрация</string>
   <string name="remain_days_format">%s дни от последното зареждане</string>
@@ -351,6 +370,9 @@
   <string name="share_continue_goal_format">"Извървях общо %1$s, %2$s крачки на ден
 %3$s
 %4$s"</string>
+  <string name="share_continue_goal_format_run">"Общо извървяни %1$s, пробягани %2$s.
+%3$s.
+%4$s"</string>
   <string name="share_goal_tips_fail">Не съм далеч от постигането на целта ви.</string>
   <string name="share_goal_tips_succ">"Имате голям план?
 Направете първата си стъпка."</string>
@@ -367,12 +389,22 @@
   <string name="share_step_description">"Извървяхте %1$s изгорихте %2$s cal.
 "</string>
   <string name="share_step_description_monthly">"%1$s%2$s
- изгорихте %3$s cal и спестихте %4$s галона гориво.
-(благорарим, че защотавате нашата Земя)
-Най-високия рекорд е %5$s, извървяхте %6$s крачки."</string>
+ изгорихте %3$s cal и спестихте %4$s литра гориво.
+(благодарим ви, че защитавате нашата Земя)
+Рекордът ви е %5$s, извървяхте %6$s крачки."</string>
+  <string name="share_step_description_monthly_run">"%1$s, пробягахте %2$s
+%3$s, и спестихте %4$s литра гориво.
+(благодарим ви, че защитавате нашата Земя)
+Рекордът ви беше %5$s, извървяхте %6$s крачки."</string>
+  <string name="share_step_description_run">"Извървяни %1$s, пробягани %2$s.
+Изгорени %3$s cal.
+"</string>
   <string name="share_step_description_weekly">"Направихте %1$s%2$s
 Изгорихте %3$s cal.
 Дневният ви рекорд е %4$s, извървяхте %5$s крачки."</string>
+  <string name="share_step_description_weekly_run">"Общо %1$s, пробягани %2$s.
+%3$s
+Дневният ви рекорд бе поставен на %4$s, извървяни %5$s крачки."</string>
   <string name="share_step_goal_failed_title">Общо</string>
   <string name="share_step_goal_failed_title_today">Днес</string>
   <string name="share_step_goal_succ_title">Постигнахте целта</string>
@@ -483,7 +515,7 @@
   <string name="unlock_screen_set_success">Трябва да настроите вашият телефон де се отключва с тази Mi Band.</string>
   <string name="unlock_screen_set_use_bracelet">Стъпка 2) Задайте да отключвате телефона си с Mi Band.</string>
   <string name="unlock_screen_set_use_bracelet_tips">Потвърдете паролата.</string>
-  <string name="until">"До "</string>
+  <string name="until_hit_goals">Продължете да постигате цели до %s</string>
   <string name="upgrade">Обнови</string>
   <string name="upgrade_tip">Известие за обновяване</string>
   <string name="user_agreement">Резюме за потребителя и Политика на поверителност</string>
@@ -492,6 +524,16 @@
   <string name="walked">извървяни</string>
   <string name="wear_hand">За китката</string>
   <string name="weared_days">Общо дни</string>
+  <string name="weather_aqi">Качество на въздуха %s</string>
+  <string name="weather_description_cloudy">Облачно,</string>
+  <string name="weather_description_fine">Слънчево,</string>
+  <string name="weather_description_fog">Мъгла,</string>
+  <string name="weather_description_haze">Мъгла,</string>
+  <string name="weather_description_overcast">Облачно,</string>
+  <string name="weather_description_rain">Дъждовно,</string>
+  <string name="weather_description_rain_snow">Сняг,</string>
+  <string name="weather_description_sand">Пясък,</string>
+  <string name="weather_description_snow">Сняг,</string>
   <string name="week">Седмица</string>
   <string name="welcom_back">Добре дошли отново</string>
   <string name="welcome">Здравейте</string>

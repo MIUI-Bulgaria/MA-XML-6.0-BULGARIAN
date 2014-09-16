@@ -51,4 +51,54 @@
         <item>Просто го направете.</item>
         <item>Продължавайте, победата ще дойде от само себе си.</item>
     </string-array>
+    <string-array name="weather_aqi_descriptions">
+        <item>Отлично</item>
+        <item>Добро</item>
+        <item>Умерено</item>
+        <item>Умерено</item>
+        <item>Опасно</item>
+        <item>Много опасно</item>
+    </string-array>
+    <string-array name="weather_cloudy">
+        <item>Облачно</item>
+    </string-array>
+    <string-array name="weather_fine">
+        <item>Ясно</item>
+    </string-array>
+    <string-array name="weather_fog">
+        <item>Мъгла</item>
+    </string-array>
+    <string-array name="weather_haze">
+        <item>Мъгла</item>
+    </string-array>
+    <string-array name="weather_overcast">
+        <item>Облачно</item>
+    </string-array>
+    <string-array name="weather_rain_snows">
+        <item>Суграшица</item>
+    </string-array>
+    <string-array name="weather_rains">
+        <item>Превалявания</item>
+        <item>Гръмотевични бури</item>
+        <item>Лек дъжд</item>
+        <item>Умерен дъжд</item>
+        <item>Силен дъжд</item>
+        <item>Проливен дъжд</item>
+        <item>Проливен дъжд</item>
+        <item>Леден дъжд</item>
+        <item>Гръмотевични бури с градушка</item>
+    </string-array>
+    <string-array name="weather_sands">
+        <item>Прах</item>
+        <item>Прах</item>
+        <item>Пясъчни бури</item>
+        <item>Силни бури</item>
+    </string-array>
+    <string-array name="weather_snows">
+        <item>Краткотраен сняг</item>
+        <item>Слаб сняг</item>
+        <item>Умерен сняг</item>
+        <item>Силен сняг</item>
+        <item>Снежна виелица</item>
+    </string-array>
 </resources>
