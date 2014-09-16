@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="access_denied">Достъпът е отказан</string>
@@ -13,85 +13,9 @@
   <string name="account_name">Профил: %1$s</string>
   <string name="account_not_activated">Профилът ви не бе активиран</string>
   <string name="account_sec_dspt">Mi Cloud , Mi Phone , MIUI , MiTalk</string>
-  <string name="account_sec_dspt2"/>
+  <string name="account_sec_dspt2" />
   <string name="account_settings">Настройки на профила</string>
   <string name="account_xiaomi_service">Услуги</string>
-  <string name="activate_desc_2_intl_sim_cards">Ще бъдат изпратени 2 международни SMS съобщения за активиране на SIM картите</string>
-  <string name="activate_desc_2_sim_cards">Ще бъдат изпратени 2 SMS съобщения за активиране на SIM картите</string>
-  <string name="activate_desc_intl_sim_card">Ще бъде изпратено международно SMS съобщение за активиране на SIM картата ви</string>
-  <string name="activate_desc_mixed_sim_cards">Ще бъдат изпратени 1 обикновено и 1 международно SMS съобщение за активиране на вашите 2 SIM карти</string>
-  <string name="activate_desc_sim_card">Ще бъде изпратено SMS съобщение за активиране на SIM картата ви</string>
-  <string name="activate_feature_call_log_sync">Списъци с обаждания</string>
-  <string name="activate_feature_find_device">Намери устройството</string>
-  <string name="activate_feature_mms_sync">SMS Синхр.</string>
-  <string name="activate_feature_mx">Облачни съобщения</string>
-  <string name="activate_phone_failed_notif_title">Неуспешно стартиране на Mi Cloud</string>
-  <string name="activate_phone_failed_notif_title_msim">Неуспешно стартиране на Mi Cloud за SIM %s</string>
-  <string name="activate_popup_confirm_failed_phone_error">Нов опит</string>
-  <string name="activate_popup_confirm_failed_query_info">Нов опит</string>
-  <string name="activate_popup_confirm_failed_receive_sms">Нов опит</string>
-  <string name="activate_popup_confirm_failed_send_sms">Нов опит</string>
-  <string name="activate_popup_confirm_failed_server">Нов опит</string>
-  <string name="activate_popup_desc_2_intl_sim_cards">Ще бъдат изпратени 2 международни SMS съобщения за активиране на %s. Таксуват се според абонаментния ви план.</string>
-  <string name="activate_popup_desc_2_sim_cards">Ще бъдат изпратени 2 SMS съобщения за активиране на %s. Таксуват се според абонаментния ви план.</string>
-  <string name="activate_popup_desc_failed_phone_error">Въведеният от вас номер е невалиден.</string>
-  <string name="activate_popup_desc_failed_query_info">Няма достъп до вашия телефонен номер. Уверете се, че SIM картата ви е активна.</string>
-  <string name="activate_popup_desc_failed_receive_sms">Уверете се, че въведеният от вас номер е правилен и SIM картата ви е активна.</string>
-  <string name="activate_popup_desc_failed_send_sms">Не можа да се изпрати активиращ SMS. Уверете се, че SIM картата ви е активна.</string>
-  <string name="activate_popup_desc_failed_server">Проверете вашата интернет връзка и опитайте отново.</string>
-  <string name="activate_popup_desc_intl_sim_card">Ще бъде изпратено международно SMS съобщение за обвързване на SIM картата с профила ви и активиране на %s. Таксува се според абонаментния ви план.</string>
-  <string name="activate_popup_desc_mixed_sim_cards">Ще бъдат изпратени 1 обикновено и 1 международно SMS съобщение за активиране на %s. Таксуват се според абонаментния ви план.</string>
-  <string name="activate_popup_desc_new_2_intl_sim_cards">Изглежда, че сте сменили SIM картите. Ще бъдат изпратени 2 международни SMS съобщения за активиране на  %s. Таксуват се според абонаментния ви план.</string>
-  <string name="activate_popup_desc_new_2_sim_cards">Изглежда, че сте сменили SIM картите. Ще бъдат изпратени 2 SMS съобщения за активиране на %s. Таксуват се според абонаментния ви план.</string>
-  <string name="activate_popup_desc_new_intl_sim_card">Изглежда, че сте сменили SIM картата. Ще бъде изпратено международно SMS съобщение за активиране на %s. Таксува се според абонаментния ви план.</string>
-  <string name="activate_popup_desc_new_mixed_sim_cards">Изглежда, че сте сменили SIM картите. Ще бъдат изпратени 1 обикновено и 1 международно SMS съобщение за активиране %s. Таксуват се според абонаментния ви план.</string>
-  <string name="activate_popup_desc_new_sim_card">Изглежда, че сте сменили SIM картите. Ще бъде изпратено SMS съобщение за активиране на %s. Таксува се според абонаментния ви план.</string>
-  <string name="activate_popup_desc_new_sim_card_downlink">Изглежда, че сте сменили SIM картата. Въведете номера на новата SIM карта за активиране на %s</string>
-  <string name="activate_popup_desc_register_account">Ще бъде изпратено SMS съобщение за активиране на вашият Mi профил</string>
-  <string name="activate_popup_desc_register_account_downlink">Въведете вашият телефонен номер</string>
-  <string name="activate_popup_desc_register_account_intl">Ще бъде изпратено международно SMS съобщение за активиране на вашият Mi профил</string>
-  <string name="activate_popup_desc_sim_card">Ще бъде изпратено SMS съобщение за обвързване на SIM картата с профила ви и активиране на %s. Таксува се според абонаментния ви план.</string>
-  <string name="activate_popup_desc_sim_card_downlink">За активиране на %s, въведете вашият телефонен номер</string>
-  <string name="activate_popup_title_failed_phone_error">Невалиден телефонен номер</string>
-  <string name="activate_popup_title_failed_query_info">Не може да се намери номера</string>
-  <string name="activate_popup_title_failed_receive_sms">Няма отговор</string>
-  <string name="activate_popup_title_failed_send_sms">Не може да се изпрати съобщение</string>
-  <string name="activate_popup_title_failed_server">Грешка на сървъра</string>
-  <string name="activate_popup_title_manual">Обвързване на SIM карта</string>
-  <string name="activate_popup_title_new_sim_card">Засечена е нова SIM карта</string>
-  <string name="activate_popup_title_register_account">Обвързване на SIM карта</string>
-  <string name="activate_status_desc_acquire_phone_number">Получаване на телефонен номер от сървъра</string>
-  <string name="activate_status_desc_acquire_phone_number_server_error">Грешка на сървъра при получаване на телефонния номер.</string>
-  <string name="activate_status_desc_acquire_phone_number_server_no_info">Не може да се получи номер на телефона</string>
-  <string name="activate_status_desc_checking_xiaomi_account">Създаване на Mi профил</string>
-  <string name="activate_status_desc_checking_xiaomi_account_server_error">Възникна грешка на сървъра по време на проверката на Mi профила</string>
-  <string name="activate_status_desc_failed_getting_gateway">Не може да се получи SMS Gateway</string>
-  <string name="activate_status_desc_getting_gateway">Получаване на SMS Gateway</string>
-  <string name="activate_status_desc_getting_sim_info">Получаване на информация за SIM картата</string>
-  <string name="activate_status_desc_getting_sim_info_fail">Не може да се получи информация за SIM картата</string>
-  <string name="activate_status_desc_prepare_sending_sms">Подготовка за изпращане на SMS за активиране</string>
-  <string name="activate_status_desc_query_activation_info">Обмяна на данни със сървъра</string>
-  <string name="activate_status_desc_query_activation_info_downlink_sms_error">Сървърът не успя да изпрати активиращ SMS до вашия телефон</string>
-  <string name="activate_status_desc_query_activation_info_no_info">Липсва информация за активиране на сървъра</string>
-  <string name="activate_status_desc_query_activation_info_server_error">Възникна грешка на сървъра по време на активирането на вашия профил</string>
-  <string name="activate_status_desc_registering_sim_account">Обвързване на SIM картата с профила ви</string>
-  <string name="activate_status_desc_registering_sim_account_server_error">Възникна грешка на сървъра по време на регистриране на SIM картата</string>
-  <string name="activate_status_desc_registering_xiaomi_account">Регистриране на Mi профила на сървъра</string>
-  <string name="activate_status_desc_registering_xiaomi_account_server_error">Възникна грешка на сървъра по време на създаване на вашият Mi профил</string>
-  <string name="activate_status_desc_registration">Регистриране на SIM карта</string>
-  <string name="activate_status_desc_registration_server_error">Възникна грешка на сървъра по време на регистриране на SIM картата</string>
-  <string name="activate_status_desc_request_activation_sms">Изискване от сървъра на активиращ SMS до вашия телефон</string>
-  <string name="activate_status_desc_request_activation_sms_phone_error">Въведеният от вас номер е невалиден</string>
-  <string name="activate_status_desc_request_activation_sms_server_error">Възникна грешка на сървъра по време на изискване на активиращ SMS до вашия телефон</string>
-  <string name="activate_status_desc_sending_sms">Изпращане на SMS за активиране</string>
-  <string name="activate_status_desc_sending_sms_fail">Не бе изпратен SMS за активиране към сървъра</string>
-  <string name="activate_status_desc_sms_sent">Съобщението за активиране е успешно изпратено</string>
-  <string name="activate_status_desc_wait_for_phone_service">В очакване на телефонна услуга</string>
-  <string name="activate_status_desc_wait_for_sms">В очакване на активиращ SMS от сървъра</string>
-  <string name="activate_status_desc_wait_for_sms_fail">Не бе получен активиращ SMS от сървъра</string>
-  <string name="activate_status_desc_wait_for_sms_success">Получен е активиращ SMS от сървъра</string>
-  <string name="activate_status_title_activating">Активиране на SIM картата</string>
-  <string name="activate_status_title_activating_msim">Активиране на SIM карта %s</string>
   <string name="activating">Активиране</string>
   <string name="add_weibo_account">Добавяне на профил</string>
   <string name="alert_title_remove_account">Отписване</string>
@@ -124,7 +48,7 @@
   <string name="dirty_note_count">бележки: %d</string>
   <string name="email_already_be_used">Този имейл адрес е вече свързан с друг профил.</string>
   <string name="email_reg_success_summary">"%1$s е обвързан с профила ви.
- Може да го използвате за вход в системата и за възстановяване на вашата парола."</string>
+Може да го използвате за вход в системата и за възстановяване на вашата парола."</string>
   <string name="enable_sync">Включи</string>
   <string name="enable_sync_dspt">Синхр. е изключена</string>
   <string name="error_device_id">Не може да се получи IMEI</string>
@@ -159,6 +83,8 @@
   <string name="input_verify_code_hint">Въведете код за потвърждение</string>
   <string name="int_phone_user_notice">Когато влизате с телефонния си номер, въведете го в международен формат (+359xxxxxxxxx).</string>
   <string name="internet_comm">Съобщения</string>
+  <string name="license_host_unreachable">Не можа да се свърже с мрежата. За да видите информацията, отидете на %s.</string>
+  <string name="loading">Зарежда се…</string>
   <string name="login">Влизане</string>
   <string name="login_failed">Грешно име или парола.</string>
   <string name="login_instead_reg">Влизане с този телефонен номер</string>
@@ -179,7 +105,7 @@
   <string name="micloud_activating_account_notify_title">Активиране на вашия Xiaomi профил…</string>
   <string name="micloud_active_alert_title">Активиране на профила</string>
   <string name="micloud_active_email_sent_1">"Връзката за активиране е изпратена на адрес: "</string>
-  <string name="micloud_active_email_sent_2"/>
+  <string name="micloud_active_email_sent_2" />
   <string name="micloud_active_email_visit">Проверете входящата поща на %s</string>
   <string name="micloud_activing_account">Активиране на профила…</string>
   <string name="micloud_activing_account_delayed">Довършване на активацията, моля изчакайте…</string>
@@ -189,11 +115,11 @@
   <string name="micloud_click_email">"
 
 За да активирате вашият профил,
- последвайте връзката в писмото за активиране."</string>
+последвайте връзката в писмото за активиране."</string>
   <string name="micloud_click_email_to_valid">"
 
 За да активирате вашият профил,
- последвайте връзката за активиране от писмото в пощата ви."</string>
+последвайте връзката за активиране от писмото в пощата ви."</string>
   <string name="micloud_data_loading">Зареждане…</string>
   <string name="micloud_delete_account">Отписване</string>
   <string name="micloud_email">Имейл адрес</string>
@@ -237,6 +163,7 @@
   <string name="please_input_phone_number">Въведете телефонен номер</string>
   <string name="please_input_verify_code">Въведете код за потвърждение</string>
   <string name="prev">Предишен</string>
+  <string name="privacy_policy">Правила за поверителност</string>
   <string name="process_result">Резултат от процеса:</string>
   <string name="quick_login_dialog_step2_title">Потвърждаване в 2 стъпки</string>
   <string name="quick_login_dialog_title">Проверка на паролата</string>
@@ -273,7 +200,6 @@
   <string name="service_error">Грешка в услугата</string>
   <string name="show_password">Покажи паролата</string>
   <string name="sim_changed_notification_content">SIM картата не е активирана</string>
-  <string name="sim_unactivated_title">SIM картата не беше обвързана</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Пропусни влизането</string>
   <string name="skip_login_u"><u>Пропусни</u></string>
@@ -290,15 +216,16 @@
   <string name="update_contacts_description">Актуализиране на контакти и дуга информация (Sina Weibo).</string>
   <string name="updated_contacts">Обновени %s контакти</string>
   <string name="updated_nothing">Няма за обновяване</string>
+  <string name="user_agreement">Потребителско споразумение</string>
   <string name="user_agreement_p1">"С влизането, вие се съгласявате с
   "</string>
   <string name="user_agreement_p2">Условията за ползване</string>
   <string name="user_agreement_p3"> и </string>
   <string name="user_agreement_p4">Политиката за поверителност</string>
   <string name="user_agreement_p5">"Със създаването на профила, вие се съгласявате
- с"</string>
+с"</string>
   <string name="user_agreement_p6">"Вие се съгласявате
- с"</string>
+с"</string>
   <string name="vcode">Код за потвърждение</string>
   <string name="vcode_notification_title">Проверката на вашето влизане не е завършила</string>
   <string name="vcode_prompt_long">Моля, въведете код за потвърждение, генериран от системата за сигурност на Xiaomi</string>
@@ -310,8 +237,4 @@
   <string name="wrong_captcha">Captcha кодът, който сте въвели е грешен</string>
   <string name="wrong_phone_number_format">Форматът на въведения телефонен номер е невалиден</string>
   <string name="wrong_vcode">Грешен код</string>
-  <string name="license_host_unreachable">Не можа да се свърже с мрежата. За да видите информацията, отидете на %s.</string>
-  <string name="loading">Зарежда се…</string>
-  <string name="privacy_policy">Правила за поверителност</string>
-  <string name="user_agreement">Потребителско споразумение</string>
 </resources>

@@ -80,6 +80,7 @@
   <string name="confirm_restore_positive">Възстанови</string>
   <string name="confirm_restore_title">Ще възстановите ли избраните съобщения</string>
   <string name="confirm_send_mms">Един от вашите получатели съдържа имейл адрес. Съобщението ще бъде изпратено като MMS, възможно е да се начисли допълнителна такса от оператора ви.</string>
+  <string name="context_menu_add_calendar">Покажи в Календар</string>
   <string name="context_menu_add_contact">Добави в контакти</string>
   <string name="context_menu_add_to_browser_favorite">Добави към отметките в браузъра</string>
   <string name="context_menu_browse_web">Разгледай</string>

@@ -46,8 +46,8 @@
         <item quantity="one">Вече сте на %1$d стъпка от влизането в информацията за устройството.</item>
     </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">Вече сте на %1$d стъпки от това, да влезете в инженерно меню Cit.</item>
-        <item quantity="one">Вече сте на %1$d стъпка от това, да влезете в инженерно меню Cit.</item>
+        <item quantity="other">Вече сте на %1$d стъпки от това, да влезете в инженерно меню CIT.</item>
+        <item quantity="one">Вече сте на %1$d стъпка от това, да влезете в инженерно меню CIT.</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">Вече сте на %1$d стъпки от докладването на грешка.</item>

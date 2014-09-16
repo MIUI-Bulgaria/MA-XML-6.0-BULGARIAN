@@ -713,4 +713,8 @@
   <string name="webview_today">Днес</string>
   <string name="webview_yesterday">Вчера</string>
   <string name="week_picker_dialog_title">Задай седмица</string>
+  <string name="pref_check_security_url_summary">Изпращане на URL адреса на страницата до сървърите на Xiaomi за проверка</string>
+  <string name="pref_check_security_url_title">Провери сигурността на URL</string>
+  <string name="show_check_security_url_check_tip_dialog_description">URL адресът на тази страница ще бъде изпратен до сървърите на Xiaomi за проверка на неговата безопасност. Можете да изключите тази функция от Настройки по всяко време.</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Сигурност на URL</string>
 </resources>

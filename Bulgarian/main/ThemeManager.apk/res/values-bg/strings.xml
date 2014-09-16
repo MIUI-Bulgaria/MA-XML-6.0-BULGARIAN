@@ -140,7 +140,6 @@
   <string name="resource_exchange_wrong_format_by_local">Въведен е грешен код</string>
   <string name="resource_exchange_wrong_format_by_server">Кодът не може да бъде потвърден. Моля проверете кода и опитайте отново.</string>
   <string name="resource_expand_full_text">Разшири</string>
-  <string name="resource_failed_to_load_list">Неуспешно зареждане на списъка</string>
   <string name="resource_get_auth_checking">Проверка...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Темата не може да се приложи на устройството, тъй като сте надвишили лимита за Вашия профил (10). Моля, влезте с друг Mi профил.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Надвишен лимит ауторизации</string>
@@ -177,7 +176,6 @@
   <string name="resource_ringtone_playing_error">грешка при възпроизвеждане</string>
   <string name="resource_ringtone_volume_mute">Звъненето е заглушено</string>
   <string name="resource_save_to_note">Запази в бележки</string>
-  <string name="resource_search_list_empty">Нищо не е открито</string>
   <string name="resource_see_more">Подробно</string>
   <string name="resource_select">Избери</string>
   <string name="resource_selected">Най-добри</string>

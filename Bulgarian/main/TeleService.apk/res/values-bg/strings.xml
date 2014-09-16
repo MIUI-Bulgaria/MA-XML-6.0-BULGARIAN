@@ -431,7 +431,7 @@
   <string name="msim_apn_not_set">Не е зададено</string>
   <string name="msim_default_setting">Стандартни настройки</string>
   <string name="msim_enable_sim">Активиране</string>
-  <string name="msim_general_setting">Общи настройки</string>
+  <string name="msim_general_setting">Настройки</string>
   <string name="msim_info_editor_name">Промяна на името на SIM картата</string>
   <string name="msim_info_editor_number">Промяна на номера на SIM картата</string>
   <string name="msim_info_editor_set_name_error">Възникна грешка, опитайте по-късно</string>
@@ -441,8 +441,8 @@
   <string name="msim_pref_title_data">Интернет</string>
   <string name="msim_pref_title_voice">Обаждания</string>
   <string name="msim_set_sub_not_supported_phone_in_call">По време на обаждане не може да настройвате</string>
-  <string name="msim_set_sub_not_supported_slot_id_error">Грешка на SIM картата, опитайте по-късно</string>
-  <string name="msim_setting_categery_title">Информация за SIM карта</string>
+  <string name="msim_set_sub_not_supported_slot_id_error">Грешка на SIM картата</string>
+  <string name="msim_setting_categery_title">Информация за SIM картата</string>
   <string name="msim_setting_no_sim_indicator">Няма SIM карта</string>
   <string name="msim_setting_operator_network_title">Операторска мрежа</string>
   <string name="msim_setting_screen_title">SIM карти и мобилни мрежи</string>

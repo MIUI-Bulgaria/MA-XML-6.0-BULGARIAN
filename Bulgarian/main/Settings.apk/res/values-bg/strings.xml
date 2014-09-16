@@ -179,7 +179,7 @@
   <string name="applications_settings_header">Настройки за приложения</string>
   <string name="applications_settings_summary">Управление на приложения, задаване на преки пътища за бързо стартиране</string>
   <string name="apply_now_button_text">Актуализирай</string>
-  <string name="apply_update_fail">Неуспешна актуализация.</string>
+  <string name="apply_update_fail">Неуспешна актуализация</string>
   <string name="apps_with_restrictions_header">Приложения с ограничения</string>
   <string name="apps_with_restrictions_settings_button">Настройки за прилож.: Разгъв.</string>
   <string name="ask_compatibility">Да се пита при стартиране</string>
@@ -776,12 +776,12 @@
   <string name="device_status">Състояние</string>
   <string name="device_status_activity_title">Състояние</string>
   <string name="device_status_summary">Състояние на батерията, мрежата и друга информация</string>
-  <string name="dialog_content_login">Необходим е Xiaomi профил за актуализацията, ще се впишете ли?</string>
+  <string name="dialog_content_login">Необходим е Mi профил за актуализацията, ще се впишете ли?</string>
   <string name="dialog_no">Не</string>
   <string name="dialog_title_color_calibration">Опции за настройка на цветовете</string>
   <string name="dialog_title_font_size">Размер на шрифта</string>
   <string name="dialog_title_hdmi_color_calibration">Настройка на цветовете</string>
-  <string name="dialog_title_login">Вписване в Xiaomi профил</string>
+  <string name="dialog_title_login">Вписване в Mi профил</string>
   <string name="dialog_yes">Да</string>
   <string name="dirac_control">Оптимизация на звука</string>
   <string name="dirac_mode_earbuds">Слушалки</string>
@@ -1010,7 +1010,7 @@
   <string name="global_change_warning">Настройката засяга всички потребители на това устройство.</string>
   <string name="global_font_change_title">Промяна на размера на шрифта</string>
   <string name="global_locale_change_title">Промяна на езика</string>
-  <string name="google_backup_section_title">Google архив и възстановяване</string>
+  <string name="google_backup_section_title">Google архив и нулиране</string>
   <string name="gsm_to_wifi_connect_type_title">Мобилни->Wi-Fi</string>
   <string name="haptic_feedback_enable_title">Вибриране при докосване</string>
   <string name="haptic_feedback_level">Сила на вибрация</string>
@@ -1086,7 +1086,7 @@
   <string name="install_applications">Неизвестни източници</string>
   <string name="install_text">Инсталиране</string>
   <string name="install_unknown_applications">Разрешаване на инсталирането на приложения от източници, различни от Google Play Магазин</string>
-  <string name="install_whole_rom">Изтегляне на ROM (стандартно)</string>
+  <string name="install_whole_rom">Изтегляне на ROM</string>
   <string name="insufficient_storage">Няма достатъчно място в хранилището.</string>
   <string name="intent_sender_account_label">Профил:</string>
   <string name="intent_sender_action_label">Action:</string>
@@ -1350,9 +1350,9 @@
   <string name="miracast_disable_dhcp">Деактивирай HDCP</string>
   <string name="miracast_display_category">Дисплеи</string>
   <string name="miracast_enable_dhcp">Активарай HDCP</string>
-  <string name="miracast_error_already_streaming">Вече излъчвате на един дисплей</string>
+  <string name="miracast_error_already_streaming">Вече излъчвате на друг дисплей</string>
   <string name="miracast_error_cancelconnect">Връзката е заета в момента</string>
-  <string name="miracast_error_connection_in_progress">Протича свързване, моля изчакайте…</string>
+  <string name="miracast_error_connection_in_progress">Свързва се…</string>
   <string name="miracast_menu_connect">Започни излъчване</string>
   <string name="miracast_menu_disconnect">Спри излъчването</string>
   <string name="miracast_menu_forget">Забравяне на дисплея</string>
@@ -1581,10 +1581,10 @@
   <string name="pref_volume_wake_summary">Натискането на бутоните за регулиране на звука ще събужда устройството. За устройства с неудобен за натискане бутон Захр.</string>
   <string name="pref_volume_wake_title">Събуждане на телефона</string>
   <string name="preference_change_password_title">Промяна на паролата</string>
-  <string name="preferred_app_settings">Настройки на приложенията по подразбиране</string>
+  <string name="preferred_app_settings">Стандартни приложения</string>
   <string name="preferred_app_settings_default">По подразбиране</string>
   <string name="preferred_app_settings_reset">Възстанови по подразбиране</string>
-  <string name="preferred_app_settings_reset_message">Искате ли да възстановите настройките на приложението по подразбиране?</string>
+  <string name="preferred_app_settings_reset_message">Искате ли да възстановите стандартните настройки на приложението?</string>
   <string name="preferred_application_title">Предпочитан %s</string>
   <string name="preferred_application_warning_message">Замяната на стандартното %1$s приложение може да доведе до повишаване на консумацията на енергия, да намали бързодействието и да изложи на риск телефона Ви. Препоръчва се използването на %2$s по подразбиране.</string>
   <string name="preferred_application_warning_replace">Замени</string>
@@ -2009,6 +2009,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="sim_pin_change">Промяна на PIN за SIM карта</string>
   <string name="sim_pin_toggle">Заключване на SIM картата</string>
   <string name="sim_pins_dont_match">ПИН кодовете не са идентични</string>
+  <string name="sim_radio_off">Не е активирано</string>
   <string name="sim_reenter_new">Въведете пак новия PIN</string>
   <string name="sim_status_title">Статус на SIM</string>
   <string name="skip_label">Пропускане</string>

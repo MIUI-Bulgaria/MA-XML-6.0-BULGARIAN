@@ -46,7 +46,9 @@
   <string name="compress_title">Създаване на архив</string>
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
+  <string name="connect_network_setting_des">Напомняне когато се използва интернет</string>
   <string name="copy_failed">Грешка при копиране</string>
+  <string name="copy_file_to_kuaipan">Копиране на файла в KuaiPan</string>
   <string name="create_kuaipan_shortcut_pref">Създай икона на десктопа</string>
   <string name="create_new_folder_desctiption">Създаване на нова папка...</string>
   <string name="create_new_folder_failed">Не може да се създаде папка %1$s</string>
@@ -77,6 +79,7 @@
   <string name="download_failed">Грешка при изтегляне!</string>
   <string name="download_link_completed">Аз споделих %1$s чрез KuaiPan. Натиснете линка долу за преглед:</string>
   <string name="downloading">Изтегляне...</string>
+  <string name="downloading_in_3g">Изтегля се чрез 3G…</string>
   <string name="enable_sd_card">Активирайте SD картата</string>
   <string name="error_filename_too_long">Името на файла е твърде дълго</string>
   <string name="error_info_cant_send_folder">Папката не може да се прехвърля</string>
@@ -88,6 +91,7 @@
   <string name="favorite_ringtone">Мелодии</string>
   <string name="favorite_screen_cap">Скрийншоти</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
+  <string name="file_already_downlaoded">Файлът е съхранен в \"%1$s\"</string>
   <string name="file_info_canread">Четене:</string>
   <string name="file_info_canwrite">Писане:</string>
   <string name="file_info_ishidden">Скрити:</string>
@@ -112,6 +116,8 @@
   <string name="gbk_summary">Ако използвате кодиране GBK, например в Windows Explorer, изберете този тип на кодиране за да се избегне изкривяване на китайския текст</string>
   <string name="gbk_title">GBK</string>
   <string name="gigabyteShort">ГБ</string>
+  <string name="image_download">Изтегляне</string>
+  <string name="image_share">Споделяне</string>
   <string name="instruction">Въведете адреса във вашия FTP клиент:</string>
   <string name="instruction_pre">Използва се за прехвърляне на файлове между телефона и компютъра с помощта на FTP протокол.</string>
   <string name="kilobyteShort">КБ</string>
@@ -173,6 +179,8 @@
   <string name="name_illegal">Файлът трябва да има име</string>
   <string name="net_lose_connected">Мрежата е недостъпна, не е възможно да се определи размера</string>
   <string name="networkView_notConnected">Мрежата е недостъпна</string>
+  <string name="network_connect_confirm_des">Използването на KuaiPan изисква интернет. Продължавате ли?</string>
+  <string name="never_notify_network_connect">Не показвай отново</string>
   <string name="new_folder_name">Нова папка</string>
   <string name="no">Не</string>
   <string name="no_enough_storage_indication">Няма достатъчно място в хранилището. Освободете място чрез почистване на ненужните файлове или просто изтрийте файловете с голям размер.</string>
@@ -189,7 +197,9 @@
 2. Изпрати (актуализация на файла в облака)"</string>
   <string name="open_changed_file_title">Файлът е променен</string>
   <string name="open_file_failed">неуспешно отваряне</string>
+  <string name="operate_confirm_in_3g">Да се използват ли мобилни данни за изтегляне на този голям файл?</string>
   <string name="operating">Обработка…</string>
+  <string name="operation_agree">Приемам</string>
   <string name="operation_cancel">Отказ</string>
   <string name="operation_compress">Добави в архива</string>
   <string name="operation_compressing">Архивиране...</string>
@@ -220,6 +230,7 @@
   <string name="operation_rename_message">Въведи новото име</string>
   <string name="operation_resume">Поднови</string>
   <string name="operation_resume_all">Поднови всички</string>
+  <string name="operation_save">Запази</string>
   <string name="operation_send">Изпрати</string>
   <string name="operation_show_sys">Покажи системните файлове</string>
   <string name="operation_unfavorite">Премахни от любими</string>
@@ -263,10 +274,12 @@
   <string name="storage_usb">USB хранилище</string>
   <string name="storage_warning">SD картата не е на разположение или не може да се прочете.</string>
   <string name="sys_size_enable">Активиране</string>
+  <string name="system_alert">Напомни</string>
   <string name="tab_category">Преглед</string>
   <string name="tab_expand">Разшири</string>
   <string name="tab_local">Локално</string>
   <string name="tab_networkdisk">KuaiPan</string>
+  <string name="tab_path">Път</string>
   <string name="tab_phone">Телефон</string>
   <string name="tab_sys_size">Общо хранилище</string>
   <string name="terabyteShort">ТБ</string>
@@ -300,6 +313,7 @@
   <string name="user_guide_kuaipan_lable">KuaiPan за вас</string>
   <string name="user_guide_other_version">Изтеглете алтернативни версии на KuaiPan</string>
   <string name="user_guide_save_file">Съхраняване на вашите файлове в KuaiPan.</string>
+  <string name="user_guide_summary">Кратък обзор</string>
   <string name="user_guide_upload_to_kuaipan">"Просто копирайте и поставете в KuaiPan"</string>
   <string name="utf8_summary">Тип кодиране по подразбиране</string>
   <string name="utf8_title">UTF-8</string>

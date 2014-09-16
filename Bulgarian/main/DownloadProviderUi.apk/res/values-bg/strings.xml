@@ -129,4 +129,11 @@
   <string name="xunlei_member_one_month">Месечна такса за Xunlei</string>
   <string name="xunlei_speed_service">Xunlei изтегляния</string>
   <string name="xunlei_switch">Xunlei изтегляне</string>
+  <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
+  <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
+  <string name="add_flow_success_msg">Get %s High Speed Flow Succeess</string>
+  <string name="display_expire_netiv1">Month Owner</string>
+  <string name="menu_title_pause_all">Пауза на всички</string>
+  <string name="menu_title_resume_all">Стартирай вички</string>
+  <string name="menu_title_settings">Настройки</string>
 </resources>

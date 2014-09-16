@@ -10,6 +10,7 @@
   <string name="action_item_download">Изтегляне</string>
   <string name="action_item_remove">Премахване</string>
   <string name="action_item_send">Изпращане</string>
+  <string name="add_music">Добавяне на песни</string>
   <string name="album_search_title">Албум</string>
   <string name="all_tracks">Всички песни</string>
   <string name="all_tracks_short">Всички</string>
@@ -178,10 +179,12 @@
   <string name="playback_failed_no_title_by_bad_file">Песента не може да бъде възпроизведена, форматът не се поддържа или файла не същестува.</string>
   <string name="playlist_deleted_message">Плейлистът е изтрит</string>
   <string name="playlist_renamed_message">Плейлистът е преименуван</string>
+  <string name="please_download_first">Моля, първо изтеглете.</string>
   <string name="presonal_center">Настройки на профила</string>
   <string name="project_device">Mi Phone</string>
   <string name="quit_warining">Автоматично изключване след %d мин.</string>
   <string name="retry">Нов опит</string>
+  <string name="ringtone_not_support">Форматът на песента не се поддържа.</string>
   <string name="search_hint">Изпълнител.Песен.Албум</string>
   <string name="search_title">Търсене</string>
   <string name="search_title_album">Албум</string>
@@ -190,7 +193,11 @@
   <string name="select_device">Избор на устройство</string>
   <string name="send_to">Изпрати до</string>
   <string name="send_to_title">Изпращане до (%1$s)</string>
+  <string name="set_as_ring">Задай като мелодия</string>
+  <string name="set_ringtones_failed">Неуспешно задаване като мелодия.</string>
+  <string name="set_ringtones_successful">%s е зададена като мелодия на звънене.</string>
   <string name="sleep_mode">Таймер за заспиване</string>
+  <string name="sleep_mode_canceled">Таймерът за заспиване е отменен</string>
   <string name="sleep_mode_summary">Използвайте плъзгача по-долу, за да зададете време</string>
   <string name="sleep_mode_title">Спри плейъра след изтичане на времето</string>
   <string name="song_not_find">Песента не може да бъде открита. Проверете мрежата и опитайте отново.</string>
