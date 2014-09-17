@@ -471,7 +471,7 @@ Type your feedback here…"</string>
   <string name="v2_geo_ip_blocked">你的地区不支持IP地理信息功能。</string>
   <string name="v2_ipv6_not_supported_button_text_go_to_settings">Go to Settings</string>
   <string name="v2_ipv6_not_supported_button_text_keep_ipv6_on">Keep IPv6 ON</string>
-  <string name="v2_ipv6_not_supported_line1">""We're working on adding IPv6 support, but currently Opera Max "&lt;b&gt;"won't"&lt;/b&gt; be able to reliably save, track and manage your data until you switch to IPv4."</string>
+  <string name="v2_ipv6_not_supported_line1">"We're working on adding IPv6 support, but currently Opera Max "&lt;b&gt;"won't"&lt;/b&gt; be able to reliably save, track and manage your data until you switch to IPv4."</string>
   <string name="v2_ipv6_not_supported_line2">"Don't worry. Click on \"Go to Settings\". Select current \"APN\". Change \"APN Protocol\" to IPv4. Start saving."</string>
   <string name="v2_ipv6_not_supported_notification_message">Tap to fix and start saving</string>
   <string name="v2_ipv6_not_supported_notification_title">VPN Outage</string>
