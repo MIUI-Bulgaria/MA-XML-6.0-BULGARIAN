@@ -66,7 +66,7 @@
   <string name="micloud_more">Научете повече</string>
   <string name="micloud_proceed">Продължи</string>
   <string name="micloud_sec_dspt">и споделяйте неща с приятелите си.</string>
-  <string name="micloud_space_full_influence">&lt;u&gt;Какво става ако свърши мястото?&lt;/u&gt;</string>
+  <string name="micloud_space_full_influence"><u>Какво става ако свърши мястото?</u></string>
   <string name="micloud_title_dspt" formatted="false">"Общо %s 
  Заето %s | Свободно %s"</string>
   <string name="micloud_title_dspt_remain">Остават: %s</string>

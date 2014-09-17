@@ -280,13 +280,15 @@
   <string name="media_player_error_text_unknown">Съжаляваме, но видеото не може да бъде пуснато.</string>
   <string name="media_player_error_title">Не може да се възпроизведе</string>
   <string name="media_player_loading_video">Зареждане на видео</string>
-  <string name="menu_addtodesk">Добави към началния екран</string>
+  <string name="menu_addtodesk">На началния екран</string>
   <string name="menu_disable_night_mode">Изключи нощен режим</string>
   <string name="menu_disable_save_bandwidth_mode">Изключи ограничението за мобилни данни</string>
   <string name="menu_enable_night_mode">Включи нощен режим</string>
   <string name="menu_enable_save_bandwidth_mode">Включи ограничението за мобилни данни</string>
   <string name="menu_exit">Изход</string>
-  <string name="menu_hv_swap">Превключи в пейзажен режим</string>
+  <string name="menu_exit_nightmode">Изход</string>
+  <string name="menu_hv_swap">Пейзажен режим</string>
+  <string name="menu_nightmode">Вкл/изкл нощен режим</string>
   <string name="menu_preferences">Настройки</string>
   <string name="menu_save_bandwidth_mode_close_toast">Ограничението за мобилни данни е изключено</string>
   <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
