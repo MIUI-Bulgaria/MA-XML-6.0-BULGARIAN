@@ -127,6 +127,7 @@
   <string name="sign_in_info_rank_more">Вашият ранг на актуализацията е %1$s. Още %2$s потребители са инсталирали MIUI %3$s</string>
   <string name="sign_in_info_total_more">"Вашият ранг на актуализацията е %1$s. Още %2$s потребители са инсталирали MIUI %3$s"</string>
   <string name="sina_share_fail">Грешка при изпращането!</string>
+  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
   <string name="sina_share_pendding">Изпращане...</string>
   <string name="sina_share_success">Изпратено</string>
   <string name="sina_token_expired_warning">Срокът на Weibo профила е изтекъл, моля свържете се отново</string>

@@ -85,6 +85,7 @@
   <string name="internet_comm">Съобщения</string>
   <string name="license_host_unreachable">Не можа да се свърже с мрежата. За да видите информацията, отидете на %s.</string>
   <string name="loading">Зарежда се…</string>
+  <string name="loading_mili_center">Зарежда се Mi Credit</string>
   <string name="login">Влизане</string>
   <string name="login_failed">Грешно име или парола.</string>
   <string name="login_instead_reg">Влизане с този телефонен номер</string>

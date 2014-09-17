@@ -249,7 +249,7 @@ Please check your local date and try again."</string>
   <string name="scan_prompt_password">Сканирай паролата на предплатената карта %1$s</string>
   <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
   <string name="scan_prompt_voucher">Сканирай паролата на ваучера</string>
-  <string name="security_setting">Сигурност</string>
+  <string name="security_setting">Настройки</string>
   <string name="summary_lockpattern">Изисква фигура за отключване за MiКредит</string>
   <string name="title_change_lockpattern">Промени фигурата за заключване</string>
   <string name="title_discounts">Намаления</string>

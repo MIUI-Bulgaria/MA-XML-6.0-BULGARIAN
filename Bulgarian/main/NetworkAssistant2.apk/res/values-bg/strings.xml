@@ -257,6 +257,8 @@ For more info check the message you received from your service provider"</string
   <string name="tc_sms_report_notify_get_timeout_title">Не може да се получи отчет за използваните данни</string>
   <string name="tc_sms_report_receive_content">Съдържание на SMS с отчет за използваните данни</string>
   <string name="tc_sms_report_receive_content_null">Трябва да получите SMS с отчет за използваните данни от оператора си</string>
+  <string name="tc_sms_report_notify_correction_body">Отидете в Оптимизация > Монитор за данни и опитайте отново.</string>
+  <string name="tc_sms_report_notify_correction_failure_title">Не може да се обнови информацията за използваните данни</string>
   <string name="tc_sms_report_receive_num">Номер на получателя</string>
   <string name="tc_sms_report_send_num">Номер на оператора</string>
   <string name="tc_sms_report_summary">Помогнете ни да подобрим тази функция чрез изпращане на отзив, когато информацията ви за използването на данни е неправилна или не да се актуализира</string>

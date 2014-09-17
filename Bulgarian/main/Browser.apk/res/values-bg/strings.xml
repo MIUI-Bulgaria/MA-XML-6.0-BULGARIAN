@@ -37,6 +37,8 @@
   <string name="add_quicklink_to_popular">Добави към началната страница</string>
   <string name="add_quicklinks">Добавяне</string>
   <string name="add_to_bookmark">Добави към отметки</string>
+  <string name="add_to_desk">Добави на нач. екран</string>
+  <string name="add_to_desk_success">Добавено на нач. екран</string>
   <string name="add_to_quicklink">Добави на нач. страница</string>
   <string name="added_to_bookmarks">Добавено в отметки.</string>
   <string name="adjust_text_zoom_toast">Промяната в мащаба на текста може да предизвика неправилно показване на някои интернет страници</string>

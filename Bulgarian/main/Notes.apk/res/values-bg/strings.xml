@@ -72,6 +72,7 @@
   <string name="search_setting_description">Търсене на текст в бележки</string>
   <string name="select_account_prompt">Активирайте синхронизиране на бележки</string>
   <string name="sina_share_fail">Не може да се изпрати</string>
+   <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
   <string name="sina_share_pendding">Изпраща се…</string>
   <string name="sina_share_success">Изпратено</string>
   <string name="sina_token_expired_warning">Срокът на Weibo профила е изтекъл, моля свържете се отново</string>

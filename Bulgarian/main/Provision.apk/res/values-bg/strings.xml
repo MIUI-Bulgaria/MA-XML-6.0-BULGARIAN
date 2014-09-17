@@ -27,13 +27,13 @@
   <string name="summary_sim_card">Карта %1$d%2$s</string>
   <string name="welcome">Добре дошли в</string>
   <string name="agree">Приемам</string>
-  <string name="disagree">Отхвърлям</string>
-  <string name="ime_privacy_policy">Поверителност при въвеждане</string>
+  <string name="disagree">Отказ</string>
+  <string name="ime_privacy_policy">Правила за поверителност на избраната клавиатура</string>
   <string name="ime_privacy_policy_no_network">Вашият телефон не е свързан с интернет. Вижте информацията на адрес: %s</string>
   <string name="privacy_policy">Правила за поверителност</string>
-  <string name="provision_inputmethod_policy_description">Избор на метод на въвеждане</string>
+  <string name="provision_inputmethod_policy_description">Преглед на избраната клавиатура</string>
   <string name="provision_inputmethod_policy_description1">Правила за поверителност</string>
   <string name="terms_of_use">Условия за ползване</string>
-  <string name="terms_of_use_label">Трябва да се съгласите с потребителското споразумение и правилата за поверителност преди да продължите с MIUI</string>
+  <string name="terms_of_use_label">Трябва да се съгласите с потребителското споразумение и правилата за поверителност преди да използвате MIUI</string>
   <string name="user_agreement">Потребителско споразумение</string>
 </resources>
