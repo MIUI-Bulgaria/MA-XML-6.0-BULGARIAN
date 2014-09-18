@@ -2432,7 +2432,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="virus_scan_app_scan_finish">Сканирането завърши</string>
   <string name="virus_scan_app_scanning">Откриване на вируси…</string>
   <string name="virus_scan_app_stop_scan">Спри сканирането</string>
-  <string name="virus_scan_app_uninstall">Премахни (% d)</string>
+  <string name="virus_scan_app_uninstall">Премахни (%d)</string>
   <string name="virus_scan_app_waiting">Изчакване…</string>
   <string name="virus_scanner_auto_update">Актуализирай автоматично</string>
   <string name="virus_scanner_date_formater">dd MMM. yyyy</string>

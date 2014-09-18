@@ -113,7 +113,7 @@
   <string name="choosertitle_sharevia">Сподели чрез:</string>
   <string name="clear">Изчисти</string>
   <string name="clear_history">Изчисти историята</string>
-  <string name="clear_history_group">Изчисти цялата история</string>
+  <string name="clear_history_group">Изчисти цялата история (%s страници)</string>
   <string name="clear_search_history">Изчисти историята</string>
   <string name="clip_dialog_title">Ще отворите ли копирания URL адрес?</string>
   <string name="close_all_tab_alert_message">Сигурни ли сте, че искате да затворите всички раздели?</string>
@@ -242,7 +242,7 @@
   <string name="general_set_default_browser_dialog_summary">Използвай интегрираните MIUI приложения за по-бърза и гладка производителност</string>
   <string name="general_set_default_browser_title">Браузър по подразбиране</string>
   <string name="geolocation_permissions_prompt_dont_share">Откажи</string>
-  <string name="geolocation_permissions_prompt_message">иска данни за вашето местоположение</string>
+  <string name="geolocation_permissions_prompt_message">%s иска данни за вашето местоположение</string>
   <string name="geolocation_permissions_prompt_remember">Запомни избора</string>
   <string name="geolocation_permissions_prompt_share">Споделяне на местоположение</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Страницата има достъп до местоположението ви. Може да го забраните от Настройки > Разширени > Настройки на уеб страници.</string>
