@@ -56,7 +56,7 @@
     <string name="lockscreen_transport_prev_description">Бутон за предишния запис</string>
     <string name="login_website_in_case_forget_password">За възстановяване на паролата си, отидете на i.mi.com.</string>
     <string name="missed_call_text">%d пропуснати обаждания</string>
-    <string name="miui_keyguard_ble_unlock_succeed_msg">Отключено от Bluetooth устройство</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Отключено с Mi Band</string>
     <string name="miui_unlockscreen_password_wrong">Опитайте отново:</string>
     <string name="open_wifi_settings">Настройки на мрежата</string>
     <string name="phone_locked_string">Устройството е заключено</string>
