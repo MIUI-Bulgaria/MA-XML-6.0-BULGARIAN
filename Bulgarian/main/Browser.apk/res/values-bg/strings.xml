@@ -187,7 +187,7 @@
   <string name="dialog_geolocation_reject">Отхвърляне</string>
   <string name="dialog_geolocation_share">Приемане</string>
   <string name="disable_autofill">Изключи автоматичното попълване</string>
-  <string name="dont_remind_again">Запомняне на избора</string>
+  <string name="dont_remind_again">Не напомняй отново</string>
   <string name="download">Изтегли</string>
   <string name="download_complete">Изтеглянето завърши</string>
   <string name="download_default_path_txt">Изтегляй в тази папка по подразбиране, без да питаш за това отново</string>
@@ -718,7 +718,7 @@
   <string name="webview_yesterday">Вчера</string>
   <string name="week_picker_dialog_title">Задай седмица</string>
   <string name="pref_check_security_url_summary">Изпращане на URL адреса на страницата до сървърите на Xiaomi за проверка</string>
-  <string name="pref_check_security_url_title">Провери сигурността на URL</string>
+  <string name="pref_check_security_url_title">Проверка сигурността на URL</string>
   <string name="show_check_security_url_check_tip_dialog_description">URL адресът на тази страница ще бъде изпратен до сървърите на Xiaomi за проверка на неговата безопасност. Можете да изключите тази функция от Настройки по всяко време.</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Сигурност на URL</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Проверка на сигурността на URL</string>
 </resources>

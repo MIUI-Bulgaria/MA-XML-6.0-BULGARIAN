@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
-<resources>
-    <string name="wallpapers">Тапети от тип „Вълшебен дим“</string>
-    <string name="wallpaper_magicsmoke">Вълшебен дим</string>
-    <string name="author">Google</string>
-    <string name="ok">OK</string>
-    <string name="taptochange">Докоснете, за да промените</string>
-</resources>

@@ -138,7 +138,7 @@
   <string name="micloud_main_last_sync_time">Последно</string>
   <string name="micloud_main_network_error">Мрежата е недостъпна. Проверете настройките и опитайте отново</string>
   <string name="micloud_main_stop_sync">Спри синхр.</string>
-  <string name="micloud_main_suggest_sync">Някой данни се нуждаят от синхронизиране</string>
+  <string name="micloud_main_suggest_sync">Някой данни се нуждаят от синхронизиране с Mi Cloud</string>
   <string name="micloud_main_sync_now">Синхронизирай</string>
   <string name="micloud_main_sync_on_wifi">Синхр. само по Wi-Fi</string>
   <string name="micloud_main_sync_stop">Спри синхр.</string>

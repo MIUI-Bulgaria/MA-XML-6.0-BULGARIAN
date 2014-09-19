@@ -1749,7 +1749,7 @@
   <string name="really_remove_account_message">Премахването на този профил ще изтрие всички съобщения, контакти и други данни в него от устройството!</string>
   <string name="really_remove_account_title">Да се премахне ли профилът?</string>
   <string name="rebootiing_for_updates">Рестартира се...</string>
-  <string name="recent_location_requests_summary">Приложения по-долу искат да преглеждат информация за местоположението ви</string>
+  <string name="recent_location_requests_summary">Приложенията по-долу искат да преглеждат информация за местоположението ви</string>
   <string name="recent_location_requests_title">Достъп до местоположение</string>
   <string name="recognizer_settings_summary">Настройки за „%s“</string>
   <string name="recognizer_settings_title">Гласово търсене</string>

@@ -155,4 +155,5 @@
   <string name="notify_title_reboot_now">Актуализацията завърши</string>
   <string name="button_text_reboot_now">Рестарт</string>
   <string name="toast_not_enough_free_space">Няма достатъчно свободно място за OTA, моля освободете място</string>
+  <string name="download_rom_update_timer">Изтеглянето ще започне след %d секунди</string>
 </resources>

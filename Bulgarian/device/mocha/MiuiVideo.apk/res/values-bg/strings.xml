@@ -284,4 +284,14 @@
     <string name="userdata_alert_ok">Продължи</string>
     <string name="userdata_alert_title">Използване на данни</string>
     <string name="vp_select_video_source">Избор на източник</string>
+    <string name="clear_cache_success">Кешът е изчистен</string>
+    <string name="defaults">Стандартни</string>
+    <string name="device_empty_hint">Празно</string>
+    <string name="device_media_empty_hint">Празно</string>
+    <string name="done">Готово</string>
+    <string name="fullscreen">Цял екран</string>
+    <string name="mipush_setting">Xiaomi push</string>
+    <string name="no_longer_tips">Не показвай отново</string>
+    <string name="receive_mipush">Получаване на xiaomi push</string>
+    <string name="receive_mipush_summary">Получаване на известия за ново или обновено онлайн съдържание</string>
 </resources>

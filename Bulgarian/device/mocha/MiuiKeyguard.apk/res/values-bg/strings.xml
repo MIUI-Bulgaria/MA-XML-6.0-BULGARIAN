@@ -73,4 +73,9 @@
     <string name="unlockscreen_recharge_completed">Батерията е заредена</string>
     <string name="unlockscreen_recharging_message">Зареждане %d%%</string>
     <string name="default_lockscreen_unlock_hint_text">Плъзнете нагоре за отключване</string>
+    <string name="delete">Изтриване</string>
+    <string name="lockscreen_charging_msg">Зарежда се</string>
+    <string name="missed_call_text">%d пропуснати обаждания</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Отключено с Mi Band</string>
+    <string name="wrong_password">Неправилна парола</string>
 </resources>

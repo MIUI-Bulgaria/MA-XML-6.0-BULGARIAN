@@ -109,4 +109,25 @@
     <string name="error_not_acceptable">Синхронизацията е изключена.</string>
     <string name="error_title">Грешка при синхронизация</string>
     <string name="error_unauthorized">Синхронизацията е изключена поради твърде много опити за влизане.</string>
+    <string name="eq_auto">По избор</string>
+    <string name="eq_blues">Блус</string>
+    <string name="eq_classical">Класика</string>
+    <string name="eq_country">Кънтри</string>
+    <string name="eq_dance">Денс</string>
+    <string name="eq_delete">Премахни</string>
+    <string name="eq_delete_success">Готово</string>
+    <string name="eq_electronic">Електронна</string>
+    <string name="eq_flat">Плосък</string>
+    <string name="eq_hiphop">Хип-Хоп</string>
+    <string name="eq_jazz">Джаз</string>
+    <string name="eq_metal">Метъл</string>
+    <string name="eq_pop">Поп</string>
+    <string name="eq_preset_create">Създай</string>
+    <string name="eq_preset_format">Предв. зададени %d</string>
+    <string name="eq_preset_hint">Въведете име на предв.зададен</string>
+    <string name="eq_preset_rename">Преименувай</string>
+    <string name="eq_preset_select">Избери предв.зададен</string>
+    <string name="eq_rock">Рок</string>
+    <string name="equalizer">Еквалайзер</string>
+    <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
 </resources>

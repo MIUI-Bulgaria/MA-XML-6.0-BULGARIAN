@@ -1535,4 +1535,14 @@
     <string name="webviewchromium_profiler_stopped_toast">Профайлерът завърши. Резултатите са в/ъв %1$s.</string>
     <string name="webviewchromium_profiler_no_storage_toast">"Профайлерът не може да се стартира, защото външното хранилище не е готово"</string>
     <string name="webviewchromium_profiler_error_toast">Стартирането на профайлера не бе успешно</string>
+    <string name="pinpuk_attempts">"
+Оставащи опити :"</string>
+    <string name="reboot_confirm">Теблетът ви ще се рестартира.</string>
+    <string name="reboot_progress">Рестартира се…</string>
+    <string name="stk_cc_ss_to_dial">SS заявката е преобразувана в DIAL заявка.</string>
+    <string name="stk_cc_ss_to_ss">SS заявката е преобразувана в нова SS заявка.</string>
+    <string name="stk_cc_ss_to_ussd">SS заявката е преобразувана в USSD заявка.</string>
+    <string name="stk_cc_ussd_to_dial">USSD заявката е преобразувана в DIAL заявка.</string>
+    <string name="stk_cc_ussd_to_ss">USSD заявката е преобразувана в SS заявка.</string>
+    <string name="stk_cc_ussd_to_ussd">USSD заявката е преобразувана в нова USSD заявка.</string>
 </resources>

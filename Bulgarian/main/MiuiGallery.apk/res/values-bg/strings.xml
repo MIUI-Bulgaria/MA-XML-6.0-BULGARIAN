@@ -369,7 +369,7 @@
   <string name="other_category">Други настройки</string>
   <string name="owner_album_subtitle">Споделено с %1$s членове</string>
   <string name="paint_cancel_context">Да се прекрати ли редактирането?</string>
-  <string name="paint_cancel_title">Прекратяване</string>
+  <string name="paint_cancel_title">Отмяна на промените</string>
   <string name="path">Път до файла</string>
   <string name="people">Хора</string>
   <string name="photo_page_always_rotate">Авто завъртане</string>
@@ -377,9 +377,9 @@
   <string name="photo_page_save_image">Запиши</string>
   <string name="photo_page_save_uri_image_fail">Неуспешно записване на снимката.</string>
   <string name="photo_page_save_uri_image_ok">Снимката е записана в папката на камерата.</string>
-  <string name="photo_paint_adjust">настройте</string>
+  <string name="photo_paint_adjust">Настройване</string>
   <string name="photo_paint_crop">Подрязване</string>
-  <string name="photo_paint_effect">ефект</string>
+  <string name="photo_paint_effect">Ефект</string>
   <string name="photo_paint_rotate">Завъртане</string>
   <string name="photo_saved">Снимката е записана в %s</string>
   <string name="photo_size">Размер</string>

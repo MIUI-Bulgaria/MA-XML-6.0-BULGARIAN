@@ -608,4 +608,12 @@
   <string name="download_no_sdcard_dlg_title">Няма SD карта</string>
   <string name="download_sdcard_busy_dlg_msg">SD картата е заета. За да разрешите изтегляния, докоснете „Изключване на USB хранилището“ в известието.</string>
   <string name="download_sdcard_busy_dlg_title">Няма SD карта</string>
+  <string name="close_cloud_tab_tip">Затвори разделите в облака за %s?</string>
+  <string name="cloud_sync_closed_toast">Облачната синхронизация е изключена</string>
+  <string name="cloud_sync_failed_toast">Неуспешна актуализация, опитайте отново</string>
+  <string name="dont_remind_again">Не напомняй отново</string>
+  <string name="pref_check_security_url_summary">Изпращане на URL адреса на страницата до сървърите на Xiaomi за проверка</string>
+  <string name="pref_check_security_url_title">Проверка сигурността на URL</string>
+  <string name="show_check_security_url_check_tip_dialog_description">URL адресът на тази страница ще бъде изпратен до сървърите на Xiaomi за проверка на неговата безопасност. Можете да изключите тази функция от Настройки по всяко време.</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Проверка на сигурността на URL</string>
 </resources>
