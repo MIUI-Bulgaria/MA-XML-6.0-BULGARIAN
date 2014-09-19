@@ -764,4 +764,5 @@
     <string name="zip_viewer_no_file">Няма файлове!</string>
     <string name="feedback_sent">"Благодарим ви за отзива. Ще продължим подобренията за вас"</string>
     <string name="send_att_title">Внимание</string>
+    <string name="no_contacts">Празно</string>
 </resources>
