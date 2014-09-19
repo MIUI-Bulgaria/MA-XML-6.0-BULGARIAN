@@ -120,7 +120,7 @@
   <string name="clear_data_cache_cookie">Изчисти кеша и бисквитките</string>
   <string name="clear_data_website_dataset">Съхр. данни за уеб страници</string>
   <string name="clear_history">Изчисти историята</string>
-  <string name="clear_history_group">Изчисти цялата история</string>
+  <string name="clear_history_group">Изчисти цялата история: %s</string>
   <string name="clear_search_history">Изчисти историята</string>
   <string name="close_other_tabs">Затвори другите раздели</string>
   <string name="cloud_loading_tips">Плъзнете надолу за синхрон.</string>

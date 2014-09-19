@@ -26,9 +26,6 @@
     <string name="selectTextMode">Избор на текст</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
-    <string name="month_day_year" formatted="false">%d %B %Y</string>
-    <string name="time_of_day" formatted="false">%H:%M:%S</string>
-    <string name="date_and_time" formatted="false">%H:%M:%S %d.%m.%Y</string>
     <string name="date_time">%2$s %1$s</string>
     <string name="byteShort">Б</string>
     <string name="kilobyteShort">КБ</string>
