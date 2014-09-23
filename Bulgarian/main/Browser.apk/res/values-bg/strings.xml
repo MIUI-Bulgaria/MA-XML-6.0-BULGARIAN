@@ -568,9 +568,9 @@
   <string name="save_image_failed">Неуспешно запазване на изображението</string>
   <string name="save_image_success">Изображението е запазено</string>
   <string name="save_to_bookmarks">Запази в отметки</string>
-  <string name="save_to_camera">Запази в камера</string>
+  <string name="save_to_camera">Запази в галерията</string>
   <string name="save_to_camera_failed">Снимката не може да се запази</string>
-  <string name="save_to_camera_success">Запазено в камерата</string>
+  <string name="save_to_camera_success">Запазено в галерията</string>
   <string name="saving_snapshot">Съхраняване…</string>
   <string name="sdcard_error">Проверете вашата SD карта</string>
   <string name="search">Търсене</string>

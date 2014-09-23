@@ -219,7 +219,7 @@
   <string name="hints_need_quick_scan">Необходимо е сканиране сега</string>
   <string name="hints_no_info">Няма информация</string>
   <string name="hints_permission_apps_count">%d приложения</string>
-  <string name="hints_power_percent_title">Енергия</string>
+  <string name="hints_power_percent_title">Батерия</string>
   <string name="hints_quick_cleanning">Почистване...</string>
   <string name="hints_quick_cleanuping">Оптимизиране...</string>
   <string name="hints_quick_scanning">Сканиране...</string>

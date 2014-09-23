@@ -57,7 +57,7 @@
   <string name="menu_title_pick_rom_file">Изберете инсталационен пакет</string>
   <string name="menu_title_recovery">Рестартирай в режим \"Recovery\"</string>
   <string name="miui_summary_has_new_version">"  Налична е нова версия  "</string>
-  <string name="miui_summary_no_new_version">"Няма нови версии. Посетете http://miui.bg/community/forums/160"</string>
+  <string name="miui_summary_no_new_version">"Няма нови версии."</string>
   <string name="miui_summary_now_version">"Текуща версия "</string>
   <string name="monthly_build">Месечна</string>
   <string name="my_rank">Рейтинг:</string>
