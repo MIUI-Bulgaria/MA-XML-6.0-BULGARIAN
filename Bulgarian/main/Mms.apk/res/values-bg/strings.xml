@@ -515,4 +515,6 @@
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="xiaomi_service_number">Сервизен номер</string>
   <string name="yes">OK</string>
+  <string name="menu_more">Още</string>
+  <string name="menu_yellowpage">Покажи %s</string>
 </resources>

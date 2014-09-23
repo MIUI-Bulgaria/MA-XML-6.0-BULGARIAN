@@ -188,9 +188,9 @@
 От горната част на екрана плъзнете надолу, за да го използвате."</string>
     <string name="action_kuaidi">Бързо такси</string>
     <string name="hint_long_press_del">Дълго натискане за премахване</string>
-  <string name="dialog_title_disable_mikey_sprite">Disable MiKey wizard?</string>
-  <string name="disable_mikey_sprite">Disable MiKey wizard</string>
-  <string name="enable_mikey_sprite">Enable MiKey wizard</string>
+  <string name="dialog_title_disable_mikey_sprite">Да се деакт. ли MiKey wizard?</string>
+  <string name="disable_mikey_sprite">Деактивирай MiKey wizard</string>
+  <string name="enable_mikey_sprite">Активирай MiKey wizard</string>
   <string name="hint_mikey_sprite">"点击米键就是点击屏幕
 发语音、拍照片、打游戏…
 使用米键精灵无法使用米键其它功能"</string>
@@ -201,4 +201,45 @@
 点击米键就是点击小白点儿下的屏幕"</string>
   <string name="tab_mikey">MiKey</string>
   <string name="tab_mikey_sprite">MiKey Wizard</string>
+  <string name="action_baidusearch">Baidu търсене</string>
+  <string name="action_key_back">Назад</string>
+  <string name="action_key_back_long">Назад (дълго натискане)</string>
+  <string name="action_key_call">Набиране</string>
+  <string name="action_key_direction">Посока</string>
+  <string name="action_key_end_call">Край на обаждане</string>
+  <string name="action_key_enter">Въведи/Enter</string>
+  <string name="action_key_home">Начало</string>
+  <string name="action_key_home_long">Начало (дълго натискане)</string>
+  <string name="action_key_menu">Меню</string>
+  <string name="action_key_menu_long">Меню (дълго натискане)</string>
+  <string name="action_key_play_next">Следваща</string>
+  <string name="action_key_play_pause">Пауза/Старт</string>
+  <string name="action_key_play_prev">Предишна</string>
+  <string name="action_key_power">Захр.</string>
+  <string name="action_key_power_long">Захр. (дълго натискане)</string>
+  <string name="category_0">Приложения</string>
+  <string name="category_1">Системни настройки</string>
+  <string name="category_2">Бутони</string>
+  <string name="click_count_union">Пъти</string>
+  <string name="click_type_0">Нула</string>
+  <string name="click_type_1">Едно</string>
+  <string name="click_type_10">Десет</string>
+  <string name="click_type_2">Две</string>
+  <string name="click_type_3">Три</string>
+  <string name="click_type_4">Четири</string>
+  <string name="click_type_5">Пет</string>
+  <string name="click_type_6">Шест</string>
+  <string name="click_type_7">Седем</string>
+  <string name="click_type_8">Осем</string>
+  <string name="click_type_9">Девет</string>
+  <string name="key_direction_down">Надолу</string>
+  <string name="key_direction_left">Наляво</string>
+  <string name="key_direction_right">Надясно</string>
+  <string name="key_direction_up">Нагоре</string>
+  <string name="select_baidusearch">Baidu търсене</string>
+  <string name="select_baiduvoicesearch">Baidu гласово търсене</string>
+  <string name="select_direction">Посоки</string>
+  <string name="super_difficult_click">Затруднение при натискане</string>
+  <string name="unsupport_content">Надградете до последната версия за разработчици на MIUI за да използвате тази функция.</string>
+  <string name="unsupport_title">Функцията не се поддържа</string>
 </resources>

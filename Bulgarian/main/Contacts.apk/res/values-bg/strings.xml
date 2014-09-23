@@ -1106,4 +1106,9 @@
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавено на началните екрани</string>
   <string name="yellowpage_user_profile">Профил</string>
   <string name="zero_items_selected">Нищо не е избрано</string>
+  <string name="create_qrcode_fail_message">Неуспешно създаване на QR код</string>
+  <string name="qr_card_card">Моят QR код</string>
+  <string name="qrcode_card_title">QR код карта</string>
+  <string name="scan_qrcode_card_hint1">Сканирайте QR кодът</string>
+  <string name="scan_qrcode_card_hint2">Добавете моите данни към вашите контакти</string>
 </resources>

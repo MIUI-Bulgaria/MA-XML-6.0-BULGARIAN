@@ -721,4 +721,5 @@
   <string name="pref_check_security_url_title">Проверка сигурността на URL</string>
   <string name="show_check_security_url_check_tip_dialog_description">URL адресът на тази страница ще бъде изпратен до сървърите на Xiaomi за проверка на неговата безопасност. Можете да изключите тази функция от Настройки по всяко време.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Проверка на сигурността на URL</string>
+  <string name="quicklink_bookmark_save">Запази като:</string>
 </resources>

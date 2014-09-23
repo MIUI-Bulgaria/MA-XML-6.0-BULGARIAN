@@ -765,4 +765,6 @@
     <string name="feedback_sent">"Благодарим ви за отзива. Ще продължим подобренията за вас"</string>
     <string name="send_att_title">Внимание</string>
     <string name="no_contacts">Празно</string>
+    <string name="tryrefreshing">Опит за опресняване…</string>
+    <string name="wait_help_context">изчакайте</string>
 </resources>

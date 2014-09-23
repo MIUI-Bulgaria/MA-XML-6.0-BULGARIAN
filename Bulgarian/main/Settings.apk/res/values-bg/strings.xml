@@ -2858,4 +2858,8 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="zone_auto_summaryOn">Използване на часовата зона, предоставена от мрежата</string>
   <string name="zone_list_menu_sort_alphabetically">Сортиране по азбучен ред</string>
   <string name="zone_list_menu_sort_by_timezone">Сортиране по часова зона</string>
+  <string name="free_wifi_agreement_remind_never">Не показвай отново</string>
+  <string name="free_wifi_user_agreement">Когато използвате WiWide за да се свържете към мрежата, телефонният ви номер ще бъде използван за удостоверяване.</string>
+  <string name="free_wifi_user_agreement_allow">Приемам</string>
+  <string name="free_wifi_user_agreement_title">Условия за ползване</string>
 </resources>

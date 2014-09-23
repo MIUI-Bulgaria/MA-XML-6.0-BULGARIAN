@@ -136,4 +136,6 @@
   <string name="menu_title_pause_all">Пауза на всички</string>
   <string name="menu_title_resume_all">Стартирай вички</string>
   <string name="menu_title_settings">Настройки</string>
+  <string name="unbind_xunlei_2_success">Change Xunlei Account Success</string>
+  <string name="unbind_xunlei_success">Unbind Xunlei Account Success</string>
 </resources>
