@@ -320,4 +320,21 @@
   <string name="prefix_countdown">реклама през още:</string>
   <string name="suffix_countdown">секунди</string>
   <string name="vp_newest_ep">Най-актуален</string>
+  <string name="ad_countdown">Рекламата завършва след %s сек.</string>
+  <string name="vp_cancel">Отказ</string>
+  <string name="vp_client_message">Да се инсталира ли %1$s?</string>
+  <string name="vp_closedialog">ОК</string>
+  <string name="vp_confirm">ОК</string>
+  <string name="vp_download_connect_fail">URL адресът не може да се открие. Проверете връзката си и опитайте отново.</string>
+  <string name="vp_download_file_fail">Неуспешно изтегляне. Убедете се, че имате достатъчно свободно място в хранилището</string>
+  <string name="vp_hint">Съвет</string>
+  <string name="vp_install">Инсталиране</string>
+  <string name="vp_install_title">Съвети за инсталиране</string>
+  <string name="vp_loading_download">&lt;CDATA&gt;Изтегля се &lt;/CDATA&gt;</string>
+  <string name="vp_loading_video">Зарежда се…</string>
+  <string name="vp_maintitlearea">Enjoy the massive high-definition blockbuster, the speed of downloading at any time, there are more new TV show yo! Downloading HD components for you, click OK to enter the home page</string>
+  <string name="vp_plugin_message">Плъгин за HD плеър, инсталирането му ще отнеме секунди.</string>
+  <string name="vp_retry">Нов опит</string>
+  <string name="vp_support_by">С подкрепата на %1$s</string>
+  <string name="vp_unknown_source">Неизвестен източник</string>
 </resources>

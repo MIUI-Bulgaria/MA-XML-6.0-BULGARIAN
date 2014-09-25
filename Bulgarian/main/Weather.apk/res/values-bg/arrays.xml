@@ -47,4 +47,15 @@
         <item>Вятър З</item>
         <item>Вятър СЗ</item>
     </string-array>
+    <string-array name="moon_desc">
+        <item>Новолуние</item>
+        <item>Нарастващ полумесец</item>
+        <item>Първа четвърт</item>
+        <item>Нарастваща полупълна</item>
+        <item>Пълнолуние</item>
+        <item>Намаляваща полупълна</item>
+        <item>Последна четвърт</item>
+        <item>Намаляващ полумесец</item>
+        <item>Тъмна луна</item>
+    </string-array>
 </resources>

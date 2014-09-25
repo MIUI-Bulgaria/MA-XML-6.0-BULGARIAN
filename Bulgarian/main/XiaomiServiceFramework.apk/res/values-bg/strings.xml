@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
+  <string name="activate">Активиране</string>
   <string name="activate_feature_call_log_sync">Списъци с обаждания</string>
-  <string name="activate_feature_find_device">Намери устройството</string>
+  <string name="activate_feature_find_device">Открий устройството</string>
   <string name="activate_feature_mms_sync">SMS Синхр.</string>
   <string name="activate_feature_mx">Облачни съобщения</string>
   <string name="activate_phone_failed_notif_title">Неуспешно стартиране на Mi Cloud</string>
   <string name="activate_phone_failed_notif_title_msim">Неуспешно стартиране на Mi Cloud за SIM %s</string>
   <string name="activate_popup_confirm_failed_phone_error">Нов опит</string>
-  <string name="activate_popup_confirm_failed_query_info">Нов опит</string>
+  <string name="activate_popup_confirm_failed_query_info">Изпрати отново</string>
   <string name="activate_popup_confirm_failed_receive_sms">Нов опит</string>
   <string name="activate_popup_confirm_failed_send_sms">Нов опит</string>
   <string name="activate_popup_confirm_failed_server">Нов опит</string>
@@ -37,9 +38,9 @@
   <string name="activate_popup_title_failed_receive_sms">Няма отговор</string>
   <string name="activate_popup_title_failed_send_sms">Не може да се изпрати съобщение</string>
   <string name="activate_popup_title_failed_server">Грешка на сървъра</string>
-  <string name="activate_popup_title_manual">Обвързване на SIM карта</string>
-  <string name="activate_popup_title_new_sim_card">Засечена е нова SIM карта</string>
-  <string name="activate_popup_title_register_account">Обвързване на SIM карта</string>
+  <string name="activate_popup_title_manual">Активиране на %s</string>
+  <string name="activate_popup_title_new_sim_card">Повторно активиране на %s</string>
+  <string name="activate_popup_title_register_account">Създаване на Mi профил</string>
   <string name="activate_status_desc_acquire_phone_number">Получаване на телефонен номер от сървъра</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Грешка на сървъра при получаване на телефонния номер.</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Не може да се получи номер на телефона</string>

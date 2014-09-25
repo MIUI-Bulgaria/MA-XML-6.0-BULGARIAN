@@ -2,7 +2,7 @@
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="about_device">Информация за устройството</string>
-  <string name="active_xiaomi_account">Активиране</string>
+  <string name="active_xiaomi_account">Активен</string>
   <string name="active_xiaomi_account_msg">"Моля посетете MIUI форума за активиране на своя Xiaomi профил:"</string>
   <string name="active_xiaomi_account_title">Активиране на Xiaomi профил</string>
   <string name="app_name">Актуализация</string>

@@ -562,4 +562,9 @@
   <string name="width">Ширина</string>
   <string name="yellow_page">Папка</string>
   <string name="yes">Да</string>
+  <string name="impunity_declaration">Галерия може да се свързва към интернет, за да предоставя услугите си. Ще продължите ли?</string>
+  <string name="impunity_declaration_ignore">Не показвай отново</string>
+  <string name="impunity_declaration_settings">Показвай известие за свързване</string>
+  <string name="impunity_declaration_summary">Показване на известие всеки път, когато стартирате приложението Галерия</string>
+  <string name="impunity_declaration_title">Известие за свързване</string>
 </resources>

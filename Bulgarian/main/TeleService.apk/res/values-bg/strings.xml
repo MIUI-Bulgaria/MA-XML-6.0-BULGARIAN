@@ -848,4 +848,6 @@
   <string name="xdivert_setting">Задаване на X-Divert</string>
   <string name="xdivert_summary">Настройки на CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="msim_set_icc_card_error">Грешка на ICC картата</string>
+  <string name="cfnrc_title_cta">Пренасочване, когато сте недостъпен</string>
 </resources>

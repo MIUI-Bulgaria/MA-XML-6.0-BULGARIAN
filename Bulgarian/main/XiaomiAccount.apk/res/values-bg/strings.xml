@@ -6,13 +6,13 @@
   <string name="access_token_invalid_warning">Weibo профилът е невалиден: свържете го отново</string>
   <string name="account">Профил</string>
   <string name="account_bind_devices">Вписани устройства</string>
-  <string name="account_bind_settings">Обвързване на профил</string>
+  <string name="account_bind_settings">Профили</string>
   <string name="account_dspt">Синхронизирайте и архивирайте вашите контакти, съобщения, снимки и бележки.</string>
   <string name="account_dspt_provision">Използване на един профил за всичките ни продукти.</string>
   <string name="account_hint_text">Имейл или телефонен номер</string>
   <string name="account_name">Профил: %1$s</string>
   <string name="account_not_activated">Профилът ви не бе активиран</string>
-  <string name="account_sec_dspt">Mi Cloud , Mi Phone , MIUI , MiTalk</string>
+  <string name="account_sec_dspt"/>
   <string name="account_sec_dspt2" />
   <string name="account_settings">Настройки на профила</string>
   <string name="account_xiaomi_service">Услуги</string>
@@ -22,7 +22,7 @@
   <string name="app_name">Xiaomi service framework</string>
   <string name="bad_authentication">Невалидно име или парола</string>
   <string name="barcode_add_account_prompt">За да добавите профила, сканирайте QR кодът отново след като се впишете.</string>
-  <string name="bind_settings">Обвързване</string>
+  <string name="bind_settings">Профили</string>
   <string name="bind_sina_weibo">Свързан със Sina Weibo</string>
   <string name="bind_weibo_description">Намери и синхронизирай приятелите си от Sina Weibo.</string>
   <string name="binded">Свързан</string>
@@ -47,7 +47,7 @@
   <string name="dirty_mms_count">съобщения: %d</string>
   <string name="dirty_note_count">бележки: %d</string>
   <string name="email_already_be_used">Този имейл адрес е вече свързан с друг профил.</string>
-  <string name="email_reg_success_summary">"%1$s е обвързан с профила ви.
+  <string name="email_reg_success_summary">"%1$s е обвързан с Mi профила ви.
 Може да го използвате за вход в системата и за възстановяване на вашата парола."</string>
   <string name="enable_sync">Включи</string>
   <string name="enable_sync_dspt">Синхр. е изключена</string>
@@ -104,7 +104,7 @@
   <string name="micloud_activate_retry_btn">Опитай отново</string>
   <string name="micloud_activating_account_notify_info">Активирате вашият Xiaomi профил</string>
   <string name="micloud_activating_account_notify_title">Активиране на вашия Xiaomi профил…</string>
-  <string name="micloud_active_alert_title">Активиране на профила</string>
+  <string name="micloud_active_alert_title">Предупреждение за използване на данни</string>
   <string name="micloud_active_email_sent_1">"Връзката за активиране е изпратена на адрес: "</string>
   <string name="micloud_active_email_sent_2" />
   <string name="micloud_active_email_visit">Проверете входящата поща на %s</string>
@@ -176,7 +176,7 @@
   <string name="reg_failed">Регистрацията е неуспешна</string>
   <string name="reg_sms_send_prompt">Изпрати код за проверка на %s</string>
   <string name="reg_success">Профилът е създаден</string>
-  <string name="reg_success_summary">%1$s е обвързан с профила ви. Може да го използвате за вход в системата и за възстановяване на вашата парола.</string>
+  <string name="reg_success_summary">%1$s бе обвързан с Mi профила ви. Може да го използвате за вход в системата и за възстановяване на парола.</string>
   <string name="reg_type_email">Регистрация чрез имейл</string>
   <string name="reg_type_other_ways">&lt;u&gt;Създаване на профил по други начини&lt;/u&gt;</string>
   <string name="reg_type_other_ways_title">Създаване на профил по други начини</string>
@@ -238,4 +238,15 @@
   <string name="wrong_captcha">Captcha кодът, който сте въвели е грешен</string>
   <string name="wrong_phone_number_format">Форматът на въведения телефонен номер е невалиден</string>
   <string name="wrong_vcode">Грешен код</string>
+  <string name="add_account">Добавяне на профил</string>
+  <string name="bind_facebook">Добавяне на Facebook профил</string>
+  <string name="bind_qq">Добавяне на QQ профил</string>
+  <string name="bind_sns_description">Попълване на профила ви използвайки личната си информация в %s.</string>
+  <string name="binded_description" formatted="false">"Успешно обвързахте %s 
+Попълване на профила ви използвайки личната си информация в %s."</string>
+  <string name="confirm_unbind">confirm unbind?</string>
+  <string name="facebook">Facebook</string>
+  <string name="qq">QQ</string>
+  <string name="unbind_sns_description">След като прекратите обвързването, няма да можете да влизате в Mi профила си чрез %s</string>
+  <string name="unbind_weibo_description">След като прекратите обвързването, няма да синхронизирате контактите си и също няма да можете да влизате в Mi профила си чрез Sina Weibo</string>
 </resources>

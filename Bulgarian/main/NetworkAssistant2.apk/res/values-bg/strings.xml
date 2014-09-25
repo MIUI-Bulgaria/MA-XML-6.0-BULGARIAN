@@ -342,4 +342,9 @@ For more info check the message you received from your service provider"</string
   <string name="usage_sorted_activity_lable">Използване на данни</string>
   <string name="usage_sorted_empty_text">Празно</string>
   <string name="usage_sorted_loading_text">Зарежда се…</string>
+  <string name="tc_sms_report_get_sms_failure">"Couldn't get data usage SMS format"</string>
+  <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
+  <string name="tc_sms_report_get_sms_timeout">"Couldn't get data SMS format: timed out"</string>
+  <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
+  <string name="tc_sms_report_tips_dialog_title">SMS с отчет за използваните данни</string>
 </resources>

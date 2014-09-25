@@ -10,9 +10,9 @@
   <string name="multisim_settings_title">Открити са 2 SIM карти</string>
   <string name="next">Напред</string>
   <string name="other_settings">Допълнителни настройки</string>
-  <string name="other_settings_location">Достъп до местоположение</string>
-  <string name="other_settings_location_summary">Позволява приложенията да определят точно местоположението ви</string>
-  <string name="other_settings_user_experience">Потребителски отзив</string>
+  <string name="other_settings_location">Местоположение</string>
+  <string name="other_settings_location_summary">Позволява приложенията да определят точното ви местоположение</string>
+  <string name="other_settings_user_experience">Потребителски отзиви</string>
   <string name="other_settings_user_experience_summary">"Помогнете ни да подобрим MIUI чрез изпращане на анонимни потребителски данни. "</string>
   <string name="other_settings_user_experience_summary1">(Политика на поверителност)</string>
   <string name="pref_title_data_slot">Предпочитана SIM карта за данни</string>
@@ -28,7 +28,7 @@
   <string name="welcome">Добре дошли в</string>
   <string name="agree">Приемам</string>
   <string name="disagree">Отказ</string>
-  <string name="ime_privacy_policy">Правила за поверителност на избраната клавиатура</string>
+  <string name="ime_privacy_policy">Правила за поверителност за избраната клавиатура</string>
   <string name="ime_privacy_policy_no_network">Вашият телефон не е свързан с интернет. Вижте информацията на адрес: %s</string>
   <string name="privacy_policy">Правила за поверителност</string>
   <string name="provision_inputmethod_policy_description">Преглед на избраната клавиатура</string>

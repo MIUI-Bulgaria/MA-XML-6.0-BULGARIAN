@@ -19,7 +19,7 @@
   <string name="enable_sync">Включи</string>
   <string name="enable_sync_dspt">Синхр. е изключена</string>
   <string name="error_data_in_transfer">Вашите данни се прехвърлят. Моля, изчакайте %s часа.</string>
-  <string name="error_data_in_transfer_title">Понастоящем облачната услуга е недостъпна.</string>
+  <string name="error_data_in_transfer_title">Mi Cloud е недостъпен.</string>
   <string name="error_forbidden">Синхронизацията е изключена поради проблеми с вашия Mi профил.</string>
   <string name="error_network">Грешка в мрежата</string>
   <string name="error_not_acceptable">Синхронизацията е изключена.</string>
@@ -28,8 +28,8 @@
   <string name="error_unauthorized">Синхронизацията е изключена поради твърде много опити за влизане.</string>
   <string name="error_unknown">Неуспешно вписване</string>
   <string name="find_device">\"Открий устройството\" е включено</string>
-  <string name="find_device_disabled_notice">Тази функция може да се настройва от Настройки > Профили > MiCloud</string>
-  <string name="find_device_disabled_title">Деактивирано</string>
+  <string name="find_device_disabled_notice">Тази функция може да се промени по всяко време от Mi Cloud > Настройки.</string>
+  <string name="find_device_disabled_title">\"Открий устройството\" е изключено</string>
   <string name="find_device_disabling">Изключва се…</string>
   <string name="find_device_dspt">Дистанционно заключване или изтриване на устройството.</string>
   <string name="find_device_enabling">Включва се…</string>
@@ -44,8 +44,8 @@
   <string name="find_device_success_title">Открий устройството</string>
   <string name="header_data_and_synchronization">Данни и синхронизация</string>
   <string name="i_know">OK</string>
-  <string name="master_alert_notif_dspt_add">%s не са синхронизирани.</string>
-  <string name="master_alert_notif_dspt_no">Всичко е актуално.</string>
+  <string name="master_alert_notif_dspt_add">%s елементи за синхронизиране</string>
+  <string name="master_alert_notif_dspt_no">Синхронизирано</string>
   <string name="master_alert_notif_title">Последна синхронизация преди %s дни</string>
   <string name="micloud_dspt">Използвайте Mi Cloud за синхронизиране на данни, локализиране на устройство ви</string>
   <string name="micloud_dspt_provision">Използвайте Mi Cloud за синхронизиране на данни, локализиране на устройство ви и споделяне на съдържание с приятели.</string>
@@ -91,8 +91,8 @@
   <string name="pref_title_sync_my_profile_title">Синхр. профила</string>
   <string name="restoreSync">Синхронизирай</string>
   <string name="start_micloud">Начало</string>
-  <string name="sub_alert_notif_dspt_add">%s не са синхронизирани.</string>
-  <string name="sub_alert_notif_dspt_no">Всичко е актуално.</string>
+  <string name="sub_alert_notif_dspt_add">%s елементи за синхр.</string>
+  <string name="sub_alert_notif_dspt_no">Синхронизирано</string>
   <string name="sub_alert_notif_title">Не се синхронизира</string>
   <string name="sub_sync_item_sms_summary">Синхронизиране на съобщенията, които съдържат снимки, аудио или друга медия само когато сте свързани с Wi-Fi мрежа</string>
   <string name="sub_sync_item_sms_title_wifi_only">Синхр. на MMS само по Wi-Fi</string>
@@ -125,7 +125,7 @@
   <string name="data_syncing">Синхр. винаги</string>
   <string name="detail">Детайли</string>
   <string name="enable_cloud_service_notification">Не сте активирали Mi Cloud</string>
-  <string name="finish">Завършване</string>
+  <string name="finish">ОК</string>
   <string name="flight_mode">Самолетен режим</string>
   <string name="full_space">Хранилището е пълно</string>
   <string name="internet">Интернет</string>
@@ -134,11 +134,11 @@
   <string name="micloud">Mi Cloud</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
-  <string name="micloud_main_data_unsynced">%d не са синхр.</string>
+  <string name="micloud_main_data_unsynced">%d елементи за синхр.</string>
   <string name="micloud_main_last_sync_time">Последно</string>
-  <string name="micloud_main_network_error">Мрежата е недостъпна. Проверете настройките и опитайте отново</string>
+  <string name="micloud_main_network_error">Мрежата е недостъпна</string>
   <string name="micloud_main_stop_sync">Спри синхр.</string>
-  <string name="micloud_main_suggest_sync">Някой данни се нуждаят от синхронизиране с Mi Cloud</string>
+  <string name="micloud_main_suggest_sync">Някой елементи не са синхронизирани с Mi Cloud</string>
   <string name="micloud_main_sync_now">Синхронизирай</string>
   <string name="micloud_main_sync_on_wifi">Синхр. само по Wi-Fi</string>
   <string name="micloud_main_sync_stop">Спри синхр.</string>
@@ -148,7 +148,7 @@
   <string name="normal">Нормално</string>
   <string name="only_in_wlan">Само по Wi-Fi</string>
   <string name="photo">Снимки</string>
-  <string name="remind_later">Напомни ми по-късно</string>
+  <string name="remind_later">По-късно</string>
   <string name="setting">Настройки</string>
   <string name="sms">SMS</string>
   <string name="space">Хранилище</string>
@@ -162,4 +162,5 @@
   <string name="wifi">Wi-Fi</string>
   <string name="wifi_disconnected">Няма Wi-Fi</string>
   <string name="wifi_sync">Изчаква за Wi-Fi</string>
+  <string name="header_other_settings">Други</string>
 </resources>

@@ -1098,17 +1098,17 @@
   <string name="yellowpage_navigation_search_offline_hint">Вие не сте на линия</string>
   <string name="yellowpage_navigation_search_result_network_error">"Не може да се свърже към мрежата"</string>
   <string name="yellowpage_navigation_search_result_no_more">Няма повече резултати</string>
-  <string name="yellowpage_navigation_search_result_service_error">Услугата не е достъпна</string>
-  <string name="yellowpage_navigation_search_result_unknown_error">Непозната грешка!</string>
+  <string name="yellowpage_navigation_search_result_service_error">Услугата е недостъпна</string>
+  <string name="yellowpage_navigation_search_result_unknown_error">Неизвестна грешка!</string>
   <string name="yellowpage_navigation_search_select_city">Изберете град</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Изтегля се икона…</string>
-  <string name="yellowpage_navigation_send_to_desktop_failed">Неуспешно, проверете вашите мрежови настройки</string>
+  <string name="yellowpage_navigation_send_to_desktop_failed">Неуспешно, проверете настройките на мрежата</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавено на началните екрани</string>
   <string name="yellowpage_user_profile">Профил</string>
   <string name="zero_items_selected">Нищо не е избрано</string>
   <string name="create_qrcode_fail_message">Неуспешно създаване на QR код</string>
   <string name="qr_card_card">Моят QR код</string>
   <string name="qrcode_card_title">QR код карта</string>
-  <string name="scan_qrcode_card_hint1">Сканирайте QR кодът</string>
+  <string name="scan_qrcode_card_hint1">Сканирайте QR кода</string>
   <string name="scan_qrcode_card_hint2">Добавете моите данни към вашите контакти</string>
 </resources>
