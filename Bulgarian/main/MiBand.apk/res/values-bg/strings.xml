@@ -137,7 +137,7 @@ then tap Follow to complete sync."</string>
   <string name="dynamic_sleep_active_end">Готови за ставане</string>
   <string name="dynamic_sleep_active_start">Готови за заспиване</string>
   <string name="dynamic_sleep_deep">Дълбок сън</string>
-  <string name="dynamic_sleep_deep_title">Дълбок сън в последните %s</string>
+  <string name="dynamic_sleep_deep_title">Дълбок сън %s</string>
   <string name="dynamic_sleep_shallow">Лек сън</string>
   <string name="dynamic_sleep_tip">Общо</string>
   <string name="dynamic_step_tip">Крачки до момента</string>
@@ -219,11 +219,11 @@ then tap Follow to complete sync."</string>
   <string name="hour_1"/>
   <string name="in">В </string>
   <string name="incoming_call_notify">Входящо повикване</string>
-  <string name="incoming_call_notify_tips">Извести ме за пропуснато повикване на всеки %s сек.</string>
+  <string name="incoming_call_notify_tips">Известие за проп. обаждане след %s сек.</string>
   <string name="input_precise_person_info">Моля, въведете вашите лични данни. Повечето данни ще помогне да получите по-точни резултати.</string>
-  <string name="instruction_tip_1">"Погледнете 
-и разберете напредъка на вашата
-тренировка"</string>
+  <string name="instruction_tip_1">"Вижте 
+как върви тренировката
+ви"</string>
   <string name="instruction_tip_2_1">"Преброените
  крачки са по-малко от 
 1/3 от вашата цел"</string>
@@ -235,8 +235,8 @@ then tap Follow to complete sync."</string>
 Изпълнихте целта си за днес."</string>
   <string name="instruction_tip_2_5">"Повече от
 зададената цел"</string>
-  <string name="instruction_tip_3">"Батерията е 
-изхабена. 
+  <string name="instruction_tip_3">"Слаба 
+батерия. 
 Моля, заредете Mi Band."</string>
   <string name="instruction_title">Правете повече с Mi Band</string>
   <string name="kg">кг</string>
@@ -373,7 +373,7 @@ then tap Follow to complete sync."</string>
   <string name="share_continue_goal_format_run">"Общо извървяни %1$s, пробягани %2$s.
 %3$s.
 %4$s"</string>
-  <string name="share_goal_tips_fail">Не съм далеч от постигането на целта ви.</string>
+  <string name="share_goal_tips_fail">Не е далеч от постигането на целта ви.</string>
   <string name="share_goal_tips_succ">"Имате голям план?
 Направете първата си стъпка."</string>
   <string name="share_miliao_too_old">Версията на MiTalk е твърде стара.</string>
@@ -447,7 +447,7 @@ then tap Follow to complete sync."</string>
   <string name="stat_step_active_total">Обща активност</string>
   <string name="stat_step_average">Крачки на ден (средно)</string>
   <string name="stat_step_calorie_average">Изгорени (средно)</string>
-  <string name="stat_step_calorie_daily">Изгорени през деня</string>
+  <string name="stat_step_calorie_daily">Общо изгорени</string>
   <string name="stat_step_calorie_total">Общо изгорени</string>
   <string name="stat_step_daily">Общо крачки</string>
   <string name="stat_step_distance_average">Дневен пробег (средно)</string>
@@ -508,21 +508,21 @@ then tap Follow to complete sync."</string>
   <string name="unlock_screen_miui_version_low">Моля, актуализирайте текущата версия на MIUI.</string>
   <string name="unlock_screen_modify_unlock">"Ако искате да промените нещо,
 отидете на Настройки-&gt;Сигурност-&gt;Защита на екрана."</string>
-  <string name="unlock_screen_not_connect">Свържете с Mi Band преди да настроите Откл. на екрана.</string>
+  <string name="unlock_screen_not_connect">Свържете се с Mi Band преди да настроите Откл. на екрана.</string>
   <string name="unlock_screen_set_password">Стъпка 1) Задайте вашата парола.</string>
   <string name="unlock_screen_set_password_tips_has_set">Паролата за заключен екран бе настроена успешно.</string>
-  <string name="unlock_screen_set_password_tips_set">Задайте парола за заклщчен екран</string>
+  <string name="unlock_screen_set_password_tips_set">Задайте парола за заключен екран</string>
   <string name="unlock_screen_set_success">Трябва да настроите вашият телефон де се отключва с тази Mi Band.</string>
   <string name="unlock_screen_set_use_bracelet">Стъпка 2) Задайте да отключвате телефона си с Mi Band.</string>
   <string name="unlock_screen_set_use_bracelet_tips">Потвърдете паролата.</string>
   <string name="until_hit_goals">Продължете да постигате цели до %s</string>
   <string name="upgrade">Обнови</string>
   <string name="upgrade_tip">Известие за обновяване</string>
-  <string name="user_agreement">Резюме за потребителя и Политика на поверителност</string>
+  <string name="user_agreement">Потребителското споразумение и Политиката на поверителност</string>
   <string name="visit_micom">Официален сайт на Xiaomi</string>
   <string name="wait">Моля, изчакайте...</string>
   <string name="walked">извървяни</string>
-  <string name="wear_hand">За китката</string>
+  <string name="wear_hand">Китка</string>
   <string name="weared_days">Общо дни</string>
   <string name="weather_aqi">Качество на въздуха %s</string>
   <string name="weather_description_cloudy">Облачно,</string>
