@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_font_size_small">14.0sp</dimen>
+    <dimen name="text_font_size_tiny">13.0sp</dimen>
+    <dimen name="message_body_text_font_size">30.0px</dimen>
+</resources>
