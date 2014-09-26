@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Домашен</item>
+        <item>Служебен</item>
+        <item>Друг</item>
+        <item>По избор</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Работа</item>
+        <item>Друго</item>
+        <item>По избор</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Домашен</item>
+        <item>Мобилен</item>
+        <item>Служебен</item>
+        <item>Служебен факс</item>
+        <item>Домашен факс</item>
+        <item>Пейджър</item>
+        <item>Друг</item>
+        <item>По избор</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Домашен</item>
+        <item>Служебен</item>
+        <item>Друг</item>
+        <item>По избор</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Домашен</item>
+        <item>Служебен</item>
+        <item>Друг</item>
+        <item>По избор</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Вибриране</item>
+        <item>Четене на контактите</item>
+        <item>Промяна на контактите</item>
+        <item>Четене на списъка с обажданията</item>
+        <item>Промяна на списъка с обажданията</item>
+        <item>Четене на календара</item>
+        <item>Промяна на календара</item>
+        <item>Местоположение</item>
+        <item>Публикуване на известие</item>
+        <item>Местоположение</item>
+        <item>Обаждане по телефона</item>
+        <item>Четене на SMS/MMS</item>
+        <item>Писане на SMS/MMS</item>
+        <item>Получаване на SMS/MMS</item>
+        <item>Получаване на SMS/MMS</item>
+        <item>Получаване на SMS/MMS</item>
+        <item>Получаване на SMS/MMS</item>
+        <item>Изпращане на SMS/MMS</item>
+        <item>Четене на SMS/MMS</item>
+        <item>Писане на SMS/MMS</item>
+        <item>Промяна на настройките</item>
+        <item>Рисуване върху елемент</item>
+        <item>Достъп до известията</item>
+        <item>Камера</item>
+        <item>Запис на звук</item>
+        <item>Възпроизвеждане на звук</item>
+        <item>Четене на буферната памет</item>
+        <item>Промяна на буферната памет</item>
+        <item>Бутони за мултимедия</item>
+        <item>Фокусиране на звука</item>
+        <item>Основна сила на звука</item>
+        <item>Сила на звука за глас</item>
+        <item>Сила на звука при звънене</item>
+        <item>Сила на звука за мултимедия</item>
+        <item>Сила на звука на будилника</item>
+        <item>Сила на звука при известие</item>
+        <item>Сила на звука за Bluetooth</item>
+        <item>Оставяне в будно състояние</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Вкл./изкл. на Wi-Fi</item>
+        <item>Вкл./изкл. на Bluetooth</item>
+        <item>Вкл./изкл. на мобилните данни</item>
+        <item>Изпращане на MMS</item>
+        <item>Четене на MMS</item>
+        <item>Писане на MMS</item>
+        <item>Автоматично стартиране</item>
+    </string-array>
+</resources>

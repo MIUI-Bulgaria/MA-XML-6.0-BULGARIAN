@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="toast_channel_searched">
+        <item quantity="other">Сканирани: %1$d станции</item>
+        <item quantity="zero">Сканирани: %1$d станции</item>
+        <item quantity="one">Сканирана е 1 станция</item>
+        <item quantity="two">Сканирани: %1$d станции</item>
+        <item quantity="few">Сканирани: %1$d станции</item>
+        <item quantity="many">Сканирани: %1$d станции</item>
+    </plurals>
+</resources>
