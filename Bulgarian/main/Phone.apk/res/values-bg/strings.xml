@@ -36,7 +36,7 @@
   <string name="answer_features_setting_category_miui">Настройки на отговор</string>
   <string name="answer_miui">Отговор</string>
   <string name="answer_state_setting_summary">Настройки за заглушаване, сензор за близост и др.</string>
-  <string name="answer_state_setting_title">Настройки на статуса за входящи обаждания</string>
+  <string name="answer_state_setting_title">Настройки на входящите обаждания</string>
   <string name="answer_widget_dialog_title_miui">Избор на жест за приемане на разговор</string>
   <string name="answer_widget_sliding_horizontal_miui">Хоризонтално плъзване</string>
   <string name="answer_widget_sliding_vertical_miui">Вертикално плъзване</string>

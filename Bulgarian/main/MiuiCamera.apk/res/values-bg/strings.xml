@@ -195,7 +195,7 @@
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Авто</string>
   <string name="pref_camera_antibanding_title">Намаляване лентите на екрана</string>
-  <string name="pref_camera_audio_capture_title">"Звук=Снимка"</string>
+  <string name="pref_camera_audio_capture_title">Звуково акт.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Авто-заснемане след стабилизиране</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma светкавица</string>
   <string name="pref_camera_auto_focus_title_entry_off">Изкл.</string>

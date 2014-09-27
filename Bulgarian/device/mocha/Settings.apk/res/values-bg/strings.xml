@@ -345,7 +345,7 @@
   <string name="bluetooth_device_context_unpair">Раздвояване</string>
   <string name="bluetooth_device_details">Настройки на устройството</string>
   <string name="bluetooth_device_name">Име на устройство</string>
-  <string name="bluetooth_device_searchable">Видими устройства</string>
+  <string name="bluetooth_device_searchable">Видимо устройство</string>
   <string name="bluetooth_devices">Bluetooth устройства</string>
   <string name="bluetooth_disable_profile_message">Това ще деактивира:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>От:&lt;br>&lt;b>%2$s&lt;/b></string>
   <string name="bluetooth_disable_profile_title">Да се деактивира ли потребит. профил?</string>
@@ -875,7 +875,7 @@
   <string name="enable_drive_mode">Активирай режим Шофиране</string>
   <string name="enable_opengl_traces_title">Трасирания на OpenGL: Акт.</string>
   <string name="enable_service_title">Да се използва ли %1$s?</string>
-  <string name="enable_snapshot_screenlock">Вкл. камера с дълго натискане на бутон Назад</string>
+  <string name="enable_snapshot_screenlock">Снимане с дълго натискане на Назад</string>
   <string name="enable_terminal_summary">Актив. на прил. за терминал с достъп до локалния команден ред</string>
   <string name="enable_terminal_title">Локален терминал</string>
   <string name="enable_text">Активиране</string>
@@ -1158,8 +1158,8 @@
   <string name="location_title">Моето местоположение</string>
   <string name="lock_after_timeout">Автоматично заключване</string>
   <string name="lock_after_timeout_summary">%1$s след спящ режим</string>
-  <string name="lock_screen_unlock_show">Показвай екран за въвеждане на парола</string>
-  <string name="lock_screen_unlock_show_summary">"Не използвайте друго заключване на екрана"</string>
+  <string name="lock_screen_unlock_show">Пропусни екрана за плъзване</string>
+  <string name="lock_screen_unlock_show_summary">Отиди директно на началния екран или екрана за въвеждане на парола</string>
   <string name="lock_settings_common_title">Настройки за заключване</string>
   <string name="lock_settings_picker_settings">Заключване на екрана</string>
   <string name="lock_settings_picker_title">Закл. на екрана: Избор</string>
@@ -1264,7 +1264,7 @@
   <string name="master_clear_gesture_prompt">Начертайте фигурата си за отключване</string>
   <string name="master_clear_personal_data">"Сигурни ли сте, че искате да изтриете вашите лични данни? Внимание: тази операция е необратима."</string>
   <string name="master_clear_personal_data_application">"Сигурни ли сте, че искате да изтриете вашите лични данни и инсталирани приложения? Внимание: тази операция е необратима."</string>
-  <string name="master_clear_personal_data_sdcard">"Сигурни ли сте, че искате да изтриете вашите лични данни и да форматирате SD картата? Внимание: тази операция е необратима."</string>
+  <string name="master_clear_personal_data_sdcard">"Да се изтрият ли вашите лични данни и съдържание? Внимание: тази операция е необратима."</string>
   <string name="master_clear_summary">Изтрива всички данни на устройството</string>
   <string name="master_clear_title">Възстановяване на фабричните настройки</string>
   <string name="media_button">Медиен бутон</string>
@@ -1281,7 +1281,7 @@
   <string name="media_volume_title">Медия</string>
   <string name="medium_font">Среден</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Приложения (данни за приложения и медийно съдърж.)</string>
+  <string name="memory_apps_usage">Приложения (данни и медийно съдърж.)</string>
   <string name="memory_available">На разположение</string>
   <string name="memory_available_read_only">Налице (само за четене)</string>
   <string name="memory_calculating_size">Изчислява се...</string>
@@ -1292,9 +1292,9 @@
   <string name="memory_media_cache_usage">Кеширани данни</string>
   <string name="memory_media_misc_usage">Разни</string>
   <string name="memory_media_usage">Носители</string>
-  <string name="memory_music_usage">Аудио (музика, мелодии, подкаст емисии и др.)</string>
+  <string name="memory_music_usage">Аудио (музика, мелодии, подкасти и др.)</string>
   <string name="memory_size">Общо място</string>
-  <string name="memory_title">На разположение: %1$s\u0009\u0009Общо: %2$s</string>
+  <string name="memory_title">Свободни: %1$s\u0009\u0009Общо: %2$s</string>
   <string name="menu_cancel">Отхвърляне</string>
   <string name="menu_delete">Изтриване на името на точката за достъп (APN)</string>
   <string name="menu_duration_12h">12 часа</string>
@@ -1303,13 +1303,13 @@
   <string name="menu_duration_6h">6 часа</string>
   <string name="menu_item_show_more">Покажи повече</string>
   <string name="menu_key">Бутон Меню</string>
-  <string name="menu_new">Ново име на точка за достъп (APN)</string>
+  <string name="menu_new">Нова APN</string>
   <string name="menu_proc_stats_duration">Продължителност</string>
   <string name="menu_proc_stats_type">Тип статистически данни</string>
   <string name="menu_proc_stats_type_background">Заден план</string>
   <string name="menu_proc_stats_type_cached">Кеширани</string>
   <string name="menu_proc_stats_type_foreground">Преден план</string>
-  <string name="menu_restore">Възстановяване на стандартни</string>
+  <string name="menu_restore">Стандартни настройки</string>
   <string name="menu_save">Запазване</string>
   <string name="menu_show_system">Показване на системните процеси</string>
   <string name="menu_stats_last_unplugged">При последното изключване за %1$s</string>
@@ -1800,7 +1800,7 @@
   <string name="screen_key_long_press_action">Функция на бутоните</string>
   <string name="screen_key_long_press_timeout">Време на задържане</string>
   <string name="screen_never_timeout_title">Никога</string>
-  <string name="screen_on_proximity_sensor_summary">Предотвратете случайната употреба, докато телефона Ви е в джоба (според сензора за близост).</string>
+  <string name="screen_on_proximity_sensor_summary">Заключване на таблета, когато е поставен в калъфче или чанта</string>
   <string name="screen_on_proximity_sensor_title">Избягване на случайна употреба</string>
   <string name="screen_saturation">Наситеност на цветовете</string>
   <string name="screen_timeout">Спящ режим</string>

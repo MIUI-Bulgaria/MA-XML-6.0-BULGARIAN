@@ -337,7 +337,7 @@
   <string name="power_center_auto_shutdown">Превключвател</string>
   <string name="power_center_auto_shutdown_summary">Време за изключване или включване</string>
   <string name="power_center_battery_full">Батерията е напълно заредена</string>
-  <string name="power_center_charge_time">Зареждането ще завърши след %1$s</string>
+  <string name="power_center_charge_time">Ще се зареди след %1$s</string>
   <string name="power_center_consume_rank">Консумация</string>
   <string name="power_center_consume_time">Остават %1$s</string>
   <string name="power_center_custom_summary_default">Оптимизиране на настройките за икономия на батерията</string>

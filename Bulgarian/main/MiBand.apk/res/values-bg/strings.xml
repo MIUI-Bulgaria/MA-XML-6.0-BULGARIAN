@@ -78,7 +78,7 @@ then tap Follow to complete sync."</string>
   <string name="clock_closed">Изкл.</string>
   <string name="cm">см</string>
   <string name="come_from_xiaomi_bracelet">От Mi Phone</string>
-  <string name="confirm">Потвърди</string>
+  <string name="confirm">ОК</string>
   <string name="congrats">Поздравления!</string>
   <string name="connect_bracelet_now">Свързва се...</string>
   <string name="content_too_short">Липсва съдържание.</string>
@@ -86,7 +86,7 @@ then tap Follow to complete sync."</string>
   <string name="continue_reach_goal_new_record">Поставете нов рекорд</string>
   <string name="continue_tips_format">Най-доброто ви постижение е постигането на целта за %1$s дни.</string>
   <string name="daily_sporty">Крачки на ден</string>
-  <string name="date_from_to">%1$s до %2$s</string>
+  <string name="date_from_to">от %1$s до %2$s</string>
   <string name="date_from_to_short">%1$s-%2$s</string>
   <string name="date_last_month">Последният месец</string>
   <string name="date_last_week">Последната седмица</string>
@@ -105,7 +105,7 @@ then tap Follow to complete sync."</string>
   <string name="day_active_detail">Дневни статистики</string>
   <string name="description_list_icon">Икона</string>
   <string name="device_list">Гривни Mi Band наоколо</string>
-  <string name="device_not_found_not_knocked">Потърсете отново след като докоснете веднъж Mi Band once и тя премига.</string>
+  <string name="device_not_found_not_knocked">Потърсете отново след като докоснете веднъж Mi Band и тя премига.</string>
   <string name="device_not_response">Защо моята Mi Band не премигва?</string>
   <string name="disable_debug_log">Режим отстр. на грешки е изключен!</string>
   <string name="discard">Отмени</string>
@@ -122,7 +122,7 @@ then tap Follow to complete sync."</string>
   <string name="dynamic_detail_step_title">%s</string>
   <string name="dynamic_detail_step_title_today">Днес</string>
   <string name="dynamic_pull_connect_failed">Неуспешно свързване, дръпнете за нов опит.</string>
-  <string name="dynamic_pull_connect_failed_hint">Уверете се, че вашата Mi Band има достатъчно енергия.</string>
+  <string name="dynamic_pull_connect_failed_hint">Уверете се, че вашата Mi Band има достатъчно батерия.</string>
   <string name="dynamic_pull_connecting_bracelet">Свързване към Mi Band...</string>
   <string name="dynamic_pull_last_sync_time">Последна синхр. %s</string>
   <string name="dynamic_pull_not_sync_today">Днес не е синхр.</string>
@@ -146,7 +146,7 @@ then tap Follow to complete sync."</string>
   <string name="dynamic_tip_step_sync_time_min">преди %d мин.</string>
   <string name="dynamic_tip_step_unsynced">Не е обновено</string>
   <string name="dynamic_tip_sync_progress">Синхронизира се %d%%</string>
-  <string name="dynamic_tip_sync_time">%s синхр.</string>
+  <string name="dynamic_tip_sync_time">синхр. %s</string>
   <string name="dynamic_tip_unweared">Не е активирано</string>
   <string name="dynamic_title_sleep">Последната нощ</string>
   <string name="dynamic_title_step">Днес</string>
@@ -219,7 +219,7 @@ then tap Follow to complete sync."</string>
   <string name="hour_1"/>
   <string name="in">В </string>
   <string name="incoming_call_notify">Входящо повикване</string>
-  <string name="incoming_call_notify_tips">Известие за проп. обаждане след %s сек.</string>
+  <string name="incoming_call_notify_tips">Известие при вх. обаждане след %s-та секунда</string>
   <string name="input_precise_person_info">Моля, въведете вашите лични данни. Повечето данни ще помогне да получите по-точни резултати.</string>
   <string name="instruction_tip_1">"Вижте 
 как върви тренировката
@@ -423,7 +423,7 @@ then tap Follow to complete sync."</string>
   <string name="smart_alarm_clock">Будилник</string>
   <string name="smart_alarm_notify">Интелигентен будилник</string>
   <string name="smart_wake_up">Предупреждение</string>
-  <string name="smart_wake_up_info">"Моля, събуди ме 30 минути преди зададеното време. 
+  <string name="smart_wake_up_info">"Събуди ме 30 минути преди зададеното време. 
 Бих искал да стана, когато тялото ми е будно."</string>
   <string name="start">Старт</string>
   <string name="start_download">Изтегля се на заден план...</string>

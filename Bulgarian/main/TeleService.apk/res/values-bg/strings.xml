@@ -29,7 +29,7 @@
   <string name="always_enable_mms_summary">Получавай MMS винаги, дори когато данните са изключени</string>
   <string name="answer_features_setting_category">Настройки на отговор</string>
   <string name="answer_state_setting_summary">Настройки за заглушаване, сензор за близост и др.</string>
-  <string name="answer_state_setting_title">Настройки на статуса за входящи обаждания</string>
+  <string name="answer_state_setting_title">Настройки на входящите обаждания</string>
   <string name="antispam_notification_title">Неизвестен</string>
   <string name="apn_settings">Имена на точки за достъп</string>
   <string name="atr_disable">Отчетите за трафик в района са деактивирани</string>
@@ -850,4 +850,5 @@
   <string name="xdivert_title">X-Divert</string>
   <string name="msim_set_icc_card_error">Грешка на ICC картата</string>
   <string name="cfnrc_title_cta">Пренасочване, когато сте недостъпен</string>
+  <string name="general_setting">Настройки</string>
 </resources>
