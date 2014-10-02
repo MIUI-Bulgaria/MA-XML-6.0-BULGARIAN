@@ -765,9 +765,9 @@
   <string name="sum_xdivert_disabled">X-Divert е изкл.</string>
   <string name="sum_xdivert_enabled">X-Divert е вкл.</string>
   <string name="summary_manage_subscriptions">Управлява мрежовите настройки на всяка SIM карта</string>
-  <string name="t9_indexing_method_pinyin">Азбучно</string>
+  <string name="t9_indexing_method_pinyin">Латиница</string>
   <string name="t9_indexing_method_title">T9 търсене</string>
-  <string name="t9_indexing_method_zhuyin">Фонетично</string>
+  <string name="t9_indexing_method_zhuyin">Кирилица</string>
   <string name="t9_indexing_rebuilding_message">Обновяване на Т9 индексите...</string>
   <string name="technology_news_disable">Технологичните новини са деактивирани</string>
   <string name="technology_news_enable">Технологичните новини са активирани</string>
