@@ -13,8 +13,8 @@
   <string name="other_settings_location">Местоположение</string>
   <string name="other_settings_location_summary">Позволява приложенията да определят точното ви местоположение</string>
   <string name="other_settings_user_experience">Потребителски отзиви</string>
-  <string name="other_settings_user_experience_summary">"Помогнете ни да подобрим MIUI чрез изпращане на анонимни потребителски данни. "</string>
-  <string name="other_settings_user_experience_summary1">(Политика на поверителност)</string>
+  <string name="other_settings_user_experience_summary">Помогнете ни да подобрим MIUI чрез изпращане на анонимни потребителски данни (%s)</string>
+  <string name="other_settings_user_experience_summary1">Политика на поверителност</string>
   <string name="pref_title_data_slot">Предпочитана SIM карта за данни</string>
   <string name="pref_title_voice_slot">Предпочитана SIM карта за глас</string>
   <string name="shut_down">Изключване</string>

@@ -172,4 +172,7 @@
   <string name="update_happy">Щастлив</string>
   <string name="update_sad">Тъжен</string>
   <string name="worst_update">Най-лоша актуализация</string>
+  <string name="button_text_reboot_hm">След рестарт</string>
+  <string name="update_downfull_no_info_sum">Неуспешно изтегляне, проверете отново за нова версия.</string>
+  <string name="update_downfull_no_info_title">Неуспешно изтегляне</string>
 </resources>

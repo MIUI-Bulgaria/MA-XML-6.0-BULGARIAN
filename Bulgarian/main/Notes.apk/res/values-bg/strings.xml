@@ -101,4 +101,5 @@
   <string name="widget_content_loading">Зарежда се…</string>
   <string name="widget_havenot_content">Няма бележки, натиснете тук за създаване.</string>
   <string name="widget_under_visit_mode">Защитен режим，не може да видите съдържанието</string>
+  <string name="toast_note_privacy_mode">Не можете да създавате бележки в Защитен режим</string>
 </resources>

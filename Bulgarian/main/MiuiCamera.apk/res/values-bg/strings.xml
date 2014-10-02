@@ -540,4 +540,8 @@
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Преди да се свържете, убедете се в безопасността на Wi-Fi мрежата</string>
   <string name="accessibility_panorama_review_cancel">Отмяна на запазването на панорамата</string>
+  <string name="pref_camera_manual_mode_title">Ръчен</string>
+  <string name="pref_qc_focus_position_title">Фокусиране</string>
+  <string name="simple_mode_button_text_manual">Спри ръчен режим</string>
+  <string name="simple_mode_button_text_manual_mode">Спри ръчен</string>
 </resources>

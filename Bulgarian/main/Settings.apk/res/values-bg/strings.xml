@@ -2862,4 +2862,11 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="free_wifi_user_agreement">Когато използвате WiWide за да се свържете към мрежата, телефонният ви номер ще бъде използван за удостоверяване.</string>
   <string name="free_wifi_user_agreement_allow">Приемам</string>
   <string name="free_wifi_user_agreement_title">Условия за ползване</string>
+  <string name="screen_key_press">Натискане на бутоните</string>
+  <string name="screen_key_press_action">Стартиране на действие</string>
+  <string name="status_sim">Състояние на SIM</string>
+  <string name="status_sim_1">SIM1</string>
+  <string name="status_sim_2">SIM2</string>
+  <string name="status_summary">Чукнете за подробности</string>
+  <string name="wifi_subnet_mask">Subnet mask</string>
 </resources>

@@ -249,4 +249,7 @@
   <string name="qq">QQ</string>
   <string name="unbind_sns_description">След като прекратите обвързването, няма да можете да влизате в Mi профила си чрез %s</string>
   <string name="unbind_weibo_description">След като прекратите обвързването, няма да синхронизирате контактите си и също няма да можете да влизате в Mi профила си чрез Sina Weibo</string>
+  <string name="failed_get_mibi_info">Неуспешно получаване на баланса ви</string>
+  <string name="hide_mibi_info">Информацията за MiКредити бе скрита</string>
+  <string name="mibi_balance">%s MiКредити</string>
 </resources>

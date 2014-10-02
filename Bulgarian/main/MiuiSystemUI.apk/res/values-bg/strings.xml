@@ -156,7 +156,8 @@ d MMMM yyyy"</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Няма скорошни приложения</string>
   <string name="status_bar_notification_inspect_item_title">За приложението</string>
-  <string name="status_bar_recent_guide_all">Плъзнете нагоре за затваряне, а надолу за заключване</string>
+  <string name="status_bar_recent_guide_all">"Плъзнете нагоре за затваряне
+Плъзнете надолу за заключване"</string>
   <string name="status_bar_recent_guide_bottom">Плъзнете надолу за заключване</string>
   <string name="status_bar_recent_guide_top">Плъзнете нагоре за да затваряне</string>
   <string name="status_bar_recent_inspect_item_title">За приложението</string>
@@ -235,4 +236,5 @@ d MMMM yyyy"</string>
   <string name="user_guide_for_notification">Ново известие，плъзнете надолу за да видите повече информация.</string>
   <string name="user_guide_for_toggle">Списъкът с превключвателите може да бъде преглеждан и хоризонтално</string>
   <string name="user_guide_for_toggle_list">Управление на превключвателите</string>
+  <string name="hint_for_long_press_app_switch_key">Дълго натискане за показване на меню</string>
 </resources>

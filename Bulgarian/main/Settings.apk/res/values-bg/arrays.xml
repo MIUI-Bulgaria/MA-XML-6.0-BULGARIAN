@@ -568,5 +568,8 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
-
+    <string-array name="screen_key_press_action">
+        <item>Покажи последни приложения</item>
+        <item>Покажи меню</item>
+    </string-array>
 </resources>

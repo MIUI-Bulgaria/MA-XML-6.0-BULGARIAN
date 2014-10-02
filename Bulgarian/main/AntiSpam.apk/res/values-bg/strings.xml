@@ -266,4 +266,9 @@
   <string name="user_define_title">Добавяне на правила</string>
   <string name="whitelist_prefix_add_hint">Добавя всички номера с префикса към изключенията</string>
   <string name="wl_no_whitelist">Няма изключения</string>
+  <string name="dlg_antispam_mode_delete_message">"Не можете да възстановявате потр. правила за блокиране след като са били изтрити."</string>
+  <string name="dlg_antispam_mode_delete_title">Изтриване на потр. правила</string>
+  <string name="dlg_antispam_using_mode_delete_message">"Да се изтрие ли профила за блокиране, който се използва в момента и да се премине към стандартния профил за блокиране? Не можете да отмените това действие!"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"Да се изтрие ли профила за блокиране, който се използва в момента и да се премине към стандартния профил за блокиране? Не можете да отмените това действие!"</string>
+  <string name="info_antispam_current_mode">%s</string>
 </resources>

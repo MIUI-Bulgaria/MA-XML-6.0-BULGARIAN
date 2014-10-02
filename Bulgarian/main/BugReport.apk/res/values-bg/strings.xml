@@ -82,4 +82,10 @@
   <string name="wlan_unavailable_dialog_button_sent">Изпращане</string>
   <string name="wlan_unavailable_dialog_content">Изпращането на този отзив ще използва %s от вашите мобилни данни. Можете да го изпратите сега или да изчакате за свързване с Wi-Fi.</string>
   <string name="wlan_unavailable_dialog_title">Трафик на данни</string>
+  <string name="cta_cancel">Отказ</string>
+  <string name="cta_confirm">ОК</string>
+  <string name="cta_dialog_content">Отзиви може да се свързва към интернет, за да предоставя услугите си. Ще продължите ли?</string>
+  <string name="cta_dialog_title">Известие за свързване</string>
+  <string name="cta_not_show_again">Не показвай отново</string>
+  <string name="toast_feedback_network_unavailable">Мрежата е недостъпна</string>
 </resources>

@@ -163,4 +163,28 @@
   <string name="wifi_disconnected">Няма Wi-Fi</string>
   <string name="wifi_sync">Изчаква за Wi-Fi</string>
   <string name="header_other_settings">Други</string>
+  <string name="find_device_dspt_provision">"Ако загубите устройството си, можете да отидете на "</string>
+  <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="find_device_dspt_provision_3">" за да го намерите, заключите или нулирате.
+
+По всяко време можете да включите или изключите услугата от Настройки."</string>
+  <string name="find_device_send_sms_alert">Когато смените SIM картата, е необходимо да бъде изпратено ново регистрационно SMS съобщение.</string>
+  <string name="license_host_unreachable">"Не можа да се свърже с мрежата. За да видите информацията, отидете на %s."</string>
+  <string name="loading">Зарежда се…</string>
+  <string name="mx_dspt">Облачно съобщение</string>
+  <string name="mx_dspt_provision">"Облачните съобщения ви позволяват да изпращате съобщения до други потребители на MIUI, без да се начислява такса от вашия оператор за това.
+
+По всяко време можете да включите или изключите услугата от Настройки."</string>
+  <string name="mx_sub_dspt_provision">Облачно съобщение</string>
+  <string name="privacy_policy">Правила за поверителност</string>
+  <string name="sync_dspt_provision">"Mi Cloud синхронизира снимките, SMS, бележки и др. между всичките ваши Mi устройства. Също така те са достъпни за вас от всеки браузър на "</string>
+  <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision3">".
+
+По всяко време можете да включите или изключите услугата от Настройки.
+"</string>
+  <string name="user_agreement">Потребителско споразумение</string>
+  <string name="user_agreement_p6">"Използването на тази функция е предмет на "</string>
+  <string name="user_agreement_p7">"Условията за ползване на Mi Cloud"</string>
+  <string name="user_agreement_p8">.</string>
 </resources>
