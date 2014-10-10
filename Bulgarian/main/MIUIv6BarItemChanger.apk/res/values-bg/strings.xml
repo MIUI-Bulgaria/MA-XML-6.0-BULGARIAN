@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+
+<resources>
+  <string name="about_license">Използвате на ваш собствен риск!</string>
+  <string name="about_name">MIUIv6 Toggles Arrange 1.1</string>
+  <string name="about_text1">Автор:</string>
+  <string name="about_text2">don11995</string>
+  <string name="about_text3">Идея:</string>
+  <string name="about_text4">stas2z</string>
+  <string name="about_text5">Икони:</string>
+  <string name="about_text6">DriffeX</string>
+  <string name="app_name">MIUIv6 Toggles Arrange</string>
+  <string name="data_access">Достъп</string>
+  <string name="data_airplane">Самолет</string>
+  <string name="data_autolight">Авт. яркост</string>
+  <string name="data_block">Заключи</string>
+  <string name="data_bluetooth">Bluetooth</string>
+  <string name="data_buttons">Бутони</string>
+  <string name="data_gps">GPS</string>
+  <string name="data_guest">Защ. режим</string>
+  <string name="data_light">Фенерче</string>
+  <string name="data_mobile">Данни</string>
+  <string name="data_rotate">Ротация</string>
+  <string name="data_screenshot">Екр. снимка</string>
+  <string name="data_silent">Тих режим</string>
+  <string name="data_sound">Без звук</string>
+  <string name="data_speed">Производителност</string>
+  <string name="data_sync">Синхр.</string>
+  <string name="data_vibration">Вибрация</string>
+  <string name="data_wifi">Wi-Fi</string>
+  <string name="data_wifispot">Wi-Fi AP</string>
+  <string name="err_get_data">Грешка при четене на базата данни</string>
+  <string name="err_init_settings">Грешка при получаване на текущата настройка</string>
+  <string name="err_reset">Грешка при нулиране на настройките</string>
+  <string name="err_saving">Грешка при запазване на настройките</string>
+  <string name="howtouse_text">"1. Използвайте функцията, за да подредите превкл. в желания от вас ред.
+2. Натиснете бутонът \"Запази\".
+3. Готово!"</string>
+  <string name="howtouse_text1">Бутонът \"Нулиране\" ще възстанови стндартната подредба на превключвателите.</string>
+  <string name="main_header">Подредете както желаете вашите превключватели</string>
+  <string name="main_menu_about">За програмата</string>
+  <string name="main_menu_howtouse">Ръководство</string>
+  <string name="main_reset_button">Нулиране</string>
+  <string name="main_save_button">Запази</string>
+  <string name="main_settings_question">Наистина ли искате да нулирате вашите настройки?</string>
+  <string name="main_settings_question_no">Не</string>
+  <string name="main_settings_question_yes">Да</string>
+  <string name="main_settings_saved">Настройките са запазени</string>
+</resources>

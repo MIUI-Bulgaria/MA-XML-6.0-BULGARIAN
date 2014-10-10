@@ -572,4 +572,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Покажи последни приложения</item>
         <item>Покажи меню</item>
     </string-array>
+    <string-array name="tts_rate_xunfei_entries">
+        <item>Много бавна</item>
+        <item>Бавна</item>
+        <item>Нормална</item>
+        <item>Бърза</item>
+        <item>Най-бърза</item>
+    </string-array>
 </resources>

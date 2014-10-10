@@ -187,4 +187,6 @@
   <string name="user_agreement_p6">"Използването на тази функция е предмет на "</string>
   <string name="user_agreement_p7">"Условията за ползване на Mi Cloud"</string>
   <string name="user_agreement_p8">.</string>
+  <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
+  <string name="sync_dspt_provision2_int">mi.com/micloud</string>
 </resources>

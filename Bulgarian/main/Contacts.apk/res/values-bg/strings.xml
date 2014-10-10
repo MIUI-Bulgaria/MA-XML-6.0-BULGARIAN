@@ -95,7 +95,7 @@
   <string name="callrecordview_item_op_time_missed">Няма връзка</string>
   <string name="callrecordview_item_op_time_only_minutes">%d мин.</string>
   <string name="callrecordview_item_op_time_only_seconds">%d сек.</string>
-  <string name="callrecordview_item_op_time_rejected">Отхвърлени</string>
+  <string name="callrecordview_item_op_time_rejected">Отхвърлен</string>
   <string name="callrecordview_item_op_time_short_incoming">"Входящи: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Изходящи: "</string>
   <string name="callrecordview_menu_add_call_note">Добави бележка</string>
