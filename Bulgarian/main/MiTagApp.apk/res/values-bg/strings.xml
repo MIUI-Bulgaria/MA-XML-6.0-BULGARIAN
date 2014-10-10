@@ -196,16 +196,17 @@
   <string name="xiaomi_update_dialog_message_diff">"Нова версия %1$s
 Размер: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Актуализация на %1$s!</string>
-  <string name="err_tag_protected">This tag is password protected. Please enter the correct password.</string>
-  <string name="err_tag_read_only">"You can't write to this tag"</string>
-  <string name="failed_to_erase">Failed to erase the tag</string>
-  <string name="failed_to_write">Failed to write the tag</string>
+  <string name="err_tag_protected">Маркерът е защитен с парола. Моля, въведете правилната парола.</string>
+  <string name="err_tag_read_only">Не можете да записвате върху този маркер</string>
+  <string name="failed_to_erase">Неуспешно изтриване на маркера</string>
+  <string name="failed_to_write">Неуспешно записване на маркера</string>
   <string name="hint_input_web_url">URL</string>
   <string name="percent">%s%%</string>
-  <string name="play_music_desc">Play or pause music</string>
-  <string name="play_song">Play a song</string>
-  <string name="pwd_alert">Set a password now</string>
+  <string name="play_music_desc">Възпроизвеждане или пауза на музика</string>
+  <string name="play_song">Пускане на песен</string>
+  <string name="pwd_alert">Задаване на парола сега</string>
   <string name="web_url">URL</string>
-  <string name="writing">Writing…</string>
-  <string name="err_parse_external_data">This file type is not supported</string>
+  <string name="writing">Записва се…</string>
+  <string name="err_parse_external_data">Този тип файлове не се поддържа</string>
+  <string name="erase_pon_pon_tile">Изтриване на маркер</string>
 </resources>

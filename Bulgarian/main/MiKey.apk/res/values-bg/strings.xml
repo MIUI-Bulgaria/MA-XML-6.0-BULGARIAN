@@ -242,4 +242,14 @@
   <string name="super_difficult_click">Затруднение при натискане</string>
   <string name="unsupport_content">Надградете до последната версия за разработчици на MIUI за да използвате тази функция.</string>
   <string name="unsupport_title">Функцията не се поддържа</string>
+  <string name="action_search">Търсене</string>
+  <string name="search_baidu_text">Baidu</string>
+  <string name="search_cancel_text">Отказ</string>
+  <string name="search_go_text">Текст</string>
+  <string name="search_iciba_text">Iciba</string>
+  <string name="search_select_title">Търсене на текст</string>
+  <string name="search_taobao_text">TaoBao</string>
+  <string name="setting_speed_max_time">1000</string>
+  <string name="setting_speed_middle_time">500мс</string>
+  <string name="setting_speed_min_time">0</string>
 </resources>

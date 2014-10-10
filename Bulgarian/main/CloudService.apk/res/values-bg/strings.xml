@@ -189,4 +189,5 @@
   <string name="user_agreement_p8">.</string>
   <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
   <string name="sync_dspt_provision2_int">mi.com/micloud</string>
+  <string name="view_storage_title">Преглед на мястото в облака</string>
 </resources>

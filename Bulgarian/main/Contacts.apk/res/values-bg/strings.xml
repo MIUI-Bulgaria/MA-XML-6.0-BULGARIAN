@@ -1111,4 +1111,5 @@
   <string name="qrcode_card_title">QR код карта</string>
   <string name="scan_qrcode_card_hint1">Сканирайте QR кода</string>
   <string name="scan_qrcode_card_hint2">Добавете моите данни към вашите контакти</string>
+  <string name="starred_yellowpage">Любими в указателя</string>
 </resources>

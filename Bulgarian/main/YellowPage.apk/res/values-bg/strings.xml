@@ -327,4 +327,6 @@
   <string name="user_notice_yp_detail_summary_format_cta">"Част от информацията в указателя ви е остаряла. Искате ли да я обновите? Натискайки \"Приемам\", вие приeмате %1$s и %2$s на Xiaomi."</string>
   <string name="voicemail">Гласова поща</string>
   <string name="yellow_page_website">Официална страница</string>
+  <string name="general_favorite_ok">Добавено към любими</string>
+  <string name="menu_save_contact">Запази номера към контакт</string>
 </resources>
