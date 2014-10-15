@@ -147,7 +147,7 @@ For more info check the message you received from your service provider"</string
   <string name="notification_title">%1$s-%2$s: около %3$s използвани</string>
   <string name="ok_button">OK</string>
   <string name="online_chat">Чат</string>
-  <string name="online_read">Четене</string>
+  <string name="online_read">Новини</string>
   <string name="online_songs">Музика</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>

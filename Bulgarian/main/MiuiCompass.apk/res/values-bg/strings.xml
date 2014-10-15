@@ -35,4 +35,9 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Налягане</string>
   <string name="pressure_unit">hPa</string>
+  <string name="location_enable">Активирай</string>
+  <string name="location_enable_later">Не сега</string>
+  <string name="location_enabled">Услугата е активирана, можете да я деактивирате от Настройки > Местоположение</string>
+  <string name="location_not_enabled_summary">Указател се нуждае от местоположението ви, за да работи правилно.</string>
+  <string name="location_not_enabled_title">Активиране на позиционирането</string>
 </resources>

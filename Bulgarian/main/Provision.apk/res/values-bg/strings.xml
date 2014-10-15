@@ -36,4 +36,11 @@
   <string name="terms_of_use">Условия за ползване</string>
   <string name="terms_of_use_label">Трябва да се съгласите с потребителското споразумение и правилата за поверителност преди да използвате MIUI</string>
   <string name="user_agreement">Потребителско споразумение</string>
+  <string name="locale_picker_desc">Ако в последствие промените местоположението си ще е необходимо да върнете устройството до фабричните му настройки.</string>
+  <string name="locale_picker_title">Изберете местоположение</string>
+  <string name="miui_privacy_policy_no_network">Няма връзка с интернет. Вижте правилата за поверителност на %s</string>
+  <string name="miui_terms_no_network">Няма връзка с интернет. Вижте условията за ползване на %s</string>
+  <string name="network_access_warning">Необходима е връзка с интернет за активиране на устройството</string>
+  <string name="setting_locale">Задава се местопол-е...</string>
+  <string name="terms_of_service">Условия за ползване</string>
 </resources>

@@ -190,4 +190,7 @@
   <string name="unit_piece">" елементи"</string>
   <string name="unknown_hint">Неизвестно</string>
   <string name="wifi_title">Настройки на Wi-Fi</string>
+  <string name="every_day">Всеки ден</string>
+  <string name="never">Никога</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

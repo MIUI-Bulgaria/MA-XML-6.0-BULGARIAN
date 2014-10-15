@@ -254,4 +254,5 @@
   <string name="mibi_balance">%s MiКредити</string>
   <string name="choose_which_one_sim">Изберете телефонен номер</string>
   <string name="sim_index_info">SIM карта %1$d - %2$s</string>
+  <string name="loading_micloud_sync_data">Зарежда се…</string>
 </resources>

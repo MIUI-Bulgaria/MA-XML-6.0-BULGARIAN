@@ -18,14 +18,14 @@
   <string name="data_bluetooth">Bluetooth</string>
   <string name="data_buttons">Бутони</string>
   <string name="data_gps">GPS</string>
-  <string name="data_guest">Защ. режим</string>
+  <string name="data_guest">Гост</string>
   <string name="data_light">Фенерче</string>
   <string name="data_mobile">Данни</string>
   <string name="data_rotate">Ротация</string>
   <string name="data_screenshot">Екр. снимка</string>
   <string name="data_silent">Тих режим</string>
   <string name="data_sound">Без звук</string>
-  <string name="data_speed">Производителност</string>
+  <string name="data_speed">Ен. режим</string>
   <string name="data_sync">Синхр.</string>
   <string name="data_vibration">Вибрация</string>
   <string name="data_wifi">Wi-Fi</string>

@@ -271,4 +271,21 @@
   <string name="dlg_antispam_using_mode_delete_message">"Да се изтрие ли профила за блокиране, който се използва в момента и да се премине към стандартния профил за блокиране? Не можете да отмените това действие!"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"Да се изтрие ли профила за блокиране, който се използва в момента и да се премине към стандартния профил за блокиране? Не можете да отмените това действие!"</string>
   <string name="info_antispam_current_mode">%s</string>
+  <string name="STRANGER_BLOCK">Черен списък</string>
+  <string name="button_to_setting">Настройки</string>
+  <string name="dlg_message_not_open_stranger_identify">Трябва да включите разпознаването на неизвестни номера от Телефон &gt; Настройки, за да можете да маркирате номера.</string>
+  <string name="dlg_title_not_open_stranger_identify">Включи разпознаване на неизвестни номера</string>
+  <string name="mark_agent">Търговски агент</string>
+  <string name="mark_agent_block">Маркиран като агент</string>
+  <string name="mark_express">Куриер</string>
+  <string name="mark_express_block">Маркиран като куриер</string>
+  <string name="mark_fraud">Измамник</string>
+  <string name="mark_fraud_block">Маркиран като измамник</string>
+  <string name="mark_meal">Разнос на храна</string>
+  <string name="mark_meal_block">Маркиран като разнос на храна</string>
+  <string name="mark_number_info">"
+Понякога тези обаждания могат да бъдат полезни (например когато си търсите квартира). Блокирайте само номерата, от които не искате да получавате обаждания."</string>
+  <string name="mark_sell">Телемаркетър</string>
+  <string name="mark_sell_block">Маркиран като телемаркетър</string>
+  <string name="st_title_markednumber_group">Маркирани номера</string>
 </resources>

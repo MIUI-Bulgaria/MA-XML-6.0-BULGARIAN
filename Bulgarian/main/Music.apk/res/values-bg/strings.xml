@@ -229,4 +229,5 @@
   <string name="vip_recommend_title">Музика с по-високо качество</string>
   <string name="priority_storage">Съхраняване на SD картата</string>
   <string name="priority_storage_summary">При поставена SD карта, автоматично записване на файловете на SD картата</string>
+  <string name="headset_settings">Настройки на слушалките</string>
 </resources>

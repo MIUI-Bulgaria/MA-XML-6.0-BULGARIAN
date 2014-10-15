@@ -172,14 +172,14 @@ d MMMM yyyy"</string>
   <string name="status_bar_style_settings">Настройка на статус лентата</string>
   <string name="status_bar_toggle_ac">Достъп</string>
   <string name="status_bar_toggle_auto_brightness">Авт. яркост</string>
-  <string name="status_bar_toggle_bluetooth">BT</string>
+  <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Яркост</string>
   <string name="status_bar_toggle_data">Данни</string>
   <string name="status_bar_toggle_divider">Още</string>
   <string name="status_bar_toggle_drive_mode">Шофиране</string>
   <string name="status_bar_toggle_flight_mode">Самолет</string>
   <string name="status_bar_toggle_gps">GPS</string>
-  <string name="status_bar_toggle_lock">Заключване</string>
+  <string name="status_bar_toggle_lock">Заключи</string>
   <string name="status_bar_toggle_mute">Без звук</string>
   <string name="status_bar_toggle_network_type">Мрежов режим</string>
   <string name="status_bar_toggle_power_mode">Ен. режим</string>

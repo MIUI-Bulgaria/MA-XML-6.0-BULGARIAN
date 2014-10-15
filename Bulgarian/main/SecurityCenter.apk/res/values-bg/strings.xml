@@ -596,4 +596,11 @@
   <string name="white_list_large_file_header">Големи файлове: %d</string>
   <string name="white_list_residual_header">Остатъци: %d</string>
   <string name="white_list_title">Изключения</string>
+  <string name="menu_item_app_permissions_control">Мениджър на разрешения</string>
+  <string name="menu_item_control_app_permissions">Искане на вашето позволение преди приложенията да четат контактите ви, преглеждат списъка ви с обаждания, променят настройките на системата, използват камерата и другите ресурси в устройството</string>
+  <string name="permission_close_permission_control_dialog_msg">"Когато мениджъра на разрешения е изключен, приложенията няма да искат вашето разрешение преди да четат контактите ви, преглеждат списъка ви с обаждания, променят настройките на системата, използват камерата и другите ресурси в устройството."</string>
+  <string name="permission_close_permission_control_dialog_title">Да се изключи ли мениджъра на разрешения?</string>
+  <string name="permission_permission_control_closed_desc_dialog_msg">"Приложенията няма да искат вашето разрешение преди да четат контактите ви, преглеждат списъка ви с обаждания, променят настройките на системата, използват камерата и другите ресурси в устройството. Може да включите функцията от Настойки на разрешенията."</string>
+  <string name="permission_permission_control_closed_desc_dialog_title">Мениджърът на разрешения е изкл.</string>
+  <string name="settings_title_permission">Настройки на разрешенията</string>
 </resources>

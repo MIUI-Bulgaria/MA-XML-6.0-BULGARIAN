@@ -519,4 +519,8 @@
   <string name="menu_yellowpage">Покажи %s</string>
   <string name="mx_on_sim_1">Облачни съобщения със SIM слот %s</string>
   <string name="mx_on_sim_2">Облачни съобщения със SIM слот %s</string>
+  <string name="menu_add_black">Блокирай</string>
+  <string name="menu_add_contact">Към контакт</string>
+  <string name="menu_mark">Маркирай</string>
+  <string name="menu_new_contact">Нов контакт</string>
 </resources>
