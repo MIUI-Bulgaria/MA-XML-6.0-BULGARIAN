@@ -69,4 +69,5 @@
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">℃</string>
   <string name="view_sun_titile">Изгрев и залез</string>
+  <string name="activity_weathermain_locationg_error">Неуспешно локализиране</string>
 </resources>

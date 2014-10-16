@@ -567,4 +567,6 @@
   <string name="impunity_declaration_settings">Показвай известие за свързване</string>
   <string name="impunity_declaration_summary">Показване на известие всеки път, когато стартирате приложението Галерия</string>
   <string name="impunity_declaration_title">Известие за свързване</string>
+  <string name="miui_wallpaper">Тапет</string>
+  <string name="wandoujia">SnapPea</string>
 </resources>

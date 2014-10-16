@@ -5,7 +5,7 @@
   <string name="access_token_expired_warning">Weibo профилът е с изтекъл срок: свържете го отново</string>
   <string name="access_token_invalid_warning">Weibo профилът е невалиден: свържете го отново</string>
   <string name="account">Профил</string>
-  <string name="account_bind_devices">Вписани устройства</string>
+  <string name="account_bind_devices">Устройства</string>
   <string name="account_bind_settings">Профили</string>
   <string name="account_dspt">Синхронизирайте и архивирайте вашите контакти, съобщения, снимки и бележки.</string>
   <string name="account_dspt_provision">Използване на един профил за всичките ни продукти.</string>
@@ -171,7 +171,7 @@
   <string name="quick_login_step2_title">Защитен вход</string>
   <string name="quick_login_title">Парола</string>
   <string name="re_get_verify_code">Изпрати кода отново</string>
-  <string name="re_register">Влезте отново</string>
+  <string name="re_register">Създаване на Mi профил</string>
   <string name="reg_by_email_failure">Неуспех при създаването на профила: %1$s</string>
   <string name="reg_failed">Регистрацията е неуспешна</string>
   <string name="reg_sms_send_prompt">Изпрати код за проверка на %s</string>
@@ -204,7 +204,7 @@
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Пропусни влизането</string>
   <string name="skip_login_u"><u>Пропусни</u></string>
-  <string name="skip_register">Пропусни вписването</string>
+  <string name="skip_register">Пропусни</string>
   <string name="skip_setup_account_msg">Може да настроите вашият профил по-късно от \"Настройки\".</string>
   <string name="skip_setup_account_title">Пропусни настройката на профила</string>
   <string name="sync_off">Изкл.</string>
@@ -236,7 +236,7 @@
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Някои елементи не са синхронизирани.</string>
   <string name="wrong_captcha">Captcha кодът, който сте въвели е грешен</string>
-  <string name="wrong_phone_number_format">Форматът на въведения телефонен номер е невалиден</string>
+  <string name="wrong_phone_number_format">Въведеният телефонен номер е невалиден</string>
   <string name="wrong_vcode">Грешен код</string>
   <string name="add_account">Добавяне на профил</string>
   <string name="bind_facebook">Добавяне на Facebook профил</string>
