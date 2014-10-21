@@ -95,7 +95,6 @@
   <string name="guide_install_app_msg">Приложението не е инсталирано. Искате ли да го потърсите в Google Play?</string>
   <string name="guide_install_app_title">Инсталиране на приложение</string>
   <string name="guide_tips_editing_mode">Задръжте пръст върху джаджата, докато я плъзгате към екрана</string>
-  <string name="home_indicator">bottom_point</string>
   <string name="install">Инсталиране</string>
   <string name="invalid_contact_shortcut">Невалиден пряк път</string>
   <string name="loading_desktop">Зареждане начален екран...</string>

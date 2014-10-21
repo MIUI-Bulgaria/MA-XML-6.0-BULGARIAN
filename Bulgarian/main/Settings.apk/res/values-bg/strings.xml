@@ -2126,7 +2126,6 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="strict_mode">Строг режим: Активиран</string>
   <string name="strict_mode_summary">Примигване на екрана при дълги операции в главната нишка</string>
   <string name="sum_carrier_select">Избиране на мрежов оператор</string>
-  <string name="summary_font_size">%1$s</string>
   <string name="supplicant_state_label">Състояние:</string>
   <string name="symbols_not_allowed_for_password">Паролата не може да съдържа символи</string>
   <string name="sync_active">Синхронизирането е активно</string>

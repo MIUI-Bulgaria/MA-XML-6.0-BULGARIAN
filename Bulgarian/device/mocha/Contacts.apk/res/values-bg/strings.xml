@@ -158,7 +158,6 @@
   <string name="composer_has_no_exportable_contact">Не са намерени контакти за експортиране. Възможно е експортирането на контакти от телефона да не се поддържа от доставчика Ви на данни.</string>
   <string name="composer_not_initialized">"Редактора на визитки не стартира правилно."</string>
   <string name="config_export_extensions_to_consider"/>
-  <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
   <string name="confirm_delete_contact_all_call_logs">"Сигурни ли сте, че искате да изтриете всички записи %s?"</string>

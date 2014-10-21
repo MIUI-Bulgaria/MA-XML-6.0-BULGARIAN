@@ -636,7 +636,6 @@
   <string name="voicemail_default">Моят оператор</string>
   <string name="voicemail_notification_ringtone_title">Мелодия</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Вибриране</string>
-  <string name="voicemail_notification_vibrate_when_default">никога</string>
   <string name="voicemail_notification_vibrate_when_title">Вибриране</string>
   <string name="voicemail_number_not_set">&lt;не е зададен></string>
   <string name="voicemail_provider">Услуга за гласова поща</string>

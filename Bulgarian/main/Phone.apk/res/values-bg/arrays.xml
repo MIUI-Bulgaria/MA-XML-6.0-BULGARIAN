@@ -14,31 +14,6 @@
         <item>Скриване на номера</item>
         <item>Номерът да се показва</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
-        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
-        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
-        <item>TD-SCDMA/WCDMA/LTE</item>
-        <item>TD-SCDMA/GSM/WCDMA</item>
-        <item>TD-SCDMA/GSM/LTE</item>
-        <item>TD-SCDMA/GSM</item>
-        <item>TD-SCDMA/LTE</item>
-        <item>TD-SCDMA/WCDMA</item>
-        <item>Само TD-SCDMA</item>
-        <item>LTE / WCDMA</item>
-        <item>LTE</item>
-        <item>Global</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>Само EvDo</item>
-        <item>CDMA без EvDo</item>
-        <item>Авт. CDMA/EvDo</item>
-        <item>Авт. GSM/WCDMA</item>
-        <item>Само WCDMA</item>
-        <item>Само GSM</item>
-        <item>Предпочита се GSM/WCDMA</item>
-    </string-array>
     <string-array name="list_language_entries">
         <item>английски</item>
         <item>френски</item>
