@@ -112,4 +112,5 @@ Please check your local date and try again."</string>
   <string name="mipay_sms_captcha_error">Please check your verification code</string>
   <string name="mipay_update_title">Mipay has update!</string>
   <string name="mipay_wallet_app_name">Bank cards</string>
+  <string name="mipay_bank_card_quick_pass_alert">You can copy numbers from bank cards that support Instapay, by touching the card to the back of your device</string>
 </resources>

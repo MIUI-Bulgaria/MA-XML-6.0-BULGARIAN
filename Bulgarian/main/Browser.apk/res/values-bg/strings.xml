@@ -74,7 +74,6 @@
   <string name="autologin_bar_text">Влезте като</string>
   <string name="back">Назад</string>
   <string name="block">Блокиране</string>
-  <string name="bookmark_URL_already_exisit">Вече сте добавили този URL</string>
   <string name="bookmark_add_group_text_header">Добавяне на избраните %1$d към групата</string>
   <string name="bookmark_add_to">Добави към</string>
   <string name="bookmark_cannot_save_url">"Този адрес не може да бъде добавен към отметки."</string>
@@ -722,4 +721,9 @@
   <string name="show_check_security_url_check_tip_dialog_description">URL адресът на тази страница ще бъде изпратен до сървърите на Xiaomi за проверка на неговата безопасност. Можете да изключите тази функция от Настройки по всяко време.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Проверка на сигурността на URL</string>
   <string name="quicklink_bookmark_save">Запази като:</string>
+  <string name="block_ads_choice_block">Блокирай</string>
+  <string name="block_ads_choice_continue">Продължи</string>
+  <string name="block_ads_message">Да се блокират ли съобщенията от тази страница?</string>
+  <string name="block_ads_title">Възможно наличие на реклами</string>
+  <string name="bookmark_url_already_exisit">Вече сте добавили този URL</string>
 </resources>

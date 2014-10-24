@@ -603,4 +603,16 @@
   <string name="permission_permission_control_closed_desc_dialog_msg">"Приложенията няма да искат вашето разрешение преди да четат контактите ви, преглеждат списъка ви с обаждания, променят настройките на системата, използват камерата и другите ресурси в устройството. Може да включите функцията от Настойки на разрешенията."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Мениджърът на разрешения е изкл.</string>
   <string name="settings_title_permission">Настройки на разрешенията</string>
+  <string name="button_antivirus">ОК</string>
+  <string name="button_optimizer">ОК</string>
+  <string name="header_antivirus">"Използвайки функцията, вие приемате зададените от Tencent "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;Правила и условия&lt;/a&gt;</string>
+  <string name="header_optimizer">"Използвайки функцията, вие приемате зададените от Clean Master "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;Правила и условия&lt;/a&gt;</string>
+  <string name="pref_summary_open_optimizer_cloud_scan">Изпращане и сравняване на непознати имена на файлове с онлайн дефинициите</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Изп. на онлайн база данни за почистване</string>
+  <string name="summary_antivirus">Изпращане на имена на прил. и сканиране чрез онлайн вирусни дефиниции</string>
+  <string name="summary_optimizer">Изпращане и сравняване на непознати имена на приложения с онлайн дефинициите</string>
+  <string name="text_antivirus">Изп. на онлайн вирусни дефиниции</string>
+  <string name="text_optimizer">Изп. на онлайн база данни за почистване</string>
+  <string name="title_antivirus">Антивирус</string>
+  <string name="title_optimizer">Почистване</string>
 </resources>

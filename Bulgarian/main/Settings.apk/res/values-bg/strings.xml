@@ -2870,4 +2870,12 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="wifi_subnet_mask">Subnet mask</string>
   <string name="status_bar_toggle_arrangement">Подредба на превключвателите</string>
   <string name="experimental_build">(Експериментална)</string>
+  <string name="cmcc_dm_settings_disable_summary">Disable auto boot</string>
+  <string name="cmcc_dm_settings_enable_summary">Enable auto boot</string>
+  <string name="cmcc_dm_settings_title">Device Management Permission</string>
+  <string name="lock_settings">Заключен екран</string>
+  <string name="other_advanced_settings">Допълнителни настройки</string>
+  <string name="other_personal_settings">Допълнителни настройки</string>
+  <string name="wireless_off">Изкл.</string>
+  <string name="wireless_on">Вкл.</string>
 </resources>

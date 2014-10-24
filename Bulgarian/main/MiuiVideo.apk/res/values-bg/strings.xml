@@ -338,4 +338,5 @@
   <string name="vp_support_by">С подкрепата на %1$s</string>
   <string name="vp_unknown_source">Неизвестен източник</string>
   <string name="vp_toast_downloadapk">Изтегляне на apk на заден план…</string>
+  <string name="declaration_content_td_custom">Някои функции на приложението изискват връзка с интернет, за да функционират нормално.</string>
 </resources>

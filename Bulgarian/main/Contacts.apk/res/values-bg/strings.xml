@@ -1112,4 +1112,8 @@
   <string name="scan_qrcode_card_hint1">Сканирайте QR кода</string>
   <string name="scan_qrcode_card_hint2">Добавете моите данни към вашите контакти</string>
   <string name="starred_yellowpage">Любими в указателя</string>
+  <string name="export_to_sim1">Експорт към SIM карта 1</string>
+  <string name="import_from_sim1">Импорт от SIM карта 1</string>
+  <string name="pref_key_sim_manage1">Управление на SIM карта 1</string>
+  <string name="yellowpage_navigation_search_result_average_price">Средно %d юана</string>
 </resources>
