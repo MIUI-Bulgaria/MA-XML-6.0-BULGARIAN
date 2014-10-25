@@ -339,4 +339,16 @@
   <string name="vp_unknown_source">Неизвестен източник</string>
   <string name="vp_toast_downloadapk">Изтегляне на apk на заден план…</string>
   <string name="declaration_content_td_custom">Някои функции на приложението изискват връзка с интернет, за да функционират нормално.</string>
+  <string name="datastream_alert_download">Използването на мобилни данни за изтегляне на видео ще увеличи използваните от вас мобилни данни. Ако надвишите лимита от данни на вашия абонамент, ще бъдете таксувани допълнително от оператора.</string>
+  <string name="datastream_alert_hint">Можете да изключите известията за изп. на данни по всяко време от Настройки.</string>
+  <string name="datastream_alert_negative_button">Отказ</string>
+  <string name="datastream_alert_positive_button">Изтегли</string>
+  <string name="datastream_alert_title">Известие за изп. на данни</string>
+  <string name="declaration_allow">Приемам</string>
+  <string name="priority_storage">Съхраняване на SD картата</string>
+  <string name="priority_storage_summary">При поставена SD карта, автоматично записване на файловете на SD картата</string>
+  <string name="use_cellular_play_summary">Показване на известие, когато се изпозват мобилни данни за гледане или изтегляне на видео</string>
+  <string name="use_cellular_play_title">Известие за изп. на данни</string>
+  <string name="vp_datastream_alert_hint">Можете да изключите известията за изп. на данни по всяко време от Настройки.</string>
+  <string name="vp_datastream_alert_play">Използването на мобилни данни за гледане на видео ще увеличи използваните от вас мобилни данни. Ако надвишите лимита от данни на вашия абонамент, ще бъдете таксувани допълнително от оператора.</string>
 </resources>

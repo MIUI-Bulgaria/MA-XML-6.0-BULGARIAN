@@ -615,4 +615,7 @@
   <string name="text_optimizer">Изп. на онлайн база данни за почистване</string>
   <string name="title_antivirus">Антивирус</string>
   <string name="title_optimizer">Почистване</string>
+  <string name="legal_workday_invalidate">Data expired(Currently ringing Moday to Friday)</string>
+  <string name="legal_workday_invalidate_message">(Data expired,click to update interconnection)</string>
+  <string name="legal_workday_message">(Skip holidays smartly)</string>
 </resources>

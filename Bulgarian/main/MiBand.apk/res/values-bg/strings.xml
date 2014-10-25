@@ -553,7 +553,7 @@ then tap Follow to complete sync."</string>
   <string name="notify_status_motor_smart_alarm">Причина: Интел. будилник</string>
   <string name="notify_status_motor_test">Причина: Тест</string>
   <string name="action_pop_lab">Lab Features</string>
-  <string name="body">Neck</string>
+  <string name="body">Врат</string>
   <string name="lab_factory_exercise_state_paused">Pause</string>
   <string name="lab_factory_exercise_state_ready">GO</string>
   <string name="lab_factory_exercise_state_stopped">Stop</string>
@@ -614,21 +614,21 @@ then tap Follow to complete sync."</string>
   <string name="lab_factory_sport_unit">Time(s)</string>
   <string name="lab_factory_sport_without_pb_info">&lt;font color=#f57130&gt;%1$s&lt;/font&gt;</string>
   <string name="lab_factory_title">Lab Features</string>
-  <string name="restart_bluetooth_tips">Please restart Bluetooth.</string>
-  <string name="stat_step_calorie_piece">Burn</string>
-  <string name="stat_step_distance_piece">Distance</string>
-  <string name="stat_step_piece">Steps</string>
-  <string name="stat_step_run_calorie">Run Burn</string>
-  <string name="stat_step_run_calories_average">Ave. Run Burn</string>
-  <string name="stat_step_run_distance">Run Distance</string>
-  <string name="stat_step_run_distance_average">Ave. Run Distance</string>
-  <string name="stat_step_run_duration">Run</string>
-  <string name="stat_step_run_duration_average">Ave. Run</string>
-  <string name="stat_step_walk_calorie">Walk Burn</string>
-  <string name="stat_step_walk_calories_average">Ave. Walk Burn</string>
-  <string name="stat_step_walk_distance">Walk Distance</string>
-  <string name="stat_step_walk_distance_average">Ave. Walk Distance</string>
-  <string name="stat_step_walk_duration">Walk</string>
-  <string name="stat_step_walk_duration_average">Ave. Walk</string>
-  <string name="wrong_system_time">Your system time is incorrect. This will effect Mi Band.</string>
+  <string name="restart_bluetooth_tips">Рестартирайте Bluetooth.</string>
+  <string name="stat_step_calorie_piece">Изгорени</string>
+  <string name="stat_step_distance_piece">Разстояние</string>
+  <string name="stat_step_piece">Крачки</string>
+  <string name="stat_step_run_calorie">Изгорени при бягане</string>
+  <string name="stat_step_run_calories_average">Ср. изгорени</string>
+  <string name="stat_step_run_distance">Пробягано</string>
+  <string name="stat_step_run_distance_average">Ср. пробягано</string>
+  <string name="stat_step_run_duration">Бягане</string>
+  <string name="stat_step_run_duration_average">Ср. бягане</string>
+  <string name="stat_step_walk_calorie">Изгорени при ходене</string>
+  <string name="stat_step_walk_calories_average">Ср. изгорени</string>
+  <string name="stat_step_walk_distance">Извървяно</string>
+  <string name="stat_step_walk_distance_average">Ср. извървяно</string>
+  <string name="stat_step_walk_duration">Ходене</string>
+  <string name="stat_step_walk_duration_average">Ср. ходене</string>
+  <string name="wrong_system_time">Времето на системата ви е неправилно, това ще се отрази на работата на Mi Band.</string>
 </resources>

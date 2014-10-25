@@ -766,4 +766,15 @@
     <string name="send_att_title">Внимание</string>
     <string name="no_contacts">Празно</string>
     <string name="tryrefreshing">Опит за опресняване…</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">"Няма връзка към сървъра.
+(%s)"</string>
+    <string name="load_from_remote">Продължи търсенето на сървъра</string>
+    <string name="loading_from_remote">Търси се на сървъра...</string>
+    <string name="local_search_result">Открити са %s имейла от всички локални имейли</string>
+    <string name="perference_change_pw">Промяна на паролата</string>
+    <string name="perference_change_pw_notnull_tips">Паролата не може да е празна</string>
+    <string name="perference_change_pw_ok_tips">Паролата е променена успешно</string>
+    <string name="prefetched_got_it">ОК</string>
+    <string name="remote_search">Всичките имейли на сървъра</string>
+    <string name="remote_search_result">Открити са %s имейла от имейли на сървъра</string>
 </resources>
