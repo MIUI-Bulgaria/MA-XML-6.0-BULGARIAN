@@ -307,12 +307,12 @@
   <string name="uploading">Изпращане...</string>
   <string name="used">Заето:</string>
   <string name="user_guide">Ръководство</string>
-  <string name="user_guide_continue_use">Знам това</string>
+  <string name="user_guide_continue_use">ОК</string>
   <string name="user_guide_download_other_version">"Можете да изтеглите KuaiPan на вашия компютър"</string>
-  <string name="user_guide_kuaipan_copy">"Използвайте KuaiPan за споделяне на файловете Ви между различни устройства"</string>
-  <string name="user_guide_kuaipan_lable">KuaiPan за вас</string>
-  <string name="user_guide_other_version">Изтеглете алтернативни версии на KuaiPan</string>
-  <string name="user_guide_save_file">Съхраняване на вашите файлове в KuaiPan.</string>
+  <string name="user_guide_kuaipan_copy">Копирайте файлове от вашия телефон, след което ги поставете в KuaiPan</string>
+  <string name="user_guide_kuaipan_lable">KuaiPan е ваш</string>
+  <string name="user_guide_other_version">Влезте с вашия Mi профил (%1$s) и изтеглете от mi.kuaipan.cn.</string>
+  <string name="user_guide_save_file">Съхранявайте вашите файлове с помоща на KuaiPan.</string>
   <string name="user_guide_summary">Кратък обзор</string>
   <string name="user_guide_upload_to_kuaipan">"Просто копирайте и поставете в KuaiPan"</string>
   <string name="utf8_summary">Тип кодиране по подразбиране</string>

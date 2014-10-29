@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?> 
+<?xml version="1.0" encoding="utf-8"?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
-    <string-array name="weeks">
-        <item>Понеделник</item> 
-        <item>Вторник</item> 
-        <item>Сряда</item> 
-        <item>Четвъртък</item> 
-        <item>Петък</item> 
-        <item>Събота</item> 
-        <item>Неделя</item> 
-    </string-array>
-    <string-array name="weeks_short">
-        <item>Пн</item> 
-        <item>Вт</item> 
-        <item>Ср</item> 
-        <item>Чт</item> 
-        <item>Пт</item> 
-        <item>Сб</item> 
-        <item>Нд</item> 
+    <string-array name="fortune">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="months">
         <item>Януари</item> 
@@ -34,22 +28,10 @@
         <item>Декември</item> 
     </string-array>
     <string-array name="select_days_simple">
-        <item>Еднократно</item> 
-        <item>Ежедневно</item> 
-        <item>От Пн до Пт</item> 
-        <item>По избор</item> 
-    </string-array>
-    <string-array name="fortune">
-        <item>Лесно е да постигнете целта си за един ден, но е трудно за всеки ден.</item>
-        <item>Не е лесно нещо да постигате целта си всеки ден.</item>
-        <item>Вие правите нов рекорд всеки ден!</item>
-        <item>Насладете се на изграждането на по-доброто ви Аз!</item>
-        <item>Докато не спрете да опитвате, никога не сте губещ.</item>
-        <item>Ние сме това, което правим многократно. Постижението е, че това от действие се превръща в навик.</item>
-        <item>Постигайте една цел на ден.</item>
-        <item>Предизвиквайте себе си, за да бъдете по-добри днес.</item>
-        <item>Просто го направете.</item>
-        <item>Продължавайте, победата ще дойде от само себе си.</item>
+        <item>Веднъж</item>
+        <item>Всеки ден</item>
+        <item>Делници</item>
+        <item>По избор</item>
     </string-array>
     <string-array name="weather_aqi_descriptions">
         <item>Отлично</item>
@@ -59,46 +41,22 @@
         <item>Опасно</item>
         <item>Много опасно</item>
     </string-array>
-    <string-array name="weather_cloudy">
-        <item>Облачно</item>
+    <string-array name="weeks">
+        <item>Пн</item> 
+        <item>Вт</item> 
+        <item>Ср</item> 
+        <item>Чт</item> 
+        <item>Пт</item> 
+        <item>Сб</item> 
+        <item>Нд</item> 
     </string-array>
-    <string-array name="weather_fine">
-        <item>Ясно</item>
-    </string-array>
-    <string-array name="weather_fog">
-        <item>Мъгла</item>
-    </string-array>
-    <string-array name="weather_haze">
-        <item>Мъгла</item>
-    </string-array>
-    <string-array name="weather_overcast">
-        <item>Облачно</item>
-    </string-array>
-    <string-array name="weather_rain_snows">
-        <item>Суграшица</item>
-    </string-array>
-    <string-array name="weather_rains">
-        <item>Превалявания</item>
-        <item>Гръмотевични бури</item>
-        <item>Лек дъжд</item>
-        <item>Умерен дъжд</item>
-        <item>Силен дъжд</item>
-        <item>Проливен дъжд</item>
-        <item>Проливен дъжд</item>
-        <item>Леден дъжд</item>
-        <item>Гръмотевични бури с градушка</item>
-    </string-array>
-    <string-array name="weather_sands">
-        <item>Прах</item>
-        <item>Прах</item>
-        <item>Пясъчни бури</item>
-        <item>Силни бури</item>
-    </string-array>
-    <string-array name="weather_snows">
-        <item>Краткотраен сняг</item>
-        <item>Слаб сняг</item>
-        <item>Умерен сняг</item>
-        <item>Силен сняг</item>
-        <item>Снежна виелица</item>
+    <string-array name="weeks_short">
+        <item>Пн</item> 
+        <item>Вт</item> 
+        <item>Ср</item> 
+        <item>Чт</item> 
+        <item>Пт</item> 
+        <item>Сб</item> 
+        <item>Нд</item> 
     </string-array>
 </resources>

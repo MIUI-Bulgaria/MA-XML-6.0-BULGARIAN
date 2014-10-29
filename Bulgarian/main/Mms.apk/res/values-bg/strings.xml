@@ -517,8 +517,8 @@
   <string name="yes">OK</string>
   <string name="menu_more">Още</string>
   <string name="menu_yellowpage">Покажи %s</string>
-  <string name="mx_on_sim_1">Облачни съобщения със SIM слот %s</string>
-  <string name="mx_on_sim_2">Облачни съобщения със SIM слот %s</string>
+  <string name="mx_on_sim_1">Облачни съобщения със SIM слот 1</string>
+  <string name="mx_on_sim_2">Облачни съобщения със SIM слот 2</string>
   <string name="menu_add_black">Блокирай</string>
   <string name="menu_add_contact">Към контакт</string>
   <string name="menu_mark">Маркирай</string>

@@ -91,7 +91,7 @@
   <string name="dlg_remove_address_whitelist">Да се премахне ли региона от изключенията?</string>
   <string name="dlg_remove_blacklist">Да се деблокира ли този номер?</string>
   <string name="dlg_remove_blacklist_ing">Премахва се от блокирани…</string>
-  <string name="dlg_remove_blacklist_ok">Деблокиране</string>
+  <string name="dlg_remove_blacklist_ok">Премахни</string>
   <string name="dlg_remove_whitelist">Да се премахнат ли тези номера от списъка с изключения?</string>
   <string name="dlg_remove_whitelist_ing">Премахва се от изключения…</string>
   <string name="dlg_retore">Да се възстанови ли това съобщение във входящи съобщения?</string>

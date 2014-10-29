@@ -242,12 +242,11 @@
   <string name="bind_facebook">Добавяне на Facebook профил</string>
   <string name="bind_qq">Добавяне на QQ профил</string>
   <string name="bind_sns_description">Попълване на профила ви използвайки личната си информация в %s.</string>
-  <string name="binded_description" formatted="false">"Успешно обвързахте %s 
-Попълване на профила ви използвайки личната си информация в %s."</string>
-  <string name="confirm_unbind">confirm unbind?</string>
+  <string name="binded_description" formatted="false">%s бе добавен успешно към Mi профила ви. Профилът ви бе обновен с информацията от вашия %s профил.</string>
+  <string name="confirm_unbind">Премахване на профила?</string>
   <string name="facebook">Facebook</string>
   <string name="qq">QQ</string>
-  <string name="unbind_sns_description">След като прекратите обвързването, няма да можете да влизате в Mi профила си чрез %s</string>
+  <string name="unbind_sns_description">След като премахнете този профил, няма да можете да влизате в Mi профила си чрез %s</string>
   <string name="unbind_weibo_description">След като прекратите обвързването, няма да синхронизирате контактите си и също няма да можете да влизате в Mi профила си чрез Sina Weibo</string>
   <string name="failed_get_mibi_info">Неуспешно получаване на баланса ви</string>
   <string name="hide_mibi_info">Информацията за MiКредити бе скрита</string>

@@ -25,4 +25,16 @@
         <item>Само при тих режим</item>
         <item>Винаги</item>
     </string-array>
+    <string-array name="cache_sort_type">
+        <item>Размер</item>
+        <item>Име</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Размер</item>
+        <item>Име</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Често използвани</item>
+        <item>Размер</item>
+    </string-array>
 </resources>

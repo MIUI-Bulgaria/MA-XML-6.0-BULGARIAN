@@ -2,8 +2,7 @@
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="Dashboard_App">Приложения</string>
-  <string name="Dashboard_HIPS_Disable_Content">Ако деактивирате функцията MIUI ще спре да наблюдава заявките на приложението и повече няма да защитава вашата сигурност и поверителност. 
-Наистина ли искате да деактивирате мониторинга?</string>
+  <string name="Dashboard_HIPS_Disable_Content">MIUI няма да следи заявките за разрешения от приложението.</string>
   <string name="Dashboard_HIPS_Disable_Title">Разрешения</string>
   <string name="Dashboard_Log">Регистри</string>
   <string name="Dashboard_Log_Clear_Content">Всички регистри ще бъдат изтрити.</string>
@@ -28,8 +27,8 @@
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Изтегляне на MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.http://miui.bg/community/</string>
   <string name="Dashboard_Perm_SU_Switch">ROOT достъп</string>
-  <string name="Dashboard_Su_Enable_Content">Разрешаване на ROOT достъп? Приложения с тези права могат да предизвикат нестабилност на системата или загуба на данни, дори повреди по системата и хардуера. Моля, бъдете внимателни. Наистина ли искате да разрешите?</string>
-  <string name="Dashboard_Su_Enable_Title">ROOT достъп</string>
+  <string name="Dashboard_Su_Enable_Content">Разрешаването на ROOT достъп на приложения от трети страни може да предизвика нестабилност на системата, загуба на данни и дори повреди по системата и хардуера.</string>
+  <string name="Dashboard_Su_Enable_Title">Предупреждение за ROOT достъп</string>
   <string name="Generic_Canceling">Отмяна...</string>
   <string name="Generic_Check">Проверка</string>
   <string name="Generic_Clean">Почистване</string>
@@ -68,7 +67,7 @@
   <string name="HIPS_Group_Location">Местоположение</string>
   <string name="HIPS_Group_PIM">Лична информация</string>
   <string name="HIPS_Group_PhoneID">Устройство</string>
-  <string name="HIPS_Group_ROOT">ROOT</string>
+  <string name="HIPS_Group_ROOT">ROOT достъп</string>
   <string name="HIPS_Perm_AdjustRingerVolume">Регулиране силата на звънене</string>
   <string name="HIPS_Perm_AdjustVolumeInCall">Регулиране звука при разговор</string>
   <string name="HIPS_Perm_AllowAll">Разреши всичко</string>
@@ -96,8 +95,8 @@
   <string name="HIPS_Perm_CallState">Състояние на телефона</string>
   <string name="HIPS_Perm_CallState_Desc">Получаване на статуса на обаждането</string>
   <string name="HIPS_Perm_CallState_Hint">%1$s приложения могат да видят статуса на вашите обаждания</string>
-  <string name="HIPS_Perm_Call_Desc">Набиране, приемане и отклоняване на разговори</string>
-  <string name="HIPS_Perm_Call_Hint">%1$s приложения могат да набират, приемат и отклоняват разговори</string>
+  <string name="HIPS_Perm_Call_Desc">Позволява на прил. да провежда обаждания</string>
+  <string name="HIPS_Perm_Call_Hint">%1$s прил. могат да провеждат разговори</string>
   <string name="HIPS_Perm_Call_Number">Набиране на %1$s</string>
   <string name="HIPS_Perm_CancelMissedCalls">Изчистване на пропуснати повиквания</string>
   <string name="HIPS_Perm_Contact">Контакти</string>
@@ -150,10 +149,10 @@
   <string name="HIPS_Perm_PhoneID_IMSI">Получаване на IMSI на устройството</string>
   <string name="HIPS_Perm_PhoneID_Number">Получаване на ID номера на устройството</string>
   <string name="HIPS_Perm_PromptAll">Питай винаги</string>
-  <string name="HIPS_Perm_ROOT">ROOT</string>
+  <string name="HIPS_Perm_ROOT">ROOT достъп</string>
   <string name="HIPS_Perm_ROOT_Desc">Прил. може да получи ROOT достъп</string>
-  <string name="HIPS_Perm_ROOT_Hint">%1$s приложения могат да получават ROOT достъп</string>
-  <string name="HIPS_Perm_ROOT_Title">Прил. могат да получат ROOT достъп</string>
+  <string name="HIPS_Perm_ROOT_Hint">%1$s приложения имат ROOT достъп</string>
+  <string name="HIPS_Perm_ROOT_Title">Прил. има ROOT достъп</string>
   <string name="HIPS_Perm_Recorder_Audio">Запис на аудио</string>
   <string name="HIPS_Perm_Recorder_AudioVideo">Запис на аудио и видео</string>
   <string name="HIPS_Perm_Recorder_Camera">Правене на снимки</string>
@@ -162,8 +161,8 @@
   <string name="HIPS_Perm_RejectAll">Забрани на всички</string>
   <string name="HIPS_Perm_SMS">SMS</string>
   <string name="HIPS_Perm_SMS_Access">Достъп до данните на SMS-ите ви</string>
-  <string name="HIPS_Perm_SMS_Desc">Преглед на SMS кореспонденцията ви</string>
-  <string name="HIPS_Perm_SMS_Hint">%1$s приложения могат да преглеждат SMS кореспонденцията ви</string>
+  <string name="HIPS_Perm_SMS_Desc">Преглед на SMS и MMS кореспонденцията ви</string>
+  <string name="HIPS_Perm_SMS_Hint">%1$s прил. могат да преглеждат SMS и MMS кореспонденцията ви</string>
   <string name="HIPS_Perm_SendMMS">Изпращане на MMS</string>
   <string name="HIPS_Perm_SendMMS_Desc">Директно изпращане на MMS</string>
   <string name="HIPS_Perm_SendMMS_Hint">%1$s приложения могат да изпращат MMS</string>
@@ -218,11 +217,11 @@
   <string name="Privacy_App_Launch">Стартирай</string>
   <string name="Privacy_App_Log">Регистри</string>
   <string name="Privacy_App_Manage">Детайли</string>
-  <string name="Privacy_App_Trust">Вярвам на приложението</string>
+  <string name="Privacy_App_Trust">Искане на разрешение</string>
   <string name="Privacy_App_TrustDialog_Content">Няма да бъдете запитвани, когато приложението има достъп до други части от системата.</string>
-  <string name="Privacy_App_TrustDialog_Title">Доверявам се на това приложение</string>
-  <string name="Privacy_App_Trust_Summary_Off">Запитване, когато приложението има достъп до други части от системата</string>
-  <string name="Privacy_App_Trust_Summary_On">Позволяване на всички заявки на приложението</string>
+  <string name="Privacy_App_TrustDialog_Title">Разрешения на прил.</string>
+  <string name="Privacy_App_Trust_Summary_Off">Показване на известие, когато приложението иска достъп до други части от системата</string>
+  <string name="Privacy_App_Trust_Summary_On">Показване на известие, когато приложението иска достъп до други части от системата</string>
   <string name="Privacy_App_Uninstall">Деинсталиране</string>
   <string name="Privacy_Perm_Count">Разрешени: %1$d | Забранени: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s се опитва да получи ROOT достъп.</string>

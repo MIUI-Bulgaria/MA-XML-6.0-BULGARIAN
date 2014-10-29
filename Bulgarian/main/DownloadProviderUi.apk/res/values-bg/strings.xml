@@ -125,17 +125,17 @@
   <string name="xunlei_brand"/>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_gaosu">Xunlei Highspeed service</string>
-  <string name="xunlei_member_annual_fee">Годишна такса за Xunlei</string>
-  <string name="xunlei_member_one_month">Месечна такса за Xunlei</string>
+  <string name="xunlei_member_annual_fee">Годишно</string>
+  <string name="xunlei_member_one_month">Месечно</string>
   <string name="xunlei_speed_service">Xunlei изтегляния</string>
   <string name="xunlei_switch">Xunlei изтегляне</string>
-  <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
-  <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
-  <string name="add_flow_success_msg">Get %s High Speed Flow Succeess</string>
-  <string name="display_expire_netiv1">Month Owner</string>
+  <string name="add_flow_fail_haveget_msg">Пробният период е изтекъл.</string>
+  <string name="add_flow_fail_vip_msg">Xunlei download accelerator е вкл.</string>
+  <string name="add_flow_success_msg">Добавени са %s за този месец</string>
+  <string name="display_expire_netiv1">Този месец</string>
   <string name="menu_title_pause_all">Пауза на всички</string>
   <string name="menu_title_resume_all">Стартирай вички</string>
   <string name="menu_title_settings">Настройки</string>
-  <string name="unbind_xunlei_2_success">Change Xunlei Account Success</string>
-  <string name="unbind_xunlei_success">Unbind Xunlei Account Success</string>
+  <string name="unbind_xunlei_2_success">Xunlei профилът е добавен</string>
+  <string name="unbind_xunlei_success">Отписване от Xunlei профила</string>
 </resources>

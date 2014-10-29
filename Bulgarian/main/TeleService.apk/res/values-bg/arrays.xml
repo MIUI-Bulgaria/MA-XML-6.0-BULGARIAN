@@ -67,4 +67,10 @@
         <item>китайски</item>
         <item>иврит</item>
     </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Троен режим</item>
+    </string-array>
 </resources>

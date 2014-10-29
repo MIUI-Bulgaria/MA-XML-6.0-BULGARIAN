@@ -120,7 +120,7 @@
   <string name="close_cloud_tab_tip">Затвори разделите в облака за %s?</string>
   <string name="cloud_loading_tips">Плъзнете надолу за синхрон.</string>
   <string name="cloud_no_new_data_toast">Няма нови данни, опитайте по-късно</string>
-  <string name="cloud_sync_closed_toast">Облачната синхронизация е изключена</string>
+  <string name="cloud_sync_closed_toast">Не може да се обнови защото синхр. е изключена</string>
   <string name="cloud_sync_failed_toast">Неуспешна актуализация, опитайте отново</string>
   <string name="cloud_tab">Раздел в Облак</string>
   <string name="cloud_time_tips">Последна синхронизация</string>
@@ -224,9 +224,9 @@
   <string name="error_console_header_text_maximized">JavaScript конзола</string>
   <string name="error_console_header_text_minimized">Покажи JavaScript конзола</string>
   <string name="error_forbidden">Синхронизацията е изключена поради проблеми с вашия Mi профил.</string>
-  <string name="error_not_acceptable">Синхронизацията е изключена.</string>
+  <string name="error_not_acceptable">Синхр. е изключена.</string>
   <string name="error_title">Грешка при синхронизация</string>
-  <string name="error_unauthorized">Синхронизацията е изключена поради твърде много опити за влизане.</string>
+  <string name="error_unauthorized">Синхр. с Mi профила ви бе изключена поради твърде много опити за влизане.</string>
   <string name="exit_browser_warning">Да затворя ли браузъра?</string>
   <string name="file_dir">Папка</string>
   <string name="file_name">Име на файл</string>
@@ -274,7 +274,7 @@
   <string name="loading_tips">Плъзнете надолу за опресняване</string>
   <string name="local_bookmarks">Локални</string>
   <string name="location">Адрес</string>
-  <string name="low_memory_error">Не може да се завърши операцията, поради липса на памет</string>
+  <string name="low_memory_error">Няма достатъчно памет за завършване на операцията</string>
   <string name="max_tabs_warning">Достигнат е максимума за отворени раздели</string>
   <string name="media_player_error_button">OK</string>
   <string name="media_player_error_text_invalid_progressive_playback">Съжаляваме, но видеото не е валидно за стриймване до това устройство.</string>
@@ -289,7 +289,7 @@
   <string name="menu_exit">Изход</string>
   <string name="menu_exit_nightmode">Изход</string>
   <string name="menu_hv_swap">Пейзажен режим</string>
-  <string name="menu_nightmode">Вкл/изкл нощен режим</string>
+  <string name="menu_nightmode">Нощен режим</string>
   <string name="menu_preferences">Настройки</string>
   <string name="menu_save_bandwidth_mode_close_toast">Ограничението за мобилни данни е изключено</string>
   <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
@@ -365,7 +365,7 @@
   <string name="pref_autofill_profile_editor">Текст за авто-попълване</string>
   <string name="pref_autofill_profile_editor_summary">Настрой текста за авто-попълване в уеб форми</string>
   <string name="pref_autologin_progress">Влизате в сайтове на Google посредством %s</string>
-  <string name="pref_autologin_progress_in_background">Вход в сайтове на Google с помощта на %s във фонов режим</string>
+  <string name="pref_autologin_progress_in_background">Синхр. във фонов режим със сайтовете на Google с помощта на %s</string>
   <string name="pref_autologin_title">Автоматичен вход в Google</string>
   <string name="pref_category_title_version">Версия</string>
   <string name="pref_clear_adblock_statistics">Изчистване на статистиките за блокиране</string>
@@ -531,13 +531,13 @@
   <string name="quicklinks_most_visited_title">Добави на стартовата страница</string>
   <string name="readmode_already_add_to_bookshelf">Добавено в библиотеката</string>
   <string name="readmode_battery">Батерия </string>
-  <string name="readmode_login">Влез в профила</string>
-  <string name="readmode_login_message">За да продължите да четете влезте в профила си</string>
-  <string name="readmode_page_load_error">Неуспешно зареждане на страницата, моля натиснете Обнови за нов опит</string>
+  <string name="readmode_login">Вход</string>
+  <string name="readmode_login_message">За да прочетете повече, влезте в профила си.</string>
+  <string name="readmode_page_load_error">Страницата не може да се зареди</string>
   <string name="readmode_page_loading">Зареждане, моля изчакайте...</string>
   <string name="readmode_pay">Абонирайте се за глава</string>
-  <string name="readmode_pay_message">Следващите глави изискват абонамент, преди четенето да бъде включено</string>
-  <string name="readmode_reach_last_page">Достигната е последната страница</string>
+  <string name="readmode_pay_message">Трябва да платите, за да прочетете следващата глава.</string>
+  <string name="readmode_reach_last_page">Това е последната страница</string>
   <string name="readmode_recommend">Препоръчано</string>
   <string name="readmode_recommend_message">"Прочели сте всички глави от тази книга. Моля, изберете друга"</string>
   <string name="readmode_refresh">Обнови</string>
@@ -676,7 +676,7 @@
   <string name="webapp_addtodeskpop_append">Добавено</string>
   <string name="webapp_app_name">Light Web Apps Store</string>
   <string name="webapp_dialog_title">Добавяне на приложение към началният ви екран</string>
-  <string name="webapp_menu_addtodesk">Добавяне към начало</string>
+  <string name="webapp_menu_addtodesk">На началния екран</string>
   <string name="webapp_menu_already_addtodesk">Вече добавено към начало</string>
   <string name="webapp_menu_exit">Изход</string>
   <string name="webapp_menu_favorites">Любими</string>
@@ -700,13 +700,13 @@
   <string name="webstorage_outofspace_notification_text">Докоснете за да освободите памет.</string>
   <string name="webstorage_outofspace_notification_title">Паметта на браузъра е пълна</string>
   <string name="webview_cancel">Отказ</string>
-  <string name="webview_find_on_page">Търси на страницата</string>
+  <string name="webview_find_on_page">Търси в страницата</string>
   <string name="webview_js_dialog_before_unload">"%s
 
-Сигурни ли сте, че искате да напуснете страницата?"</string>
-  <string name="webview_js_dialog_before_unload_negative_button">Остани на страницата</string>
-  <string name="webview_js_dialog_before_unload_positive_button">Напусни страницата</string>
-  <string name="webview_js_dialog_before_unload_title">Потвърждение</string>
+Напускате ли страницата?"</string>
+  <string name="webview_js_dialog_before_unload_negative_button">Остани</string>
+  <string name="webview_js_dialog_before_unload_positive_button">Напусни</string>
+  <string name="webview_js_dialog_before_unload_title">Напускане на страница?</string>
   <string name="webview_js_dialog_title">Страницата \"%s\" казва:</string>
   <string name="webview_js_dialog_title_default">JavaScript</string>
   <string name="webview_last_month">Последния месец</string>
@@ -726,4 +726,8 @@
   <string name="block_ads_message">Да се блокират ли съобщенията от тази страница?</string>
   <string name="block_ads_title">Възможно наличие на реклами</string>
   <string name="bookmark_url_already_exisit">Вече сте добавили този URL</string>
+  <string name="empty_history_hint">Празно</string>
+  <string name="enter_developer_mode">Влизане в режим на разработчика</string>
+  <string name="webapp_bottom_bar_addtodesk">Добави на десктопа</string>
+  <string name="webapp_splashview_loading">Зарежда се...</string>
 </resources>

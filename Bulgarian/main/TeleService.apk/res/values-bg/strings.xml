@@ -853,4 +853,5 @@
   <string name="general_setting">Настройки</string>
   <string name="msim_switch_data_conn_toast">Network settings have been changed to prefer 4G networks. You can change this setting in SIM card settings.</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Prefer 3G networks(CDMA)</string>
+  <string name="msim_switch_data_conn_toast_for_h2xct">Слотът за SIM 2 поддържа само GSM мрежи. Предпочитания режим на мрежата бе променен на само 2G.</string>
 </resources>

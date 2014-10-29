@@ -255,4 +255,6 @@
     <string name="wednesday_short">Сря</string>
     <string name="wednesday_shortest">С</string>
     <string name="yesterday">Вчера</string>
+    <string name="permdesc_sendSmsNoConfirmation">Разрешава на приложението да изпраща SMS съобщения. Това може да доведе до неочаквано таксуване. Злонамерените приложения могат да ви въвлекат в разходи, като изпращат съобщения без потвърждение от ваша страна.</string>
+    <string name="permlab_sendSmsNoConfirmation">изпращане на SMS съобщения без потвърждаване</string>
 </resources>

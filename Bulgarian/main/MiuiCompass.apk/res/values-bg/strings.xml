@@ -40,4 +40,9 @@
   <string name="location_enabled">Услугата е активирана, можете да я деактивирате от Настройки > Местоположение</string>
   <string name="location_not_enabled_summary">Указател се нуждае от местоположението ви, за да работи правилно.</string>
   <string name="location_not_enabled_title">Активиране на позиционирането</string>
+  <string name="calibrate_failed">Неуспешно калибриране на височината</string>
+  <string name="using_camera_confirm_cancel">Изход</string>
+  <string name="using_camera_confirm_message">Компас използва и приложението Камера.</string>
+  <string name="using_camera_confirm_ok">ОК</string>
+  <string name="using_camera_confirm_title">Условия и споразумения</string>
 </resources>

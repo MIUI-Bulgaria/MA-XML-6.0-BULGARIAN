@@ -39,7 +39,7 @@
   <string name="emegency_build">Версия:</string>
   <string name="experimental_build">Експериментална</string>
   <string name="file_not_found_error_message">Файлът не може да бъде намерен на сървъра</string>
-  <string name="get_auto">Автоматичен режим</string>
+  <string name="get_auto">Изп. на моб. мрежа или Wi-Fi</string>
   <string name="get_current">Изтегли най-новата</string>
   <string name="go_on_download">Продължи</string>
   <string name="install">Инсталиране</string>
@@ -86,14 +86,14 @@
   <string name="reboot">Рестарт</string>
   <string name="reboot_to_new_system">Рестарт в новата версия</string>
   <string name="repeat">Нов опит</string>
-  <string name="set_auto">Задай автоматичен режим</string>
+  <string name="set_auto">Авт. проверка за актуализации</string>
   <string name="set_installfail_full_msg">"Не може да се актуализира. Посетете http://miui.bg/community/forums/160 за повече информация."</string>
   <string name="set_installfail_msg">Изтеглянето на актуализацията чрез мобилната мрежа ще увеличи значително използваните от вас данни.</string>
   <string name="set_installfail_title">Нов опит за изтегляне на актуализацията?</string>
   <string name="set_installfail_title_full">Неуспешна актуализация</string>
   <string name="set_network_msg">Свържете се към Wi-Fi мрежа преди да изтеглите актуализацията.</string>
   <string name="set_network_title">Свързване с мрежата</string>
-  <string name="set_only_wifi">Задай проверса само чрез Wi-Fi</string>
+  <string name="set_only_wifi">Използване само на Wi-Fi</string>
   <string name="share">Сподели</string>
   <string name="share_qq">Сподели чрез Tencent weibo</string>
   <string name="share_sina">Сподели чрез Sina weibo</string>
@@ -175,4 +175,11 @@
   <string name="button_text_reboot_hm">След рестарт</string>
   <string name="update_downfull_no_info_sum">Неуспешно изтегляне, проверете отново за нова версия.</string>
   <string name="update_downfull_no_info_title">Неуспешно изтегляне</string>
+  <string name="notification_load_body_alpha">Впишете се в Mi профила си, за да актуализирате устройството.</string>
+  <string name="notification_load_body_dev">Впишете се в Mi профила си, за да сте сигурни че получавате правилните актуализации.</string>
+  <string name="notification_load_title_alpha">Впишете се в Mi профила си</string>
+  <string name="notification_load_title_dev">Впишете се в Mi профила си</string>
+  <string name="update_feedback_need_update">Понастоящем не използвате последната dev версия. Актуализирайте до нея преди да я оцените.</string>
+  <string name="updater_nolog">Няма регистър</string>
+  <string name="updater_nonetwork">Свържете се с мрежата, за да получите регистър</string>
 </resources>

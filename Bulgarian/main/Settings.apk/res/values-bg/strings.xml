@@ -1531,10 +1531,10 @@
   <string name="passwordIncorrect">Въведената от вас парола е неправилна</string>
   <string name="password_guard">Защита</string>
   <string name="percentage">%d%%</string>
-  <string name="permission_detail_info">Преглед на информация за правата</string>
-  <string name="permission_detail_info_summary">Всички разрешения: Сигурност %1$d，Поверителност %2$d，Други %3$d</string>
-  <string name="permission_manage">Управление на правата</string>
-  <string name="permission_manage_summary">Автоматичен старт, поверителност и сигурност.</string>
+  <string name="permission_detail_info">Детайли</string>
+  <string name="permission_detail_info_summary">Сигурност %1$d | Поверителност %2$d | Други %3$d</string>
+  <string name="permission_manage">Разрешения</string>
+  <string name="permission_manage_summary">Искане на вашето разрешение, преди да се даде достъп на приложенията до контактите ви, списъците с повиквания, промяна на системните настройки, ползване на камерата или други ресурси в устройството</string>
   <string name="permission_manage_title">%s информация за правата</string>
   <string name="permission_manager">Разрешения</string>
   <string name="permission_mgr">Разрешения</string>
@@ -1986,7 +1986,7 @@
   <string name="sim_bad_pin">Неправилен ПИН</string>
   <string name="sim_change_failed">"ПИН кодът не може да се промени.
 Възможен неправилен ПИН."</string>
-  <string name="sim_change_failed_enable_sim_lock">За да промените PIN кода, първо активирайте заключването на SIM/RUIM</string>
+  <string name="sim_change_failed_enable_sim_lock">Включване на заключването на SIM.</string>
   <string name="sim_change_pin">PIN за SIM карта</string>
   <string name="sim_change_succeeded">Успешна промяна на PIN за SIM карта</string>
   <string name="sim_disable_sim_lock">Отключване на SIM картата</string>
@@ -2864,8 +2864,8 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="screen_key_press">Натискане на бутоните</string>
   <string name="screen_key_press_action">Стартиране на действие</string>
   <string name="status_sim">Състояние на SIM</string>
-  <string name="status_sim_1">SIM1</string>
-  <string name="status_sim_2">SIM2</string>
+  <string name="status_sim_1">SIM 1</string>
+  <string name="status_sim_2">SIM 2</string>
   <string name="status_summary">Чукнете за подробности</string>
   <string name="wifi_subnet_mask">Subnet mask</string>
   <string name="status_bar_toggle_arrangement">Подредба на превключвателите</string>
