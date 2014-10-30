@@ -777,4 +777,5 @@
     <string name="prefetched_got_it">ОК</string>
     <string name="remote_search">Всичките имейли на сървъра</string>
     <string name="remote_search_result">Открити са %s имейла от имейли на сървъра</string>
+    <string name="download_before_view">Все още не е изтеглено, изтеглете го преди преглед!</string>
 </resources>

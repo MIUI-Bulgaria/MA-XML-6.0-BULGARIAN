@@ -224,4 +224,7 @@
   <string name="upgrade_space_successful">Добавихте успешно %s ГБ</string>
   <string name="upgrade_space_successful_total">Общо хранилището е вече %s ГБ</string>
   <string name="upgrade_space_tb">ТБ</string>
+  <string name="buy_space_expire">Закупеното място ще изтече на %s</string>
+  <string name="buy_space_expire_concat">%1$s до %2$s</string>
+  <string name="loading_hint">Зарежда се</string>
 </resources>

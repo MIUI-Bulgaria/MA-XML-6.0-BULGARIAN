@@ -230,4 +230,6 @@
   <string name="priority_storage">Съхраняване на SD картата</string>
   <string name="priority_storage_summary">При поставена SD карта, автоматично записване на файловете на SD картата</string>
   <string name="headset_settings">Настройки на слушалките</string>
+  <string name="my_music_empty_goto_online">Плейлистът ви е празен! Добавете песни от таба Онлайн</string>
+  <string name="no_local_source_find">Не са открити локални ресурси, неуспешно изпращане!</string>
 </resources>

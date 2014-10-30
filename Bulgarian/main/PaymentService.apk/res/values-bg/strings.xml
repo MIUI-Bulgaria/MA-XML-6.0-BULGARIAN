@@ -318,4 +318,8 @@ Please check your local date and try again."</string>
   <string name="confirm_title">提示</string>
   <string name="ensure">确定</string>
   <string name="processing">加载中</string>
+  <string name="fee_with_giftcard"> (Include%1$s)</string>
+  <string name="fee_with_mibi_giftcard"> %1$s-Mi Credit gift card</string>
+  <string name="fee_with_partner_giftcard"> %1$s-Mi Credit %2$s</string>
+  <string name="process_expired">"Where'd you go? This operation has timed out."</string>
 </resources>

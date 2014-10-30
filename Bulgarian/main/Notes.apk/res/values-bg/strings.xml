@@ -103,4 +103,7 @@
   <string name="widget_under_visit_mode">Защитен режим，не може да видите съдържанието</string>
   <string name="toast_note_privacy_mode">Не можете да създавате бележки в Защитен режим</string>
   <string name="widget_under_privacy_mode">Не можете да преглеждате бележки в Защитен режим</string>
+  <string name="sns_choose_quality_high">Високо (%1$s)</string>
+  <string name="sns_choose_quality_low">Ниско</string>
+  <string name="sns_choose_quality_title">Избор на качество на снимката</string>
 </resources>

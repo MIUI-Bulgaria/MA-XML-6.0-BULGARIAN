@@ -730,4 +730,6 @@
   <string name="enter_developer_mode">Влизане в режим на разработчика</string>
   <string name="webapp_bottom_bar_addtodesk">Добави на десктопа</string>
   <string name="webapp_splashview_loading">Зарежда се...</string>
+  <string name="action_menu_text_snapshot">Запази страницата</string>
+  <string name="empty_snapshot_hint">Празно</string>
 </resources>

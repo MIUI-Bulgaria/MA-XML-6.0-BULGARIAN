@@ -40,14 +40,14 @@
   <string name="app_label">Календар</string>
   <string name="attendees_label">Посетители</string>
   <string name="birthday_calendar_display_name">Напомняне за рожден ден</string>
-  <string name="birthday_event_description">"Днес рожден ден има %1$s!"</string>
+  <string name="birthday_event_description">"Днес %1$s има %4$s!"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_notification_age_term"/>
-  <string name="birthday_notification_text_three_days_later">3 дни до рождения ден (%3$s)</string>
+  <string name="birthday_notification_text_three_days_later">3 дни до %4$s на %3$s</string>
   <string name="birthday_notification_text_today">"Не забравяйте да кажете честит рожден ден!"</string>
-  <string name="birthday_notification_title_three_days_later">"Скоро е рождения ден на %1$s"</string>
-  <string name="birthday_notification_title_today">"%1$s има рожден ден"</string>
+  <string name="birthday_notification_title_three_days_later">"Наближава %2$s на %1$s"</string>
+  <string name="birthday_notification_title_today">"%1$s има %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="button_day">Д</string>
   <string name="button_month">M</string>
@@ -174,7 +174,7 @@
   <string name="month_medium_september">септ.</string>
   <string name="month_view">Месец</string>
   <string name="monthly">Ежемесечно</string>
-  <string name="monthly_on_day">Ежемесечно (за ден %s)</string>
+  <string name="monthly_on_day">Ежемесечно (същия ден)</string>
   <string name="monthly_on_day_count">Ежемесечно (всеки %1$s %2$s)</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Описание</string>

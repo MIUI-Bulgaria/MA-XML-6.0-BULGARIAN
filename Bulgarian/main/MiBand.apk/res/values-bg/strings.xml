@@ -625,4 +625,45 @@ then tap Follow to complete sync."</string>
   <string name="stat_step_walk_duration">Ходене</string>
   <string name="stat_step_walk_duration_average">Ср. ходене</string>
   <string name="wrong_system_time">Времето на системата ви е неправилно, това ще се отрази на работата на Mi Band.</string>
+  <string name="agree">Agree</string>
+  <string name="battery">battery</string>
+  <string name="bind_qq_health">Sync with QQ Health Center</string>
+  <string name="bind_qq_health_tip">"Sync steps and sleep info to qq health platform,
+you need available network."</string>
+  <string name="bind_qq_health_title">Add QQ Account</string>
+  <string name="lab_factory_cheat_toast">"Don't cheat on us~"</string>
+  <string name="lab_factory_disconnected_reminder">Disconnect reminder</string>
+  <string name="lab_factory_disconnected_reminder_disconnect">Before changing settings, connect bracelet</string>
+  <string name="lab_factory_disconnected_reminder_tips">When bracelet connection is lost, it will vibrate</string>
+  <string name="lab_factory_item_group_others">Others</string>
+  <string name="lab_factory_item_group_social">Social</string>
+  <string name="lab_factory_item_group_sport">Sports</string>
+  <string name="lab_factory_sport_average_rate_per_minute">Velocity &lt;b&gt;%d&lt;/b&gt; time(s)/min</string>
+  <string name="lab_factory_sport_gb_count">Continuous PB %d time(s)</string>
+  <string name="lab_factory_sport_group_finish_desc">Current round of %s completed</string>
+  <string name="lab_factory_sport_group_time_cost" formatted="false">Current round of %s cost %s</string>
+  <string name="lab_factory_sport_hour">%d H</string>
+  <string name="lab_factory_sport_hour_min" formatted="false">%d H%d M</string>
+  <string name="lab_factory_sport_hour_min_sec" formatted="false">%d H%d M%d S</string>
+  <string name="lab_factory_sport_hour_sec" formatted="false">%d H%d S</string>
+  <string name="lab_factory_sport_min_sec" formatted="false">%d M%d S</string>
+  <string name="lab_factory_sport_pb_count">Continuous PB &lt;b&gt;%d&lt;/b&gt;</string>
+  <string name="lab_factory_sport_pb_desc">Continuous Personal Best of %s</string>
+  <string name="lab_factory_sport_pb_ropeskipping">Rope Skipping</string>
+  <string name="lab_factory_sport_pb_situp">Sit-up</string>
+  <string name="lab_factory_sport_sec">%d S</string>
+  <string name="lab_factory_sport_type_climbing">Climbing</string>
+  <string name="lab_factory_sport_type_football">Football</string>
+  <string name="lab_factory_sport_type_pingpong">Ping Pong</string>
+  <string name="lab_factory_sport_type_riding">Riding</string>
+  <string name="lab_factory_sport_type_volleyball">Volleyball</string>
+  <string name="lab_factory_sport_vote_others_hint">Input your favorite sport here</string>
+  <string name="set_alarm_time">SET ALARM TIME</string>
+  <string name="state_bind_failed">"Can't add account"</string>
+  <string name="state_binded">Signed in</string>
+  <string name="state_binded_nickname">Added QQ Account %s</string>
+  <string name="state_unbind_success">Removed QQ Account</string>
+  <string name="state_unbinded">Signed out</string>
+  <string name="user_agreement_prefix">"To use this product, you must agree to our 
+"</string>
 </resources>

@@ -2879,4 +2879,5 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="wireless_off">Изкл.</string>
   <string name="wireless_on">Вкл.</string>
   <string name="status_bar_settings_show_notification_icon">Покажи икона на известието</string>
+  <string name="need_reboot_now">Трябва рестарт за завършване на актуализацията, рестартирайте сега!</string>
 </resources>
