@@ -107,7 +107,7 @@
   <string name="edit_comment">Коментирайте</string>
   <string name="elipsis">…</string>
   <string name="episode">Епизод</string>
-  <string name="episode_suffix">серия</string>
+  <string name="episode_suffix">"Еп. %d "</string>
   <string name="favorite">Любими</string>
   <string name="feature">Препоръчани</string>
   <string name="feature_list_empty_hint">Празно</string>

@@ -154,7 +154,7 @@
   <string name="composer_failed_to_get_database_infomation">"Базата данни е недостъпна."</string>
   <string name="composer_has_no_exportable_contact">Не са намерени контакти за експортиране. Възможно е експортирането на контакти от телефона да не се поддържа от доставчика ви на данни.</string>
   <string name="composer_not_initialized">"Редактора на визитки не стартира правилно."</string>
-  <string name="confirm_delete_contact_all_call_logs">"Сигурни ли сте, че искате да изтриете всички записи %s?"</string>
+  <string name="confirm_delete_contact_all_call_logs">Да се изтрият ли списъците с повиквания?</string>
   <string name="confirm_delete_selected_all_call_logs">"Сигурни ли сте, че искате да изтриете всички записи на избраните контакти?"</string>
   <string name="confirm_delete_sim_entry_miui">Ще изтриете ли избраните контакти от SIM картата (%d бр.)?</string>
   <string name="confirm_export_message">Вашият списък с контакти ще бъде експортиран във файла: %s.</string>
@@ -440,7 +440,7 @@
   <string name="import_weibo_error_unknown">Обновяване контакти: неизвестна грешка</string>
   <string name="import_weibo_error_user_cancel">Обновяване контакти: отменено от потребителя</string>
   <string name="import_weibo_fetch_followers">Изтегляне на Sina Weibo последователи…</string>
-  <string name="import_weibo_notification_title_done">Импортирането завърши</string>
+  <string name="import_weibo_notification_title_done">Обновени са %s контакти</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Импортиране на контакти от SIM карта...</string>

@@ -127,7 +127,7 @@ Please check your local date and try again."</string>
   <string name="hfb_retry_receive">Опитайте пак</string>
   <string name="hfb_return">Назад</string>
   <string name="hfb_succ_label">Покупката е завършена</string>
-  <string name="hfb_succ_result">"Благодарим Ви, че използвахте нашите услуги. Вие си закупихте [%1$s] на стойност [%2$s юан]. Номерът за Обслужване на Клиенти е: %3$s"</string>
+  <string name="hfb_succ_result">"Благодарим ви, че използвахте нашите услуги."</string>
   <string name="label_balance">Баланс:</string>
   <string name="label_order_name">Продуктt:</string>
   <string name="label_order_price">Цена:</string>
@@ -155,9 +155,7 @@ Please check your local date and try again."</string>
   <string name="lockscreen_forgot_pattern_button_text"><u>Забравих фигурата</u></string>
   <string name="login">Вход</string>
   <string name="memu_refresh">Обнови</string>
-  <string name="mibi_license_message">Вие сте на път да използвате Mi Credit, което е услуга предоставена от Xiaomi Inc. Преди да използвате тази услуга, трябва да приемете правилата и условията в %1$s.
-
-Нуждаете се от интернет връзка, за да използвате Mi Credit."</string>
+  <string name="mibi_license_message">Вие сте на път да използвате Mi Credit, което е услуга предоставена от Xiaomi Inc. Преди да използвате тази услуга, трябва да приемете правилата и условията в %1$s. Натиснете ОК ако приемате правилата и условията, посочени в %1$s. Нуждаете се от интернет връзка, за да използвате Mi Credit.</string>
   <string name="mibi_license_message_span">Условия за ползване на МiКредити</string>
   <string name="mibi_license_title">Правила и условия </string>
   <string name="mili_center">MiКредит</string>
@@ -166,7 +164,7 @@ Please check your local date and try again."</string>
   <string name="msg_order_hint_1_1">След като натиснете Потвърди покупката, вашия телефон</string>
   <string name="msg_order_hint_1_2">автоматично ще изпрати съобщение до доставчика на услуги..</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">Зареждането чрез SMS може да е по-скъпо от другите начини 2юана (0,48лв) = 1 MiКредит</string>
+  <string name="msg_picker_hint_1_2">Зареждането чрез SMS може да е по-скъпо: &lt;font color=red&gt;%1$d юана = %2$d Mi Credit&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">За всяко зареждане се събира такса в размер на %1$s юана</string>
   <string name="msg_progress_hint_2_1">Успешно изпратено!</string>

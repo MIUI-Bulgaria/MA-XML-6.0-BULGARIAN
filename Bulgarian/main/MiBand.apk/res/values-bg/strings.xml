@@ -569,7 +569,7 @@ then tap Follow to complete sync."</string>
   <string name="lab_factory_sport_favorite_report_succeeded">Thanks for your kind voting!</string>
   <string name="lab_factory_sport_finish_desc">Finish</string>
   <string name="lab_factory_sport_group_record">Group Count:</string>
-  <string name="lab_factory_sport_min">%s分</string>
+  <string name="lab_factory_sport_min">%d M</string>
   <string name="lab_factory_sport_min_second" formatted="false">%s分%s秒</string>
   <string name="lab_factory_sport_monitor_bracelet_offline">Bracelet is not offline</string>
   <string name="lab_factory_sport_monitor_bracelet_offline_notice">Can do %s after bracelet connected at once</string>

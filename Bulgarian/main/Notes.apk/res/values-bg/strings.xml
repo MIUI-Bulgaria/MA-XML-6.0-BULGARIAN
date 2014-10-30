@@ -30,8 +30,8 @@
   <string name="error_note_not_exist">Бележката не съществува</string>
   <string name="error_unsupport_content">Тази бележка съдържа неподдържани данни, натиснете за актуализиране на системата</string>
   <string name="error_widget_exist_for_send_to_desktop">Тази бележка вече съществува на началния екран</string>
-  <string name="folder_exist">Папката %1$s вече съществува, моля изберете различно име</string>
-  <string name="format_move_notes_to_folder">Бележките %1$ са преместени в папка %2$s</string>
+  <string name="folder_exist">Вече съществува папка с това име</string>
+  <string name="format_move_notes_to_folder">Преместени са %1$d бележки в %2$s</string>
   <string name="hint_foler_name">Въведете име на папка</string>
   <string name="info_note_enter_desktop">Бележката е добавена на началния екран</string>
   <string name="login_sync">Вход и синхронизация</string>

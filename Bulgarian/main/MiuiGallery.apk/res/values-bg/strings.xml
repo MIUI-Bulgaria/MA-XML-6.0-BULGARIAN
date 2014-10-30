@@ -37,7 +37,7 @@
   <string name="album_share_subtitle_invited">Споделено от %1$s, приемане или отхвърляне?</string>
   <string name="album_share_subtitle_normal">Споделено от %1$s</string>
   <string name="album_share_subtitle_not_ready">Няма налична информация за албума. Натиснете, за да я изтеглите.</string>
-  <string name="album_share_subtitle_quitting">Отмяна на поканата от %1$s...</string>
+  <string name="album_share_subtitle_quitting">Излизане…</string>
   <string name="album_share_subtitle_requesting">Зареждане на информацията за албума...</string>
   <string name="album_share_title_new_album">Нов споделен албум</string>
   <string name="albums">Албуми</string>

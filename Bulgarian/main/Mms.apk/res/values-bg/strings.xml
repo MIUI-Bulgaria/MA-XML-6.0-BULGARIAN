@@ -252,7 +252,7 @@
   <string name="mx_auto_resend_sms_summary">Изпращайте съобщенията като SMS, когато облачните съобщения не са достъпни. Начисляват се такси от оператора.</string>
   <string name="mx_btn_enable">Активирай</string>
   <string name="mx_btn_enable_now">Активирай</string>
-  <string name="mx_count_dspt">Изпратили сте %1$d съобщения и %2$s MMS чрез облака</string>
+  <string name="mx_count_dspt">Изпратили сте %1$d съобщения и %2$d MMS чрез облака</string>
   <string name="mx_current_status">Статус: Онлайн</string>
   <string name="mx_dspt">Само потребители на MIUI могат да обменят облачни съобщения. Ако няма интернет връзка, съобщенията ще бъдат изпратени чрез мобилния оператор.</string>
   <string name="mx_enable">Активиране на Облачни съобщения</string>

@@ -51,7 +51,7 @@
   <string name="copy_file_to_kuaipan">Копиране на файла в KuaiPan</string>
   <string name="create_kuaipan_shortcut_pref">Създай икона на десктопа</string>
   <string name="create_new_folder_desctiption">Създаване на нова папка...</string>
-  <string name="create_new_folder_failed">Не може да се създаде папка %1$s</string>
+  <string name="create_new_folder_failed">Неуспешно създаване на папка</string>
   <string name="create_share_link_description">Генериране на линк за споделяне…</string>
   <string name="cution">Съвети</string>
   <string name="data_capacity">Обем: %1$s</string>
