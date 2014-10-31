@@ -364,7 +364,7 @@
     <string name="fetching_attachment">Извличане на прикачен файл</string>
     <string name="file_deleted_success">Файлът е изтрит успешно!</string>
     <string name="file_not_found">Файлът не е открит на пощенския сървър!</string>
-    <string name="file_not_found_reDownload">Файлът не е открит, опитайте отново!</string>
+    <string name="file_not_found_redownload">Файлът не е открит, опитайте отново!</string>
     <string name="file_rar_not_support">Не се поддържат шифровани .rar файлове!</string>
     <string name="filtered_tag">[%1$s]%2$s</string>
     <string name="folder_icon_desc">Икона на папката</string>
@@ -778,4 +778,15 @@
     <string name="remote_search">Всичките имейли на сървъра</string>
     <string name="remote_search_result">Открити са %s имейла от имейли на сървъра</string>
     <string name="download_before_view">Все още не е изтеглено, изтеглете го преди преглед!</string>
+    <string name="att_file_not_exists">Файлът %s не е открит!</string>
+    <string name="attachment_canceling">Отменя се, моля изчакайте!</string>
+    <string name="attachment_decoding">Прик. файл е изтеглен и се дешифрира, моля изчакайте.</string>
+    <string name="merged_mailbox_compose_select_account">Изберете профил</string>
+    <string name="outbox_alert_duplicate_click">Не натискайте повторно, пощата се синхр.</string>
+    <string name="outbox_alert_edit_resend">Редактиране и повт. изпращане</string>
+    <string name="outbox_alert_failed_edit_resend">Неуспех, редактирайте и изпратете отново</string>
+    <string name="outbox_alert_mailbox_not_found">Имайл адресът не е открит</string>
+    <string name="outbox_alert_select_operation">Моля, изберете операция</string>
+    <string name="recipient_null_dialog_title">Предупреждение</string>
+    <string name="unread_from_someone">Непрочетено от [%s]</string>
 </resources>
