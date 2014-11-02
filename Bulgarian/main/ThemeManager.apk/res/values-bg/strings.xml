@@ -258,7 +258,7 @@
   <string name="theme_user_agreement_content5">.</string>
   <string name="theme_user_agreement_remind_again">Показване на известие за усл. на ползване</string>
   <string name="theme_user_agreement_remind_never">Не показвай отново</string>
-  <string name="theme_user_agreement_remind_summary">Показване на известие за условията на ползване. Настройката се активира се след рестартиране на устройството.</string>
+  <string name="theme_user_agreement_remind_summary">Показване на известие за условията на ползване. Настройката се активира след рестартиране на устройството.</string>
   <string name="theme_user_agreement_title">Декларация</string>
   <string name="theme_yes">Да</string>
   <string name="third_party_pickers_activity_title">Задай %1$s</string>

@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
-  <string name="add_alarm">Добави будилник</string>
+  <string name="add_alarm">Добавяне</string>
   <string name="alarm_alert">Мелодия</string>
   <string name="alarm_alert_alert_silenced">Будилника спира след %d минути.</string>
   <string name="alarm_alert_snooze_set">Повтори сигнала след %d минути.</string>
@@ -37,7 +37,7 @@
   <string name="day">1 ден</string>
   <string name="day_concat">", "</string>
   <string name="days">%s дни</string>
-  <string name="default_alarm_alert">Стил по подразбиране</string>
+  <string name="default_alarm_alert">Тон по подразбиране</string>
   <string name="default_alarm_title">Мелодия по подразбиране</string>
   <string name="default_label">Будилник</string>
   <string name="delelte_selected_timezone">Да се изтрият ли избраните часови зони?</string>
