@@ -294,4 +294,6 @@
   <string name="yearly">Ежегодно (%s)</string>
   <string name="yearly_plain">Годишно</string>
   <string name="zhushen"/>
+  <string name="anniversary_term">годишнина</string>
+  <string name="birthday_term">рожден ден</string>
 </resources>
