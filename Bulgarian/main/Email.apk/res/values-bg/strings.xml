@@ -785,7 +785,6 @@
     <string name="outbox_alert_duplicate_click">Не натискайте повторно, пощата се синхр.</string>
     <string name="outbox_alert_edit_resend">Редактиране и повт. изпращане</string>
     <string name="outbox_alert_failed_edit_resend">Неуспех, редактирайте и изпратете отново</string>
-    <string name="outbox_alert_mailbox_not_found">Имайл адресът не е открит</string>
     <string name="outbox_alert_select_operation">Моля, изберете операция</string>
     <string name="recipient_null_dialog_title">Предупреждение</string>
     <string name="unread_from_someone">Непрочетено от [%s]</string>
