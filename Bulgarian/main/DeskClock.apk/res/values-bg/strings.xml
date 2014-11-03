@@ -83,7 +83,7 @@
   <string name="shutdown_alarm_enable_summary">Автоматично включване на телефона при настроен будилник</string>
   <string name="shutdown_alarm_title">Включване на телефона</string>
   <string name="silent_alarm_summary">Без звук</string>
-  <string name="slider_text">Плъзнете нагоре за заглушаване</string>
+  <string name="slider_text">Плъзнете нагоре за изключване</string>
   <string name="snooze_confirm_cancel">Изключи</string>
   <string name="snooze_duration_title">Отложи за</string>
   <string name="snooze_message">Заглуши за %d мин.</string>
