@@ -43,4 +43,6 @@
   <string name="network_access_warning">Необходима е връзка с интернет за активиране на устройството</string>
   <string name="setting_locale">Задава се местопол-е...</string>
   <string name="terms_of_service">Условия за ползване</string>
+  <string name="locale_picker_confirm_dialog_desc">"Задаване на %s за ваше местоположение? "</string>
+  <string name="locale_picker_confirm_dialog_title">Изберете вашето местоположение</string>
 </resources>

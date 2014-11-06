@@ -525,4 +525,5 @@
   <string name="menu_new_contact">Нов контакт</string>
   <string name="hms_add_image_progress_message">Обработка…</string>
   <string name="view_hms_attachment_fail">Неуспешно изтегляне на снимка</string>
+  <string name="my_bookmark">Отметки</string>
 </resources>

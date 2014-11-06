@@ -325,4 +325,5 @@
   <string name="wifi_state">Wi-Fi статус</string>
   <string name="xiaomi_account">Mi профил</string>
   <string name="yes">Да</string>
+  <string name="folder_name_illegal">Невалидно име на папка</string>
 </resources>

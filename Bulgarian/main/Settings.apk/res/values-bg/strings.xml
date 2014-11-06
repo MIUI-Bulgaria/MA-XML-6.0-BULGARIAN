@@ -2880,4 +2880,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="wireless_on">Вкл.</string>
   <string name="status_bar_settings_show_notification_icon">Покажи икона на известието</string>
   <string name="need_reboot_now">Трябва рестарт за завършване на актуализацията, рестартирайте сега!</string>
+  <string name="whetstone_level_reboot">Настройката ще се приложи след рестарт на устойството ви</string>
+  <string name="whetstone_level_reboot_OK">Рестарт</string>
+  <string name="whetstone_level_title">Оптимизиране на системната памет</string>
 </resources>

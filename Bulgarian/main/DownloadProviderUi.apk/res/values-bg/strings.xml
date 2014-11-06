@@ -138,4 +138,7 @@
   <string name="menu_title_settings">Настройки</string>
   <string name="unbind_xunlei_2_success">Xunlei профилът е добавен</string>
   <string name="unbind_xunlei_success">Отписване от Xunlei профила</string>
+  <string name="dialog_confirm_delete_checkbox_message">Изтрий и локалните файлове</string>
+  <string name="dialog_confirm_delete_downloads_message">Да се изтрият ли %d задачи?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Изтрий тези задачи</string>
 </resources>

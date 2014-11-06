@@ -227,4 +227,8 @@
   <string name="buy_space_expire">Закупеното място ще изтече на %s</string>
   <string name="buy_space_expire_concat">%1$s до %2$s</string>
   <string name="loading_hint">Зарежда се</string>
+  <string name="micloud_storage_expires_auto_renewal_sum">Трябва да подновите абонамента си.</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">Трябва да подновите абонамента си.</string>
+  <string name="micloud_storage_expires_soon_title">Mi Cloud хранилището изтича скоро</string>
+  <string name="micloud_storage_expires_very_soon_title">Mi Cloud хранилището изтича скоро</string>
 </resources>

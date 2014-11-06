@@ -13,4 +13,32 @@
         <item quantity="other">"%d мин. "</item>
         <item quantity="one">"%d мин. "</item>
     </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Налични са актуал. за %d прил.</item>
+        <item quantity="one">Налична е актуал. за %d прил.</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d разрешения</item>
+        <item quantity="one">%d разрешение</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">"%d прил. нямат право на автостарт"</item>
+        <item quantity="one">"%d прил. няма право на автостарт"</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d прил. имат право на автостарт</item>
+        <item quantity="one">%d прил. има право на автостарт</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">"%d прил. нямат ROOT достъп"</item>
+        <item quantity="one">"%d прил. няма ROOT достъп"</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d прил. имат ROOT достъп</item>
+        <item quantity="one">%d прил. има ROOT достъп</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d прил.</item>
+        <item quantity="one">%d прил.</item>
+    </plurals>
 </resources>

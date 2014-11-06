@@ -67,7 +67,9 @@
   <string name="view_indexes_wind_unit">км/ч</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
-  <string name="weather_unit_with_c">℃</string>
+  <string name="weather_unit_with_c">°C</string>
   <string name="view_sun_titile">Изгрев и залез</string>
   <string name="activity_weathermain_locationg_error">Неуспешно локализиране</string>
+  <string name="activity_main_time_format">dd.MM.</string>
+  <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
 </resources>

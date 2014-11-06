@@ -232,4 +232,16 @@
   <string name="headset_settings">Настройки на слушалките</string>
   <string name="my_music_empty_goto_online">Плейлистът ви е празен! Добавете песни от таба Онлайн</string>
   <string name="no_local_source_find">Не са открити локални ресурси, неуспешно изпращане!</string>
+  <string name="filter_by_duration">Филтриране по продължителност</string>
+  <string name="filter_by_duration_format">%2$dмин%5$2dсек</string>
+  <string name="filter_by_duration_max">5 мин</string>
+  <string name="filter_by_duration_min">0 сек</string>
+  <string name="filter_by_duration_prefix">"Мин. продължителност: "</string>
+  <string name="filter_by_duration_summary">Не показвай късите аудио файлове</string>
+  <string name="filter_by_size">Филтриране по размер</string>
+  <string name="filter_by_size_max">2МБ</string>
+  <string name="filter_by_size_min">0КБ</string>
+  <string name="filter_by_size_prefix">"Мин. размер: "</string>
+  <string name="filter_by_size_summary">Не показвай малките аудио файлове</string>
+  <string name="music_filter">Филтриране на файловете</string>
 </resources>

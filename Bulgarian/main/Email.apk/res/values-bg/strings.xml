@@ -788,4 +788,23 @@
     <string name="outbox_alert_select_operation">Моля, изберете операция</string>
     <string name="recipient_null_dialog_title">Предупреждение</string>
     <string name="unread_from_someone">Непрочетено от [%s]</string>
+    <string name="application_mime_type">application/email-ls</string>
+    <string name="attachment_download_all">Изтегли всички</string>
+    <string name="attachment_not_exists">Прик. файл не е налице!</string>
+    <string name="click_download_all_content">[ Чукнете, за да изтеглите ]</string>
+    <string name="flow_saved_dlg_do_not_show">Не показвай отново</string>
+    <string name="flow_saved_dlg_i_know">ОК</string>
+    <string name="flow_saved_dlg_message">%1$d нови съобщ. Спестено %2$s (мобилни данни).</string>
+    <string name="flow_saved_dlg_title">Намалява използваните моб. данни</string>
+    <string name="flow_saved_preference_total">Спестено %1$s.</string>
+    <string name="hide_atts_remaining">Скрий %1$d прик. файлове</string>
+    <string name="mail_header_downloading_message_body">Изтегля се…</string>
+    <string name="mail_header_message_body_auto_download_complete">Изтеглено имейл съдържание чрез Wi-Fi.</string>
+    <string name="mail_header_message_body_auto_download_tip">Съдържанието на имейла ще бъде изтеглено чрез Wi-Fi.</string>
+    <string name="mail_header_message_body_download_failed">Изтече времето за връзка.</string>
+    <string name="mail_header_network_not_available">Нямате връзка с мрежата.</string>
+    <string name="message_body_loading">[ Зарежда се… ]</string>
+    <string name="more_atts_remaining">Остават още %1$d</string>
+    <string name="preference_head_load_description">Изтегляне само на темата на писмата, когато се използват моб. данни.</string>
+    <string name="preference_head_load_title">Намали изп. на моб. данни</string>
 </resources>

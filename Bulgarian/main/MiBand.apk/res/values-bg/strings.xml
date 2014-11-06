@@ -666,4 +666,19 @@ you need available network."</string>
   <string name="state_unbinded">Signed out</string>
   <string name="user_agreement_prefix">"To use this product, you must agree to our 
 "</string>
+  <string name="bind_qq">Sync with QQ</string>
+  <string name="confirm_lazy_day">Are you sure to confirm a lazy day?</string>
+  <string name="lab_factory_sport_accumulate">Accumulate %d time(s)</string>
+  <string name="lab_factory_sport_continuous_ropeskipping">Continuous</string>
+  <string name="lab_factory_sport_continuous_situp">Continuous</string>
+  <string name="lab_factory_sport_type_running">Running</string>
+  <string name="lab_factory_sport_vote_desc">Please vote for your most favorite sport</string>
+  <string name="lab_factory_sport_vote_result_desc">Thanks for your vote</string>
+  <string name="lab_factory_sport_vote_result_sub_desc">You have voted for</string>
+  <string name="lab_factory_sport_vote_sub_desc">It is coming soon after next app upgrade</string>
+  <string name="noti_bracelet_low_battery_content_high">Band has less than 5% power remaining.</string>
+  <string name="noti_bracelet_low_battery_content_low">Battery is very low, You need to recharge your band.</string>
+  <string name="noti_bracelet_low_battery_content_mid">You need to recharge your band.</string>
+  <string name="noti_bracelet_low_battery_title_low">Band has powered off</string>
+  <string name="signal_strength">Signal strength: </string>
 </resources>
