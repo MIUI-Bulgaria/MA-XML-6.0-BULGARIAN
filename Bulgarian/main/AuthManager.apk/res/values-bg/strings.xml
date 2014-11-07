@@ -159,7 +159,7 @@
   <string name="HIPS_Perm_Recorder_Video">Запис на видео</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">Запис на обажданията ви</string>
   <string name="HIPS_Perm_RejectAll">Забрани на всички</string>
-  <string name="HIPS_Perm_SMS">SMS</string>
+  <string name="HIPS_Perm_SMS">SMS и MMS</string>
   <string name="HIPS_Perm_SMS_Access">Достъп до данните на SMS-ите ви</string>
   <string name="HIPS_Perm_SMS_Desc">Преглед на SMS и MMS кореспонденцията ви</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s прил. могат да преглеждат SMS и MMS кореспонденцията ви</string>
