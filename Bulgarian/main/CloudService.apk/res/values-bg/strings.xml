@@ -135,7 +135,6 @@
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
   <string name="micloud_main_data_unsynced">%d елементи за синхр.</string>
-  <string name="micloud_main_last_sync_time">Последно</string>
   <string name="micloud_main_network_error">Мрежата е недостъпна</string>
   <string name="micloud_main_stop_sync">Спри синхр.</string>
   <string name="micloud_main_suggest_sync">Някой елементи не са синхронизирани с Mi Cloud</string>
@@ -231,4 +230,25 @@
   <string name="micloud_storage_expires_manually_renewal_sum">Трябва да подновите абонамента си.</string>
   <string name="micloud_storage_expires_soon_title">Mi Cloud хранилището изтича скоро</string>
   <string name="micloud_storage_expires_very_soon_title">Mi Cloud хранилището изтича скоро</string>
+  <string name="micloud_main_synced_data_count">Синхр.: %d</string>
+  <string name="micloud_main_syncing">Синхронизира се...</string>
+  <string name="micloud_main_update_space">Увеличете капацитета</string>
+  <string name="micloud_main_wlan_sync_data_count">За синхр. по Wi-Fi: %d</string>
+  <string name="micloud_main_sync_pause">Пауза</string>
+  <string name="micloud_main_set_internet">Мрежа</string>
+  <string name="micloud_main_space_full">Пълно хранилище</string>
+  <string name="micloud_main_space_risk">Имате %d за синхр. Увеличете MiCloud хранилището си.</string>
+  <string name="micloud_main_detail">детайли</string>
+  <string name="micloud_main_last_sync_time">Синхр.: %s</string>
+  <string name="micloud_main_network_abnormal">Няма връзка с мрежата</string>
+  <string name="micloud_detail_fail">неуспех</string>
+  <string name="micloud_detail_lastest">синхронизирано</string>
+  <string name="micloud_detail_pending">очаква синхр.</string>
+  <string name="micloud_detail_preference_syncing">синхр. се</string>
+  <string name="micloud_detail_preference_wlan">Синхр. по Wi-Fi</string>
+  <string name="micloud_detail_success">синхронизирано</string>
+  <string name="micloud_detail_syncing">синхр. се...</string>
+  <string name="micloud_detail_wlan">Несинхр.: %d</string>
+  <string name="micloud_detail_wlan_contact">Несинхр.: %d снимки на контакти</string>
+  <string name="micloud_detail_wlan_mms">Несинхр.: %d MMS</string>
 </resources>

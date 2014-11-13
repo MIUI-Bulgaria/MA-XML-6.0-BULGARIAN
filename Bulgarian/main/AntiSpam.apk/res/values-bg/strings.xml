@@ -285,4 +285,5 @@
   <string name="st_title_markednumber_group">Маркирани номера</string>
   <string name="SMS_SERVICE">Блокирани услуги</string>
   <string name="st_antispam_title_service_sms">Известия за услуги</string>
+  <string name="button_text_delete">Изтрий</string>
 </resources>

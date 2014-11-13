@@ -262,4 +262,6 @@
   <string name="theme_store_dspt">Изберете облик по ваш вкус. Стотици безплатни теми, с които да направите телефона си уникален.</string>
   <string name="email_or_id_hint_text">Имейл или Mi профил ID</string>
   <string name="login_with_email_or_id">&lt;u&gt;Вписване с друг профил&lt;/u&gt;</string>
+  <string name="logout_failed">Неуспешно отписване</string>
+  <string name="timeout_retry">Времето за заявката изтече, опитайте отново.</string>
 </resources>

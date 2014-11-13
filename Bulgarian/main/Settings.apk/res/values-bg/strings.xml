@@ -2883,4 +2883,6 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="whetstone_level_reboot">Настройката ще се приложи след рестарт на устойството ви</string>
   <string name="whetstone_level_reboot_OK">Рестарт</string>
   <string name="whetstone_level_title">Оптимизиране на системната памет</string>
+  <string name="status_bar_settings_long_click_sort">Дълго натискане за сортиране</string>
+  <string name="status_bar_settings_toggle_position">Позиция на превкл.</string>
 </resources>
