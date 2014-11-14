@@ -4,8 +4,5 @@
     <dimen name="large_text_size">16.0sp</dimen>
     <dimen name="small_text_size">14.0sp</dimen>
     <dimen name="search_bar_text_size">7.0sp</dimen>
-    <dimen name="action_bar_tab_text_size">15.0sp</dimen>
-    <dimen name="text_font_size_list_primary">16.0sp</dimen>
-    <dimen name="text_font_size_list_secondary">13.0sp</dimen>
     <dimen name="edit_text_size">12.0sp</dimen>
 </resources>
