@@ -379,7 +379,6 @@
   <string name="pref_camera_whitebalance_entry_incandescent">Изкуствена светлина</string>
   <string name="pref_camera_whitebalance_entry_manual">Ръчно</string>
   <string name="pref_camera_whitebalance_entry_measure">Измерване</string>
-  <string name="pref_camera_whitebalance_k_value_title">Цветова температура</string>
   <string name="pref_camera_whitebalance_title">Баланс на бялото</string>
   <string name="pref_camera_zsl_entry_off">Изкл.</string>
   <string name="pref_camera_zsl_entry_on">Вкл.</string>
