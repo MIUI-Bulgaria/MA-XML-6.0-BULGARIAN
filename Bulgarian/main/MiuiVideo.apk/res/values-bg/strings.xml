@@ -351,4 +351,14 @@
   <string name="use_cellular_play_title">Известие за изп. на данни</string>
   <string name="vp_datastream_alert_hint">Можете да изключите известията за изп. на данни по всяко време от Настройки.</string>
   <string name="vp_datastream_alert_play">Използването на мобилни данни за гледане на видео ще увеличи използваните от вас мобилни данни. Ако надвишите лимита от данни на вашия абонамент, ще бъдете таксувани допълнително от оператора.</string>
+  <string name="cancel_button">Отказ</string>
+  <string name="hint_can_not_get_source_info">"Couldn't get video info"</string>
+  <string name="hint_without_selected_set">Find content source automatically</string>
+  <string name="partner_specials">Partner content</string>
+  <string name="select_media_source">Избор на източник</string>
+  <string name="update_apk_statusbar">Изтегля се…</string>
+  <string name="update_button">Актуализиране</string>
+  <string name="update_size_prefix">&lt;CDATA&gt;Размер:&lt;/CDATA&gt;</string>
+  <string name="update_title">Налична е актуализация</string>
+  <string name="update_version_prefix">&lt;CDATA&gt;Акт. до версия:&lt;/CDATA&gt;</string>
 </resources>

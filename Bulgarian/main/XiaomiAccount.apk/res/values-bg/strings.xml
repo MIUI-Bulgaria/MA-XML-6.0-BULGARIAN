@@ -264,4 +264,5 @@
   <string name="login_with_email_or_id">&lt;u&gt;Вписване с друг профил&lt;/u&gt;</string>
   <string name="logout_failed">Неуспешно отписване</string>
   <string name="timeout_retry">Времето за заявката изтече, опитайте отново.</string>
+  <string name="authorize_title">Оторизация</string>
 </resources>
