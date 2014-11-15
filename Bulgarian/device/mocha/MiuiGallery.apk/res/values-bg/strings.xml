@@ -120,8 +120,8 @@
   <string name="confirm_delete_this_video">Сигурни ли сте, че искате да изтриете избраното видео?</string>
   <string name="confirm_delete_videos">%s видео клипове</string>
   <string name="confirm_download">"Необходимо е да изтеглите %s. Този съвет няма да се показва отново."</string>
-  <string name="confirm_download_video_message">Необходимо е изтегляне на видео! Изтеглянето ще родължи, когато е налична връзка с Wi-Fi.</string>
-  <string name="confirm_download_video_title">Изтегли видеото</string>
+  <string name="confirm_download_video_message">Необходимо е изтегляне на това видео! Изтеглянето ще продължи, когато е налична връзка с Wi-Fi.</string>
+  <string name="confirm_download_video_title">Изтегляне на видео</string>
   <string name="contact_photo">Снимка на контакт</string>
   <string name="context_menu_add_contact">Добави към контакти</string>
   <string name="context_menu_copy">Копирай</string>
