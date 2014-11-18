@@ -2884,5 +2884,13 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="whetstone_level_reboot_OK">Рестарт</string>
   <string name="whetstone_level_title">Оптимизиране на системната памет</string>
   <string name="status_bar_settings_long_click_sort">Дълго натискане за сортиране</string>
-  <string name="status_bar_settings_toggle_position">Позиция на превкл.</string>
+  <string name="status_bar_settings_toggle_position">Позиция на превключвателите</string>
+  <string name="alpha_build">" | Алфа"</string>
+  <string name="developer_build">" | За програмисти"</string>
+  <string name="music_HiFi_title">Hi-Fi аудио</string>
+  <string name="music_dirac_control">Оптимизиране качеството на звука</string>
+  <string name="music_dirac_mode_off">Изключено</string>
+  <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
+  <string name="music_dirac_mode_piston_basic">Обикновени</string>
+  <string name="stable_build">" | Стабилен"</string>
 </resources>

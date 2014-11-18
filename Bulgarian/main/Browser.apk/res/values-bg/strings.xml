@@ -732,4 +732,5 @@
   <string name="webapp_splashview_loading">Зарежда се...</string>
   <string name="action_menu_text_snapshot">Запази страницата</string>
   <string name="empty_snapshot_hint">Празно</string>
+  <string name="tab_hotpage">Популярни</string>
 </resources>

@@ -681,4 +681,32 @@ you need available network."</string>
   <string name="noti_bracelet_low_battery_content_mid">You need to recharge your band.</string>
   <string name="noti_bracelet_low_battery_title_low">Band has powered off</string>
   <string name="signal_strength">Signal strength: </string>
+  <string name="no_network_connection_retry">Click to reconnect.</string>
+  <string name="percent_mark">%</string>
+  <string name="share_step_ranking">You beated &lt;b&gt;%s&lt;/b&gt; users.</string>
+  <string name="sport_new_record_ropeskipping">New record</string>
+  <string name="sport_ranking_desc_great">WOW, you are unbeatable now!</string>
+  <string name="sport_ranking_desc_normal" formatted="false">You beated &lt;b&gt;%s%&lt;/b&gt; of %s users.</string>
+  <string name="sport_ranking_desc_poor">Every %s user can beat you, come on!</string>
+  <string name="sport_running_distance_detail">%s Kilometers</string>
+  <string name="sport_running_gps_cancel">Cancel</string>
+  <string name="sport_running_gps_turnon">Turn on</string>
+  <string name="sport_running_helper">Running helper</string>
+  <string name="sport_running_helper_test">Running helper test</string>
+  <string name="sport_running_history">History</string>
+  <string name="sport_running_no_gps">GPS should be turned on to record your trace. Turn on?</string>
+  <string name="sport_running_pace">Pace</string>
+  <string name="sport_running_pace_detail">%s/KM</string>
+  <string name="sport_running_set_dist">Distance reminder</string>
+  <string name="sport_running_set_goal">Goal reminder</string>
+  <string name="sport_running_set_speed">Speed reminder</string>
+  <string name="sport_running_settings">Settings</string>
+  <string name="sport_running_slider_prompt">&gt;&gt;&gt;Slide right to unlock</string>
+  <string name="sport_running_speed">Speed</string>
+  <string name="sport_running_speed_detail">%dKM/H</string>
+  <string name="sport_running_start">Start</string>
+  <string name="sport_running_time_desc">Time cost</string>
+  <string name="sport_share">Share now</string>
+  <string name="vibrate_notify">Vibration Status</string>
+  <string name="vibrate_notify_tips">Show bracelet vibration info in status bar</string>
 </resources>

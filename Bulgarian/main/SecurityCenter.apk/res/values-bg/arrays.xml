@@ -37,4 +37,9 @@
         <item>Често използвани</item>
         <item>Размер</item>
     </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Изключване</item>
+        <item>Включване</item>
+        <item>Както е зададено</item>
+    </string-array>
 </resources>

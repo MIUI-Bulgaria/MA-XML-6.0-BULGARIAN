@@ -674,4 +674,6 @@
   <string name="toast_garbage_lib">Авт. актуализация за Почистване е включена</string>
   <string name="toast_show_notification">Показвай в лентата с известия</string>
   <string name="toast_virus_cloudscan">Сканиране за вируси чрез онлайн дефинициите</string>
+  <string name="power_dialog_wifi_title">Wi-Fi</string>
+  <string name="power_mode_keep_state">Както е зададено</string>
 </resources>

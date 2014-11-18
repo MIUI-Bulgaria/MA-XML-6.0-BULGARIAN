@@ -182,4 +182,9 @@
   <string name="update_feedback_need_update">Понастоящем не използвате последната dev версия. Актуализирайте до нея преди да я оцените.</string>
   <string name="updater_nolog">Няма регистър</string>
   <string name="updater_nonetwork">Свържете се с мрежата, за да получите регистър</string>
+  <string name="not_open">Изключване</string>
+  <string name="open_now">Включване</string>
+  <string name="set_auto_msg">Автоматично изтегляне на актуализациите чрез Wi-Fi</string>
+  <string name="set_auto_update_title">Авт. изтеглене на актуализациите</string>
+  <string name="title_toast_auto">Актуализациите ще се изтеглят автоматично</string>
 </resources>
