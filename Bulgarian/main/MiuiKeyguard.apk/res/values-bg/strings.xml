@@ -80,4 +80,6 @@
     <string name="unlockscreen_recharging_message">Зареждане %d%%</string>
     <string name="wrong_password">Неправилна парола</string>
     <string name="keyguard_torch_cover_text">За да остане фенерчето включено, натиснете бутон Захр.</string>
+    <string name="confirm_pin_msg">Въведете отново PIN код</string>
+    <string name="invalid_confirm_pin_hint">PIN кодовете не съвпадат</string>
 </resources>

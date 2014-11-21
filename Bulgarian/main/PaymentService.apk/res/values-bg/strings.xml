@@ -320,4 +320,16 @@ Please check your local date and try again."</string>
   <string name="fee_with_mibi_giftcard"> %1$s-Mi Credit gift card</string>
   <string name="fee_with_partner_giftcard"> %1$s-Mi Credit %2$s</string>
   <string name="process_expired">"Where'd you go? This operation has timed out."</string>
+  <string name="button_count_down_finish">OK(%1$s)</string>
+  <string name="button_custom_service_phone">Got it</string>
+  <string name="payment_recharge_group_familiar">Choose top-up method</string>
+  <string name="payment_recharge_group_favorite">Top-up methods</string>
+  <string name="payment_success_label">"You've paid%1$sMi Credit"</string>
+  <string name="payment_success_title">Payment received</string>
+  <string name="payment_title">Confirm payment info</string>
+  <string name="payment_with_login_title">Enter your Mi Account password</string>
+  <string name="recharge_grid_item_more">More</string>
+  <string name="sms_code_empty">Enter the verification code sent to your phone.</string>
+  <string name="summary_custom_service_phone">Tel:</string>
+  <string name="title_custom_service_phone">Contact customer support</string>
 </resources>

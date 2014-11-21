@@ -733,4 +733,12 @@
   <string name="action_menu_text_snapshot">Запази страницата</string>
   <string name="empty_snapshot_hint">Празно</string>
   <string name="tab_hotpage">Популярни</string>
+  <string name="adblock_rules_number_text">Блокирани: %d елементи</string>
+  <string name="adblock_rules_restore">Възстанови</string>
+  <string name="adblock_websites_settings_empyt_hint">Няма правила</string>
+  <string name="adblock_websites_settings_title">Потребителски правила</string>
+  <string name="close_ads_choice_no">Не</string>
+  <string name="close_ads_choice_yes">Да</string>
+  <string name="close_ads_message">Това съдържание няма да се отваря. Да се блокира ли автоматично? Блокираното съдържание може да видите в Настройки > Потребителски правила</string>
+  <string name="close_ads_title">Подсказка</string>
 </resources>

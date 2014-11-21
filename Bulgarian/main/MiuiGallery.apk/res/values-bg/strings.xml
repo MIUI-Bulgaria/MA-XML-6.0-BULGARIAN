@@ -568,4 +568,10 @@
   <string name="impunity_declaration_title">Известие за свързване</string>
   <string name="miui_wallpaper">Тапет</string>
   <string name="wandoujia">SnapPea</string>
+  <string name="abandon">Отмяна</string>
+  <string name="alert_secret_album_message">Можете да прелиствате облачният албум като таен албум.</string>
+  <string name="alert_secret_album_title">Таен албум</string>
+  <string name="auto_upload_album_comfirm_to_share">Налице е албум, който ще бъде качен автоматично. Сигурни ли сте, че ще го споделите?</string>
+  <string name="auto_upload_tip">След като активирате настройката, ще бъде създаден албум със същото име. Съществуващият албум със същото име (включително споделен с приятели албум) ще бъде слят с новия.</string>
+  <string name="auto_upload_title">Автоматично качване</string>
 </resources>
