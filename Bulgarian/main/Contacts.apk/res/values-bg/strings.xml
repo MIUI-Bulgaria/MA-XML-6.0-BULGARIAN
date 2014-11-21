@@ -1117,4 +1117,5 @@
   <string name="pref_key_sim_manage1">Управление на SIM карта 1</string>
   <string name="yellowpage_navigation_search_result_average_price">Средно %d юана</string>
   <string name="share_over_limit">Над лимита, не може да се сподели</string>
+  <string name="yellowpage_navigation_more_items_title">Още услуги</string>
 </resources>

@@ -8,7 +8,7 @@
   <string name="add_attachment">Добави прик. файлове</string>
   <string name="add_bookmark">Любими</string>
   <string name="add_contact">Добави контакт</string>
-  <string name="add_festival">Поздравление</string>
+  <string name="add_festival">Поздравления</string>
   <string name="add_music">Добави музика</string>
   <string name="add_nickname">Псевдоним</string>
   <string name="add_nickname_title">Добави псевдоним</string>
@@ -327,7 +327,7 @@
   <string name="pref_title_delivery_reports">Потвърждения за доставка</string>
   <string name="pref_title_festival_networking">Известие за свързване</string>
   <string name="pref_title_fwd_sender_info">Кой препраща</string>
-  <string name="pref_title_hide_festival">Скрий раздела за Поздравления</string>
+  <string name="pref_title_hide_festival">Скрий функциите за Китайски език</string>
   <string name="pref_title_manage_sim_messages">Управление на съобщенията в SIM картата</string>
   <string name="pref_title_miui_card">Изпрати като визитка</string>
   <string name="pref_title_mms_auto_retrieval">Зареждане на съобщения</string>
@@ -526,4 +526,5 @@
   <string name="hms_add_image_progress_message">Обработка…</string>
   <string name="view_hms_attachment_fail">Неуспешно изтегляне на снимка</string>
   <string name="my_bookmark">Отметки</string>
+  <string name="mx_type_guide">Размяна на безплатни съобщения с другите потребители, които използват тази функция</string>
 </resources>
