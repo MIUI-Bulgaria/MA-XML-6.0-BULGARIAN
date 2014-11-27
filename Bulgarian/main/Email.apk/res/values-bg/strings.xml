@@ -819,7 +819,7 @@
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_inline_pic_text">[Picture]</string>
     <string name="chat_item_msg_people_unit">persons</string>
-    <string name="chat_item_msg_user_etc">…</string>
+    <string name="chat_item_msg_user_etc"/>
     <string name="chat_item_msg_user_saying">says:</string>
     <string name="chat_view_description">Merge the conversation list to show conversation</string>
     <string name="chat_view_quote_text">-----Quoted Text-----</string>
@@ -840,4 +840,11 @@
     <string name="preference_pop_tips">Attachment(s) will be downloaded with email content since the POP3 protocol mandatorily request. Please take care to use in mobile data.</string>
     <string name="switch_as_tranditional_view">Traditional View</string>
     <string name="tip_cannot_switchview_in_unread_folder">Unable to switch view in unread mail aggregation mode</string>
+    <string name="add_pre_message_attachments">Add the attachments of pre-message?</string>
+    <string name="add_pre_message_attachments_no">No</string>
+    <string name="add_pre_message_attachments_yes">Add</string>
+    <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
+    <string name="inline_picture_deleted">"Can't find this picture,downloading…"</string>
+    <string name="inline_picture_download_complete">inline picture download complete</string>
+    <string name="next_not_prompt">"Don't prompt"</string>
 </resources>

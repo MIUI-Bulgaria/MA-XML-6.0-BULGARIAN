@@ -237,4 +237,7 @@ d MMMM yyyy"</string>
   <string name="user_guide_for_toggle">Списъкът с превключвателите може да бъде преглеждан и хоризонтално</string>
   <string name="user_guide_for_toggle_list">Управление на превключвателите</string>
   <string name="hint_for_long_press_app_switch_key">Дълго натискане за показване на меню</string>
+  <string name="audio_effect_custom">Регулиране</string>
+  <string name="audio_effect_info">Оптимизиране на звука</string>
+  <string name="audio_effect_settings">Задаване на тип слушалки</string>
 </resources>

@@ -46,7 +46,7 @@
   <string name="allow">Разреши</string>
   <string name="already_in_top_level">Отметката е вече най-горе</string>
   <string name="app_new_version">Вие вече сте инсталирали най-новата версия на програмата</string>
-  <string name="app_update_install">Новата версия е изтеглена и готова за инсталиране</string>
+  <string name="app_update_install">Готови за инсталиране на актуализацията.</string>
   <string name="application_name">Браузър</string>
   <string name="autofill_profile_editor_address_line_1">Адресен ред 1:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Улица, Пощ. кутия</string>
@@ -115,8 +115,8 @@
   <string name="clear_history_group">Изчисти цялата история (%s страници)</string>
   <string name="clear_search_history">Изчисти историята</string>
   <string name="clip_dialog_title">Ще отворите ли копирания URL адрес?</string>
-  <string name="close_all_tab_alert_message">Сигурни ли сте, че искате да затворите всички раздели?</string>
-  <string name="close_all_tab_alert_title">Затвори всички раздели</string>
+  <string name="close_all_tab_alert_message">Да се затворят ли всички отворени раздели в браузъра?</string>
+  <string name="close_all_tab_alert_title">Затваряне на всички раздели</string>
   <string name="close_cloud_tab_tip">Затвори разделите в облака за %s?</string>
   <string name="cloud_loading_tips">Плъзнете надолу за синхрон.</string>
   <string name="cloud_no_new_data_toast">Няма нови данни, опитайте по-късно</string>
@@ -216,7 +216,7 @@
   <string name="edit_quicklink">Редактиране</string>
   <string name="empty_bookmark">Празно</string>
   <string name="empty_bookmarks_folder">Няма отметки</string>
-  <string name="empty_history">Няма история на сърфирането.</string>
+  <string name="empty_history">Няма история.</string>
   <string name="empty_snapshots_folder">Няма запаметени страници.</string>
   <string name="enter_incongnito_mode">Вход в режим инкогнито</string>
   <string name="error_console_eval_button_text">Оцени</string>
@@ -231,7 +231,7 @@
   <string name="file_dir">Папка</string>
   <string name="file_name">Име на файл</string>
   <string name="file_picker">Изберете директория</string>
-  <string name="filename_empty_alert_message">"Файлът не може да е без име"</string>
+  <string name="filename_empty_alert_message">Въведете име на файла</string>
   <string name="filename_illegal_alert_message">Името на файла съдържа недопустими символи, които ще бъдат автоматично премахнати.</string>
   <string name="find_on_page">Търсене в страницата</string>
   <string name="folder_name">Име на папка</string>
@@ -262,9 +262,9 @@
   <string name="homepage_set">Началната страница е запазена.</string>
   <string name="http">http://</string>
   <string name="in_incognito">Активен е режим Инкогнито, при който не се записва история на сърфирането.</string>
-  <string name="is_first_history_item">Първа страница в история</string>
+  <string name="is_first_history_item">Първа страница в историята на браузъра</string>
   <string name="is_first_tab">Първи раздел</string>
-  <string name="is_last_history_item">Последна страница в история</string>
+  <string name="is_last_history_item">Последна страница в историята на браузъра</string>
   <string name="is_last_tab">Последен раздел</string>
   <string name="is_page_bottom">В края на страницата</string>
   <string name="is_page_top">В горната част на страницата</string>
@@ -275,7 +275,7 @@
   <string name="local_bookmarks">Локални</string>
   <string name="location">Адрес</string>
   <string name="low_memory_error">Няма достатъчно памет за завършване на операцията</string>
-  <string name="max_tabs_warning">Достигнат е максимума за отворени раздели</string>
+  <string name="max_tabs_warning">Не могат да се отварят повече раздели</string>
   <string name="media_player_error_button">OK</string>
   <string name="media_player_error_text_invalid_progressive_playback">Съжаляваме, но видеото не е валидно за стриймване до това устройство.</string>
   <string name="media_player_error_text_unknown">Съжаляваме, но видеото не може да бъде пуснато.</string>
@@ -442,7 +442,7 @@
   <string name="pref_images_preload_dialogtitle">Заредени изображения</string>
   <string name="pref_images_preload_summary">"Позволи предварително зареждане на изображения, когато се поддържа от сървъра"</string>
   <string name="pref_images_preload_title">Предварително зареждане на изображения</string>
-  <string name="pref_images_preload_value_always_summary">Винаги позволявай предварително зареждане на изображения, когато се поддържа от сървъра</string>
+  <string name="pref_images_preload_value_always_summary">Винаги позволявай предварително зареждане на изображения</string>
   <string name="pref_images_preload_value_never_summary">Не позволявай предварително зареждане на изображения</string>
   <string name="pref_images_preload_value_wifi_only_summary">Предварително зареждане на изображения само чрез Wi-Fi</string>
   <string name="pref_inverted">Инверсия</string>
@@ -734,13 +734,13 @@
   <string name="empty_snapshot_hint">Празно</string>
   <string name="tab_hotpage">Популярни</string>
   <string name="adblock_rules_number_text">Блокирани: %d елементи</string>
-  <string name="adblock_rules_restore">Възстанови</string>
-  <string name="adblock_websites_settings_empyt_hint">Няма правила</string>
-  <string name="adblock_websites_settings_title">Потребителски правила</string>
-  <string name="close_ads_choice_no">Не</string>
-  <string name="close_ads_choice_yes">Да</string>
-  <string name="close_ads_message">Това съдържание няма да се отваря. Да се блокира ли автоматично? Блокираното съдържание може да видите в Настройки > Потребителски правила</string>
-  <string name="close_ads_title">Подсказка</string>
+  <string name="adblock_rules_restore">Деблокирай</string>
+  <string name="adblock_websites_settings_empyt_hint">Нямате блокирани страници</string>
+  <string name="adblock_websites_settings_title">Блокирани страници</string>
+  <string name="close_ads_choice_no">Разреши</string>
+  <string name="close_ads_choice_yes">Блокирай</string>
+  <string name="close_ads_message">Да се блокира ли съдържанието от този уебсайт? Блокираното съдържание може да видите в Настройки > Блокирани страници</string>
+  <string name="close_ads_title">Блокиране на съдържание?</string>
   <string name="find_on_page_cancel">Отказ</string>
   <string name="find_on_page_matches">%d съвпадения</string>
   <string name="find_on_page_next">Напред</string>
@@ -748,4 +748,10 @@
   <string name="maximum_input_alert">Максимум въведете 2048 символа</string>
   <string name="url_find_on_page_result">Преглед в Браузър</string>
   <string name="url_find_on_page_result_item">Преглед на целия текст на \"%s\"</string>
+  <string name="data_traffic_prompt_change">Гледането на видеоклипове чрез мобилни данни ще увеличи използваните от вас данни. Ако надвишите предплатения си обем от данни, оператора може да ви таксува допълнително.</string>
+  <string name="data_traffic_prompt_message">Разглеждането на страници чрез мобилни данни ще увеличи използваните от вас данни. Ако надвишите предплатения си обем от данни, оператора може да ви таксува допълнително.</string>
+  <string name="data_traffic_prompt_title">Предупреждение за данни</string>
+  <string name="video_project_button">Стоп</string>
+  <string name="video_project_msg">Показване на %s</string>
+  <string name="video_project_title">Външен дисплей</string>
 </resources>

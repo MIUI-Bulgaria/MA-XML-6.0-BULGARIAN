@@ -12,4 +12,12 @@
         <item quantity="other">Избрани: %1$d</item>
         <item quantity="one">Избрани: %1$d</item>
     </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d съвпадения</item>
+        <item quantity="one">%d съвпадение</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d блокирани елементи</item>
+        <item quantity="one">%d блокиран елемент</item>
+    </plurals>
 </resources>

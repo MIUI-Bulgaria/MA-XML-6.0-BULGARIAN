@@ -647,4 +647,14 @@
 "</string>
   <string name="wild_prompt_str">Замяна на заместващия символ с:</string>
   <string name="livetalk_provider_info">Осигурено от %s</string>
+  <string name="jeejen_answer_call_text">Отговор на обаждане</string>
+  <string name="jeejen_card_title_call_cancel">Обаждането е отказано</string>
+  <string name="jeejen_card_title_call_ended">Обаждането завърши</string>
+  <string name="jeejen_card_title_dialing">Набиране</string>
+  <string name="jeejen_card_title_in_call"/>
+  <string name="jeejen_card_title_incoming_call">Входящо обаждане</string>
+  <string name="jeejen_card_title_on_hold"/>
+  <string name="jeejen_end_call_text">Прекрати обаждането</string>
+  <string name="jeejen_reject_call_text">Откажи обаждането</string>
+  <string name="jeejen_toggle_dialpad_text">Клавиатура</string>
 </resources>

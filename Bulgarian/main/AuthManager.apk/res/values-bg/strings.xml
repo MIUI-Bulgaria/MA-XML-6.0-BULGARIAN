@@ -246,9 +246,9 @@
   <string name="HIPS_Perm_Read_SMS">Четене на SMS съобщенията</string>
   <string name="HIPS_Perm_Read_SMS_Desc">четене на вашите SMS съобшения</string>
   <string name="HIPS_Perm_Read_SMS_Hint">%1$s приложения могат да четат вашите SMS съобшения</string>
-  <string name="HIPS_Perm_Xiaomi_Account">Xiaomi профил</string>
-  <string name="HIPS_Perm_Xiaomi_Account_Desc">Достъп до вашия Xiaomi профил</string>
-  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s приложения имат достъп до Xiaomi профила ви</string>
+  <string name="HIPS_Perm_Xiaomi_Account">Mi профил</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Desc">Достъп до вашия Mi профил</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s приложения имат достъп до Mi профила ви</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Разреши веднъж (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Забрани веднъж (%d)</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" няма разрешение за %2$s. Може да промените разрешенията на приложението от Оптимизация &gt; Разрешения."</string>
