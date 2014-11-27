@@ -676,4 +676,9 @@
   <string name="toast_virus_cloudscan">Сканиране за вируси чрез онлайн дефинициите</string>
   <string name="power_dialog_wifi_title">Wi-Fi</string>
   <string name="power_mode_keep_state">Както е зададено</string>
+  <string name="SMS_and_MMS">SMS и MMS</string>
+  <string name="call_and_contact">Обаждания и Контакти</string>
+  <string name="info_and_call">Обаждания и съобщения</string>
+  <string name="permission_with_SMS_and_MMS">Разрешения, свързани с SMS и MMS</string>
+  <string name="permission_with_call_and_contact">Разрешения, свързани с телефонни обаждания, данни на контакти и списъци с повиквания.</string>
 </resources>

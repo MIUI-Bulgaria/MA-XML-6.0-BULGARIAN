@@ -296,4 +296,9 @@
   <string name="zhushen"/>
   <string name="anniversary_term">годишнина</string>
   <string name="birthday_term">рожден ден</string>
+  <string name="can_not_modify_allday_event">Целодневно събитие не може да бъде променяно</string>
+  <string name="can_not_modify_event">Не може да бъде променяно</string>
+  <string name="can_not_modify_repeating_acrossing_days_event">Повтарящо и няколкодневно събитие не може да бъде променяно</string>
+  <string name="edit_event_reminder_off_toast">Стандартното известяване не е зададено</string>
+  <string name="xiaomi_calendar_display_name">Xiaomi Календар</string>
 </resources>

@@ -574,4 +574,24 @@
   <string name="auto_upload_album_comfirm_to_share">Налице е албум, който ще бъде качен автоматично. Сигурни ли сте, че ще го споделите?</string>
   <string name="auto_upload_tip">След като активирате настройката, ще бъде създаден албум със същото име. Съществуващият албум със същото име (включително споделен с приятели албум) ще бъде слят с новия.</string>
   <string name="auto_upload_title">Автоматично качване</string>
+  <string name="do_not_save">Не запазвай</string>
+  <string name="enable">Включи</string>
+  <string name="error_share_not_support">Обединяването на споделени албуми временно не се поддържа</string>
+  <string name="external_sdcard_root">Главна папка на външната SD карта</string>
+  <string name="free">Свободно</string>
+  <string name="internal_sdcard_root">Главна папка на вътрешна SD карта</string>
+  <string name="original">Оригинал</string>
+  <string name="original_scale">Оригинален мащаб</string>
+  <string name="paint_crop_cancel_context">Да се запази ли подрязаната снимка?</string>
+  <string name="paint_crop_cancel_title">Отмяна на промените</string>
+  <string name="paint_crop_tips">За да получите по-добра снимка, опитайте да поставите нейните интересни части в решетката от точки чрез преоразмеряване и преместване.</string>
+  <string name="pick_with_limited_upper_bound_title">Можете да изберете %d елементи</string>
+  <string name="pocket_camera_picture">Снимки</string>
+  <string name="pocket_camera_video">Видеоклипове</string>
+  <string name="same_name_album_exists_alert">Вече съществува споделен албум със същото име. Да се качи ли автоматично снимката в този албум?</string>
+  <string name="sdcard_root">Главна папка на SD карта</string>
+  <string name="select_auto_upload_albums">Избор на албуми за качване в облака</string>
+  <string name="square">Квадрат</string>
+  <string name="weixin">WeChat</string>
+  <string name="yunyi_pocket_camera">Фотоапарат</string>
 </resources>

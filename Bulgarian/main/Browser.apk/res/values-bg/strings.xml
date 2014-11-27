@@ -741,4 +741,11 @@
   <string name="close_ads_choice_yes">Да</string>
   <string name="close_ads_message">Това съдържание няма да се отваря. Да се блокира ли автоматично? Блокираното съдържание може да видите в Настройки > Потребителски правила</string>
   <string name="close_ads_title">Подсказка</string>
+  <string name="find_on_page_cancel">Отказ</string>
+  <string name="find_on_page_matches">%d съвпадения</string>
+  <string name="find_on_page_next">Напред</string>
+  <string name="find_on_page_prev">Назад</string>
+  <string name="maximum_input_alert">Максимум въведете 2048 символа</string>
+  <string name="url_find_on_page_result">Преглед в Браузър</string>
+  <string name="url_find_on_page_result_item">Преглед на целия текст на \"%s\"</string>
 </resources>

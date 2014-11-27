@@ -219,4 +219,5 @@
   <string name="widget_gadget_player">Музика</string>
   <string name="widget_global_search">Търсене</string>
   <string name="app_being_backup_message">Приложението е архивирано.</string>
+  <string name="editing_mode_enter_tip_text">Щипнете за редактиране на началния екран</string>
 </resources>

@@ -275,4 +275,5 @@
   <string name="set_lyric_successful">Успешно задаване на текст</string>
   <string name="song_name">Песен</string>
   <string name="start_to_play">Пусни</string>
+  <string name="can_not_find_resource">Не са открити ресурси</string>
 </resources>

@@ -709,4 +709,22 @@ you need available network."</string>
   <string name="sport_share">Share now</string>
   <string name="vibrate_notify">Vibration Status</string>
   <string name="vibrate_notify_tips">Show bracelet vibration info in status bar</string>
+  <string name="birthday">Birthday</string>
+  <string name="bracelet_store_desc">Band store</string>
+  <string name="buy_bracelet_desc">Buy a band.</string>
+  <string name="closed">Closed</string>
+  <string name="please_input_birthday">Birthday</string>
+  <string name="sport_coming_soon">Check for news!</string>
+  <string name="sport_running_altitude">Altitude</string>
+  <string name="sport_running_average_speed">Average</string>
+  <string name="sport_running_burn">Burn</string>
+  <string name="sport_running_cost_cal">%.1f Kcal</string>
+  <string name="sport_running_distance">Distance</string>
+  <string name="sport_running_end_time">End</string>
+  <string name="sport_running_history_date" formatted="false">%d/%d/%d</string>
+  <string name="sport_running_history_no_data">No data</string>
+  <string name="sport_running_history_title">History</string>
+  <string name="sport_running_prepare_map">Preparing map for share...</string>
+  <string name="sport_running_start_time">Start</string>
+  <string name="sport_running_step">Steps</string>
 </resources>

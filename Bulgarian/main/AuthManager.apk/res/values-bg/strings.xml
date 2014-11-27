@@ -232,4 +232,24 @@
   <string name="SysOpt_Boost_Boot">Стартиране</string>
   <string name="SysOpt_Boost_Receiver">На заден план</string>
   <string name="app_name">Разрешения</string>
+  <string name="HIPS_Action_Accept_Once">Разреши веднъж</string>
+  <string name="HIPS_Action_Reject_Once">Забрани веднъж</string>
+  <string name="HIPS_Perm_Read_Call_Log">Четене на списъка ви с повиквания</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">четене на списъка ви с повиквания</string>
+  <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s приложения могат да четат списъка ви с повиквания</string>
+  <string name="HIPS_Perm_Read_Contact">Четене на контактите ви</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">четене на контактите ви</string>
+  <string name="HIPS_Perm_Read_Contact_Hint">%1$s приложения могат да четат контактите ви</string>
+  <string name="HIPS_Perm_Read_MMS">Четене на MMS съобщенията</string>
+  <string name="HIPS_Perm_Read_MMS_Desc">четене на вашите мултимедийни съобшения</string>
+  <string name="HIPS_Perm_Read_MMS_Hint">%1$s приложения могат да четат вашите MMS съобщения</string>
+  <string name="HIPS_Perm_Read_SMS">Четене на SMS съобщенията</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">четене на вашите SMS съобшения</string>
+  <string name="HIPS_Perm_Read_SMS_Hint">%1$s приложения могат да четат вашите SMS съобшения</string>
+  <string name="HIPS_Perm_Xiaomi_Account">Xiaomi профил</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Desc">Достъп до вашия Xiaomi профил</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s приложения имат достъп до Xiaomi профила ви</string>
+  <string name="HIPS_SecurityPrompt_Accept_Once">Разреши веднъж (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_Once">Забрани веднъж (%d)</string>
+  <string name="permisson_reject_notice_toast_text">"\"%1$s\" няма разрешение за %2$s. Може да промените разрешенията на приложението от Оптимизация &gt; Разрешения."</string>
 </resources>

@@ -287,4 +287,16 @@
   <string name="st_antispam_title_service_sms">Известия за услуги</string>
   <string name="button_text_delete">Изтрий</string>
   <string name="read_all_sms">Прочетени</string>
+  <string name="call_transfer_block">Блокиране на пренас. обаждания</string>
+  <string name="call_transfer_block_type">Блокиране на пренас. обаждания</string>
+  <string name="call_transfer_info">Блокирани на обаждания, пренасочени от неизвестни номера</string>
+  <string name="mark_banking_insurance">Застрахователен агент</string>
+  <string name="mark_banking_insurance_block">Докладван като застр. агент</string>
+  <string name="report_error">Съобщението не може да се докладва</string>
+  <string name="report_error_not_net">Няма връзка с мрежата</string>
+  <string name="report_only">Изберете съобщение за докладване</string>
+  <string name="report_sms">Докладвай съобщения</string>
+  <string name="report_success">Съобщението е докладвано</string>
+  <string name="special_number_group">Блокиране на специални номера</string>
+  <string name="st_title_other_group">Други</string>
 </resources>
