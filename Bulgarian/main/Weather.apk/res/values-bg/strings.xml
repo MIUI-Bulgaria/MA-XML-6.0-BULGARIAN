@@ -72,4 +72,6 @@
   <string name="activity_weathermain_locationg_error">Неуспешно локализиране</string>
   <string name="activity_main_time_format">dd.MM.</string>
   <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
+  <string name="first_start_network_msg">За да получите данни за времето, трябва да се свържете с интернет.</string>
+  <string name="first_start_network_title">Известие за свързване</string>
 </resources>

@@ -361,4 +361,6 @@
   <string name="update_size_prefix">&lt;CDATA&gt;Размер:&lt;/CDATA&gt;</string>
   <string name="update_title">Налична е актуализация</string>
   <string name="update_version_prefix">&lt;CDATA&gt;Акт. до версия:&lt;/CDATA&gt;</string>
+  <string name="use_cellular_offlinedownload_summary">Показване на известие, когато се използват мобилни данни за изтегляне на видео</string>
+  <string name="use_cellular_offlinedownload_title">Известие при изтегляне</string>
 </resources>

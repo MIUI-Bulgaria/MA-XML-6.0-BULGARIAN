@@ -9,4 +9,12 @@
         <item quantity="other">%1$d минути</item>
         <item quantity="one">1 минута</item>
     </plurals>
+    <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d минути</item>
+        <item quantity="one">%1$d минута</item>
+    </plurals>
+    <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d секунди</item>
+        <item quantity="one">%1$d секунда</item>
+    </plurals>
 </resources>

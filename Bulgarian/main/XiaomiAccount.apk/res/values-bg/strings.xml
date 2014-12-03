@@ -265,4 +265,8 @@
   <string name="logout_failed">Неуспешно отписване</string>
   <string name="timeout_retry">Времето за заявката изтече, опитайте отново.</string>
   <string name="authorize_title">Оторизация</string>
+  <string name="micloud_sync_state_need_wifi">Използвайте Wi-Fi за синхр.</string>
+  <string name="micloud_sync_state_stop">Спряно</string>
+  <string name="micloud_sync_state_synced">Синхронизирано</string>
+  <string name="micloud_sync_state_syncing">Синхр. се</string>
 </resources>

@@ -187,4 +187,15 @@
   <string name="set_auto_msg">Автоматично изтегляне на актуализациите чрез Wi-Fi</string>
   <string name="set_auto_update_title">Авт. изтеглене на актуализациите</string>
   <string name="title_toast_auto">Актуализациите ще се изтеглят автоматично</string>
+  <string name="auto_agree_clause">"Нашата обновена Политика на поверителност е вече в сила. "</string>
+  <string name="auto_button_examine">Преглед</string>
+  <string name="auto_button_examine_immediately">Преглед</string>
+  <string name="auto_button_sure_cancel">Отказ</string>
+  <string name="auto_check_clause_button">Преглед</string>
+  <string name="auto_check_clause_msg">"Трябва да приемете нашата обновена Политика на поверителност, преди да актуализирате системата си. "</string>
+  <string name="auto_dialog_msg">"Обновихме нашата Политика на поверителност. Моля, прочетете внимателно, преди актуализиране на системата ви. "</string>
+  <string name="auto_dialog_msg_check_again">"Трябва да приемете нашата обновена Политика на поверителност, преди да актуализирате системата си. "</string>
+  <string name="auto_dialog_title_check_again">Отмяна на актуализацията?</string>
+  <string name="important_suggestion">Политиката на поверителност е променена</string>
+  <string name="updater_nonetwork_clause">Свържете се с интернет за преглед на обновената Политика на поверителност</string>
 </resources>

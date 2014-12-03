@@ -100,7 +100,7 @@
   <string name="timer_item_label_hint">Име на таймера</string>
   <string name="timer_item_picker_minute">мин.</string>
   <string name="timer_item_picker_second">сек.</string>
-  <string name="timer_message">%1$d минути</string>
+  <string name="timer_message">%1$d минути и %2$d секунди</string>
   <string name="timer_message_with_hour">%1$d часа и %2$d минути</string>
   <string name="timer_message_with_seconds">%1$d секунди</string>
   <string name="timer_new_item">Добави таймер</string>
@@ -116,4 +116,7 @@
   <string name="worldclock_title">Часовници</string>
   <string name="timer_notify_text">Заглушаване или отмяна на таймера.</string>
   <string name="edit_systemtime">Промяна на системното време</string>
+  <string name="timer_message_00">%1$d минута и %2$d секунди</string>
+  <string name="timer_message_01">%1$d минута и %2$d секунди</string>
+  <string name="timer_message_10">%1$d минути и %2$d секунди</string>
 </resources>

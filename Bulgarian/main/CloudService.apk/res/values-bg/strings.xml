@@ -252,4 +252,10 @@
   <string name="micloud_detail_wlan_contact">Несинхр.: %d снимки на контакти</string>
   <string name="micloud_detail_wlan_mms">Несинхр.: %d MMS</string>
   <string name="micloud_web_discription">Влезте на i.mi.com за съхраняване и достъп до вашите файлове отвсякъде</string>
+  <string name="micloud_check_sim_notify_text">"Изглежда сте сменили SIM картите. Влезте с
+вашия Mi профил за повторно активиране на Mi Cloud."</string>
+  <string name="micloud_check_sim_notify_title">Повт. активиране на Mi Cloud</string>
+  <string name="micloud_check_sim_title">"Изглежда сте сменили SIM картите. Влезте с
+вашия Mi профил за повторно активиране на Mi Cloud."</string>
+  <string name="micloud_main_sync_exception">Грешка при синхр.</string>
 </resources>
