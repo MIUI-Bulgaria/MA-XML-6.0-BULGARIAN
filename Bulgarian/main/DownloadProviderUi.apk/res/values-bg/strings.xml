@@ -141,4 +141,5 @@
   <string name="dialog_confirm_delete_checkbox_message">Изтрий и локалните файлове</string>
   <string name="dialog_confirm_delete_downloads_message">Да се изтрият ли %d задачи?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Изтрий тези задачи</string>
+  <string name="download_filesize_unknown">неизвестно</string>
 </resources>

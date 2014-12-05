@@ -351,4 +351,14 @@ For more info check the message you received from your service provider"</string
   <string name="privacy_declare_dialog_title">Правила и условия</string>
   <string name="sc_allow_network_dialog_message">Трябва да разрешите на приложението връзка с интернет, за да работи нормално.</string>
   <string name="sc_allow_network_dialog_tiltle">Спестяване на данни не работи</string>
+  <string name="privacy_prompt_purchase_history_message">"Вашия телефонен номер и данни за оператора ще бъдат изпратени до сървърите на Xiaomi за получаване на историята с поръчките ви за мобилни данни."</string>
+  <string name="privacy_prompt_tc_sms_report_message">"Вашия телефонен номер и данни за оператора ще бъдат изпратени до сървърите на Xiaomi с цел обновяване на информацията за използваните от вас данни."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"Вашия телефонен номер и данни за оператора ще бъдат изпратени до сървърите на Xiaomi за обновяване на шаблоните за SMS заявки и за проверка дали услугата се поддържа в региона ви."</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Вашия телефонен номер и данни за оператора ще бъдат изпратени до сървърите на Xiaomi за получаване на възможните опции за поръчка на мобилни данни."</string>
+  <string name="privacy_prompt_upload">Известие за поверителност</string>
+  <string name="tc_sms_report_get_default">"Операторът не начислява такси за SMS съобщения за получаване на баланса на използваните данни."</string>
+  <string name="traffic_config_alert_body_extra">"
+Закупихте %1$s допълнителни моб. данни този месец. Това е различно от това, което сте въвели ръчно: %2$s."</string>
+  <string name="traffic_config_alert_body_extra_notset">"
+Закупихте %s допълнителни моб. данни този месец. Това не се отразява на лимита за данни, който сте въвели ръчно."</string>
 </resources>

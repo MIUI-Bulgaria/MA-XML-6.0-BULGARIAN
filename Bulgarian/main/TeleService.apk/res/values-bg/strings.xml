@@ -855,4 +855,5 @@
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Prefer 3G networks(CDMA)</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">Слотът за SIM 2 поддържа само GSM мрежи. Предпочитания режим на мрежата бе променен на само 2G.</string>
   <string name="uplmn_numeric_is_empty">Въведете ID на мрежата</string>
+  <string name="call_recording_notification_toggle_title">Известие за запис на обаждане</string>
 </resources>

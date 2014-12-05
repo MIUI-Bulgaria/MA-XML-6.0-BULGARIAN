@@ -88,4 +88,19 @@
   <string name="cta_dialog_title">Известие за свързване</string>
   <string name="cta_not_show_again">Не показвай отново</string>
   <string name="toast_feedback_network_unavailable">Мрежата е недостъпна</string>
+  <string name="button_feedback">Друго</string>
+  <string name="button_plus">+1</string>
+  <string name="common_problem_empty">Празно</string>
+  <string name="err_type_hardware">Хардуер</string>
+  <string name="err_type_hardware_summary">Бутони, зареждане, сензори и т.н.</string>
+  <string name="err_type_mysuggestion">Предложения</string>
+  <string name="err_type_mysuggestion_summary">Споделете идеи и напишете отзив до нас</string>
+  <string name="err_type_system">Система</string>
+  <string name="err_type_system_summary">Памет, производителност и т.н.</string>
+  <string name="err_type_xiaomi_family">Mi семейство</string>
+  <string name="err_type_xiaomi_service">Обслужване на клиенти</string>
+  <string name="problem_detail">Основание</string>
+  <string name="problem_solution">Решение</string>
+  <string name="problem_title">Описание</string>
+  <string name="title_common_problem">Чести грешки</string>
 </resources>

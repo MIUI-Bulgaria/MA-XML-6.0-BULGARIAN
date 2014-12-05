@@ -9,4 +9,9 @@
         <item>За музика</item>
         <item>За човешки глас</item>
     </string-array>
+    <string-array name="x5_record_scenes_entries">
+        <item>Музика</item>
+        <item>Глас</item>
+        <item>Интервю</item>
+    </string-array>
 </resources>
