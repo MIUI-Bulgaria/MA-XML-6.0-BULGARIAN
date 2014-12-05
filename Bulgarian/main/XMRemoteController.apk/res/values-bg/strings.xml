@@ -140,7 +140,7 @@
   <string name="splash_add_device_des">Добавете вашите домашни уреди</string>
   <string name="splash_desc">Днес вече вашият телефон може да замени дистанцоинните устройства у дома.</string>
   <string name="stb">STB</string>
-  <string name="succeed_content">След като натиснете %1$s и %2$s, ще добавите успешно устройството%3$s %4$s</string>
+  <string name="succeed_content">Свързахте успешно %3$s %4$s.</string>
   <string name="succeed_finish">Добавено</string>
   <string name="succeed_title">Завършване</string>
   <string name="supporting_soon">Очаквайте скоро</string>

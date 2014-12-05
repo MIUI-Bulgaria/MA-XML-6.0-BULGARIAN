@@ -627,7 +627,7 @@
   <string name="examination_score_100_with_recommend">%d елементи могат да се оптимизират</string>
   <string name="examination_score_80_100_with_recommend">%d елементи могат да се оптимизират</string>
   <string name="hints_scanning_text">Сканира се…</string>
-  <string name="hints_storage_free_size">Свободна памет</string>
+  <string name="hints_storage_free_size">%s свободни</string>
   <string name="manual_handle_title">Ръчно оптимизиране</string>
   <string name="manual_item_white_list_summary">Ръчно упр. на изключенията</string>
   <string name="manual_item_white_list_title">Някои прил. могат да се оптимизират</string>
