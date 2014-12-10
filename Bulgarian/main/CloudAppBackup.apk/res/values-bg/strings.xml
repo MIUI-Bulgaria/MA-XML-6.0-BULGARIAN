@@ -117,4 +117,6 @@
   <string name="stop_backup">Спри</string>
   <string name="v5tov6_complete">Трансферът завърши</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="button_continue">Продължи</string>
+  <string name="button_stop">Стоп</string>
 </resources>

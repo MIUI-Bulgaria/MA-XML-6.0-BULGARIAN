@@ -198,4 +198,6 @@
   <string name="auto_dialog_title_check_again">Отмяна на актуализацията?</string>
   <string name="important_suggestion">Политиката на поверителност е променена</string>
   <string name="updater_nonetwork_clause">Свържете се с интернет за преглед на обновената Политика на поверителност</string>
+  <string name="notification_reboot_summary_hm">Докоснете, за да рестартирате устройството.</string>
+  <string name="notification_reboot_title_hm">Рестарт за прилагане на актуализацията</string>
 </resources>

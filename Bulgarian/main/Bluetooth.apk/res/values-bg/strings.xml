@@ -124,4 +124,10 @@
   <string name="upload_succ_line5">Файлът изпратен!</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">Успешно изпратени: %1$s.</string>
+  <string name="bluetooth_preference_connected_devices">Свързани устройства</string>
+  <string name="bluetooth_preference_found_devices">Достъпни устройства</string>
+  <string name="bluetooth_preference_scan_title">Сканиране за устройства</string>
+  <string name="bluetooth_search_for_devices">Търсене на устройства</string>
+  <string name="device_picker">Избор на Bluetooth устройство</string>
+  <string name="progress_scanning">Търси се</string>
 </resources>

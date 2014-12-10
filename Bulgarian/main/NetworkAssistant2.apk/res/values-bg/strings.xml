@@ -361,4 +361,6 @@ For more info check the message you received from your service provider"</string
 Закупихте %1$s допълнителни моб. данни този месец. Това е различно от това, което сте въвели ръчно: %2$s."</string>
   <string name="traffic_config_alert_body_extra_notset">"
 Закупихте %s допълнителни моб. данни този месец. Това не се отразява на лимита за данни, който сте въвели ръчно."</string>
+  <string name="show_traffic_dialog_message">Използваните от вас данни ще се показват в лентата с известия. Може да превключвате тази функция от Монитор за данни > Настройки</string>
+  <string name="show_traffic_dialog_title">Покажи изп. данни в лентата с известия</string>
 </resources>

@@ -45,4 +45,5 @@
   <string name="using_camera_confirm_message">Компас използва и приложението Камера.</string>
   <string name="using_camera_confirm_ok">ОК</string>
   <string name="using_camera_confirm_title">Условия и споразумения</string>
+  <string name="shake_enter_tip">Разклатете за калибриране</string>
 </resources>
