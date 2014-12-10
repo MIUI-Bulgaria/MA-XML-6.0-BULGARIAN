@@ -11,4 +11,5 @@
   <string name="aqi_quality_index_pure">ИКВ %1$s</string>
   <string name="aqi_quality_index_unhealthy">ИКВ %1$s</string>
   <string name="view_indexes_wind_unit">км/ч</string>
+  <string name="view_realtime_clear_substitution">Ясно</string>
 </resources>

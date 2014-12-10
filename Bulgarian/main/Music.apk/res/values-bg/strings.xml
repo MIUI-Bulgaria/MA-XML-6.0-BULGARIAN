@@ -276,4 +276,7 @@
   <string name="song_name">Песен</string>
   <string name="start_to_play">Пусни</string>
   <string name="can_not_find_resource">Не са открити ресурси</string>
+  <string name="bluetooth_device">Bluetooth устройство</string>
+  <string name="device_connected">Свързано</string>
+  <string name="device_not_connected">Не е свързано</string>
 </resources>

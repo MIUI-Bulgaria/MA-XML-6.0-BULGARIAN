@@ -142,4 +142,8 @@
   <string name="dialog_confirm_delete_downloads_message">Да се изтрият ли %d задачи?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Изтрий тези задачи</string>
   <string name="download_filesize_unknown">неизвестно</string>
+  <string name="privacy_tip_cancel">Отказ</string>
+  <string name="privacy_tip_content">"Да се използва ли Xunlei Accelerator за по-бързо изтегляне? URL адреса на хоста на изтеглянията ще бъде качен на сървърите на Xunlei. Детайлите на вашия Mi профил също ще бъдат качени за проверка за активни абонаменти за тази услуга."</string>
+  <string name="privacy_tip_ok">ОК</string>
+  <string name="privacy_tip_title">Използване на Xunlei Accelerator?</string>
 </resources>

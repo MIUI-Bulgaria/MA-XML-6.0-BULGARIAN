@@ -37,4 +37,7 @@
         <item quantity="other">%d песни</item>
         <item quantity="one">1 песен</item>
     </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d нови</item>
+     </plurals>
 </resources>

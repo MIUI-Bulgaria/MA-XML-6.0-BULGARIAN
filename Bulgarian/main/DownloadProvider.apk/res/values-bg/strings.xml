@@ -43,4 +43,11 @@
 
 Докоснете „%s “, за да започнете изтеглянето при следващото свързване с Wi-Fi мрежа."</string>
     <string name="wifi_required_title">Изтеглянето е твърде голямо за мобилната мрежа</string>
+    <string name="privacy_notif_content">Чукнете за преглед на детайлите.</string>
+    <string name="privacy_notif_title">Xunlei Download Accelerator е вкл.</string>
+    <string name="privacy_tip_cancel">Отказ</string>
+    <string name="privacy_tip_content">"Да се използва ли Xunlei Accelerator за по-бързо изтегляне? URL адреса на хоста на изтеглянията ще бъде качен на сървърите на Xunlei. Детайлите на вашия Mi профил също ще бъдат качени за проверка за активни абонаменти за тази услуга."</string>
+    <string name="privacy_tip_ok">ОК</string>
+    <string name="privacy_tip_title">Използване на Xunlei Accelerator?</string>
+    <string name="task_already_exist">Задачата вече съществува</string>
 </resources>

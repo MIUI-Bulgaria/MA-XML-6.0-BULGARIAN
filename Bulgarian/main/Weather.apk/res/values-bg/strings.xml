@@ -74,4 +74,6 @@
   <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
   <string name="first_start_network_msg">За да получите данни за времето, трябва да се свържете с интернет.</string>
   <string name="first_start_network_title">Известие за свързване</string>
+  <string name="international_detail_menu_title">Детайли</string>
+  <string name="view_realtime_clear_substitution">Ясно</string>
 </resources>

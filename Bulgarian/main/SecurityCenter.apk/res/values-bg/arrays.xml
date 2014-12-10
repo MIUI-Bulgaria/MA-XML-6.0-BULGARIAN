@@ -42,4 +42,15 @@
         <item>Включване</item>
         <item>Както е зададено</item>
     </string-array>
+    <string-array name="auto_clean_size">
+        <item>100 МБ</item>
+        <item>300 МБ</item>
+        <item>500 МБ</item>
+        <item>1 ГБ</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Всеки ден</item>
+        <item>На 3 дни</item>
+        <item>На 7 дни</item>
+    </string-array>
 </resources>

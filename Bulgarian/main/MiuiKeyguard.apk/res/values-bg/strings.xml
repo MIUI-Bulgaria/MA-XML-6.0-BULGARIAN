@@ -73,7 +73,7 @@
     <string name="short_pukcode_error_msg">Въведете най-малко 8 цифри.</string>
     <string name="starting_camera_string">Стартиране на камерата</string>
     <string name="unlock_sim_string">Разблокиране на SIM</string>
-    <string name="unlock_string">OK</string>
+    <string name="unlock_string">Отключи</string>
     <string name="unlocking_sim_card">Разблокиране на SIM картата</string>
     <string name="unlockscreen_low_battery">Свържете зарядното устройство</string>
     <string name="unlockscreen_recharge_completed">Батерията е заредена</string>
