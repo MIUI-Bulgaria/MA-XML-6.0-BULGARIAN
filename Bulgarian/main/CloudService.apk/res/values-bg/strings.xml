@@ -130,7 +130,7 @@
   <string name="full_space">Хранилището е пълно</string>
   <string name="internet">Интернет</string>
   <string name="internet_disconnected">Няма връзка</string>
-  <string name="less_flow_mode">Режим на синхр.</string>
+  <string name="less_flow_mode">Ползване на моб. данни за синхр.</string>
   <string name="micloud">Mi Cloud</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
@@ -145,7 +145,7 @@
   <string name="micloud_unlogin_for_time_summary" />
   <string name="micloud_unlogin_for_time_title">Активирай Mi Cloud</string>
   <string name="normal">Нормално</string>
-  <string name="only_in_wlan">Само по Wi-Fi</string>
+  <string name="only_in_wlan">Изкл.</string>
   <string name="photo">Снимки</string>
   <string name="remind_later">По-късно</string>
   <string name="setting">Настройки</string>
@@ -251,7 +251,7 @@
   <string name="micloud_detail_wlan">Несинхр.: %d</string>
   <string name="micloud_detail_wlan_contact">Несинхр.: %d снимки на контакти</string>
   <string name="micloud_detail_wlan_mms">Несинхр.: %d MMS</string>
-  <string name="micloud_web_discription">Влезте на i.mi.com за съхраняване и достъп до вашите файлове отвсякъде</string>
+  <string name="micloud_web_discription">Посетете i.mi.com</string>
   <string name="micloud_check_sim_notify_text">"Изглежда сте сменили SIM картите. Влезте с
 вашия Mi профил за повторно активиране на Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Повт. активиране на Mi Cloud</string>
@@ -260,4 +260,5 @@
   <string name="micloud_main_sync_exception">Грешка при синхр.</string>
   <string name="phone_number_may_required_dspt_provision">"Тази услуга може да изисква вашия телефонен номер. "</string>
   <string name="phone_number_required_dspt_provision">"Тази услуга изисква вашия телефонен номер. "</string>
+  <string name="micloud_web_discription_international">Посетете www.mi.com/micloud</string>
 </resources>
