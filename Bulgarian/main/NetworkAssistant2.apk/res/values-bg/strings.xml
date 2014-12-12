@@ -347,7 +347,7 @@ For more info check the message you received from your service provider"</string
   <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
   <string name="tc_sms_report_tips_dialog_title">SMS с отчет за използваните данни</string>
   <string name="input_used_max_hint">Въведете изп. данни (по-малко от %s)</string>
-  <string name="privacy_declare_dialog_message">"Използвайки тази услуга, вие приемате &lt;a href=http://max.oupeng.com/eula.html&gt; Правилата и условията&lt;/a&gt; на Opera."</string>
+  <string name="privacy_declare_dialog_message">"Използвайки тази услуга, вие приемате &lt;a href=%s&gt; Правилата и условията&lt;/a&gt; на Opera."</string>
   <string name="privacy_declare_dialog_title">Правила и условия</string>
   <string name="sc_allow_network_dialog_message">Трябва да разрешите на приложението връзка с интернет, за да работи нормално.</string>
   <string name="sc_allow_network_dialog_tiltle">Спестяване на данни не работи</string>

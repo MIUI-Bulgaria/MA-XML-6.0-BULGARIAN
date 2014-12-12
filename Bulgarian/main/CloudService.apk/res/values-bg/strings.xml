@@ -258,4 +258,6 @@
   <string name="micloud_check_sim_title">"Изглежда сте сменили SIM картите. Влезте с
 вашия Mi профил за повторно активиране на Mi Cloud."</string>
   <string name="micloud_main_sync_exception">Грешка при синхр.</string>
+  <string name="phone_number_may_required_dspt_provision">"Тази услуга може да изисква вашия телефонен номер. "</string>
+  <string name="phone_number_required_dspt_provision">"Тази услуга изисква вашия телефонен номер. "</string>
 </resources>

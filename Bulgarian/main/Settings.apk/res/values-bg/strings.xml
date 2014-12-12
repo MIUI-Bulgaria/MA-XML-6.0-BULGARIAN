@@ -2893,4 +2893,8 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
   <string name="music_dirac_mode_piston_basic">Обикновени</string>
   <string name="stable_build">" | Стабилен"</string>
+  <string name="font_size_summary1"/>
+  <string name="font_size_summary2"/>
+  <string name="title_font">Шрифт</string>
+  <string name="title_font_current">Ползва се</string>
 </resources>

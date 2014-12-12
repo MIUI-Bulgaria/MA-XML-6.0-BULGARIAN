@@ -23,4 +23,14 @@
         <item>Всички промоции</item>
         <item>Моите промоции</item>
     </string-array>
+    <string-array name="movie_channel_tabs">
+        <item>Препоръчани</item>
+        <item>Популярни</item>
+        <item>Горещи</item>
+        <item>Най-нови</item>
+    </string-array>
+    <string-array name="variety_channel_tabs">
+        <item>Препоръчани</item>
+        <item>Горещи</item>
+    </string-array>
 </resources>
