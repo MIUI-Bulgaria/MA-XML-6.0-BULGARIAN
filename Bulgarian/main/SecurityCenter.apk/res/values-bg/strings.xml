@@ -707,4 +707,7 @@
   <string name="summary_never_flow_verify">Не фиксирай обем на използвани данни</string>
   <string name="title_network_switch">Предупреждение</string>
   <string name="toast_network_switch">Разрешено</string>
+  <string name="pref_category_title_lock_screen_memory_clean">Почистване на закл. екран</string>
+  <string name="pref_summary_lock_screen_memory_clean">Автоматично почистване, когато устройството ви е заключено</string>
+  <string name="pref_title_lock_screen_memory_clean">Почистване на закл. екран</string>
 </resources>
