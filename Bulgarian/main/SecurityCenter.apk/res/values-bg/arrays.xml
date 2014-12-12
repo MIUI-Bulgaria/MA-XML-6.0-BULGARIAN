@@ -53,4 +53,15 @@
         <item>На 3 дни</item>
         <item>На 7 дни</item>
     </string-array>
+    <string-array name="auto_memory_clean">
+        <item>След 1 минута</item>
+        <item>След 5 минути</item>
+        <item>След 10 минути</item>
+        <item>Никога</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Запитване с известие</item>
+        <item>Почистване на заден план</item>
+        <item>Показване на известие след почистване</item>
+    </string-array>
 </resources>

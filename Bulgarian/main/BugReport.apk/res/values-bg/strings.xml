@@ -103,4 +103,8 @@
   <string name="problem_solution">Решение</string>
   <string name="problem_title">Описание</string>
   <string name="title_common_problem">Чести грешки</string>
+  <string name="submit_dialog_cancel">Отказ</string>
+  <string name="submit_dialog_confirm">Изпрати</string>
+  <string name="submit_dialog_content">"Вашият отзив, заедно с логовете за грешки и прикачените снимки, ще бъдат изпратени на сървърите на Xiaomi."</string>
+  <string name="submit_dialog_title">Изпращане на доклад до Xiaomi</string>
 </resources>
