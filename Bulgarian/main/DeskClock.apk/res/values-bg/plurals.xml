@@ -17,4 +17,8 @@
         <item quantity="other">%1$d секунди</item>
         <item quantity="one">%1$d секунда</item>
     </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Заглуши за %d мин.</item>
+        <item quantity="one">Заглуши за %d мин.</item>
+    </plurals>
 </resources>

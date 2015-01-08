@@ -579,4 +579,29 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Бърза</item>
         <item>Най-бърза</item>
     </string-array>
+    <string-array name="agps_network_entries">
+        <item>Домашна мрежа</item>
+        <item>Всички мрежи</item>
+    </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 инча</item>
+        <item>4.0 инча</item>
+        <item>3.5 инча</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>Променя контраста според светлината</item>
+        <item>Повишава контраста на екрана</item>
+        <item>Контрастът няма да се промени</item>
+    </string-array>
+    <string-array name="screen_optimize_title">
+        <item>Автоматичен контраст</item>
+        <item>Повишен контраст</item>
+        <item>Стандартно</item>
+    </string-array>
+    <string-array name="whetstone_level_entries">
+        <item>Изкл.</item>
+        <item>Ниско</item>
+        <item>Средно</item>
+        <item>Високо</item>
+    </string-array>
 </resources>

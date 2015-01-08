@@ -107,4 +107,14 @@
   <string name="submit_dialog_confirm">Изпрати</string>
   <string name="submit_dialog_content">"Вашият отзив, заедно с логовете за грешки и прикачените снимки, ще бъдат изпратени на сървърите на Xiaomi."</string>
   <string name="submit_dialog_title">Изпращане на доклад до Xiaomi</string>
+  <string name="announcement">Attention</string>
+  <string name="bugreport_dump_complete_notification_summary">Чукнете за преглед.</string>
+  <string name="bugreport_dump_complete_notification_title">Докладът е създаден</string>
+  <string name="bugreport_dump_start_notification_summary">Отнема около минута.</string>
+  <string name="bugreport_dump_start_notification_title">Създаване на доклад за грешка</string>
+  <string name="err_type_app">Приложения</string>
+  <string name="err_type_more">Още</string>
+  <string name="title_nonsystem_app">Други прил.</string>
+  <string name="title_system_app">MIUI прил.</string>
+  <string name="toast_network_unavailable">"Неуспешно изпращане. Няма връзка с мрежата."</string>
 </resources>

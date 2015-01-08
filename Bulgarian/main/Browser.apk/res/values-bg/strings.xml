@@ -754,4 +754,5 @@
   <string name="video_project_button">Стоп</string>
   <string name="video_project_msg">Показване на %s</string>
   <string name="video_project_title">Външен дисплей</string>
+  <string name="clear_history_by_group_alert">Да се изчисти ли историята от %s?</string>
 </resources>

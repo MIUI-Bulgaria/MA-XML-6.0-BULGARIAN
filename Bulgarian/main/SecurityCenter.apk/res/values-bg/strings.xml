@@ -710,4 +710,27 @@
   <string name="pref_category_title_lock_screen_memory_clean">Почистване на закл. екран</string>
   <string name="pref_summary_lock_screen_memory_clean">Автоматично почистване, когато устройството ви е заключено</string>
   <string name="pref_title_lock_screen_memory_clean">Почистване на закл. екран</string>
+  <string name="boot_day_shutdown_day">Устройството ще се включи след %1$dд в %2$s и ще се изключи след %3$dд в %4$s</string>
+  <string name="boot_reminder">Включване на устройството ви по график</string>
+  <string name="boot_reminder_day">Устройството ще се включи след %1$dд %2$dч %3$dм</string>
+  <string name="boot_reminder_day_hour">Устройството ще се включи след %1$dд %2$dч</string>
+  <string name="boot_reminder_hour">Устройството ще се включи след %1$dч %2$dм</string>
+  <string name="boot_reminder_minute">Устройството ще се включи след %1$dм</string>
+  <string name="boot_reminder_only_day">Устройството ще се включи след %1$dд</string>
+  <string name="boot_reminder_only_hour">Устройството ще се включи след %1$dч</string>
+  <string name="boot_shutdown">Устройството ще се включи в %1$s и ще се изключи в %2$s</string>
+  <string name="boot_shutdown_day">Устройството ще се включи в %1$s и ще се изключи след %2$dд в %3$s</string>
+  <string name="boot_time">Устройството ще се включи в %1$s</string>
+  <string name="boot_time_day">Устройството ще се включи след %1$dд в %2$s</string>
+  <string name="power_20s_shutdown">Устройството ще се изключи след 20 секунди</string>
+  <string name="power_center_auto_shutdown_summary_default">Включване и изключване на устройството ви в определено време</string>
+  <string name="shutdown_boot">Устройството ще се изключи в %1$s и ще се включи в %2$s</string>
+  <string name="shutdown_boot_day">Устройството ще се изключи в %1$s и ще се включи след %2$dд в %3$s</string>
+  <string name="shutdown_cancel_reminder">Предупреждение</string>
+  <string name="shutdown_cancel_reminder_detail">Устройството не беше изключено в зададеното време, защото тогава провеждахте обаждане</string>
+  <string name="shutdown_day_boot_day">Устройството ще се изключи след %1$dд в %2$s и ще се включи след %3$dд в %4$s</string>
+  <string name="shutdown_time">Устройството ще се изключи в %1$s</string>
+  <string name="shutdown_time_day">Устройството ще се изключи след %1$dд в %2$s</string>
+  <string name="summary_antivirus_oversea">Автоматично актуализиране на вирусните дефиниции</string>
+  <string name="text_antivirus_oversea">Обновяване на вирусните дефиниции</string>
 </resources>

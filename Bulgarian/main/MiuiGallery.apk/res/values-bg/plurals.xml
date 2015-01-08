@@ -45,4 +45,24 @@
         <item quantity="zero">%1$d елементи</item>
         <item quantity="one">%1$d елемент</item>
     </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d снимки</item>
+        <item quantity="one">%d снимка</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d папки</item>
+        <item quantity="one">%d папка</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d видеота</item>
+        <item quantity="one">%d видео</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">"Нямате разрешение за изтриване на тези %d файла."</item>
+        <item quantity="one">"Нямате разрешение за изтриване на този %d файл."</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Може да изберте %d елемента</item>
+        <item quantity="one">Може да изберте %d елемент</item>
+    </plurals>
 </resources>

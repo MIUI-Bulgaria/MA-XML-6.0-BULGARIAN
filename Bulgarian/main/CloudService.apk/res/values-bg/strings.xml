@@ -261,4 +261,19 @@
   <string name="phone_number_may_required_dspt_provision">"Тази услуга може да изисква вашия телефонен номер. "</string>
   <string name="phone_number_required_dspt_provision">"Тази услуга изисква вашия телефонен номер. "</string>
   <string name="micloud_web_discription_international">Посетете www.mi.com/micloud</string>
+  <string name="find_device_status_ok">Открийте устройството си отвсякъде на i.mi.com</string>
+  <string name="micloud_setting_browser_summary">Отметки, история и тагове</string>
+  <string name="micloud_setting_contact_summary">Данни и профилни снимки на контактите</string>
+  <string name="micloud_setting_gallery_summary">Снимки и видеоклипове</string>
+  <string name="micloud_setting_music_summary">Плейлисти и любими</string>
+  <string name="micloud_setting_sms_summary">SMS и MMS съобщения</string>
+  <string name="micloud_setting_wifi_summary">Настройки за Wi-Fi</string>
+  <string name="mx_dspt_provision_privacy">"Тази функция може да изисква телефонния ви номер. Вашият оператор може да ви таксува за едно SMS съобщение, използвано при активиране на функцията.
+
+Тази функция шифрова и изпраща ID на устройството ви до сървърите на Mi."</string>
+  <string name="sync_dspt_entrance_provision">"Синхронизиране на вашите снимки, контакти и съобщения, както и локализиране на устройството ви. "</string>
+  <string name="sync_dspt_entrance_provision_2">Научете повече</string>
+  <string name="sync_dspt_provision_title">Mi Cloud</string>
+  <string name="sync_resend_sms_dspt_provision">" Ако смените SIM картите си, вашият оператор може да ви таксува за едно SMS съобщение, използвано за реактивиране на услугата."</string>
+  <string name="user_agreement_title">"Условия за ползване на Mi Cloud"</string>
 </resources>

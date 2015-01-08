@@ -220,4 +220,35 @@
   <string name="widget_global_search">Търсене</string>
   <string name="app_being_backup_message">Приложението е архивирано.</string>
   <string name="editing_mode_enter_tip_text">Щипнете за редактиране на началния екран</string>
+  <string name="apply_action">Приложи</string>
+  <string name="apply_as_lock_screen">Закл. екран</string>
+  <string name="apply_as_wallpaper">Нач. екран</string>
+  <string name="apply_both">Закл. и нач. екран</string>
+  <string name="choose_wallpaper">Изберете тапет</string>
+  <string name="current_preview">Преглед</string>
+  <string name="delete">Изтрий</string>
+  <string name="delete_wallpaper_message">Да се изтрие ли избраният %1$d тапет?</string>
+  <string name="delete_wallpapers_message">Да се изтрият ли избраните %1$d тапета?</string>
+  <string name="disable_wallpaper_scroll">Изкл. превъртането на тапета</string>
+  <string name="editing_mode_title">%1$d избрани</string>
+  <string name="enable_wallpaper_scroll">Вкл. превъртането на тапета</string>
+  <string name="gadget_calculator_label">Калкулатор</string>
+  <string name="gadget_calendar_label">Календар</string>
+  <string name="gadget_notes_label">Бележки</string>
+  <string name="is_setting_wallpaper_toast">Тапетът се задава…</string>
+  <string name="is_system_wallpaper_message">Не могат да се изтриват системни ресурси</string>
+  <string name="local_wallpaper">Локални</string>
+  <string name="mi_wallpaper">MIUI тапет</string>
+  <string name="setting_wallpaper_tip">Преместване или уголемяване</string>
+  <string name="show_all">Покажи всички</string>
+  <string name="uninstall_dialog_title_multi_format" formatted="false">Деинстал. на %s и %d други прил.?</string>
+  <string name="uninstall_result_failed">"%s не може да се деинсталира"</string>
+  <string name="uninstall_result_multi_succeeded">%1$d прил. са деинсталирани</string>
+  <string name="uninstall_result_other_failed" formatted="false">"Не може да се деинсталира %s и %d други прил."</string>
+  <string name="uninstall_result_succeeded">Прил. е деинсталирано</string>
+  <string name="uninstall_result_two_failed">"Не може да се деинсталира %s и 1 друго прил."</string>
+  <string name="wallpaper">Тапет</string>
+  <string name="wallpaper_failed_message">Тапетът не може да се приложи</string>
+  <string name="wallpaper_settings">Настройки на тапет</string>
+  <string name="wallpaper_success_message">Тапетът е приложен успешно</string>
 </resources>

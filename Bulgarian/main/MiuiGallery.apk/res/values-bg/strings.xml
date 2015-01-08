@@ -594,4 +594,12 @@
   <string name="square">Квадрат</string>
   <string name="weixin">WeChat</string>
   <string name="yunyi_pocket_camera">Фотоапарат</string>
+  <string name="alert_secret_album_set_pattern">Задаване на фигура</string>
+  <string name="auto_upload_guide">Автоматично качване на снимките ви от други приложения в Mi Cloud</string>
+  <string name="auto_upload_setting_toast">Прегледайте допълнителните опции за тази функция в настройките на Mi Cloud</string>
+  <string name="new_feature">Нова функция</string>
+  <string name="no_such_album">Албумът не е открит</string>
+  <string name="not_now">Не сега</string>
+  <string name="go_setting">Преглед на настройките</string>
+  <string name="sync_third_party_app_pic_summary">Автоматично качване на снимките от някой папки на приложенията във вашия облак</string>
 </resources>

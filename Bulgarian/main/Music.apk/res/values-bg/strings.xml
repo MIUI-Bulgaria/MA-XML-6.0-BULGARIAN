@@ -279,4 +279,14 @@
   <string name="bluetooth_device">Bluetooth устройство</string>
   <string name="device_connected">Свързано</string>
   <string name="device_not_connected">Не е свързано</string>
+  <string name="bill_list_fragment_title">Класации</string>
+  <string name="channel_list_fragment_title">FM</string>
+  <string name="delete_file_as_well">Изтрий и локалния файл</string>
+  <string name="delete_file_end">Изтрий файловете напълно</string>
+  <string name="delete_file_start">Започни изтриване на избраните файлове</string>
+  <string name="no_song">Няма песни</string>
+  <string name="nowplaying_menu_item_delete">Изтрий</string>
+  <string name="project_device_mobile">Мобилно устройство</string>
+  <string name="recommend_fragment_title">Тема</string>
+  <string name="stream_quality">Качество на стрийма</string>
 </resources>

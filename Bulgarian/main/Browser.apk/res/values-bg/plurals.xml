@@ -20,4 +20,16 @@
         <item quantity="other">%d блокирани елементи</item>
         <item quantity="one">%d блокиран елемент</item>
     </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d песен</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">%d албуми</item>
+        <item quantity="one">%d албум</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">%d популярни песни</item>
+        <item quantity="one">%d популярна песен</item>
+    </plurals>
 </resources>

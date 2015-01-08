@@ -209,4 +209,12 @@
   <string name="writing">Записва се…</string>
   <string name="err_parse_external_data">Този тип файлове не се поддържа</string>
   <string name="erase_pon_pon_tile">Изтриване на маркер</string>
+  <string name="fail_get_contact_info">"Данните на контакта не могат да се получат. Уверете се, че PonPonTag има разрешение за преглед на данните на вашите контакти."</string>
+  <string name="fif_seconds">15 секунди</string>
+  <string name="five_minutes">5 минути</string>
+  <string name="never">Никога</string>
+  <string name="one_minute">1 минута</string>
+  <string name="ten_minutes">10 минути</string>
+  <string name="thir_seconds">30 секунди</string>
+  <string name="two_minutes">2 минути</string>
 </resources>

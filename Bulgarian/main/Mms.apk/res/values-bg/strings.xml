@@ -530,4 +530,18 @@
   <string name="mx_activate_dlg_title">Активиране на Mi Message</string>
   <string name="mx_activate_user_agreement_p1">"С използването на тази услуга, вие приемате условията на Mi Message "</string>
   <string name="mx_dspt_provision">Mi Message ви позволява изпращане на безплатни съобщения до други потребители на MIUI. Вашия оператор може да таксува SMS съобщението, изпратено за активиране на услугата.</string>
+  <string name="audio_download_failed">изтеглянето на записа е неуспешно</string>
+  <string name="cannot_resend_audio">Изпращането на записа е невъзможно</string>
+  <string name="downloading_file_can_not_play">Изчакайте докато изтеглянето на записа завърши</string>
+  <string name="guild_msim_switcher">Докоснете за промяна на SIM картите</string>
+  <string name="left_cancel">Плъзнете наляво за отмяна</string>
+  <string name="menu_send_as_common">Изпрати като SMS</string>
+  <string name="message_sent">Изпратено</string>
+  <string name="playing_failed">Не може да се възпроизведе</string>
+  <string name="press_recording">Натиснете и задръжте върху иконата на микрофона за запис</string>
+  <string name="recording_failed">Не може да се записва</string>
+  <string name="release_cancel">Отпуснете за отмяна</string>
+  <string name="resource_price_free">Безплатно</string>
+  <string name="sdcard_has_not_enough_space">Недостатъчно място на SD картата</string>
+  <string name="warning_show">Изпращане след %d сек.</string>
 </resources>

@@ -1122,4 +1122,18 @@
   <string name="lunar_leap">" "</string>
   <string name="lunar_yue">" "</string>
   <string name="solar_calendar">" "</string>
+  <string name="resource_failed_to_load_list">Неуспешно зареждане на списъка</string>
+  <string name="resource_get_auth_has_been_undercarriaged">Тази тема вече не е налична.</string>
+  <string name="resource_get_auth_not_official">Теми от други източници не се поддържат</string>
+  <string name="resource_has_been_downloaded">Вече изтеглихте тази тема.</string>
+  <string name="resource_no_match_app">Няма приложение, което поддържа това действие.</string>
+  <string name="resource_no_network_text">Няма връзка с мрежата.</string>
+  <string name="resource_search_list_empty">Не може да се открие нищо</string>
+  <string name="resource_select_ringtone_confirm">Да се избере ли този звук?</string>
+  <string name="resource_tip_select_none">Няма избрано</string>
+  <string name="resource_title_category">Категории</string>
+  <string name="resource_title_hot_subject">Популярни</string>
+  <string name="resource_title_local">Локални</string>
+  <string name="resource_title_rank">Най-добри</string>
+  <string name="resource_title_subject">Препоръчани</string>
 </resources>

@@ -45,4 +45,9 @@
   <string name="terms_of_service">Условия за ползване</string>
   <string name="locale_picker_confirm_dialog_desc">"Задаване на %s за ваше местоположение? "</string>
   <string name="locale_picker_confirm_dialog_title">Изберете вашето местоположение</string>
+  <string name="page_layout_label">Регулиране на размера на текста, подредбата на началния екран, лентата с известия, клавиатурата при обaждания и други.</string>
+  <string name="page_layout_title">Подредба на системата</string>
+  <string name="provision_finish">ОК</string>
+  <string name="provision_finish_restart">Рестарт</string>
+  <string name="title_congratulation">Устройството е готово за използване!</string>
 </resources>

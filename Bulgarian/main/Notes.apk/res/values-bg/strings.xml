@@ -107,4 +107,5 @@
   <string name="sns_choose_quality_low">Ниско</string>
   <string name="sns_choose_quality_title">Избор на качество на снимката</string>
   <string name="sns_message_disconnect">Няма връзка с мрежата. Проверете вашата връзка и опитайте отново.</string>
+  <string name="format_move_notes_out_folder">Преместени: %1$s</string>
 </resources>

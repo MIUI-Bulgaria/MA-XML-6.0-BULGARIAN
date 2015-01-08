@@ -79,4 +79,5 @@
   <string name="wifi_warning">Преди да се свържете, убедете се в безопасността на Wi-Fi мрежата.</string>
   <string name="settings">Настройки</string>
   <string name="not_insert_contact">Не добавяй контакт</string>
+  <string name="choose_picture">Изберете снимка с QR код</string>
 </resources>

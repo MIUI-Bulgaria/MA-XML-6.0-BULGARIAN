@@ -299,4 +299,9 @@
   <string name="report_success">Съобщението е докладвано</string>
   <string name="special_number_group">Блокиране на специални номера</string>
   <string name="st_title_other_group">Други</string>
+  <string name="loding">Зареждане на данни</string>
+  <string name="report">Докладвай</string>
+  <string name="report_warning">"Да се докладват ли %1$s SMS на Mi? Съобщенията и телефонните номера, от които са изпратени ще бъдат изпратени за проверка до сървърите на Mi. Всички лични данни свързани със съобщенията ще се запазят в анонимност."</string>
+  <string name="report_warning_title">Докладване на SMS</string>
+  <string name="sms_smart_engine_update">Авт. актуал. на SMS филтъра</string>
 </resources>
