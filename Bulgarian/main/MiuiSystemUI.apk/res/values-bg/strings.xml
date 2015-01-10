@@ -161,8 +161,8 @@ d MMMM yyyy"</string>
   <string name="status_bar_recent_guide_bottom">Плъзнете надолу за заключване</string>
   <string name="status_bar_recent_guide_top">Плъзнете нагоре за да затваряне</string>
   <string name="status_bar_recent_inspect_item_title">За приложението</string>
-  <string name="status_bar_recent_memory_info1">"%s "</string>
-  <string name="status_bar_recent_memory_info2">" %s свободни"</string>
+  <string name="status_bar_recent_memory_info1">%1$sB | %2$sB свободни</string>
+  <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Обратно към Звукозапис</string>
   <string name="status_bar_recording_pause">"Записването е на пауза. "</string>
   <string name="status_bar_settings_airplane">Самолетен режим</string>

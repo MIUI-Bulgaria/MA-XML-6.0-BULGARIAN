@@ -856,4 +856,13 @@
   <string name="msim_switch_data_conn_toast_for_h2xct">Слотът за SIM 2 поддържа само GSM мрежи. Предпочитания режим на мрежата бе променен на само 2G.</string>
   <string name="uplmn_numeric_is_empty">Въведете ID на мрежата</string>
   <string name="call_recording_notification_toggle_title">Известие за запис на обаждане</string>
+  <string name="incall_error_no_active_sim">Няма активна SIM карта.</string>
+  <string name="international_roaming_setting">Международен роуминг</string>
+  <string name="msim_select_default_time_left">(%d сек.)</string>
+  <string name="network_unlock">Отключване</string>
+  <string name="port">Порт</string>
+  <string name="preferred_network_restrict_network_changed_incall">Мобилната мрежа не може да се пороменя по време на обаждане</string>
+  <string name="retry_btn">Нов опит</string>
+  <string name="sim_cards_network_mode_changed_summary">Докоснете за преглед на настройките за SMS и обаждане.</string>
+  <string name="sim_cards_network_mode_changed_title">Засечена е нова SIM карта</string>
 </resources>

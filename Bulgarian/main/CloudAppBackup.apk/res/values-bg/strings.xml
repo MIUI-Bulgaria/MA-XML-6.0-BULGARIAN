@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
-  <string name="already_deleted">(изтрито)</string>
+  <string name="already_deleted">%s (изтрито)</string>
   <string name="already_disable_backup">Вече архивирането е деактивирано за това устройство</string>
   <string name="already_enable_backup">Вече архивирането е активирано за това устройство</string>
   <string name="app_installed">Инсталирано</string>
@@ -143,7 +143,7 @@
   <string name="open_wifi_setting">Wi-Fi настройки</string>
   <string name="recover_from_micloud">Възстановяване чрез Mi Cloud</string>
   <string name="recover_settings">Възстановяване на настр. на нач. екран</string>
-  <string name="recover_settings_description">Задръжте устройството си вклюKeep your device powered on</string>
+  <string name="recover_settings_description">Задръжте устройството си включено</string>
   <string name="select_backup_data">Изберете архив</string>
   <string name="v5_data">V5 данни</string>
   <string name="v5_delete">Изтрий V5 данните</string>

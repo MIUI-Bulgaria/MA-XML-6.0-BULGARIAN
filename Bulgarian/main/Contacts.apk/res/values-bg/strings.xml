@@ -777,7 +777,7 @@
   <string name="resource_comment_edit_comment_waiting">Проверка на потребителската история…</string>
   <string name="resource_comment_edit_text_default">Напиши коментар</string>
   <string name="resource_comment_edit_title">Редактирай коментар: %1$s</string>
-  <string name="resource_comment_entry_tips">Покажи коментарите</string>
+  <string name="resource_comment_entry_tips">Коментари (%1$s)</string>
   <string name="resource_comment_expand_full_text">Разшири текста ▼</string>
   <string name="resource_comment_footer">Празните коментари не се показват.</string>
   <string name="resource_comment_good_comments">Позитивни</string>

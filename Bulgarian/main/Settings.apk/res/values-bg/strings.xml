@@ -2978,4 +2978,8 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="volume_hifi_description">Hi-Fi настройки</string>
   <string name="wifi_disconnected_notification_summary">Опитайте отново или се свържете към друга Wi-Fi мрежа.</string>
   <string name="wifi_disconnected_notification_title">Wi-Fi връзката прекъсна</string>
+  <string name="screen_paper_mode_summary">Намалява фоновите отблясъци на екрана</string>
+  <string name="screen_paper_mode_title">Режим четене</string>
+  <string name="screen_paper_mode_turn_off">Изкл.</string>
+  <string name="screen_paper_mode_turn_on">Вкл.</string>
 </resources>
