@@ -184,4 +184,5 @@
   <string name="status_bar_toggle_vibrate">Вибрация</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi VPN</string>
+  <string name="status_bar_toggle_paper_mode">Четене</string>
 </resources>

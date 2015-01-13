@@ -108,4 +108,6 @@
   <string name="sns_choose_quality_title">Избор на качество на снимката</string>
   <string name="sns_message_disconnect">Няма връзка с мрежата. Проверете вашата връзка и опитайте отново.</string>
   <string name="format_move_notes_out_folder">Преместени: %1$s</string>
+  <string name="loading_text">Зарежда се…</string>
+  <string name="toast_message_add_text_warn">Този тип файлове не се поддържа</string>
 </resources>

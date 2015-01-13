@@ -289,4 +289,8 @@
   <string name="project_device_mobile">Мобилно устройство</string>
   <string name="recommend_fragment_title">Тема</string>
   <string name="stream_quality">Качество на стрийма</string>
+  <string name="action_item_hide">Скриване</string>
+  <string name="filter_by_folder">По папка</string>
+  <string name="filter_by_folder_summary">Изберете папки за показване</string>
+  <string name="select_displayed_folders">Изберете папки за показване</string>
 </resources>

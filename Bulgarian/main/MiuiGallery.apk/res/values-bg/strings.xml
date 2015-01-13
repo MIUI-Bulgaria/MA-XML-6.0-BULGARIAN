@@ -91,7 +91,7 @@
   <string name="click_to_add_picture">Докоснете за добавяне на снимки</string>
   <string name="click_top_right">Чукнете тази икона</string>
   <string name="close">Затвори</string>
-  <string name="cloud_album_more_settings">Синхронизация на MiCloud</string>
+  <string name="cloud_album_more_settings">Синхронизация с MiCloud</string>
   <string name="cloud_album_set_create">Нов</string>
   <string name="cloud_album_set_scan_qr_code">QR код</string>
   <string name="cloud_albums">Облачни албуми</string>
@@ -602,4 +602,6 @@
   <string name="not_now">Не сега</string>
   <string name="go_setting">Преглед на настройките</string>
   <string name="sync_third_party_app_pic_summary">Автоматично качване на снимките от някой папки на приложенията във вашия облак</string>
+  <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Автоматично качване на вашите снимки от други приложения в Mi Cloud. Вижте настройките от &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Настройки в Галерия&amp;gt;Синхронизация с MiCloud&amp;gt;Автоматично качване&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
+  <string name="auto_upload_guide_title">Автоматично качване</string>
 </resources>

@@ -733,4 +733,12 @@
   <string name="shutdown_time_day">Устройството ще се изключи след %1$dд в %2$s</string>
   <string name="summary_antivirus_oversea">Автоматично актуализиране на вирусните дефиниции</string>
   <string name="text_antivirus_oversea">Обновяване на вирусните дефиниции</string>
+  <string name="confirm_auto_cleaner">Потвърди</string>
+  <string name="positive_confirm">Потвърди</string>
+  <string name="summary_auto_cleaner">Да се почиства ли автоматично? Ако активирате опцията, отпадъците ще се почистват на всеки три дни. Честотата и съдържанието за почистване могат да се променят от Настройки.</string>
+  <string name="summary_delete_cache">Потвърждавате ли, че искате да изтриете избраните кеш данни? Данните от някой приложения могат да не се изтриват след употреба. Бъдете внимателни!</string>
+  <string name="summary_delete_large_file">Потвърждавате ли, че искате да изтриете избрания файл? Изтриването на големи файлове може да наруши някоя функция, например работата на програма за офлайн навигация. Бъдете внимателни!</string>
+  <string name="title_auto_cleaner">Автоматично почистване</string>
+  <string name="title_delete_cache">Изтриване на кеш данните</string>
+  <string name="title_delete_large_file">Изтриване на големите файлове</string>
 </resources>
