@@ -1136,4 +1136,9 @@
   <string name="resource_title_local">Локални</string>
   <string name="resource_title_rank">Най-добри</string>
   <string name="resource_title_subject">Препоръчани</string>
+  <string name="pull_to_refresh_pull_label">Дръпнете за опресняване…</string>
+  <string name="pull_to_refresh_refreshing_label">Зарежда се…</string>
+  <string name="pull_to_refresh_release_label">Отпуснете за опресняване…</string>
+  <string name="resource_pack_get_auth_has_been_undercarriaged">Тази тема вече не е достъпна.</string>
+  <string name="yellowpage_search_the_yellowpage">Търсене в списъка</string>
 </resources>

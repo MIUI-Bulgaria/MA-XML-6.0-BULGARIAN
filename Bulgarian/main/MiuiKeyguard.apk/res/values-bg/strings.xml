@@ -82,4 +82,7 @@
     <string name="keyguard_torch_cover_text">За да остане фенерчето включено, натиснете бутон Захр.</string>
     <string name="confirm_pin_msg">Въведете отново PIN код</string>
     <string name="invalid_confirm_pin_hint">PIN кодовете не съвпадат</string>
+    <string name="click_to_enter_text">Чукнете за отключване</string>
+    <string name="open_camera_hint_text">Плъзнете наляво, за да отворите Камера</string>
+    <string name="open_remote_center_hint_text">Плъзнете надясно, за да отворите Mi Remote</string>
 </resources>

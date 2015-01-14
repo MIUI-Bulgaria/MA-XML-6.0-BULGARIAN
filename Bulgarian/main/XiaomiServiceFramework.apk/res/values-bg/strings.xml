@@ -79,4 +79,6 @@
   <string name="accept">ОК</string>
   <string name="error_device_id_message">Някои функции на профила и облака ще бъдат недостъпни</string>
   <string name="error_device_id_title">Не може да се получи IMEI номера</string>
+  <string name="sync_notification_title_format">Синхронизира се: %1$s</string>
+  <string name="xiaomi_cloud_service">Mi Cloud</string>
 </resources>

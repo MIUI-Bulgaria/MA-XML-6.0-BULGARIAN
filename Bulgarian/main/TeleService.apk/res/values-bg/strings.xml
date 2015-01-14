@@ -851,8 +851,8 @@
   <string name="msim_set_icc_card_error">Грешка на ICC картата</string>
   <string name="cfnrc_title_cta">Пренасочване, когато сте недостъпен</string>
   <string name="general_setting">Настройки</string>
-  <string name="msim_switch_data_conn_toast">Network settings have been changed to prefer 4G networks. You can change this setting in SIM card settings.</string>
-  <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Prefer 3G networks(CDMA)</string>
+  <string name="msim_switch_data_conn_toast">Предпочитания режим на мрежата бе променен на предпочита се 4G. Можете да променяте настройката от настройки на SIM карта.</string>
+  <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Предпочита се 3G (CDMA)</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">Слотът за SIM 2 поддържа само GSM мрежи. Предпочитания режим на мрежата бе променен на само 2G.</string>
   <string name="uplmn_numeric_is_empty">Въведете ID на мрежата</string>
   <string name="call_recording_notification_toggle_title">Известие за запис на обаждане</string>
@@ -865,4 +865,5 @@
   <string name="retry_btn">Нов опит</string>
   <string name="sim_cards_network_mode_changed_summary">Докоснете за преглед на настройките за SMS и обаждане.</string>
   <string name="sim_cards_network_mode_changed_title">Засечена е нова SIM карта</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Предпочита се 4G (CDMA)</string>
 </resources>

@@ -2938,14 +2938,10 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="music_hifi_title">Hi-Fi аудио</string>
   <string name="music_hifi_volume">Hi-Fi звук</string>
   <string name="page_layout_1">Нед 28/12</string>
-  <string name="page_layout_10">Съобщения</string>
-  <string name="page_layout_11">Оптимизация</string>
-  <string name="page_layout_12">Настройки</string>
+  <string name="page_layout_10">Настройки</string>
+  <string name="page_layout_11">Времето</string>
+  <string name="page_layout_12">Оптимизация</string>
   <string name="page_layout_13">Инструменти</string>
-  <string name="page_layout_14">Игри</string>
-  <string name="page_layout_15">Приложения</string>
-  <string name="page_layout_16">Теми</string>
-  <string name="page_layout_17">Life</string>
   <string name="page_layout_18">Скорошни</string>
   <string name="page_layout_19">Контакти</string>
   <string name="page_layout_2">Камера</string>
@@ -2964,10 +2960,10 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="page_layout_31">Alan Turing</string>
   <string name="page_layout_4">Музика</string>
   <string name="page_layout_5">Видео</string>
-  <string name="page_layout_6">Времето</string>
-  <string name="page_layout_7">Бележки</string>
-  <string name="page_layout_8">Календар</string>
-  <string name="page_layout_9">Имейл</string>
+  <string name="page_layout_6">Приложения</string>
+  <string name="page_layout_7">Игри</string>
+  <string name="page_layout_8">Mi Life</string>
+  <string name="page_layout_9">Теми</string>
   <string name="page_layout_confirm_message">Устройството ви се нуждае от рестартиране, за да се приложат тези промени. Това отнема около минута.</string>
   <string name="page_layout_confirm_title">Промяна на настройките на екрана</string>
   <string name="provision_page_layout_confirm_message">Устройството ви се нуждае от рестартиране, за да се приложат тези промени. Това отнема около минута.</string>
@@ -2982,5 +2978,6 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="screen_paper_mode_title">Режим четене</string>
   <string name="screen_paper_mode_turn_off">Изкл.</string>
   <string name="screen_paper_mode_turn_on">Вкл.</string>
-  <string name="screen_paper_mode_apps_title">Изп. на режим четене за тези прил-я</string>
+  <string name="screen_paper_mode_apps_title">Използвай режим четене за тези прил-я</string>
+  <string name="screen_paper_mode_off_apps_title">Не използвай режим четене за следните прил-я</string>
 </resources>
