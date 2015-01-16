@@ -1141,4 +1141,6 @@
   <string name="pull_to_refresh_release_label">Отпуснете за опресняване…</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Тази тема вече не е достъпна.</string>
   <string name="yellowpage_search_the_yellowpage">Търсене в списъка</string>
+  <string name="call_sim1_menu_title">Набери чрез SIM 1</string>
+  <string name="call_sim2_menu_title">Набери чрез SIM 2</string>
 </resources>

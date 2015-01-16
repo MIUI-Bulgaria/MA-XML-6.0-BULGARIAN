@@ -296,4 +296,6 @@
   <string name="wipe_data_dialog_title">Някои елементи не са синхронизирани.</string>
   <string name="wrong_captcha">Captcha кодът, който сте въвели е грешен</string>
   <string name="wrong_vcode">Грешен код</string>
+  <string name="mi_service">Поддръжка</string>
+  <string name="passport_error_empty_email">Въведете вашият имейл адрес</string>
 </resources>
