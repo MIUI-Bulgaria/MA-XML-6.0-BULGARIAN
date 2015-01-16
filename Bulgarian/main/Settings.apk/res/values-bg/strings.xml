@@ -759,6 +759,7 @@
   <string name="device_cpu">Процесор</string>
   <string name="device_cpu2_info">"Двуядрен "</string>
   <string name="device_cpu4_info">"Четириядрен "</string>
+  <string name="device_cpu8_info">"Осемядрен "</string>
   <string name="device_edit_title">Преименуване на устройството</string>
   <string name="device_info_default">Неизвестно</string>
   <string name="device_info_label">Информация за устройство</string>
