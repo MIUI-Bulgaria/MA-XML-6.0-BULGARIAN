@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+  <string name="ext_media_nomedia_notification_message">SD картата е премахната. Поставете нова.</string>
+  <string name="ext_media_nomedia_notification_title">SD картата бе премахната</string>
+  <string name="ext_media_safe_unmount_notification_title">Премахването на SD картата е безопасно</string>
+  <string name="ext_media_safe_unmount_notification_message">Можете безопасно да премахнете SD картата.</string>
+  <string name="ext_media_badremoval_notification_title">SD картата бе премахната неочаквано.</string>
+  <string name="ext_media_badremoval_notification_message">Премахнете активирането на SD картата, преди да я извадите, за да избегнете загуба на данни.</string>
+  <string name="ext_media_unmountable_notification_title">SD картата е повредена</string>
+  <string name="ext_media_unmountable_notification_message">SD картата е повредена. Опитайте да я преформатирате.</string>
+  <string name="ext_media_nofs_notification_title">Празна SD карта</string>
+  <string name="ext_media_nofs_notification_message">SD картата е празна или е с неподдържана файлова система.</string>
+  <string name="ext_media_checking_notification_title">SD картата се подготвя</string>
+  <string name="usb_storage_stop_message">Преди да изключите USB хранилището, спрете (със съответната команда за изваждане) SD картата на Android от компютъра си.</string>
+  <string name="usb_storage_error_message">Възникна проблем при използването на SD картата ви като масово USB хранилище.</string>
+  <string name="usb_storage_message">Свързахте се с компютъра си през USB. Докоснете долния бутон, ако искате да копирате файлове между компютъра и SD картата си от Android.</string>
+</resources>
