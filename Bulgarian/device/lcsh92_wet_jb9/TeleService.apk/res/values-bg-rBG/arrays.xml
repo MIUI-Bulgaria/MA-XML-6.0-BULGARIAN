@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Троен режим</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>2G/3G (авт. режим)</item>
+        <item>Само 3G</item>
+        <item>Само 2G</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+        <item>2G/3G (авт. режим)</item>
+        <item>Само 3G</item>
+    </string-array>
+    <string-array name="lte_prefer_network_mode_choices">
+        <item>4G/3G/2G (авт. режим)</item>
+        <item>3G/2G (авт. режим)</item>
+        <item>Само 3G</item>
+        <item>Само 2G</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Глобално</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Само EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>Авт. CDMA / EvDo</item>
+        <item>Авт. GSM / WCDMA</item>
+        <item>Само WCDMA</item>
+        <item>Само GSM</item>
+        <item>Предпочита се GSM / WCDMA</item>
+    </string-array>
+</resources>

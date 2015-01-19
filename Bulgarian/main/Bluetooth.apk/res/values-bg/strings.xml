@@ -130,4 +130,13 @@
   <string name="bluetooth_search_for_devices">Търсене на устройства</string>
   <string name="device_picker">Избор на Bluetooth устройство</string>
   <string name="progress_scanning">Търси се</string>
+  <string name="airplane_can_not_share">Не може да използвате Bluetooth в Самолетен режим</string>
+  <string name="bluetooth_in_airplane_mode">Самолетен режим</string>
+  <string name="notify_need_on_BT_before_retry">Bluetooth е изключен. Включете Bluetooth, преди да опитате отново изпращането</string>
+  <string name="panu_disconnect_while_wifi_connected">Връзката чрез Bluetooth tethering прекъсна</string>
+  <string name="panu_no_need_connect">Не може да използвате Bluetooth tethering докато сте свързани към Wi-Fi</string>
+  <string name="sim_selected_dialog_title">Изберете SIM</string>
+  <string name="suggested">Предложени</string>
+  <string name="too_much_file_sent">Максимум %1$s файла едновременно</string>
+  <string name="upload_fail_waiting">Текуща подготовка за изпращане на файл, автоматично препредаване по-късно</string>
 </resources>
