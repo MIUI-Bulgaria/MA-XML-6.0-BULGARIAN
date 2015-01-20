@@ -2,28 +2,28 @@
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">Да се изтрият ли %s снимки от &amp;lt;b>облака&amp;lt;/b>?</item>
-        <item quantity="one">Да се изтрие ли %s снимка от &amp;lt;b>облака&amp;lt;/b>?</item>
+        <item quantity="other">Да се изтрият ли %s снимки от облака?</item>
+        <item quantity="one">Да се изтрие ли %s снимка от облака?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Да се изтрият ли %s снимки?</item>
         <item quantity="one">Да се изтрие ли %s снимка?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">Да се изтрият ли %s видеоклипа от &amp;lt;b>облака&amp;lt;/b>?</item>
-        <item quantity="one">Да се изтрие ли %s видеоклип от &amp;lt;b>облака&amp;lt;/b>?</item>
+        <item quantity="other">Да се изтрият ли %s видеоклипа от облака?</item>
+        <item quantity="one">Да се изтрие ли %s видеоклип от облака?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Да се изтрият ли %s видеоклипа?</item>
         <item quantity="one">Да се изтрие ли %s видеоклип?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">Да се изтрият ли %s снимки &amp;lt;b>локално и от облака&amp;lt;/b>?</item>
-        <item quantity="one">Да се изтрие ли %s снимка &amp;lt;b>локално и от облака&amp;lt;/b>?</item>
+        <item quantity="other">Да се изтрият ли %s снимки локално и от облака?</item>
+        <item quantity="one">Да се изтрие ли %s снимка локално и от облака?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">Да се изтрият ли %s видеоклипа &amp;lt;b>локално и от облака&amp;lt;/b>?</item>
-        <item quantity="one">Да се изтрие ли %s видеоклип &amp;lt;b>локално и от облака&amp;lt;/b>?</item>
+        <item quantity="other">Да се изтрият ли %s видеоклипа локално и от облака?</item>
+        <item quantity="one">Да се изтрие ли %s видеоклип локално и от облака?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Избрани: %1$d</item>
