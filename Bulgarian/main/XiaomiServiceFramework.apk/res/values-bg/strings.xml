@@ -81,4 +81,9 @@
   <string name="error_device_id_title">Не може да се получи IMEI номера</string>
   <string name="sync_notification_title_format">Синхронизира се: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="activate_popup_confirm_upload_diagnosis_info">Качване</string>
+  <string name="activate_popup_desc_upload_diagnosis_info">"SIM картата не може да се активира. Моля, обмислете качването на диагностична информация, за да ни помогнете за разпознаване на проблема. (ID на доклада : %s)"</string>
+  <string name="activate_popup_link_diagnosis_detail">Каква поверителна информация ще бъде включена?</string>
+  <string name="activate_popup_title_diagnosis_detail">Диагностична информация</string>
+  <string name="activate_popup_title_upload_diagnosis_info">SIM картата не може да се активира</string>
 </resources>

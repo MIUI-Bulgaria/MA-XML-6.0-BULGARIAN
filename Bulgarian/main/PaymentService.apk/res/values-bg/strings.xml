@@ -332,4 +332,6 @@ Please check your local date and try again."</string>
   <string name="sms_code_empty">Enter the verification code sent to your phone.</string>
   <string name="summary_custom_service_phone">Tel:</string>
   <string name="title_custom_service_phone">Contact customer support</string>
+  <string name="giftcard_expire_notification_prime_title">Code is about to expire…</string>
+  <string name="giftcard_expire_notification_sub_title">Mi Credit Gift Card expires on %1$s</string>
 </resources>

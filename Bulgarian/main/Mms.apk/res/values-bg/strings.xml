@@ -544,4 +544,5 @@
   <string name="resource_price_free">Безплатно</string>
   <string name="sdcard_has_not_enough_space">Недостатъчно място на SD картата</string>
   <string name="warning_show">Изпращане след %d сек.</string>
+  <string name="hms_uri_param_err">URL не може да е празно</string>
 </resources>

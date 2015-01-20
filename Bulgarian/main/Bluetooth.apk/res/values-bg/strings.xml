@@ -139,4 +139,22 @@
   <string name="suggested">Предложени</string>
   <string name="too_much_file_sent">Максимум %1$s файла едновременно</string>
   <string name="upload_fail_waiting">Текуща подготовка за изпращане на файл, автоматично препредаване по-късно</string>
+   <string name="ble_device_address">MAC адрес на BLE устройство</string>
+   <string name="ble_device_profile_header_title">Профили</string>
+   <string name="ble_device_profile_title">Свързано BLE устройство</string>
+   <string name="ble_device_unbind">Изчисти настройките</string>
+   <string name="disconnect">Изключи</string>
+   <string name="format_progress_text">%1$d%%</string>
+   <string name="mi_band_vibrate_alarm">Вибриране при будилник</string>
+   <string name="mi_band_vibrate_incall">Вибриране при звънене</string>
+   <string name="mi_band_vibrate_incall_in_contacts">Вибриране при позвъняване от ваши контакти</string>
+   <string name="mi_band_vibrate_incall_no_contacts">Вибриране при позвъняване от неизвестни номера</string>
+   <string name="mi_band_vibrate_sms">Вибриране при получаване на SMS съобщение</string>
+   <string name="mi_band_vibrate_sms_in_contacts">Вибриране при получаване на SMS съобщение от ваши контакти</string>
+   <string name="mi_band_vibrate_sms_no_contacts">Вибриране при получаване на SMS съобщение от неизвестен номер</string>
+   <string name="mi_key_alert_dialog_message">Докоснете ОК, за да заглушите будилника.</string>
+   <string name="mi_key_alert_dialog_title">Mi key Alert</string>
+   <string name="mi_key_find_mikey">Търсене на MiKey</string>
+   <string name="mi_key_find_phone">Търсене на телефон</string>
+   <string name="mi_key_take_photo">Снимане на снимка</string>
 </resources>

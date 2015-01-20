@@ -741,4 +741,5 @@
   <string name="title_auto_cleaner">Автоматично почистване?</string>
   <string name="title_delete_cache">Изтриване на кеш данните?</string>
   <string name="title_delete_large_file">Изтриване на големите файлове?</string>
+  <string name="auto_cleaner_open">Включване</string>
 </resources>

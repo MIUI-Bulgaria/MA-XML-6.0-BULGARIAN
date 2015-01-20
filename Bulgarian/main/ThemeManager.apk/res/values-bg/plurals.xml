@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">%1$d теми имат актуализации</item>
+        <item quantity="one">%1$d тема има актуализация</item>
+    </plurals>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">Налични са актуализации за %1$d теми.</item>
+        <item quantity="one">Налична е актуализация за %1$d тема.</item>
+    </plurals>
+</resources>

@@ -251,4 +251,20 @@
   <string name="wallpaper_failed_message">Тапетът не може да се приложи</string>
   <string name="wallpaper_settings">Настройки на тапет</string>
   <string name="wallpaper_success_message">Тапетът е приложен успешно</string>
+  <string name="app_category_books">Книги</string>
+  <string name="app_category_education">Обучение</string>
+  <string name="app_category_entertainment">Развлечение</string>
+  <string name="app_category_finance">Финанси</string>
+  <string name="app_category_games">Игри</string>
+  <string name="app_category_health">Здраве</string>
+  <string name="app_category_lifestyle">Лайфстайл</string>
+  <string name="app_category_music_movie">Музика и видео</string>
+  <string name="app_category_news">Новини</string>
+  <string name="app_category_photos">Снимки</string>
+  <string name="app_category_productivity">Производителност</string>
+  <string name="app_category_shopping">Пазаруване</string>
+  <string name="app_category_social">Социални</string>
+  <string name="app_category_sport">Спорт</string>
+  <string name="app_category_tools">Инструменти</string>
+  <string name="app_category_travel">Пътуване</string>
 </resources>
