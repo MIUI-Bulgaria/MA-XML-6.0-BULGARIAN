@@ -340,8 +340,8 @@
   <string name="theme_purchased_list_empty">Нямате закупени теми.</string>
   <string name="theme_purchased_non_local">Онлайн</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Тази тема вече не е достъпна.</string>
-  <string name="resource_download_notification_content">Докоснете за проверка</string>
-  <string name="resource_download_notification_title_many">Изтеглянето на %1$s теми е успешно!</string>
-  <string name="resource_download_notification_title_one">Изтеглянето на темата е успешно!</string>
+  <string name="resource_download_notification_content">Чукнете за преглед</string>
+  <string name="resource_download_notification_title_many">Изтеглени са %1$s теми</string>
+  <string name="resource_download_notification_title_one">Темата е изтеглена</string>
   <string name="theme_user_agreement_exit">Изход</string>
 </resources>

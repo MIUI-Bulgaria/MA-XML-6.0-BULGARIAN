@@ -1143,7 +1143,7 @@
   <string name="yellowpage_search_the_yellowpage">Търсене в списъка</string>
   <string name="call_sim1_menu_title">Набери чрез SIM 1</string>
   <string name="call_sim2_menu_title">Набери чрез SIM 2</string>
-  <string name="resource_download_notification_content">Докоснете за проверка</string>
-  <string name="resource_download_notification_title_many">>Изтеглянето на %1$s теми е успешно!</string>
-  <string name="resource_download_notification_title_one">Изтеглянето на темата е успешно!</string>
+  <string name="resource_download_notification_content">Чукнете за преглед</string>
+  <string name="resource_download_notification_title_many">Изтеглени са %1$s теми</string>
+  <string name="resource_download_notification_title_one">Темата е изтеглена</string>
 </resources>

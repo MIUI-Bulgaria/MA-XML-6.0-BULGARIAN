@@ -159,7 +159,7 @@
   <string name="dcim_opaipic">Opaipic</string>
   <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">Мобилен</string>
-  <string name="delete">Изтрий</string>
+  <string name="delete">Изтриване</string>
   <string name="delete_file">Да се изтрият ли %1$d файла?</string>
   <string name="delete_files_and_folders">Да се изтрият ли %1$d файла и %2$d папки?</string>
   <string name="delete_folder">Да се изтрият ли %1$d папки?</string>
@@ -237,7 +237,7 @@
   <string name="frame_semicircle">Полукръг</string>
   <string name="frame_white">Бяла</string>
   <string name="gallery_cloud_provider_name">Снимки в облак</string>
-  <string name="gallery_setting">Настройки</string>
+  <string name="gallery_setting">Галерия</string>
   <string name="get_album_info_in_process">"Получаване на информация за споделен албум…"</string>
   <string name="global_setting">Насторйки</string>
   <string name="grain">Зърнистост</string>

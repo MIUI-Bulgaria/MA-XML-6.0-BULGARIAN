@@ -2981,4 +2981,5 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="screen_paper_mode_turn_on">Вкл.</string>
   <string name="screen_paper_mode_apps_title">Използвай режим четене за тези прил-я</string>
   <string name="screen_paper_mode_off_apps_title">Не използвай режим четене за следните прил-я</string>
+  <string name="power_center">Енергия</string>
 </resources>

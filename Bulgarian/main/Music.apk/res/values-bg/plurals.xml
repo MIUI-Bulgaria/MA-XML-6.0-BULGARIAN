@@ -39,5 +39,9 @@
     </plurals>
     <plurals name="Nnew_tracks_count">
         <item quantity="other">%d нови</item>
-     </plurals>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d подобни песни</item>
+        <item quantity="one">%d подобна песен</item>
+    </plurals>
 </resources>

@@ -304,4 +304,5 @@
   <string name="report_warning">"Да се докладват ли %1$s SMS на Mi? Съобщенията и телефонните номера, от които са изпратени ще бъдат изпратени за проверка до сървърите на Mi. Всички лични данни свързани със съобщенията ще се запазят в анонимност."</string>
   <string name="report_warning_title">Докладване на SMS</string>
   <string name="sms_smart_engine_update">Авт. актуал. на SMS филтъра</string>
+  <string name="st_title_sim_unknown">Неизвестно</string>
 </resources>

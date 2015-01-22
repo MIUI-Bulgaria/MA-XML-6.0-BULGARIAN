@@ -293,4 +293,5 @@
   <string name="filter_by_folder">По папка</string>
   <string name="filter_by_folder_summary">Изберете папки за показване</string>
   <string name="select_displayed_folders">Изберете папки за показване</string>
+  <string name="similar_songs">Подобни песни</string>
 </resources>

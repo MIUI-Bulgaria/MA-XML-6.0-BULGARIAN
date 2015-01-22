@@ -237,7 +237,7 @@
   <string name="gadget_notes_label">Бележки</string>
   <string name="is_setting_wallpaper_toast">Тапетът се задава…</string>
   <string name="is_system_wallpaper_message">Не могат да се изтриват системни ресурси</string>
-  <string name="local_wallpaper">Локални</string>
+  <string name="local_wallpaper">Изтеглени</string>
   <string name="mi_wallpaper">MIUI тапет</string>
   <string name="setting_wallpaper_tip">Преместване или уголемяване</string>
   <string name="show_all">Покажи всички</string>
