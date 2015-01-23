@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+    <string-array name="bluetooth_map_server_sim_index_entries">
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="bt_bpp_orientations">
+        <item>"Портрет"</item>
+        <item>"Ландшафт"</item>
+        <item>"обърнат-портрет"</item>
+        <item>"обърнат-ландшафт"</item>
+        <item>"неизвестен"</item>
+        <item>"неизвестен"</item>
+        <item>"неизвестен"</item>
+        <item>"неизвестен"</item>
+    </string-array>
+    <string-array name="bt_bpp_sidesettings">
+        <item>"Едностранно"</item>
+        <item>"Двустранно-дълъг ръб"</item>
+        <item>"Двустранно-къс ръб"</item>
+        <item>"неизвестен"</item>
+        <item>"неизвестен"</item>
+        <item>"неизвестен"</item>
+        <item>"неизвестен"</item>
+        <item>"неизвестен"</item>
+    </string-array>
+    <string-array name="bt_bpp_qualitys">
+        <item>"Нормално"</item>
+        <item>"Чернова"</item>
+        <item>"Високо"</item>
+        <item>"неизвестен"</item>
+        <item>"неизвестен"</item>
+        <item>"неизвестен"</item>
+        <item>"неизвестен"</item>
+        <item>"неизвестен"</item>
+    </string-array>
+    <string-array name="bt_bpp_entry_error">
+        <item>"няма грешка"</item>
+        <item>"Неуспешно създаване на v-карта"</item>
+        <item>"Неподдържан формат на картината"</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_client_file_operations">
+        <item>Снемане</item>
+        <item>"Изтриване"</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_client_folder_operations">
+        <item>"Отваряне"</item>
+        <item>"Изтриване"</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_server_permission_entries">
+        <item>Само четене</item>
+        <item>Пълен контрол</item>
+    </string-array>
+    <string-array name="bt_prxm_link_loss_level_entries">
+        <item>Няма аларма</item>
+        <item>Слаба аларма</item>
+        <item>Силна аларма</item>
+    </string-array>
+    <string-array name="bt_prxm_path_loss_level_entries">
+        <item>Няма аларма</item>
+        <item>Слаба аларма</item>
+        <item>Силна аларма</item>
+    </string-array>
+</resources>
