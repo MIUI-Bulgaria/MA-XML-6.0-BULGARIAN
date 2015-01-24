@@ -324,4 +324,7 @@
   <string name="repeat_label_week">Седмица</string>
   <string name="repeat_month_day_splitter">" "</string>
   <string name="repeat_week_info">" %1$s %2$s"</string>
+  <string name="event_info_repeat">"Повторение: "</string>
+  <string name="event_info_when">"Кога: "</string>
+  <string name="event_info_where">"Къде: "</string>
 </resources>
