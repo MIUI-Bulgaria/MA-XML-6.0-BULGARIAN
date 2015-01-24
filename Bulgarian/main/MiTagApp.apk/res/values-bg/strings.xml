@@ -54,7 +54,7 @@
   <string name="dialog_select_account">Изберете профил</string>
   <string name="diselect_all">Размаркиране на всички</string>
   <string name="display">Екран</string>
-  <string name="disturb_mode">Режим „Не безпокойте“</string>
+  <string name="disturb_mode">Тих режим</string>
   <string name="edit_tag">Редактиране</string>
   <string name="edit_tag_content">докоснете със задната част на вашия телефон</string>
   <string name="email_body">Съобщение</string>
@@ -148,7 +148,7 @@
   <string name="share_subject">Споделям приложението: %1$s</string>
   <string name="share_wifi">Споделяне на Wi-Fi</string>
   <string name="shortcut">Бързи задачи</string>
-  <string name="sleep_mode">Не безпокойте</string>
+  <string name="sleep_mode">Тих режим</string>
   <string name="sms_content">Съобщение</string>
   <string name="sound">Звук</string>
   <string name="sound_alarm">Будилник</string>

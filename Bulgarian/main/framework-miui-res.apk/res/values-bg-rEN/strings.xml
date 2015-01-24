@@ -10,7 +10,7 @@
   <string name="anti_aggression_day"/>
   <string name="app_no_notification">Скрий известията</string>
   <string name="app_notificaiton_on_notificationBar">Лента с известия</string>
-  <string name="app_notificaiton_on_statusBar_and_notificationBar">Лента за статус и известия</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Закл. екран, лента с известия</string>
   <string name="armed_forces_day"/>
   <string name="callNoAnswerTimeFormat">Звънял %s пъти</string>
   <string name="call_record_or">или</string>
@@ -291,7 +291,7 @@
   <string name="force_exit_message">Приложението \"%1$s\" е затворено</string>
   <string name="format_time_in_12_hours">hh:mma</string>
   <string name="global_action_privacy_mode_dialog_message">Обажданията, съобщенията, списъка с повиквания, бележките и настройката на началните екрани ще бъдат скрити.</string>
-  <string name="global_action_toggle_privacy_mode">Защитен режим</string>
+  <string name="global_action_toggle_privacy_mode">Режим Гост</string>
   <string name="good_friday"/>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>
@@ -479,7 +479,7 @@
   <string name="yellow_page_module_sms_sent">Съобщението е изпратено</string>
   <string name="yellow_page_sms_send_failed">Неуспешно изпращане на съобщението</string>
   <string name="yellow_page_sms_sending">Изпращане…</string>
-  <string name="yellow_page_sms_disabled_in_privacy_mode">Не могат да се изпращат съобщения в защитен режим</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">В режим Гост не могат да се изпращат съобщения</string>
   <string name="sync_data_merge_warning_desc">Данните на %s във вашето устройство ще бъдат обединени с данните в облака, бъдете внимателни!</string>
   <string name="sync_data_recover_warning_title">Предупреждение за възстановяване на данни</string>
   <string name="sync_data_recover_warning_desc">Данните на %s във вашето устройство ще бъдат възстановени от облака, бъдете внимателни!</string>

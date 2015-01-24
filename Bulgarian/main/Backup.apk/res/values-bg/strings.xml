@@ -88,8 +88,8 @@
   <string name="fail">Неуспех</string>
   <string name="findlost_contact">Възстановяване на контакти</string>
   <string name="findlost_contact_online">Възстановяване на изтрити контакти от Mi Cloud</string>
-  <string name="guarded_mode_dialog_message">Тази функция не е разрешена в Защитен режим</string>
-  <string name="guarded_mode_dialog_title">Вие сте в Защитен режим</string>
+  <string name="guarded_mode_dialog_message">Тази функция не е разрешена в режим Гост</string>
+  <string name="guarded_mode_dialog_title">Вие сте в режим Гост</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Изтеглете приложението MiTalk и се впишете.
 \u0009http://www.miliao.com
 

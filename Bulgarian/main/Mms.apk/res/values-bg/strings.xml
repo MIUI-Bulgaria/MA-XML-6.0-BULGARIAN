@@ -314,7 +314,7 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Автоматично зареждане на съобщения в роуминг</string>
   <string name="pref_summary_mx_feedback">Докладване на грешки и изпращане на отзиви директно до Xiaomi</string>
   <string name="pref_summary_notification_body_enabled">Преглед на съобщения на заключен екран и в лентата с известия</string>
-  <string name="pref_summary_notification_body_enabled_when_secure">Не можете да преглеждате съобщения в защитен режим</string>
+  <string name="pref_summary_notification_body_enabled_when_secure">Не можете да преглеждате съобщения в режим Гост</string>
   <string name="pref_summary_off_system_mms_priority">Използване на друго приложение за получаване и изпращане на MMS</string>
   <string name="pref_summary_on_system_mms_priority">Използване на системното MMS приложение за получаване и изпращане на MMS</string>
   <string name="pref_summary_show_recent_contacts">Показване на списък с последни контакти при писане на съобщение</string>
@@ -349,7 +349,7 @@
   <string name="priority_label">"Приоритет: "</string>
   <string name="priority_low">Нисък</string>
   <string name="priority_normal">Нормален</string>
-  <string name="privacy_mode_hint">Не може да се изпращат съобщения в защитен режим</string>
+  <string name="privacy_mode_hint">В режим Гост не може да се изпращат съобщения</string>
   <string name="private_message">Частни съобщения</string>
   <string name="private_new_notification">Известие</string>
   <string name="private_protect">Защита на частни съобщения</string>

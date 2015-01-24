@@ -68,7 +68,7 @@
   <string name="ThreeWCMmi">Тристранен разговор</string>
   <string name="RuacMmi">Отхвърляне на нежелани дразнещи обаждания</string>
   <string name="CndMmi">Идентификация на повикванията</string>
-  <string name="DndMmi">Не безпокойте</string>
+  <string name="DndMmi">Тих режим</string>
   <string name="CLIRDefaultOnNextCallOn">Стандартната идентификация на повикванията е „забранено“. За следващото обаждане тя е забранена.</string>
   <string name="CLIRDefaultOnNextCallOff">Стандартната идентификация на повикванията е „забранено“. За следващото обаждане тя е разрешена.</string>
   <string name="CLIRDefaultOffNextCallOn">Стандартната идентификация на повикванията е „разрешено“. За следващото обаждане тя е забранена.</string>

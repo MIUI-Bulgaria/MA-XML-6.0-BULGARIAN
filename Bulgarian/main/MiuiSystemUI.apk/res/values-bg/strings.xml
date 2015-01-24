@@ -183,7 +183,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_toggle_mute">Без звук</string>
   <string name="status_bar_toggle_network_type">Мрежов режим</string>
   <string name="status_bar_toggle_power_mode">Ен. режим</string>
-  <string name="status_bar_toggle_privacy_mode">Защ. режим</string>
+  <string name="status_bar_toggle_privacy_mode">Гост</string>
   <string name="status_bar_toggle_quiet_mode">Тих режим</string>
   <string name="status_bar_toggle_reboot">Рестарт</string>
   <string name="status_bar_toggle_rotate">Ротация</string>

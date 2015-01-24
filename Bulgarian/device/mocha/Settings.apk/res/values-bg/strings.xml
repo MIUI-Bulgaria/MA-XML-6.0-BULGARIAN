@@ -4,7 +4,7 @@
   <string name="about_settings">Всичко за устройството</string>
   <string name="about_settings_summary">Преглед на състоянието, правната информация и версията на софтуера</string>
   <string name="ac_enable_title">Контрол на достъпа</string>
-  <string name="ac_privacy_mode_sum">За да деактивирате защитен режим, въведете паролата си за достъп</string>
+  <string name="ac_privacy_mode_sum">За да деактивирате режим Гост, въведете паролата си за достъп</string>
   <string name="ac_privacy_mode_title">Включи парола</string>
   <string name="ac_set_apps_title">Защитени приложения</string>
   <string name="accelerometer_summary_off">Автоматично превключване на ориентацията при завъртане на устройството</string>
@@ -2900,7 +2900,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="preferred_sms_warning_message">Използването на \"%1$s\" като приложение за съобщения по подразбиране може да увеличи използването на данни или да застраши сигурността на вашите данни.</string>
   <string name="preferred_sms_warning_use_system">Не използвай</string>
   <string name="privacy_mode_dialog_message">Обаждания, бележки, снимки, съобщения и настройки на лаунчера ще бъдат скрити от потребителя</string>
-  <string name="privacy_mode_dialog_title">Защитен режим</string>
+  <string name="privacy_mode_dialog_title">Режим Гост</string>
   <string name="provision_next">Напред</string>
   <string name="recent_location_requests_summary">Приложенията по-долу искат да преглеждат информация за местоположението ви</string>
   <string name="recent_location_requests_title">Достъп до местоположение</string>

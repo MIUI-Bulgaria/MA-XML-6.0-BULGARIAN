@@ -92,7 +92,7 @@
   <string name="sns_title_send">Изпрати съобщение</string>
   <string name="sns_toast_empty">Не може да се изпрати празна публикация</string>
   <string name="sns_toast_over_limit">Изпрати като снимка</string>
-  <string name="toast_folder_privacy_mode">В защитен режим, не можете да редактирате папката</string>
+  <string name="toast_folder_privacy_mode">Не можете да редактирате папката в режим Гост</string>
   <string name="toast_message_add_image_fail">Вмъкването на изображение е неуспешно!</string>
   <string name="toast_reach_text_limit_attachment">Съдържанието на бележката е твърде дълго за нови прикачвания.</string>
   <string name="toast_reach_text_limit_truncate">"Съдържанието на бележката ще се намали автоматично, защото е много дълго."</string>
@@ -100,9 +100,9 @@
   <string name="unknown_source">Неизвестен източник</string>
   <string name="widget_content_loading">Зарежда се…</string>
   <string name="widget_havenot_content">Няма бележки, натиснете тук за създаване.</string>
-  <string name="widget_under_visit_mode">Защитен режим，не може да видите съдържанието</string>
-  <string name="toast_note_privacy_mode">Не можете да създавате бележки в Защитен режим</string>
-  <string name="widget_under_privacy_mode">Не можете да преглеждате бележки в Защитен режим</string>
+  <string name="widget_under_visit_mode">Режим Гост, не може да видите съдържанието</string>
+  <string name="toast_note_privacy_mode">Не можете да създавате бележки в режим Гост</string>
+  <string name="widget_under_privacy_mode">Не можете да преглеждате бележки в режим Гост</string>
   <string name="sns_choose_quality_high">Високо (%1$s)</string>
   <string name="sns_choose_quality_low">Ниско</string>
   <string name="sns_choose_quality_title">Избор на качество на снимката</string>

@@ -4,7 +4,7 @@
   <string name="about_settings">Всичко за устройството</string>
   <string name="about_settings_summary">Преглед на състоянието, правната информация и версията на софтуера</string>
   <string name="ac_enable_title">Контрол на достъпа</string>
-  <string name="ac_privacy_mode_sum">За да деактивирате защитен режим, въведете паролата си за достъп</string>
+  <string name="ac_privacy_mode_sum">За да деактивирате режим Гост, въведете паролата си за достъп</string>
   <string name="ac_privacy_mode_title">Включи парола</string>
   <string name="ac_set_apps_title">Защитени приложения</string>
   <string name="accelerometer_summary_off">Автоматично превключване на ориентацията при завъртане на устройството</string>
@@ -819,15 +819,15 @@
   <string name="dndm_auto_time_setting">Настройка на времето</string>
   <string name="dndm_auto_time_setting_summary">От %1$s до %2$s</string>
   <string name="dndm_auto_time_turn_off">До</string>
-  <string name="dndm_auto_time_turn_off_title">Автоматично изключване на режим Не безпокойте</string>
+  <string name="dndm_auto_time_turn_off_title">Автоматично изключване на Тих режим</string>
   <string name="dndm_auto_time_turn_on">От</string>
-  <string name="dndm_auto_time_turn_on_title">Автоматично включване на режим Не безпокойте</string>
+  <string name="dndm_auto_time_turn_on_title">Автоматично включване на Тих режим</string>
   <string name="dndm_dlg_remove_ok">Премахни</string>
   <string name="dndm_dlg_remove_vip">Ще премахнете ли от списъка с изключения?</string>
   <string name="dndm_menu_add_vip_custom">Добави изключение</string>
   <string name="dndm_mute_all">Заглуши обаждания и съобщения</string>
-  <string name="dndm_notification">Режим Не безпокойте е включен.</string>
-  <string name="dndm_open">Режим Не безпокойте</string>
+  <string name="dndm_notification">Включен е Тих режим.</string>
+  <string name="dndm_open">Тих режим</string>
   <string name="dndm_repeated_call_setting_title">Повтарящи се обаждания</string>
   <string name="dndm_repeated_call_summary_3min">Второто обаждане от същия номер в рамките на 3 минути няма да се заглушава</string>
   <string name="dndm_repeated_call_summary_none">Заглуши повтарящи се обаждания от един и същ номер</string>
@@ -844,7 +844,7 @@
   <string name="dndm_vip_list_custom">Изключения</string>
   <string name="dndm_vip_list_custom_group">Изключения</string>
   <string name="dndm_vip_list_group">Списък с изключения</string>
-  <string name="do_not_disturb_mode">Не безпокойте</string>
+  <string name="do_not_disturb_mode">Тих режим</string>
   <string name="dock_audio_settings_title">Аудио</string>
   <string name="dock_audio_summary_car">Настройки за прикрепената докинг станция за автомобил</string>
   <string name="dock_audio_summary_desk">Настройки за прикрепената докинг станция за работен плот</string>
@@ -1629,7 +1629,7 @@
   <string name="priority_storage_summary">Изберете хранилище по подразбиране за съхранение на потребителските данни</string>
   <string name="priority_storage_title">Избор на хранилище</string>
   <string name="privacy_mode_dialog_message">Обаждания, бележки, снимки, съобщения и настройки на лаунчера ще бъдат скрити от потребителя</string>
-  <string name="privacy_mode_dialog_title">Защитен режим</string>
+  <string name="privacy_mode_dialog_title">Режим Гост</string>
   <string name="privacy_mode_enable_sum">Скрий списъка с повиквания, съобщения и друга лична информация.</string>
   <string name="privacy_mode_enable_title">Режим гост</string>
   <string name="privacy_protect_title">Поверителност</string>

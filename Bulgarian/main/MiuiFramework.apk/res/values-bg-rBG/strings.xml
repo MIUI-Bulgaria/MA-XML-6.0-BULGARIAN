@@ -6,7 +6,7 @@
   <string name="anti_aggression_day"/>
   <string name="app_no_notification">Скрий известията</string>
   <string name="app_notificaiton_on_notificationBar">Лента с известия</string>
-  <string name="app_notificaiton_on_statusBar_and_notificationBar">Лента за статус и известия</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Закл. екран, лента с известия</string>
   <string name="arbor_day"/>
   <string name="armed_forces_day"/>
   <string name="auto_start_warning_allow">Разреши</string>
@@ -146,7 +146,7 @@
   <string name="winter_begins"/>
   <string name="winter_solstice"/>
   <string name="yellow_page_module_sms_sent">Съобщението е изпратено</string>
-  <string name="yellow_page_sms_disabled_in_privacy_mode">Не могат да се изпращат съобщения в защитен режим</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">В режим Гост не могат да се изпращат съобщения</string>
   <string name="yellow_page_sms_send_failed">Неуспешно изпращане на съобщението</string>
   <string name="yellow_page_sms_sending">Изпращане…</string>
   <string name="yellow_page_unable_send_sms">Не може да изпрати текстово съобщение</string>

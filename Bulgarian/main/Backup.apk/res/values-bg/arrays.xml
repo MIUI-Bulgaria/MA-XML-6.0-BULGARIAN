@@ -23,7 +23,7 @@
         <item>Икони на началния екран</item>
         <item>Настройки на аларми</item>
         <item>Бележки</item>
-        <item>Не безпокойте</item>
+        <item>Тих режим</item>
         <item>Профили</item>
     </string-array>
     <string-array name="app_type_desc">

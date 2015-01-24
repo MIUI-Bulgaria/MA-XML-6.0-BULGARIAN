@@ -70,7 +70,7 @@
   <string name="call_record_button_label">Запис %s</string>
   <string name="call_record_wait_label">Изчакване</string>
   <string name="call_recording_error_low_storage">Недостатъчно място: вашата SD карта е почти пълна</string>
-  <string name="call_recording_error_privacy">Не можете да записвате докато сте в Защитен режим</string>
+  <string name="call_recording_error_privacy">Не можете да записвате докато сте в режим Гост</string>
   <string name="call_recording_error_sd_access">Няма достъп до SD картата</string>
   <string name="call_recording_error_sd_unmounted">Записът бе спрян: SD картата е изключена</string>
   <string name="call_recording_error_start_failed">Рекордерът се използва от друго приложение</string>
