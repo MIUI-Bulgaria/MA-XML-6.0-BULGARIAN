@@ -113,7 +113,7 @@
   <string name="event_action_edit">Редактиране</string>
   <string name="event_all_day_label">Цял ден</string>
   <string name="event_create">Ново събитие</string>
-  <string name="event_date_format">dd.MM EEEE</string>
+  <string name="event_date_format">dd.MM</string>
   <string name="event_delete">Изтрий събитие</string>
   <string name="event_edit">Редактирай събитие</string>
   <string name="event_full_date_format">dd.MM.yyyy</string>
@@ -303,7 +303,7 @@
   <string name="event_info_end">"Край: "</string>
   <string name="repeat_activity_label">Повторение</string>
   <string name="repeat_custom_activity_label">По избор</string>
-  <string name="repeat_custom_prompt">всеки %1$s, %2$s</string>
+  <string name="repeat_custom_prompt">всеки(а) %1$s на %2$s</string>
   <string name="repeat_custom_prompt_daily">всеки %1$s</string>
   <string name="repeat_custom_prompt_sentence">Събитието ще се повтаря %1$s</string>
   <string name="repeat_custom_prompt_splitter">", "</string>
@@ -311,8 +311,8 @@
   <string name="repeat_custom_string_suffix">" (%1$s)"</string>
   <string name="repeat_end_label">Повторението спира</string>
   <string name="repeat_end_times_unit" />
-  <string name="repeat_interval_dialog_title">всеки %1$s</string>
-  <string name="repeat_interval_frequency">%1$d %2$s</string>
+  <string name="repeat_interval_dialog_title">всеки(а) %1$s</string>
+  <string name="repeat_interval_frequency">%2$s %1$d</string>
   <string name="repeat_interval_frequency_single">%1$s</string>
   <string name="repeat_label_choose_day">Изберете ден</string>
   <string name="repeat_label_choose_month">Изберете месец</string>

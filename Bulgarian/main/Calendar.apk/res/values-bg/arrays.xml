@@ -257,16 +257,16 @@
         <item>Дек</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>Първи</item>
-        <item>Втори</item>
-        <item>Трети</item>
-        <item>Четвърти</item>
-        <item>Последен</item>
+        <item>Първи(а)</item>
+        <item>Втори(а)</item>
+        <item>Трети(а)</item>
+        <item>Четвърти(а)</item>
+        <item>Последен(на)</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
         <item>Пон - Пет</item>
         <item>Уикенд</item>
-        <item>Цялата седмица</item>
+        <item>Цяла седмица</item>
     </string-array>
     <string-array name="repeat_choose_weekday">
         <item>Пон</item>
@@ -278,9 +278,9 @@
         <item>Нед</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
-        <item>Ден</item>
-        <item>Седмица</item>
-        <item>Месец</item>
-        <item>Година</item>
+        <item>ден</item>
+        <item>седмица</item>
+        <item>месец</item>
+        <item>година</item>
     </string-array>
 </resources>
