@@ -393,7 +393,7 @@ For more info check the message you received from your service provider"</string
   <string name="ten_percent_total_pkg">%s (10%% от месечния ви план за данни)</string>
   <string name="three_percent_total_pkg">%s (3%% от месечния ви план за данни)</string>
   <string name="title_limit_traffic_per_day">Дневен лимит за данни</string>
-  <string name="lock_screen_traffic_notify_body">Изп. данни при изключен екран: %s</string>
+  <string name="lock_screen_traffic_notify_body">Заключен за %1$s | Използвани данни %2$s</string>
   <string name="traffic_over_purchase_body">Докоснете за преглед на детайлите.</string>
   <string name="traffic_over_purchase_link"/>
   <string name="traffic_over_purchase_title">Лимитът за данни е надвишен</string>
