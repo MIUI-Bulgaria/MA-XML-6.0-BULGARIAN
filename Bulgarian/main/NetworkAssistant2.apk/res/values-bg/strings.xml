@@ -409,4 +409,20 @@ For more info check the message you received from your service provider"</string
   <string name="traffic_setting_open">Вкл.</string>
   <string name="traffic_setting_step_num">Настройки за пакет от данни</string>
   <string name="traffic_warning_purchase_title">Остават по-малко от %d%%</string>
+  <string name="lock_screen_setting_summary">Показване на известие след като използвате 100 КБ</string>
+  <string name="main_alert_message_month_limit_error">Зададеният от вас лимит за данни е неправилен</string>
+  <string name="notify_daily_data_usage_body">%s използвани днес. Чукнете, за да зададете лимит.</string>
+  <string name="notify_daily_limit_body">%s използвани тази седмица. Чукнете, за да зададете лимит.</string>
+  <string name="notify_daily_limit_title">Задаване на дневен лимит за данни</string>
+  <string name="notify_month_traffic_body">%s използвани този месец. Чукнете, за да зададете лимит.</string>
+  <string name="notify_setting_pkg_title">Задаване на месечен лимит за данни</string>
+  <string name="notify_weekly_pkg_body">%s използвани тази седмица. Чукнете, за да зададете лимит.</string>
+  <string name="timeshow_h_m">%1$dч %2$dм</string>
+  <string name="timeshow_m_s">%1$dм %2$dс</string>
+  <string name="timeshow_s">%dс</string>
+  <string name="traffic_limit_error_alert_body">"Операторът ви отчита, че остават %1$s този месец. Това е повече от лимита на %2$s, който сте задали ръчно."</string>
+  <string name="traffic_limit_error_alert_iknow">ОК</string>
+  <string name="traffic_limit_error_alert_reset">Нулирай лимита</string>
+  <string name="traffic_limit_error_alert_title">Напомняне за лимит за данни %s</string>
+  <string name="traffic_setting_update_template_falure">Няма връзка с мрежата</string>
 </resources>

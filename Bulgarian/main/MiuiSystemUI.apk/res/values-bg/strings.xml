@@ -244,4 +244,6 @@ d MMMM yyyy"</string>
   <string name="status_bar_network_flow_exceed">Днес: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Надвишени:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Мес. лимит: %4$s</string>
   <string name="status_bar_network_flow_today">Днес: %1$s</string>
   <string name="battery_profiles">Изп. профилите на батерията</string>
+  <string name="status_bar_network_flow_exceed_to_purchase">Днес: %1$s Надвишени: %2$s Купете: %3$s</string>
+  <string name="status_bar_network_flow_warning_to_purchase">"Днес: %1$s    Остават: %2$s    Купете &gt;"</string>
 </resources>

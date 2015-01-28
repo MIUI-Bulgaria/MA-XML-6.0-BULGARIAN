@@ -604,4 +604,5 @@
   <string name="sync_third_party_app_pic_summary">Автоматично качване на снимките от някой папки на приложенията във вашия облак</string>
   <string name="auto_upload_guide_msssage">"Автоматично качване на вашите снимки от други приложения в Mi Cloud. Вижте настройките от Настройки в Галерия > Синхронизация с MiCloud > Автоматично качване."</string>
   <string name="auto_upload_guide_title">Автоматично качване</string>
+  <string name="choose_cloud_album">Изберете албум</string>
 </resources>

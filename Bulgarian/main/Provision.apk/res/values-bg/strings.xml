@@ -51,4 +51,5 @@
   <string name="provision_finish">ОК</string>
   <string name="provision_finish_restart">Рестарт</string>
   <string name="title_congratulation">Устройството е готово за използване!</string>
+  <string name="install_preinstall_app">Зареждат се прил-я…</string>
 </resources>
