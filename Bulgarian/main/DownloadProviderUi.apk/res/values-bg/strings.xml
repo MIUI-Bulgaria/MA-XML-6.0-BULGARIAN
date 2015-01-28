@@ -146,4 +146,9 @@
   <string name="privacy_tip_content">"Да се използва ли Xunlei Accelerator за по-бързо изтегляне? URL адреса на хоста на изтеглянията ще бъде качен на сървърите на Xunlei. Детайлите на вашия Mi профил също ще бъдат качени за проверка за активни абонаменти за тази услуга."</string>
   <string name="privacy_tip_ok">ОК</string>
   <string name="privacy_tip_title">Използване на Xunlei Accelerator?</string>
+  <string name="xunlei_close_tips_button">Ускори</string>
+  <string name="xunlei_close_tips_content">Само за Китай</string>
+  <string name="xunlei_close_tips_title">Тази функция не се препоръчва за потребители извън Китай</string>
+  <string name="toast_xunlei_engine_open">"Xunlei Accelerator е активирано.
+Функцията не се препоръчва извън Китай"</string>
 </resources>

@@ -50,4 +50,9 @@
     <string name="privacy_tip_ok">ОК</string>
     <string name="privacy_tip_title">Използване на Xunlei Accelerator?</string>
     <string name="task_already_exist">Задачата вече съществува</string>
+    <string name="notif_text_engine_off">В ход е изтегляне...</string>
+    <string name="notif_text_engine_on">Ускоряване... (само за Китай)</string>
+    <string name="notif_title_file_size">Общо: %1$d</string>
+    <string name="notif_title_multiple_downloading">Изтегляне: %1$d</string>
+    <string name="notif_title_single_downloading">Изтегляне: %1$s</string>
 </resources>
