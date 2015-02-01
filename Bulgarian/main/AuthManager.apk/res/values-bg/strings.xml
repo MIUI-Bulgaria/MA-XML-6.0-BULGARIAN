@@ -20,7 +20,7 @@
   <string name="Dashboard_Perm_Header">Наблюдават се %1$d приложения</string>
   <string name="Dashboard_Perm_Header_Disabled">Проследяването на права е изключено</string>
   <string name="Dashboard_Perm_SU">Управление на ROOT достъп</string>
-  <string name="Dashboard_Perm_SU_Desc">Наблюдават се %1$d приложения за ROOT достъп</string>
+  <string name="Dashboard_Perm_SU_Desc">Наблюдават се %1$d приложения с ROOT достъп</string>
   <string name="Dashboard_Perm_SU_Disabled">ROOT достъпът е забранен</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT достъпът не е наличен в стабилните версии на MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешаването на ROOT достъп на приложения от трети страни може да доведе до нестабилност на системата, загуба на Вашите лични данни или повреда на телефона. Моля, преминете към версия за разработчици на MIUI."</string>
@@ -203,7 +203,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Caption">ROOT достъп</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Разрешавате ли на %1$s да получи ROOT достъп?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">Разрешаването на ROOT достъп на приложенията може да доведе до нестабилност на системата.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step3">Сигурността на вашите данни (профили, пароли и съобщения) може да бъде компрометирана.</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step3">Сигурността на вашите данни (профили, пароли и съобщения) може да бъде компроментирана.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Разрешаването на ROOT достъп на приложенията може също да доведе до повреда на устройството.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Позволяването на ROOT достъп на приложенията е на ваш собствен риск.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Разрешавате ли на %1$s да получи ROOT достъп?</string>

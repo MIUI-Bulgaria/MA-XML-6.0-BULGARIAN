@@ -578,10 +578,10 @@
   <string name="usage_type_audio">Аудио</string>
   <string name="usage_type_cpu">Процесор, общо</string>
   <string name="usage_type_cpu_foreground">Процесор, на преден план</string>
-  <string name="usage_type_data_recv">Мобилните данни са получени</string>
-  <string name="usage_type_data_send">Мобилните данни са изпратени</string>
-  <string name="usage_type_data_wifi_recv">Данните през Wi-Fi са получени</string>
-  <string name="usage_type_data_wifi_send">Данните през Wi-Fi са изпратени</string>
+  <string name="usage_type_data_recv">Получени мобилни данни</string>
+  <string name="usage_type_data_send">Изпратени мобилни данни</string>
+  <string name="usage_type_data_wifi_recv">Получени данни чрез Wi-Fi</string>
+  <string name="usage_type_data_wifi_send">Изпратени данни чрез Wi-Fi</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Време без сигнал</string>
   <string name="usage_type_on_time">Продължителност на включване</string>

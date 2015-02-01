@@ -186,7 +186,7 @@
   <string name="st_block_setting_group">Настройки на списъка с блокирани</string>
   <string name="st_block_setting_title">Обаждания и съобщения</string>
   <string name="st_block_title">Отклони в регистър с блокирани</string>
-  <string name="st_block_unknown_call">Блок. обаждания от непознати  номера</string>
+  <string name="st_block_unknown_call">Блок. обаждания от непознати номера</string>
   <string name="st_block_unknown_sms">Блок. SMS от непознати  номера</string>
   <string name="st_call_group">Обаждания</string>
   <string name="st_common_setting_group">Настройки за филтриране</string>
