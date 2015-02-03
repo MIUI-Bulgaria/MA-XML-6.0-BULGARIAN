@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="updated_contacts">
+        <item quantity="other">Обновени %s контакти</item>
+        <item quantity="one">Обновен %s контакт</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d контакти</item>
+        <item quantity="one">%d контакт</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d съобщения</item>
+        <item quantity="one">%d съобщение</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d бележки</item>
+        <item quantity="one">%d бележка</item>
+    </plurals>
+</resources>

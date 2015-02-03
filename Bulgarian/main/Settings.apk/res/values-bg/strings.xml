@@ -2887,7 +2887,8 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="status_bar_settings_long_click_sort">Дълго натискане за сортиране</string>
   <string name="status_bar_settings_toggle_position">Позиция на превключвателите</string>
   <string name="alpha_build">" | Алфа"</string>
-  <string name="developer_build">" | За програмисти"</string>
+  <string name="developer_build">" 
+| За програмисти"</string>
   <string name="music_HiFi_title">Hi-Fi аудио</string>
   <string name="music_dirac_control">Оптимизиране качеството на звука</string>
   <string name="music_dirac_mode_off">Изключено</string>
@@ -2982,4 +2983,12 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="screen_paper_mode_apps_title">Използвай режим четене за тези прил-я</string>
   <string name="screen_paper_mode_off_apps_title">Не използвай режим четене за следните прил-я</string>
   <string name="power_center">Енергия</string>
+  <string name="search_accessibility">достъпност</string>
+  <string name="search_battery">батерия</string>
+  <string name="search_display">екран</string>
+  <string name="search_font">шрифт</string>
+  <string name="search_handy_mode">ползване с една ръка</string>
+  <string name="search_privacy">поверителност</string>
+  <string name="search_storage">хранилище</string>
+  <string name="search_wifi_display">Wi-Fi дисплей</string>
 </resources>
