@@ -541,7 +541,6 @@
 Опитайте отново или се обадете за отдела за обслужване на клиенти за още опции."</string>
   <string name="other_settings">Други настройки за обаждане</string>
   <string name="other_settings_category">Други</string>
-  <string name="password">Парола</string>
   <string name="password_changed">Паролата е променена успешно</string>
   <string name="password_title">Парола</string>
   <string name="payphone">Импулсен телефон</string>
@@ -860,7 +859,6 @@
   <string name="international_roaming_setting">Международен роуминг</string>
   <string name="msim_select_default_time_left">(%d сек.)</string>
   <string name="network_unlock">Отключване</string>
-  <string name="port">Порт</string>
   <string name="preferred_network_restrict_network_changed_incall">Мобилната мрежа не може да се пороменя по време на обаждане</string>
   <string name="retry_btn">Нов опит</string>
   <string name="sim_cards_network_mode_changed_summary">Докоснете за преглед на настройките за SMS и обаждане.</string>
