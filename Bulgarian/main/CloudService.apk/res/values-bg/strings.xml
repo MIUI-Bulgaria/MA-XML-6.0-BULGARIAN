@@ -277,4 +277,16 @@
   <string name="sync_resend_sms_dspt_provision">" Ако смените SIM картите си, вашият оператор може да ви таксува за едно SMS съобщение, използвано за реактивиране на услугата."</string>
   <string name="user_agreement_title">"Условия за ползване на Mi Cloud"</string>
   <string name="find_device_dspt_provision_4">Ако смените SIM картите си, автоматично ще бъде изпратено SMS съобщение за реактивиране на услугата.</string>
+  <string name="share_cancel">отменено споделяне</string>
+  <string name="share_failed">неуспешно споделяне</string>
+  <string name="share_miliao_not_installed">MiTalk не е инсталирано.</string>
+  <string name="share_success">успешно споделено</string>
+  <string name="share_weibo_not_installed">Weibo не е инсталирано.</string>
+  <string name="share_weixin_not_installed">Wechat не е инсталирано.</string>
+  <string name="sina_share_fail">Неуспешно изпращане</string>
+  <string name="sina_share_fail_content_repeat">Не може да се сподели: съдържанието вече съществува…</string>
+  <string name="sina_share_pendding">Изпраща се…</string>
+  <string name="sina_share_success">Изпратено</string>
+  <string name="sina_token_expired_warning">Weibo профилът е изтекъл: Моля, подновете го</string>
+  <string name="sina_token_invalid_warning">Weibo профилът е невалиден: Моля, подновете го</string>
 </resources>

@@ -2991,4 +2991,5 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="search_privacy">поверителност</string>
   <string name="search_storage">хранилище</string>
   <string name="search_wifi_display">Wi-Fi дисплей</string>
+  <string name="cmcc_hardware_version">Версия на хардуера</string>
 </resources>

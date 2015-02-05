@@ -461,4 +461,5 @@
   <string name="vp_select_video_definition">Изберете дефиниция</string>
   <string name="vp_skip">Прескочи интрото</string>
   <string name="vp_video_loading">&lt;CDATA&gt;Зарежда се&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="app_recommend">Препоръчани</string>
 </resources>
