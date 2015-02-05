@@ -566,6 +566,7 @@
   <string name="impunity_declaration_settings">Известие за интернет връзка</string>
   <string name="impunity_declaration_summary">Показване на известие всеки път, когато стартирате приложението Галерия</string>
   <string name="impunity_declaration_title">Свързване с интернет</string>
+  <string name="impunity_declaration_positive_text">ОК</string>
   <string name="miui_wallpaper">Тапет</string>
   <string name="wandoujia">SnapPea</string>
   <string name="abandon">Отмяна</string>

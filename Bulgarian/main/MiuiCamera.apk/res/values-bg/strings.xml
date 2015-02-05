@@ -584,4 +584,7 @@
   <string name="simple_mode_button_text_scene">Спри сценичен режим</string>
   <string name="pref_simple_hdr_entry_off">Изключен</string>
   <string name="pref_simple_hdr_entry_on">Включен</string>
+  <string name="accessibility_setting_button">Допълнителни настройки</string>
+  <string name="confirm_location_alert">Запомняне на мястото на снимката</string>
+  <string name="start_capture">ОК</string>
 </resources>

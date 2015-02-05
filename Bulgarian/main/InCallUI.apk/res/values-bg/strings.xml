@@ -79,7 +79,7 @@
   <string name="call_title_redialing_with_times">Набран повторно %d пъти</string>
   <string name="caller_manage_header">Конферентно обаждане %s</string>
   <string name="calling_via_template">Обаждане чрез %s</string>
-  <string name="card_title_call_ended">Обаждането завърши</string>
+  <string name="card_title_call_ended">"Обаждането завърши"</string>
   <string name="card_title_conf_call">Конферентно обаждане</string>
   <string name="card_title_dialing">Набиране</string>
   <string name="card_title_hanging_up">Приключване на разговора</string>
