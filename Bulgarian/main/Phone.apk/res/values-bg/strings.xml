@@ -189,7 +189,7 @@
   <string name="card_title_MOcall_forwarding">Изходящо препратено повикване</string>
   <string name="card_title_MTcall_forwarding">Входящо повикване е препратено</string>
   <string name="card_title_call_deflected">Повикването е отклонено.</string>
-  <string name="card_title_call_ended">Обаждането завърши</string>
+  <string name="card_title_call_ended">"Обаждането завърши "</string>
   <string name="card_title_callconnectedect">Свързвано чрез ECT повикване.</string>
   <string name="card_title_callconnectingect">Повикването се свързва чрез ECT.</string>
   <string name="card_title_calliswaiting">Изчакващо обаждане</string>
