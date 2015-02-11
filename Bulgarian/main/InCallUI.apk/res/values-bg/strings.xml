@@ -82,12 +82,12 @@
   <string name="card_title_call_ended">"Обаждането завърши "</string>
   <string name="card_title_conf_call">Конферентно обаждане</string>
   <string name="card_title_dialing">Набиране</string>
-  <string name="card_title_hanging_up">Приключване на разговора</string>
+  <string name="card_title_hanging_up">"Приключване на разговора "</string>
   <string name="card_title_in_call">Вх. обаждане</string>
   <string name="card_title_in_call_short">В разговор</string>
   <string name="card_title_incoming_call">Вх. обаждане</string>
   <string name="card_title_my_phone_number">Моят номер е %s.</string>
-  <string name="card_title_on_hold">Задържане на обаждането</string>
+  <string name="card_title_on_hold">"Задържане на обаждането "</string>
   <string name="card_title_redialing">Извършва се повторен опит</string>
   <string name="card_title_threeway_call">Тристранно повикване</string>
   <string name="cb_sms_settings">Настройки за SMS с клетъчно предаване</string>

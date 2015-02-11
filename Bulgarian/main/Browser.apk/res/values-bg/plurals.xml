@@ -34,6 +34,7 @@
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Последните %d дни</item>
+        <item quantity="one">Вчера</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d от %2$d</item>

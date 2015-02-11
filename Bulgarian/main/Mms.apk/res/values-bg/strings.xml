@@ -252,9 +252,9 @@
   <string name="mx_auto_resend_sms_summary">Изпращайте съобщенията като SMS, когато Mi Message не са достъпни. Начисляват се такси от оператора.</string>
   <string name="mx_btn_enable">Активирай</string>
   <string name="mx_btn_enable_now">Активирай</string>
-  <string name="mx_count_dspt">Изпратили сте %1$d съобщения и %2$d MMS чрез облака</string>
-  <string name="mx_current_status">Статус: Онлайн</string>
-  <string name="mx_dspt">Само потребители на MIUI могат да обменят Mi Message. Ако няма интернет връзка, съобщенията ще бъдат изпратени чрез мобилния оператор.</string>
+  <string name="mx_count_dspt">Изпратени: %1$d SMS и %2$d MMS</string>
+  <string name="mx_current_status">Настройки за моб. данни</string>
+  <string name="mx_dspt">Изпращане на съобщения до други потребители на MIUI без да се начисляват такси за SMS</string>
   <string name="mx_enable">Активиране на Mi Message</string>
   <string name="mx_enable_int_popup_msg">Активирането Ви позволява да изпращате безплатни SMS към MIUI потребители. За активиране, трябва да изпратите международен SMS. Начисляват се такси от оператора.</string>
   <string name="mx_enable_popup_msg">Изпращане на безплатни съобщения до други MIUI потребители.</string>
@@ -266,7 +266,7 @@
   <string name="mx_recommend_msg">Активирайте Mi Message за изпращане на безплатни съобщения</string>
   <string name="mx_warning_notice">Ще бъде изпратен SMS за аквиране на Mi Message, който се заплаща според тарифата ви.</string>
   <string name="need_download">Синхронизация…</string>
-  <string name="new_message">Ново съобщение</string>
+  <string name="new_message">Създаване</string>
   <string name="new_message_arrived">Получено е ново съобщение</string>
   <string name="new_phrase">Нов шаблон</string>
   <string name="new_phrase_hint">Въведи нов шаблон</string>
@@ -298,7 +298,7 @@
   <string name="pref_collapse_sp_messages_summary">Групирай съобщенията от вашия оператор в една тема</string>
   <string name="pref_edit_smsc_address">Номер на SMS-център</string>
   <string name="pref_forward_title">Препращане</string>
-  <string name="pref_key_mx_feedback">Изпращане на отзив</string>
+  <string name="pref_key_mx_feedback">Отзив</string>
   <string name="pref_messages_to_save">Задай броя на съобщения за запазване в кореспонденцията</string>
   <string name="pref_mms_settings_title">Настройки на съобщения (MMS)</string>
   <string name="pref_notification_settings_title">Настройки на известия</string>
@@ -306,14 +306,14 @@
   <string name="pref_sms_theme_title">Настройки на теми</string>
   <string name="pref_summary_allow_si_sl_push">Позволете получаване на WAP Push съобщения (SI/SL)</string>
   <string name="pref_summary_delete_limit">Брой съобщения в кореспонденция: %1$s</string>
-  <string name="pref_summary_delivery_reports">Изискване на потвърждение за доставка за всяко изпратено съобщение</string>
+  <string name="pref_summary_delivery_reports">Показване на статуса за доставка на изпратените съобщения</string>
   <string name="pref_summary_hide_festival">Скрий раздела за \"Поздравления\" за езици, различни от Китайски</string>
   <string name="pref_summary_manage_sim_messages">Управление на съобщенията, съхранени в SIM картата</string>
   <string name="pref_summary_mms_auto_retrieval">Автоматично зареждане на съобщения</string>
   <string name="pref_summary_mms_read_reports">Изискване на потвърждение за прочитане за всяко изпратено съобщение</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Автоматично зареждане на съобщения в роуминг</string>
   <string name="pref_summary_mx_feedback">Докладване на грешки и изпращане на отзиви директно до Xiaomi</string>
-  <string name="pref_summary_notification_body_enabled">Преглед на съобщения на заключен екран и в лентата с известия</string>
+  <string name="pref_summary_notification_body_enabled">Показване на съобщенията на заключен екран и в лентата с известия</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Не можете да преглеждате съобщения в режим Гост</string>
   <string name="pref_summary_off_system_mms_priority">Използване на друго приложение за получаване и изпращане на MMS</string>
   <string name="pref_summary_on_system_mms_priority">Използване на системното MMS приложение за получаване и изпращане на MMS</string>
@@ -334,7 +334,7 @@
   <string name="pref_title_mms_delete">Максимално количество MMS</string>
   <string name="pref_title_mms_read_reports">Потвърждение за прочитане</string>
   <string name="pref_title_mms_retrieval_during_roaming">Зареждане при роуминг</string>
-  <string name="pref_title_notification_body_enabled">Покажи визуализация</string>
+  <string name="pref_title_notification_body_enabled">Показване на съобщенията на закл. екран</string>
   <string name="pref_title_ringtone_repeat">Брой напомняния</string>
   <string name="pref_title_show_recent_contacts">Последни контакти</string>
   <string name="pref_title_sms_delete">Максимално количество SMS</string>
@@ -546,5 +546,5 @@
   <string name="warning_show">Изпращане след %d сек.</string>
   <string name="hms_uri_param_err">URL не може да е празно</string>
   <string name="festival_networking_title">Известие</string>
-  <string name="pref_title_ringtone_repeat_summary">Брой звуци за известяване при новополучен SMS, когато екрана е изключен:</string>
+  <string name="pref_title_ringtone_repeat_summary">"Брой звуци за известяване при новополучен SMS, когато екрана е изключен: "</string>
 </resources>

@@ -311,7 +311,7 @@
   <string name="miui_content_cut">Изрежи</string>
   <string name="miui_content_paste">Постави</string>
   <string name="miui_content_select">Изберете</string>
-  <string name="miui_content_select_all">Всички</string>
+  <string name="miui_content_select_all">Избери всичко</string>
   <string name="miui_content_share">Споделяне</string>
   <string name="miui_content_web_search">Търсене</string>
   <string name="miui_quicksearch_enable_pref_summary">Позволява показване на търсачката на браузъра в лентата с известия</string>
@@ -632,7 +632,7 @@
   <string name="sync_item_browser_title">Синхрон. на браузъра</string>
   <string name="tab_history">История</string>
   <string name="tab_most_visited">Най-посещавани</string>
-  <string name="tab_quicklinks">Полезни</string>
+  <string name="tab_quicklinks">Начало</string>
   <string name="tab_snapshots">Запазени страници</string>
   <string name="tab_videopage">Видео</string>
   <string name="tab_yellowpage">Популярни</string>
@@ -817,4 +817,5 @@
   <string name="video_push_multi_title">Има актуализации</string>
   <string name="video_push_single_message">Актуализиране до %1$d</string>
   <string name="webviewchromium_private_browsing_warning">Функционалността не се поддържа в тази версия на Android.</string>
+  <string name="miui_content_open_url">Отвори URL</string>
 </resources>

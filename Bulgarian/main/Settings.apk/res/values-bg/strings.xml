@@ -2992,4 +2992,17 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="search_storage">хранилище</string>
   <string name="search_wifi_display">Wi-Fi дисплей</string>
   <string name="cmcc_hardware_version">Версия на хардуера</string>
+  <string name="smartcover_sensitive_title">Smartcover режим</string>
+  <string name="wifi_connect_cmcc_dialog_cancel">Отказ</string>
+  <string name="wifi_connect_cmcc_dialog_confirm">ОК</string>
+  <string name="wifi_connect_cmcc_dialog_content">Свързан към услуга за данни от CMCC мрежа.</string>
+  <string name="wifi_connect_cmcc_dialog_not_remind">Не показвай отново</string>
+  <string name="wifi_connect_cmcc_dialog_title">Известие за изп. на данни</string>
+  <string name="wifi_notify_cmcc_connected_summary">Показване на известие когато сте свързани към CMCC мрежа</string>
+  <string name="wifi_notify_cmcc_connected_title">Известие за CMCC мрежа</string>
+  <string name="wifi_off_airplane_on_cancel">Отказ</string>
+  <string name="wifi_off_airplane_on_confirm">ОК</string>
+  <string name="wifi_off_airplane_on_content">Можете ръчно да включите Wi-Fi, когато е включен Самолетен режим.</string>
+  <string name="wifi_off_airplane_on_not_remind">Не показвай отново</string>
+  <string name="wifi_off_airplane_on_title">Wi-Fi в Самолетен режим</string>
 </resources>
