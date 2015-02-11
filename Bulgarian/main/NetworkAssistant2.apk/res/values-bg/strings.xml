@@ -408,7 +408,7 @@ For more info check the message you received from your service provider"</string
   <string name="traffic_setting_extra_traffic_title">Допълнителни настройки</string>
   <string name="traffic_setting_open">Вкл.</string>
   <string name="traffic_setting_step_num">Настройки за пакет от данни</string>
-  <string name="traffic_warning_purchase_title">Остават по-малко от %d%%</string>
+  <string name="traffic_warning_purchase_title">Известие за използвани данни</string>
   <string name="lock_screen_setting_summary">Показване на известие след като използвате 100 КБ</string>
   <string name="main_alert_message_month_limit_error">Зададеният от вас лимит за данни е неправилен</string>
   <string name="notify_daily_data_usage_body">%s използвани днес. Чукнете, за да зададете лимит.</string>

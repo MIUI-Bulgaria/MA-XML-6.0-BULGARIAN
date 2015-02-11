@@ -9,7 +9,7 @@
   <string name="about_version_label">Версия:</string>
   <string name="actor_colon">Актьор:</string>
   <string name="add_favorite_success">Добавено към любими</string>
-  <string name="add_more_addons">Add more</string>
+  <string name="add_more_addons">Добави още</string>
   <string name="addon"/>
   <string name="addon_all">Всички</string>
   <string name="addon_category">Препоръчани</string>
@@ -162,7 +162,7 @@
   <string name="menu_item_sub_title">Субтитри</string>
   <string name="mipush_setting">Xiaomi push</string>
   <string name="month">"."</string>
-  <string name="more">Още</string>
+  <string name="more">Отиди на %s</string>
   <string name="my_favorite">Любими</string>
   <string name="my_offline">Офлайн</string>
   <string name="my_video">Локално</string>
@@ -203,7 +203,7 @@
   <string name="rank">Оценени</string>
   <string name="receive_mipush">Получаване на xiaomi push</string>
   <string name="receive_mipush_summary">Получаване на известия за ново или обновено онлайн съдържание</string>
-  <string name="recent_play">Последно гледан: Еп.%d</string>
+  <string name="recent_play">Последно гледан</string>
   <string name="recentplay">Последно гледани</string>
   <string name="recommend">Препоръчани</string>
   <string name="reloading_tip">Не можа да се свърже с мрежата</string>
