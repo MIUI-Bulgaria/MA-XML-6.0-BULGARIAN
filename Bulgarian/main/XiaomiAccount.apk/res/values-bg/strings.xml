@@ -323,4 +323,6 @@
   <string name="account_user_using_weibo_avatar">Използване на снимката от Sina Weibo</string>
   <string name="empty_device_list_notice">Няма устройства</string>
   <string name="photoPickerNotFoundText">Няма налични снимки.</string>
+  <string name="account_user_using_facebook_avatar">Използване на профилната снимка от Facebook</string>
+  <string name="sns_access_token_expired_warning">Вписването в профила е изтекло. Впишете се отново, за да добавите този профил.</string>
 </resources>
