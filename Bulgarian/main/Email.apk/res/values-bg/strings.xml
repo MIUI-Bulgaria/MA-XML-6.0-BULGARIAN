@@ -851,7 +851,6 @@
     <string name="account_setup_options_mail_check_frequency_12hour">На всеки 12 часа</string>
     <string name="account_setup_options_mail_check_frequency_4hour">На всеки 4 часа</string>
     <string name="changepw_dialog_tips">Въведете отново паролата за %s</string>
-    <string name="compose_help_context">създаване</string>
     <string name="confirm_delete_conversation_title">Изтриване</string>
     <string name="donot_disturb_endtime_title">До</string>
     <string name="donot_disturb_starttime_title">От</string>
