@@ -398,7 +398,7 @@ For more info check the message you received from your service provider"</string
   <string name="traffic_over_purchase_link"/>
   <string name="traffic_over_purchase_title">Лимитът за данни е надвишен</string>
   <string name="traffic_purchase_body"/>
-  <string name="traffic_purchse_suggestion"/>
+  <string name="traffic_purchse_suggestion">Лимитът за данни е надвишен</string>
   <string name="traffic_setting_app_count">%d приложения</string>
   <string name="traffic_setting_completed">ОК</string>
   <string name="traffic_setting_daily_limit_summary">Задаване на лимит от използвани данни</string>

@@ -217,7 +217,7 @@
   <string name="facetan">Потъмняване на лицето</string>
   <string name="fail_hint">Операцията е неуспешна</string>
   <string name="fail_init_gallery_db_helper">Не може да се зареди базата с данни на Галерия</string>
-  <string name="fail_to_download_n_items">Изтеглянето на %s елементи е неуспешно</string>
+  <string name="fail_to_download_n_items">Не може да се изтеглят %s</string>
   <string name="fail_to_pick_email">Невалиден Имейл</string>
   <string name="fail_to_sync_album">Албумът не можа да се синхронизира. Проверете връзката си за данни и опитайте отново.</string>
   <string name="file_not_exist_message">Файлът не съществува.</string>

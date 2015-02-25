@@ -226,7 +226,7 @@
   <string name="pref_camera_coloreffect_entry_yesteryear">Винтидж</string>
   <string name="pref_camera_coloreffect_title">Филтри</string>
   <string name="pref_camera_contrast_title">Контраст</string>
-  <string name="pref_camera_countdown_title">Отброяване</string>
+  <string name="pref_camera_countdown_title">Таймер</string>
   <string name="pref_camera_current_k_value">Текуща стойност</string>
   <string name="pref_camera_default_suffix">(Стандартно)</string>
   <string name="pref_camera_denoise_title">Намаляване на шумовете</string>
@@ -397,7 +397,7 @@
   <string name="pref_camera_zsl_title">ZSL (снима без забавяне)</string>
   <string name="pref_capture_settings">Фотоапарат</string>
   <string name="pref_exposure_title">Експониране</string>
-  <string name="pref_face_beauty_title">Кожа</string>
+  <string name="pref_face_beauty_title">Разкрасяване</string>
   <string name="pref_front_mirror_title">Предно огледало</string>
   <string name="pref_grp_advanced_settings">Разширени настройки</string>
   <string name="pref_grp_capture_settings">Настройки на запис</string>
@@ -444,7 +444,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 секунди (90 пъти)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 секунди (900 пъти)</string>
   <string name="pref_video_time_lapse_frame_interval_title">\"Time lapse\" интервал</string>
-  <string name="preparing_sd">Подготовка на вътрешната памет...</string>
+  <string name="preparing_sd">Проверка на вътрешната памет…</string>
   <string name="qq_details">Детайли за QQ:</string>
   <string name="qr_code_details">"QR код: "</string>
   <string name="raw_data_exit_button_text">Изход от RAW режим</string>
@@ -481,7 +481,7 @@
   <string name="simple_mode_button_text_color_effect">Спри филтъра</string>
   <string name="simple_mode_button_text_countdown">Спри отброяването</string>
   <string name="simple_mode_button_text_face_beauty">Спри разкрасяване на лица</string>
-  <string name="simple_mode_button_text_fast_video">Затвори slow-motion камерата</string>
+  <string name="simple_mode_button_text_fast_video">Спри slow-motion камерата</string>
   <string name="simple_mode_button_text_hand_night">Спри нощен режим</string>
   <string name="simple_mode_button_text_hdr">Спри HDR</string>
   <string name="simple_mode_button_text_panorama">Спри панорама</string>
@@ -495,8 +495,8 @@
   <string name="spaceIsLow_content">Мястото във Вашата USB памет привършва. Променете настройките за качество или изтрийте някои снимки и други файлове.</string>
   <string name="success_message_import_from_account">Импортирането е успешно</string>
   <string name="tags">Тагове</string>
-  <string name="tap_to_exposure">Докоснете за ръчно експониране</string>
-  <string name="tap_to_focus">Докоснете за фокусиране</string>
+  <string name="tap_to_exposure">Чукнете за ръчно експониране</string>
+  <string name="tap_to_focus">Чукнете за фокусиране</string>
   <string name="time">Време</string>
   <string name="time_lapse_error">Невалидна резолюция за записване на \"Time lapse\" видео.</string>
   <string name="times">Време</string>
@@ -565,7 +565,7 @@
   <string name="pref_camera_delay_capture_entry_3s">3 сек.</string>
   <string name="pref_camera_delay_capture_entry_5s">5 сек.</string>
   <string name="pref_camera_delay_capture_entry_audio">Звук</string>
-  <string name="pref_camera_delay_capture_title">Отброяване</string>
+  <string name="pref_camera_delay_capture_title">Таймер</string>
   <string name="pref_camera_exposuretime_entry_16s">16 сек.</string>
   <string name="pref_camera_exposuretime_entry_32s">32 сек.</string>
   <string name="pref_camera_exposuretime_entry_4s">4 сек.</string>
@@ -580,7 +580,7 @@
   <string name="pref_camera_long_pressing_shutter_title">Натиснете и задръжте затвора за заключване на AE/AF/AWB</string>
   <string name="simple_mode_button_asd_flash">Спри</string>
   <string name="simple_mode_button_asd_hdr">Спри</string>
-  <string name="simple_mode_button_text_delay_capture">Спри отброяването</string>
+  <string name="simple_mode_button_text_delay_capture">Спри таймера</string>
   <string name="simple_mode_button_text_scene">Спри сценичен режим</string>
   <string name="pref_simple_hdr_entry_off">Изключен</string>
   <string name="pref_simple_hdr_entry_on">Включен</string>

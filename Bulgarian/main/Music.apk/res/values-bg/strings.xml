@@ -72,7 +72,7 @@
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="empty_page_no_album">Няма албуми.</string>
   <string name="empty_page_no_artist">Няма изпълнители.</string>
-  <string name="empty_page_no_document">Няма документи.</string>
+  <string name="empty_page_no_document">Няма аудио файлове.</string>
   <string name="empty_page_no_track">Няма песни.</string>
   <string name="enabled">Активирано</string>
   <string name="eq_auto">По избор</string>
@@ -191,7 +191,7 @@
   <string name="search_title_singer">Изпълнител</string>
   <string name="search_title_song">Песен</string>
   <string name="select_device">Избор на устройство</string>
-  <string name="send_to">Изпрати до</string>
+  <string name="send_to">Споделяне</string>
   <string name="send_to_title">Изпращане до (%1$s)</string>
   <string name="set_as_ring">Задай като мелодия</string>
   <string name="set_ringtones_failed">Неуспешно задаване като мелодия.</string>
@@ -237,7 +237,7 @@
   <string name="filter_by_duration_max">5 мин</string>
   <string name="filter_by_duration_min">0 сек</string>
   <string name="filter_by_duration_prefix">"Мин. продължителност: "</string>
-  <string name="filter_by_duration_summary">Не показвай късите аудио файлове</string>
+  <string name="filter_by_duration_summary">Скриване на кратките аудио файлове</string>
   <string name="filter_by_size">Филтриране по размер</string>
   <string name="filter_by_size_max">2МБ</string>
   <string name="filter_by_size_min">0КБ</string>
