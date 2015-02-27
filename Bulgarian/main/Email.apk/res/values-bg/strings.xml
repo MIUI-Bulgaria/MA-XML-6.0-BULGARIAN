@@ -344,7 +344,6 @@
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_close">Затваряне на чекмеджето за навигация</string>
     <string name="drawer_open">Отваряне на слоя за навигация</string>
-    <string name="eas_template">домейн\\име</string>
     <string name="edit_quick_response_dialog">Бърз отговор</string>
     <string name="empty_account_tip">Не бе открит профил</string>
     <string name="empty_email_tip">Не може да изпратите празен имейл</string>
