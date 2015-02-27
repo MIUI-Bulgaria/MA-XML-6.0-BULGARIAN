@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
+<resources>
+  <string name="sim_radio_off">Неактивирано</string>
+  <string name="sd_eject">Деактивиране на SD карта</string>
+  <string name="sd_eject_summary">Спиране на SD картата за безопасното й премахване</string>
+  <string name="sd_insert_summary">Поставете SD карта за активиране</string>
+  <string name="sd_mount">Активиране на SD карта</string>
+  <string name="sd_mount_summary" />
+  <string name="sd_format">Изтриване на SD картата</string>
+  <string name="sd_format_summary">Изтрива всички данни в SD картата, като музика и снимки</string>
+  <string name="dlg_confirm_unmount_title">Да се спре ли SD картата?</string>
+  <string name="dlg_confirm_unmount_text">Ако спрете SD картата, някои използвани от вас приложения ще спрат и може да бъдат недостъпни, докато не я свържете отново.</string>
+  <string name="dlg_error_unmount_title" />
+  <string name="dlg_error_unmount_text">SD картата не можа да бъде спряна. Опитайте отново по-късно.</string>
+  <string name="unmount_inform_text">SD картата ще бъде спряна.</string>
+  <string name="sdcard_setting">SD карта</string>
+  <string name="sdcard_unmount">Деактивиране на SD карта</string>
+  <string name="sdcard_format">Изтриване на SD картата</string>
+  <string name="sdcard_settings_not_present_status">Няма SD карта.</string>
+  <string name="sdcard_settings_mass_storage_status">SD картата се използва като устройство за масово съхранение.</string>
+  <string name="sdcard_settings_unmounted_status">Сега е безопасно да премахнете SD картата.</string>
+  <string name="sdcard_settings_bad_removal_status">SD картата беше премахната, докато още се използва!</string>
+  <string name="sdcard_settings_scanning_status">SD картата се сканира за медийни файлове...</string>
+  <string name="sdcard_settings_read_only_status">SD картата е свързана само за четене.</string>
+  <string name="sd_card_settings_label">SD карта</string>
+  <string name="storage_settings_summary">Деактивиране на SD картата, преглед на налично хранилище</string>
+  <string name="sd_memory">SD карта</string>
+  <string name="master_clear_desc_erase_external_storage">"
+
+За да изчистите музиката, снимките и другите потребителски данни, трябва да се изтрие "<b>SD картата</b>.</string>
+  <string name="erase_external_storage">Изтриване на SD картата</string>
+  <string name="erase_external_storage_description">Да се изтриват всички данни в SD картата, като музика или снимки</string>
+  <string name="media_format_title">Изтриване на SD картата</string>
+  <string name="media_format_summary">Изтрива всички данни на SD картата</string>
+  <string name="media_format_desc">Да се изтрие ли SD картата? Ще загубите <b>цялата</b> информация на нея!</string>
+  <string name="media_format_button_text">Изтриване на SD картата</string>
+  <string name="media_format_final_desc">Да се изтрие ли SD картата заедно с всички съхранявани там файлове? Не можете да отмените това действие!</string>
+  <string name="media_format_gesture_explanation">Трябва да начертаете фигурата си за отключване, за да потвърдите, че искате да изтриете SD картата.</string>
+  <string name="external_data_size_label">SD карта</string>
+  <string name="filter_apps_onsdcard">На SD карта</string>
+  <string name="move_app_to_sdcard">Преместване на SD карта</string>
+  <string name="enforce_read_external_title">Да се защити SD картата</string>
+  <string name="enforce_read_external_summary">Прилож. трябва да поискат разрешение за четене на SD картата</string>
+  <string name="enforce_read_external_confirm_title">Да се защити ли SD картата?</string>
+  <string name="enforce_read_external_confirm_message">"Когато SD картата е защитена, приложенията трябва да поискат разрешение за четене на данни от външното хранилище.
+
+Някои от тях може да не работят, докато не бъдат актуализирани от съответните програмисти."</string>
+  <string name="credentials_install">Инсталиране от SD картата</string>
+  <string name="credentials_install_summary">Инсталиране на сертификати от SD картата</string>
+</resources>
