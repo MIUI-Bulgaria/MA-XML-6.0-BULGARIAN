@@ -134,10 +134,10 @@
   <string name="micloud">Mi Cloud</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
-  <string name="micloud_main_data_unsynced">%d елементи за синхр.</string>
+  <string name="micloud_main_data_unsynced">%d чакат за синхр.</string>
   <string name="micloud_main_network_error">Мрежата е недостъпна</string>
   <string name="micloud_main_stop_sync">Спри синхр.</string>
-  <string name="micloud_main_suggest_sync">Някой елементи не са синхронизирани с Mi Cloud</string>
+  <string name="micloud_main_suggest_sync">Не всичко е синхронизирано</string>
   <string name="micloud_main_sync_now">Синхронизирай</string>
   <string name="micloud_main_sync_on_wifi">Синхр. само по Wi-Fi</string>
   <string name="micloud_main_sync_stop">Спри синхр.</string>

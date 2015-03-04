@@ -299,4 +299,13 @@
   <string name="search_for_album">Албум</string>
   <string name="search_for_artist">Изпълнител</string>
   <string name="support_online_only">Само за стрийминг</string>
+  <string name="click_to_view_new_local_audios">Чукнете за преглед на детайлите.</string>
+  <string name="disallow_add_to_personal_radio">Personal radio is read only</string>
+  <string name="fragment_title_personal">PERSONAL</string>
+  <string name="impunity_declaration_negative_text">Прекрати</string>
+  <string name="impunity_declaration_positive_text">ОК</string>
+  <string name="no_enough_info">Недостатъчна информация за песента</string>
+  <string name="server_error">Грешка на сървъра. Опитайте отново по-късно</string>
+  <string name="suggest_text">Хората харесали това също харесаха</string>
+  <string name="today_update">Music updated</string>
 </resources>

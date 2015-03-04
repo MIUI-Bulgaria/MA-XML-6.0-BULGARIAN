@@ -327,4 +327,25 @@
   <string name="yes">Да</string>
   <string name="folder_name_illegal">Невалидно име на папка</string>
   <string name="delete_dialog_button">Изтрий</string>
+  <string name="delete_selected_tasks">Да се изтрият ли избраните?</string>
+  <string name="files">Файлове</string>
+  <string name="get_cloud_space">Добави 500 ГБ</string>
+  <string name="kp_category_all">Категория</string>
+  <string name="kp_category_doc">Word</string>
+  <string name="kp_category_excel">Excel</string>
+  <string name="kp_category_pdf">PDF</string>
+  <string name="kp_category_ppt">PowerPoint</string>
+  <string name="kp_category_txt">Текст</string>
+  <string name="kuaipan_cloud_photo">KuaiPan снимки</string>
+  <string name="kuaipan_create_shortcut_success">Прекият път е създаден</string>
+  <string name="kuaipan_data_formater_with_year">d.M.YYYY</string>
+  <string name="kuaipan_data_formater_without_year">d.M.</string>
+  <string name="kuaipan_delete_success">Снимката бе изтрита</string>
+  <string name="kuaipan_photo_folder_divider">,</string>
+  <string name="kuaipan_photo_locate">Засечени %1$s</string>
+  <string name="kuaipan_photo_more_folder_count">%1$s</string>
+  <string name="kuaipan_root_fooder">Начало</string>
+  <string name="mi_router_label">Mi Router</string>
+  <string name="no_display_file">"Не може да се покаже %1$s"</string>
+  <string name="usb_label">USB</string>
 </resources>

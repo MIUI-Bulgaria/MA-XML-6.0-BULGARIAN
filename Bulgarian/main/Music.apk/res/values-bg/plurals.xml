@@ -44,4 +44,8 @@
         <item quantity="other">%d подобни песни</item>
         <item quantity="one">%d подобна песен</item>
     </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d добавени песни</item>
+        <item quantity="one">%d добавена песен</item>
+    </plurals>
 </resources>

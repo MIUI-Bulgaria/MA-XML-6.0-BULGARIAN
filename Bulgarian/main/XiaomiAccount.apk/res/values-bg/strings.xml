@@ -233,7 +233,7 @@
   <string name="passport_user_agreement_p4">Политиката за поверителност</string>
   <string name="passport_vcode">Код за потвърждение</string>
   <string name="passport_vcode_notification_title">Проверката при вписването ви не е завършила</string>
-  <string name="passport_vcode_prompt_long">Въведете код за потвърждение, генериран от системата за сигурност на Xiaomi</string>
+  <string name="passport_vcode_prompt_long">Въведете кода за потвърждение</string>
   <string name="passport_verification_failed">Неуспешно удостоверяване</string>
   <string name="passport_verify">Провери</string>
   <string name="passport_welcome_skip_login">Пропусни</string>
@@ -288,7 +288,7 @@
 с"</string>
   <string name="vcode">Код за потвърждение</string>
   <string name="vcode_notification_title">Проверката на вашето влизане не е завършила</string>
-  <string name="vcode_prompt_long">Моля, въведете код за потвърждение, генериран от системата за сигурност на Xiaomi</string>
+  <string name="vcode_prompt_long">Въведете кода за потвърждение</string>
   <string name="verification_failed">Неуспешно удостоверяване</string>
   <string name="verify">Провери</string>
   <string name="wipe_data_dialog_msg">%s не са синхронизирани (тези данни ще бъдат изгубени ако продължите).</string>
@@ -325,4 +325,7 @@
   <string name="photoPickerNotFoundText">Няма налични снимки.</string>
   <string name="account_user_using_facebook_avatar">Използване на профилната снимка от Facebook</string>
   <string name="sns_access_token_expired_warning">Вписването в профила е изтекло. Впишете се отново, за да добавите този профил.</string>
+  <string name="mi_support_service">Поддръжка</string>
+  <string name="user_avatar_update_title">Промяна на профилната снимка</string>
+  <string name="user_avatar_uploading">Качва се…</string>
 </resources>

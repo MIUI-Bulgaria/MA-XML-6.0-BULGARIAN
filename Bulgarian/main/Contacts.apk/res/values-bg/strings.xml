@@ -1147,4 +1147,5 @@
   <string name="resource_download_notification_title_many">Изтеглени са %1$s теми</string>
   <string name="resource_download_notification_title_one">Темата е изтеглена</string>
   <string name="yellowpage_navigation_clear_search_history">Изчисти историята</string>
+  <string name="yellowpage_navigation_search_history">История</string>
 </resources>

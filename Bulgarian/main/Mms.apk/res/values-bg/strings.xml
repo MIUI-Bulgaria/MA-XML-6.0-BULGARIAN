@@ -547,4 +547,6 @@
   <string name="hms_uri_param_err">URL не може да е празно</string>
   <string name="festival_networking_title">Известие</string>
   <string name="pref_title_ringtone_repeat_summary">"Брой звуци за известяване при новополучен SMS, когато екрана е изключен: "</string>
+  <string name="pref_show_sms_template_summary">Автоматично копиране и попълване на кодовете за потвърждение</string>
+  <string name="title_show_sms_template">Проверка за кодове за потвърждение в SMS-а</string>
 </resources>
