@@ -1064,7 +1064,7 @@
   <string name="home_app_uninstall_button">Деинсталиране на това приложение</string>
   <string name="home_key">Бутон Начало</string>
   <string name="home_settings">Начало</string>
-  <string name="ime_security_warning">Този метод за въвеждане може да събира целия въведен от вас текст, включително лични данни като пароли и номера на кредитни карти. Той произлиза от приложението %1$s. Искате ли да го използвате?</string>
+  <string name="ime_security_warning">%1$s може да събира целия въведен от вас текст, включително лични данни като пароли и номера на кредитни карти.</string>
   <string name="immediately_destroy_activities">Без съхран. на дейностите</string>
   <string name="immediately_destroy_activities_summary">Унищож. на всяка дейност при напускане от потребител</string>
   <string name="ims_reg_required_off">Изисква се изключване на регистрацията за незабавни съобщения</string>
@@ -2974,7 +2974,7 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="supl_not_set">&lt;Не е зададено&gt;</string>
   <string name="title_layout_current">Избор на размер на шрифта</string>
   <string name="volume_hifi_description">Hi-Fi настройки</string>
-  <string name="wifi_disconnected_notification_summary">Опитайте отново или се свържете към друга Wi-Fi мрежа.</string>
+  <string name="wifi_disconnected_notification_summary">Вече не сте свързани към Wi-Fi мрежа.</string>
   <string name="wifi_disconnected_notification_title">Wi-Fi връзката прекъсна</string>
   <string name="screen_paper_mode_summary">Намалява фоновите отблясъци на екрана</string>
   <string name="screen_paper_mode_title">Режим четене</string>
@@ -3005,4 +3005,5 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="wifi_off_airplane_on_content">Можете ръчно да включите Wi-Fi, когато е включен Самолетен режим.</string>
   <string name="wifi_off_airplane_on_not_remind">Не показвай отново</string>
   <string name="wifi_off_airplane_on_title">Wi-Fi в Самолетен режим</string>
+  <string name="wifi_datanetwork_switch_not_remind">Не показвай отново</string>
 </resources>

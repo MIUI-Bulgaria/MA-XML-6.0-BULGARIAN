@@ -74,4 +74,16 @@
         <item>В \"Тих режим\"</item>
         <item>Никога</item>
     </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Не задавай</item>
+        <item>1 час</item>
+        <item>6 часа</item>
+        <item>12 часа</item>
+        <item>1 ден</item>
+        <item>Максимално</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Максимално</item>
+        <item>Два дни</item>
+    </string-array>
 </resources>
