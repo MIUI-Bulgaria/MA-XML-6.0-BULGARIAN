@@ -606,4 +606,36 @@
   <string name="auto_upload_guide_msssage">"Автоматично качване на вашите снимки от други приложения в Mi Cloud. Вижте настройките от Настройки в Галерия > Синхронизация с MiCloud > Автоматично качване."</string>
   <string name="auto_upload_guide_title">Автоматично качване</string>
   <string name="choose_cloud_album">Изберете албум</string>
+  <string name="black_white">Черно-бяло 1</string>
+  <string name="brannan">EarlyBird</string>
+  <string name="camera_black_white">Черно-бяло 2</string>
+  <string name="confirm_merge_face_albums">" "Обединяване на този албум с %s?" "</string>
+  <string name="cool">Свежо</string>
+  <string name="cool_portrait">СвежПортрет</string>
+  <string name="create_new_face">Ново лице</string>
+  <string name="early_bird">Brannan</string>
+  <string name="face_album">Албум с лица</string>
+  <string name="face_album_not_named">Без име</string>
+  <string name="face_album_rename_hint">Въведете име</string>
+  <string name="face_albumset_detecting_tip">Разпознаване на лица...</string>
+  <string name="face_albumset_empty">Няма разпознати лица</string>
+  <string name="face_albumset_use_tip">"Помага при търсене на тези лица,
+улеснява прегледа и редактирането на вашите снимки"</string>  
+  <string name="face_move_dialog_title">Изберете албум</string>
+  <string name="home_page_tab_face">Лице</string>
+  <string name="ignore_face">Игнорирай това лице</string>
+  <string name="merge_album_positive_button_text">Обединяване</string>
+  <string name="name_wrong">Не е %s</string>
+  <string name="old">Старо</string>
+  <string name="operation_remove_from_face_album">Премахване на лице</string>
+  <string name="photo_save_succeed">Съхранено</string>
+  <string name="preparing_data">Подготвяне на данни...</string>
+  <string name="rename_face_album">Преименуване</string>
+  <string name="rename_fail_msg">Неуспешно</string> 
+  <string name="rise">Нарастване</string>
+  <string name="start_to_use_face_albumset">Започнете да използвате албуми с лица</string>
+  <string name="view_face_album">Покажи албума</string>
+  <string name="who_is_this">Кой е този?</string>
+  <string name="effect">Ефекти</string>
+  <string name="adjust">Адаптиране</string>
 </resources>

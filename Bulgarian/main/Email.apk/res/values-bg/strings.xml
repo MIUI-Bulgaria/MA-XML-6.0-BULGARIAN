@@ -863,4 +863,5 @@
     <string name="search_tabs_name_recipient">Получател</string>
     <string name="search_tabs_name_sender">Подател</string>
     <string name="search_tabs_name_subject">Тема</string>
+    <string name="account_setup_deleting_account_msg">Профилът се изтрива…</string>
 </resources>
