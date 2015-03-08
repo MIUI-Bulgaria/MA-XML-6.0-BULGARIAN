@@ -1,0 +1,6 @@
+<strings>
+<string name="date_time" value="dd.MM EEEE"/>
+<string name="language" value="bg"/>
+<string name="desc_date_format" value="EEEE, dd MMM"/>
+<string name="desc_time" value="'час' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', двойно почукване за отваряне на часовника'"/>
+</strings>
