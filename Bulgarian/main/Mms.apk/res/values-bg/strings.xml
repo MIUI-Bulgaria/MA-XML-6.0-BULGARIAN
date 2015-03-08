@@ -290,10 +290,6 @@
   <string name="phrase_list_title">Бързи отговори</string>
   <string name="pick_too_many_recipients">Прекалено много получатели</string>
   <string name="play">Възпроизведи</string>
-  <string name="prefDefault_ringtone_repeat">1</string>
-  <string name="prefDefault_vibrateWhen">never</string>
-  <string name="prefDefault_vibrate_false">never</string>
-  <string name="prefDefault_vibrate_true">always</string>
   <string name="pref_advanced_settings_title">Разширени настройки</string>
   <string name="pref_collapse_sp_messages_summary">Групирай съобщенията от вашия оператор в една тема</string>
   <string name="pref_edit_smsc_address">Номер на SMS-център</string>
