@@ -5,7 +5,7 @@
     <string name="contact_carrier_message">Свържете се с мобилния си оператор ако имате допълнителни въпроси.</string>
     <string name="default_lockscreen_unlock_hint_text">Плъзнете нагоре за отключване</string>
     <string name="delete">Изтриване</string>
-    <string name="emergency_call_string">Спешно повикване</string>
+    <string name="emergency_call_string">SOS</string>
     <string name="experimental_try_string">Опитайте</string>
     <string name="experimental_validate">Проверете</string>
     <string name="experimental_validate_fail">Неуспешно вписване</string>
@@ -72,9 +72,9 @@
     <string name="short_pincode_error_msg">Въведете от 4 до 8 цифри</string>
     <string name="short_pukcode_error_msg">Въведете най-малко 8 цифри.</string>
     <string name="starting_camera_string">Стартиране на камерата</string>
-    <string name="unlock_sim_string">Разблокиране на SIM</string>
+    <string name="unlock_sim_string">Откл. на SIM</string>
     <string name="unlock_string">Отключи</string>
-    <string name="unlocking_sim_card">Разблокиране на SIM картата</string>
+    <string name="unlocking_sim_card">Отключване на SIM картата</string>
     <string name="unlockscreen_low_battery">Свържете зарядното устройство</string>
     <string name="unlockscreen_recharge_completed">Батерията е заредена</string>
     <string name="unlockscreen_recharging_message">Зареждане %d%%</string>
