@@ -24,7 +24,7 @@
     <string name="incorrect_pukcode">Неправилен PUK код</string>
     <string name="incorrect_pukcode_remaining_attempts">Неправилен PUK код, остават %d опита</string>
     <string name="input_password_hint_text">Въведете парола</string>
-    <string name="input_pin_code">Въведете PIN код</string>
+    <string name="input_pin_code">Въведете PIN</string>
     <string name="input_pin_code_to_unlock">Въведете PIN код за отключване на устройството</string>
     <string name="input_puk_code">Въведете PUK код</string>
     <string name="input_puk_code_to_unlock">Въведете PUK код за отключване на устройството</string>
