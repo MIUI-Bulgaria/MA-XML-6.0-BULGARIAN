@@ -327,4 +327,9 @@
   <string name="event_info_repeat">"Повторение: "</string>
   <string name="event_info_when">"Кога: "</string>
   <string name="event_info_where">"Къде: "</string>
+  <string name="sync_notice_cancel_toast_message">Локалният ви календар няма да бъде синхронизиран с Mi Cloud</string>
+  <string name="sync_notice_message">Все още не синхронизирате вашият Mi календар, искате ли да включите функцията сега?</string>
+  <string name="sync_notice_ok">Приемам</string>
+  <string name="sync_notice_ok_toast_message">Локалният ви календар ще бъде синхронизиран с Mi Cloud</string>
+  <string name="sync_notice_title">Заявка за синхрон</string>
 </resources>

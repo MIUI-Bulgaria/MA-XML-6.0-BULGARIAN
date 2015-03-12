@@ -3006,4 +3006,15 @@ SIM/RUIM картата не поддържа тази функция."</string>
   <string name="wifi_off_airplane_on_not_remind">Не показвай отново</string>
   <string name="wifi_off_airplane_on_title">Wi-Fi в Самолетен режим</string>
   <string name="wifi_datanetwork_switch_not_remind">Не показвай отново</string>
+  <string name="bluetooth_unlock_state_disconnected">Изключено</string>
+  <string name="bluetooth_unlock_state_key_error">Грешка в ключа</string>
+  <string name="bluetooth_unlock_state_label">Статус:</string>
+  <string name="bluetooth_unlock_state_ok">Успешно</string>
+  <string name="bluetooth_unlock_state_too_far">Не е в обхват</string>
+  <string name="device_security_settings_title">Безопасност</string>
+  <string name="enable_crypt_keeper_encrypt">Активирай шифроването</string>
+  <string name="location_access_off">Изкл.</string>
+  <string name="location_access_on">Вкл.</string>
+  <string name="privacy_mode_summary">Потребителските данни ще бъдат скрити</string>
+  <string name="privacy_mode_title">Разрешения</string>
 </resources>

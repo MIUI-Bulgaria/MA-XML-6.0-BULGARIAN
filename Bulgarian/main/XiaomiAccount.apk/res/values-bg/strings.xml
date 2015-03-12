@@ -328,4 +328,5 @@
   <string name="mi_support_service">Поддръжка</string>
   <string name="user_avatar_update_title">Промяна на профилната снимка</string>
   <string name="user_avatar_uploading">Качва се…</string>
+  <string name="micloud_sync_state_pending">Изчаква</string>
 </resources>

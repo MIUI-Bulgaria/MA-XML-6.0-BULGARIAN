@@ -44,4 +44,13 @@
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Говорете:</string>
+  <string name="cta_declaration">За подсигуряване на всички функции при търсене програмата се нуждае от достъп до: Интернет, Местоположение, Списък с повиквания, Контакти и др. Приемате ли?</string>
+  <string name="cta_declaration_ignore">Не показвай отново</string>
+  <string name="cta_declaration_negative_text">Отказ</string>
+  <string name="cta_declaration_positive_text">ОК</string>
+  <string name="cta_declaration_title">Условия на ползване</string>
+  <string name="distance_unit_kilometer">км</string>
+  <string name="distance_unit_meter">м</string>
+  <string name="recently_shortcut_label">Скорошни връзки</string>
+  <string name="xiaomi_search_label">Онлайн</string>
 </resources>

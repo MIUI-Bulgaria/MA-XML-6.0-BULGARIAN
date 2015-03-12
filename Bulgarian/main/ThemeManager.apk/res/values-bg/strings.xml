@@ -344,4 +344,6 @@
   <string name="resource_download_notification_title_many">Изтеглени са %1$s теми</string>
   <string name="resource_download_notification_title_one">Темата е изтеглена</string>
   <string name="theme_user_agreement_exit">Изход</string>
+  <string name="gift_received_notification_title">%s ви подари тема.</string>
+  <string name="resource_tab_to_view">Чукнете за преглед.</string>
 </resources>

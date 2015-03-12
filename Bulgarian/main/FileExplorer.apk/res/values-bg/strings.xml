@@ -348,4 +348,6 @@
   <string name="mi_router_label">Mi Router</string>
   <string name="no_display_file">"Не може да се покаже %1$s"</string>
   <string name="usb_label">USB</string>
+  <string name="action_mode_deselect_all">Размаркирай всички</string>
+  <string name="action_mode_select_all">Избери всички</string>
 </resources>

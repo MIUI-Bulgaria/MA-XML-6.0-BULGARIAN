@@ -1148,4 +1148,5 @@
   <string name="resource_download_notification_title_one">Темата е изтеглена</string>
   <string name="yellowpage_navigation_clear_search_history">Изчисти историята</string>
   <string name="yellowpage_navigation_search_history">История</string>
+  <string name="resource_tab_to_view">Чукнете за преглед.</string>
 </resources>

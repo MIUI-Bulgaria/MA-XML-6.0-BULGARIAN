@@ -110,4 +110,12 @@
   <string name="format_move_notes_out_folder">Преместени: %1$s</string>
   <string name="loading_text">Зарежда се…</string>
   <string name="toast_message_add_text_warn">Този тип файлове не се поддържа</string>
+  <string name="welcome_note_for_cm">"И още чудесни функции!
+  - Синхрон с Mi Cloud
+  - Запазване при изход
+  - Задаване на напомняния
+
+За да научите повече, посетете
+http://miui.bg/community/
+"</string>
 </resources>

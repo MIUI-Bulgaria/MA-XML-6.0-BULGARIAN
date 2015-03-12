@@ -818,4 +818,5 @@
   <string name="video_push_single_message">Актуализиране до %1$d</string>
   <string name="webviewchromium_private_browsing_warning">Функционалността не се поддържа в тази версия на Android.</string>
   <string name="miui_content_open_url">Отвори URL</string>
+  <string name="action_menu_text_fullscreen">Цял екран</string>
 </resources>

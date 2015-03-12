@@ -657,4 +657,5 @@
   <string name="jeejen_end_call_text">Прекрати обаждането</string>
   <string name="jeejen_reject_call_text">Откажи обаждането</string>
   <string name="jeejen_toggle_dialpad_text">Клавиатура</string>
+  <string name="livetalk_waiting">Изчаква…</string>
 </resources>

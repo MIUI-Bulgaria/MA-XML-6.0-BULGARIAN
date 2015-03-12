@@ -289,4 +289,14 @@
   <string name="sina_share_success">Изпратено</string>
   <string name="sina_token_expired_warning">Weibo профилът е изтекъл: Моля, подновете го</string>
   <string name="sina_token_invalid_warning">Weibo профилът е невалиден: Моля, подновете го</string>
+  <string name="antispam_sync">Антиспам настройки</string>
+  <string name="calendar_sync">Календар</string>
+  <string name="click_to_enabled">Докоснете за синхр.</string>
+  <string name="cloudservice_new_sync">Синхрон на %s с Mi Cloud</string>
+  <string name="find_device_status_ok_international">Открийте устройството си отвсякъде на www.mi.com/micloud</string>
+  <string name="micloud_main_sync_init">Инициализация</string>
+  <string name="micloud_setting_antispam_summary">Изключения при блокиране и списък с блокирани номера.</string>
+  <string name="micloud_single_dspt">Използвайте Mi Cloud за синхрон на данни, локализиране на устройството ви и споделяне на съдържание с приятели.</string>
+  <string name="micloud_space_duokan_detail">Manage your Duokan content in using the Duokan app.</string>
+  <string name="micloud_space_duokan_title">Duokan</string>
 </resources>

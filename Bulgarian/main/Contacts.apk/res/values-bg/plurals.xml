@@ -90,4 +90,28 @@
         <item quantity="other">Импортирани контакти: %1$d</item>
         <item quantity="one">Импортирани контакти: %1$d</item>
     </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">Да се изтрият ли %d контакти?</item>
+        <item quantity="one">Да се изтрие ли %d контакт?</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Изтрий %d контакти</item>
+        <item quantity="one">Изтрий контакта</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Звънял %d пъти</item>
+        <item quantity="one">Звънял %d път</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Да се изтрият ли %d контакти от SIM картата?</item>
+        <item quantity="one">Да се изтрие ли %d контакт от SIM картата?</item>
+    </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Копирано: %d контакти</item>
+        <item quantity="one">Копирано: %d контакт</item>
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM картата може да запази %d контакти.</item>
+        <item quantity="one">SIM картата може да запази %d контакт.</item>
+    </plurals>
 </resources>
