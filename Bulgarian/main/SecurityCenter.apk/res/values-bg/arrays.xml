@@ -62,7 +62,7 @@
     <string-array name="auto_process_mode">
         <item>Запитване с известие</item>
         <item>Почистване на заден план</item>
-        <item>Показване на известие след почистване</item>
+        <item>Известие след почистване</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Веднъж</item>

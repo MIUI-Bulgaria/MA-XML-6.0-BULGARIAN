@@ -698,7 +698,7 @@
   <string name="pref_content_cleanup_white_list_none">Празно</string>
   <string name="pref_summary_auto_clean_and_alert">Автоматично почистване на отпадъците</string>
   <string name="pref_summary_garbage_auto_clean_content">Изберете какво да се почиства автоматично</string>
-  <string name="pref_summary_garbage_process_mode">Известие за автоматично почистване на отпадъци</string>
+  <string name="pref_summary_garbage_process_mode">Известяване при почистване</string>
   <string name="pref_title_auto_clean_and_alert">Почисти автоматично</string>
   <string name="pref_title_auto_clean_content_choose">Изберете елементи за почистване</string>
   <string name="pref_title_garbage_auto_clean_content">Изберете елементи за почистване</string>
