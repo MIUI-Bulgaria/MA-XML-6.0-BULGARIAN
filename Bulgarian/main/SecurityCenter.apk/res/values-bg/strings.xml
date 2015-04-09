@@ -742,4 +742,16 @@
   <string name="title_delete_cache">Изтриване на кеш данните?</string>
   <string name="title_delete_large_file">Изтриване на големите файлове?</string>
   <string name="auto_cleaner_open">Включване</string>
+  <string name="cmcc_app_check_dialog_message">Рестартирайте устройството, за да завършите поправката.</string>
+  <string name="cmcc_app_check_dialog_negative">По-късно</string>
+  <string name="cmcc_app_check_dialog_positive">Рестарт сега</string>
+  <string name="cmcc_app_check_dialog_title">Системата е поправена</string>
+  <string name="notification_summary_cmcc_app_check">Докоснете за подробности.</string>
+  <string name="notification_title_cmcc_app_check">%d дни от последното почистване</string>
+  <string name="summary_cmcc_app_check">Някой приложения не бяха проверени</string>
+  <string name="summary_default_app">"%s не е зададено като стандартно системно прил.</string>
+  <string name="title_cmcc_app_check">Проверката не е завършила</string>
+  <string name="title_default_app">MIUI %s не е зададено като стандартно</string>
+  <string name="toast_default_app">"%1$s е зададено като стандартно за %2$s"</string>
+  <string name="toast_resolve_apk_error">Поправка на грешки в apk</string>
 </resources>

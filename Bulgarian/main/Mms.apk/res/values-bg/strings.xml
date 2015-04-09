@@ -549,4 +549,20 @@
   <string name="pref_title_mms_validity_period">Период на валидност на MMS</string>
   <string name="pref_title_sms_validity_period">Период на валидност на SMS</string>
   <string name="block_messaging_entry_title">Блокиран SMS</string>
+  <string name="confirm_restore_checkbox">Деблокиране на съобщенията от този номер</string>
+  <string name="confirm_restore_message">Да се възстановят ли избраните съобщения?</string>
+  <string name="message_contact">Контакт:</string>
+  <string name="message_expired">Изтекло</string>
+  <string name="message_number">Тел. номер:</string>
+  <string name="over_max_mms_size">MMS-ът е прекалено голям.</string>
+  <string name="pref_summary_send_delivery_reports">Изпращане на потвърждение за доставка за получените съобщения</string>
+  <string name="pref_title_send_delivery_reports">Изпращане на потв. за доставка</string>
+  <string name="pref_title_storage_status">Статус на памет за съобщения</string>
+  <string name="recipients_over_size">Прекалено много получатели.</string>
+  <string name="select_copy_text">избор и копиране на текста</string>
+  <string name="storage_dialog_attachments">MMS прик. файлове:</string>
+  <string name="storage_dialog_database">База данни:</string>
+  <string name="storage_dialog_mms">MMS: %d</string>
+  <string name="storage_dialog_mms_size">Рамер на MMS:</string>
+  <string name="storage_dialog_sms">SMS: %d</string>
 </resources>

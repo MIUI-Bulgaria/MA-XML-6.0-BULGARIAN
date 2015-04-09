@@ -308,4 +308,17 @@
   <string name="call_delete_title">Премахване на обаждане</string>
   <string name="info_antispam_close">Антиспам е изкл.</string>
   <string name="sms_delete_title">Премахване на съобщение</string>
+  <string name="antispam_notificaiton_type_show_all">Всички номера</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">Не-блокирани номера</string>
+  <string name="antispam_notificaiton_type_show_none">Никога</string>
+  <string name="antispam_notification_setting_title">Известия за блокиране</string>
+  <string name="mark_number_agent">Агент</string>
+  <string name="mark_number_banking">Застраховки</string>
+  <string name="mark_number_fraud">Измамник</string>
+  <string name="mark_number_sell">Търговец</string>
+  <string name="mark_number_setting_guide_content1">Блокиране на обаждания от докладвани номера?</string>
+  <string name="mark_number_setting_guide_content2">Автоматично блокиране на номера, които са докладвани от други потребители</string>
+  <string name="mark_number_setting_guide_content3">Вие докладвахте номерът като %1$s. Да се блокират ли обажданията от всички номера, докладвани като %2$s?</string>
+  <string name="mark_number_setting_guide_forward">Настройки за блокиране</string>
+  <string name="mark_number_setting_guide_title">Блокиране на докладвани номера</string>
 </resources>

@@ -116,7 +116,7 @@
 Моля, проверете номера си за проследяване."</string>
   <string name="express_inquiry_provider_info">С подкрепата на</string>
   <string name="express_inquiry_serial_number_indication">Номер за проследяване</string>
-  <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
+  <string name="express_inquiry_serial_number_prefix">"Номер: %s"</string>
   <string name="express_inquiry_trace">Следи</string>
   <string name="express_inquiry_trace_success">Проследява се</string>
   <string name="express_inquiry_trace_user_notice_content">Ще ви уведомим, когато статуса на вашата поръчка се промени.</string>
@@ -228,16 +228,16 @@
   <string name="no_price">No price info</string>
   <string name="notify_connect_summary">Show prompt when connecting to the internet</string>
   <string name="notify_connect_title">Internet connection notification</string>
-  <string name="order_date_label">Order date: %s</string>
+  <string name="order_date_label">Order date:</string>
   <string name="order_empty_hint">No orders</string>
-  <string name="order_id_label">Order ID: %s</string>
+  <string name="order_id_label">"Order #: "</string>
   <string name="order_merchant_title">My orders</string>
   <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">No related order</string>
-  <string name="order_price_label">Order price: %s</string>
+  <string name="order_price_label">"Order price: "</string>
   <string name="order_product_name_label">"Product name: "</string>
   <string name="order_status">%s</string>
-  <string name="order_status_label">Order status: %s</string>
+  <string name="order_status_label">"Order status: "</string>
   <string name="packages_no_package">No recommended packages</string>
   <string name="packages_pay">Buy</string>
   <string name="packages_pay_confirm">Confirm</string>
@@ -510,4 +510,35 @@ the content you're looking for is not currently available in your region."</stri
   <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
   <string name="to_activate_the_account">Activate your Mi Account now</string>
   <string name="web_permission_message">%1$s needs to view your %2$s to function properly.</string>
+  <string name="account_yellowpage_followed">Verified Accounts</string>
+  <string name="express_inquiry_clipboard_number_message">Track copied number?</string>
+  <string name="express_inquiry_logistics_prefix">Courier service: %s</string>
+  <string name="express_inquiry_trace_device_login_notice">"You're using this service on another device. If you want to receive order's status from this device, you need to verify your Mi Account."</string>
+  <string name="general_btn_follow">Follow</string>
+  <string name="general_btn_follow_ok">Following</string>
+  <string name="general_cancel_followed_ok">Unfollowed</string>
+  <string name="general_follow_hint">"Once followed %1$s, you can receive information from %1$s, and get more service from %1$s.
+
+Confirm to follow this yellow page?"</string>
+  <string name="general_follow_hint_title">Hint</string>
+  <string name="general_menu_unfollow">Unfollow</string>
+  <string name="general_unfollow_hint">Sure to unfollow %1$s?</string>
+  <string name="menu_follow_yellow_page">Follow</string>
+  <string name="menu_unfollow_yellow_page">Unfollow</string>
+  <string name="order_detail">Details</string>
+  <string name="order_type_recharge">Top-up</string>
+  <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+  <string name="pull_to_refresh_refreshing_label">Loading…</string>
+  <string name="pull_to_refresh_release_label">Release to refresh…</string>
+  <string name="recharge_payment_error">Order closed or error occurred</string>
+  <string name="tag_follow_status">tag_follow_status</string>
+  <string name="tag_follow_yp_id">tag_follow_yp_id</string>
+  <string name="user_notice_title">Attention</string>
+  <string name="view_orders">View orders</string>
+  <string name="yellowpage_navigation_network_location_enable">Allow</string>
+  <string name="yellowpage_navigation_network_location_enable_later">Not now</string>
+  <string name="yellowpage_navigation_network_location_enabled">Location access is on. You can turn it off anytime in Settings.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Yellow Pages to access your location info.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Location access</string>
+  <string name="yuan">Yuan</string>
 </resources>

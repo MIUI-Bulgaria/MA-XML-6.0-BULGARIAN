@@ -637,4 +637,7 @@
   <string name="who_is_this">Кой е този?</string>
   <string name="effect">Ефекти</string>
   <string name="adjust">Редакция</string>
+  <string name="always_rotate_alert_msg">Можете винаги да регулирате тази функция от настройки на Галерия.</string>
+  <string name="always_rotate_alert_positive_button_text">Включване</string>
+  <string name="always_rotate_alert_title">Авто-завъртане на снимки</string>
 </resources>

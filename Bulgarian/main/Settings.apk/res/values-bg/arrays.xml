@@ -604,4 +604,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Средно</item>
         <item>Високо</item>
     </string-array>
+    <string-array name="pink_panel_led_color_entries">
+        <item>Лилаво</item>
+        <item>Рубинено</item>
+        <item>Оранжево</item>
+        <item>Зелено</item>
+        <item>Пурпурно</item>
+    </string-array>
 </resources>

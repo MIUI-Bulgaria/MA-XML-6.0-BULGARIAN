@@ -307,5 +307,9 @@
   <string name="no_enough_info">Недостатъчна информация за песента</string>
   <string name="server_error">Грешка на сървъра. Опитайте отново по-късно</string>
   <string name="suggest_text">Хората харесали това също харесаха</string>
-  <string name="today_update">Music updated</string>
+  <string name="today_update">Музика е актуализирано</string>
+  <string name="action_item_favorite">Любими</string>
+  <string name="download_all_song">Изтегли всички</string>
+  <string name="more_about_artist">Още за %s</string>
+  <string name="play_all_song">Пусни всички</string>
 </resources>

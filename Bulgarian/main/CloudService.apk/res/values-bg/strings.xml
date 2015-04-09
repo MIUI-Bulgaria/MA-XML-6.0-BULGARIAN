@@ -162,7 +162,7 @@
   <string name="wifi_disconnected">Няма Wi-Fi</string>
   <string name="wifi_sync">Изчаква за Wi-Fi</string>
   <string name="header_other_settings">Други</string>
-  <string name="find_device_dspt_provision">"Ако загубите устройството си, можете да отидете на "</string>
+  <string name="find_device_dspt_provision">"Ако загубите устройството си, можете да отидете на %s, за да го локализирате, заключите или нулирате. Функцията се управлява от Настройки."</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_3">" за да го намерите, заключите или нулирате.
 
@@ -271,7 +271,7 @@
   <string name="mx_dspt_provision_privacy">"Тази функция може да изисква телефонния ви номер. Вашият оператор може да ви таксува за едно SMS съобщение, използвано при активиране на функцията.
 
 Тази функция шифрова и изпраща ID на устройството ви до сървърите на Mi."</string>
-  <string name="sync_dspt_entrance_provision">"Синхронизиране на вашите снимки, контакти и съобщения, както и локализиране на устройството ви. "</string>
+  <string name="sync_dspt_entrance_provision">"Синхронизиране на вашите снимки, контакти и съобщения, както и локализиране на устройството ви от всеки браузър на %s. "</string>
   <string name="sync_dspt_entrance_provision_2">Научете повече</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_resend_sms_dspt_provision">" Ако смените SIM картите си, вашият оператор може да ви таксува за едно SMS съобщение, използвано за реактивиране на услугата."</string>
@@ -299,4 +299,35 @@
   <string name="micloud_single_dspt">Използвайте Mi Cloud за синхрон на данни, локализиране на устройството ви и споделяне на съдържание с приятели.</string>
   <string name="micloud_space_duokan_detail">Manage your Duokan content in using the Duokan app.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
+  <string name="buy_more_space_b_class">"Впишете се на mi.com/micloud, за да закупите още място за съхранение.
+Нуждаете се от китайска банкова карта, за да закупите допълнително място за съхранение."</string>
+  <string name="buy_more_space_c_class">"Тази функция изисква китайска банкова карта.
+За да закупите още място за съхранение, посетете mi.com/micloud."</string>
+  <string name="close_cloud_app_backup_cancel">Отказ</string>
+  <string name="close_cloud_app_backup_close">Затвори</string>
+  <string name="close_cloud_app_backup_local_backup">Архивирай</string>
+  <string name="close_cloud_app_backup_message">Услугата за облачен архив на приложения ще бъде спряна и данните ще бъдат изтрити на 1 май 2015г. Моля, архивирайте вашите данни възможно най-скоро.</string>
+  <string name="close_cloud_app_backup_notification_message">Натиснете за подробности</string>
+  <string name="close_cloud_app_backup_notification_title">Предупреждение за архивирането в Mi Cloud</string>
+  <string name="close_cloud_app_backup_title">Предупреждение</string>
+  <string name="cloud_app_back_up_quit_notification_content1">"Архивирането на приложения в Mi Cloud ще бъде преустановено за не-MIUI приложения. Свързаните с такива приложения данни ще бъдат изтрити на 1 май 2015г. За да избегнете загуба на важни данни, архивирайте приложенията локално сега."</string>
+  <string name="cloud_app_back_up_quit_notification_content2">Контакти, Съобщения, Галерия и други системни за MIUI приложения няма да бъдат засегнати.</string>
+  <string name="cloud_app_back_up_quit_notification_content3">Архив на данни на прил.</string>
+  <string name="cloud_back_up_button_ok">Спиране</string>
+  <string name="cloud_back_up_close_info">Чукнете за архивиране.</string>
+  <string name="cloud_back_up_dialog_content">"Спирате архивиране в ход? Ако го спрете сега, няма да може да използвате този архив за възстановяване на приложения."</string>
+  <string name="cloud_back_up_interval_long">7 дни</string>
+  <string name="cloud_back_up_interval_short">1 час</string>
+  <string name="cloud_back_up_network_unavailable">"Не може да се премахне. Свържете се към Wi-Fi и опитайте отново."</string>
+  <string name="cloud_back_up_open_info">"Архивиране на разположението на нач. екран и приложения всеки %1$s, когато сте свържан към Wi-Fi
+Последен архив: %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Архивиране на разположението на нач. екран и приложения всеки %1$s, когато сте свържан към Wi-Fi</string>
+  <string name="cloud_back_up_remove_success">Архивът е изтрит</string>
+  <string name="cloud_back_up_title">Архив на нач. екран</string>
+  <string name="cloud_backup_dialog_title">Архивиране с Mi Cloud</string>
+  <string name="sync_dspt_entrance_provision_confirm_close">Не използвай</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"Вградените MIUI приложения се нуждаят от Mi Cloud за архивиране на вашите снимки, контакти, бележки и др. Mi Cloud е безплатен и готов за употреба."</string>
+  <string name="sync_dspt_entrance_provision_confirm_open">Използвай Mi Cloud</string>
+  <string name="sync_dspt_entrance_provision_confirm_title">"Да не се ли използва Mi Cloud?"</string>
+  <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Прескочи тази стъпка&lt;/u&gt;</string>
 </resources>

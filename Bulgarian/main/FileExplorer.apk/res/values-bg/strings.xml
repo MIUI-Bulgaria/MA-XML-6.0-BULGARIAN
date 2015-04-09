@@ -350,4 +350,6 @@
   <string name="usb_label">USB</string>
   <string name="action_mode_deselect_all">Размаркирай всички</string>
   <string name="action_mode_select_all">Избери всички</string>
+  <string name="can_not_send_with_too_many">"Не може да изпращате толкова много елементи"</string>
+  <string name="kuaipan_delete_guide_des">Да се изтрие ли ръководството?</string>
 </resources>

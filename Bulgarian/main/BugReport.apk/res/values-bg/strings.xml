@@ -105,8 +105,8 @@
   <string name="title_common_problem">Чести грешки</string>
   <string name="submit_dialog_cancel">Отказ</string>
   <string name="submit_dialog_confirm">Изпрати</string>
-  <string name="submit_dialog_content">"Вашият отзив, заедно с логовете за грешки и прикачените снимки, ще бъдат изпратени на сървърите на Xiaomi."</string>
-  <string name="submit_dialog_title">Изпращане на доклад до Xiaomi</string>
+  <string name="submit_dialog_content">"Вашият отзив, заедно с логовете за грешки и прикачените снимки, ще бъдат изпратени на сървърите на Mi."</string>
+  <string name="submit_dialog_title">Изпращане на доклад до Mi</string>
   <string name="announcement">Attention</string>
   <string name="bugreport_dump_complete_notification_summary">Чукнете за преглед.</string>
   <string name="bugreport_dump_complete_notification_title">Докладът е създаден</string>
@@ -121,4 +121,8 @@
   <string name="plus_one_submit_dialog_content">Избраният от вас отзив, заедно с логовете с грешки, ще бъде изпратен до сървърите на Mi.</string>
   <string name="plus_one_submit_dialog_not_show_again">Запомни настройката</string>
   <string name="toast_feedback_submitting">Публикува се…</string>
+  <string name="network_disconnected">Няма мрежа</string>
+  <string name="submit_dialog_not_wifi_content">"Вашият отзив, заедно с логовете за грешки и прикачените снимки, ще бъдат изпратени на сървърите на Mi, когато устройството ви е свързано към Wi-Fi."</string>
+  <string name="toast_feedback_collect_store">Събиране на логове…</string>
+  <string name="toast_fill_brackets">Моля, попълнете</string>
 </resources>

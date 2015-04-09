@@ -121,4 +121,5 @@
   <string name="timer_message_10">%1$d минути и %2$d секунди</string>
   <string name="menu_item_sort_by_gmt_offset">Сортиране по време</string>
   <string name="menu_item_sort_by_name">Сортиране по име</string>
+  <string name="timer_item_picker_hour">Час</string>
 </resources>

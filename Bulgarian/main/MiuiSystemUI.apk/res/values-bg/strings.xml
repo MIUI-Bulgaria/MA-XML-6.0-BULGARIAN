@@ -250,4 +250,11 @@ d MMMM yyyy"</string>
   <string name="status_bar_network_flow_exceed_content">Днес: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Надвишени:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Мес. лимит: %1$s"</string>
   <string name="status_bar_network_flow_purchase">"   Купете &gt;"</string>
+  <string name="media_projection_action_text">Стартиране</string>
+  <string name="media_projection_dialog_text">"%s ще започне да записва всичко, което се показва на екрана ви."</string>
+  <string name="media_projection_remember_text">Не показвай отново</string>
+  <string name="vpn_text">Преглед на настройките.</string>
+  <string name="vpn_text_long">Свързване към %s. Чукнете за подробности.</string>
+  <string name="vpn_title">VPN е активно</string>
+  <string name="vpn_title_long">Свързване към VPN чрез %s</string>
 </resources>

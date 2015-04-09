@@ -267,4 +267,9 @@
   <string name="app_category_tools">Инструменти</string>
   <string name="app_category_travel">Пътуване</string>
   <string name="image_too_small_message">Оригиналното изображение не е достатъчно голямо</string>
+  <string name="cloud_app_restore_title">Изчаква</string>
+  <string name="configure_wallpaper">Настройки</string>
+  <string name="failed_to_load_image">"Изображението не може да се зареди"</string>
+  <string name="mtzgadget_missing_text">"Вече не се поддържа, добавете отново"</string>
+  <string name="wallpaper_scrolling">всички</string>
 </resources>

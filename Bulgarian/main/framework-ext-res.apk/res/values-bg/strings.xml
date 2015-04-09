@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="status_bar_toggle_ac">Достъп</string>
+  <string name="status_bar_toggle_auto_brightness">Яркост</string>
+  <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+  <string name="status_bar_toggle_brightness">Яркост</string>
+  <string name="status_bar_toggle_data">Данни</string>
+  <string name="status_bar_toggle_divider">Още</string>
+  <string name="status_bar_toggle_drive_mode">Шофиране</string>
+  <string name="status_bar_toggle_flight_mode">Самолет</string>
+  <string name="status_bar_toggle_gps">GPS</string>
+  <string name="status_bar_toggle_lock">Заключи</string>
+  <string name="status_bar_toggle_mute">Без звук</string>
+  <string name="status_bar_toggle_network_type">Мрежа</string>
+  <string name="status_bar_toggle_paper_mode">Четене</string>
+  <string name="status_bar_toggle_power_mode">Ен. режим</string>
+  <string name="status_bar_toggle_privacy_mode">Гост</string>
+  <string name="status_bar_toggle_quiet_mode">Тих режим</string>
+  <string name="status_bar_toggle_reboot">Рестарт</string>
+  <string name="status_bar_toggle_rotate">Ротация</string>
+  <string name="status_bar_toggle_screen_button">Бутони</string>
+  <string name="status_bar_toggle_screenshot">Екр. снимка</string>
+  <string name="status_bar_toggle_shutdown">Изключване</string>
+  <string name="status_bar_toggle_sync">Синхр.</string>
+  <string name="status_bar_toggle_sync_auto">Автосинхр…</string>
+  <string name="status_bar_toggle_sync_manual">Синхрон</string>
+  <string name="status_bar_toggle_syncing">Синхрон…</string>
+  <string name="status_bar_toggle_torch">Фенерче</string>
+  <string name="status_bar_toggle_vibrate">Вибрация</string>
+  <string name="status_bar_toggle_wifi">Wi-Fi</string>
+  <string name="status_bar_toggle_wifi_ap">Wi-Fi VPN</string>
+</resources>
