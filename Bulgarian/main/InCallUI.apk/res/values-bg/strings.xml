@@ -686,7 +686,6 @@
   <string name="description_target_answer_audio_call">Приемане като аудиообаждане</string>
   <string name="description_target_answer_video_call">Приемане като видеообаждане</string>
   <string name="description_target_decline_upgrade_to_video_request">Отхвърляне на заявката за видеовръзка</string>
-  <string name="description_target_send_sms">Изпращане на SMS</string>
   <string name="incall_error_missing_voicemail_number">Неизвестен номер за гласова поща.</string>
   <string name="incoming_via_template">Входящо обаждане чрез %s</string>
   <string name="msim_select_default_time_left">(%d сек.)</string>

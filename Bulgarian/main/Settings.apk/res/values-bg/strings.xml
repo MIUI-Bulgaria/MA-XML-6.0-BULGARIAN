@@ -3223,7 +3223,6 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="enable_service_password_reason">Because turning on %1$s affects data encryption, you need to confirm your password.</string>
   <string name="enable_service_pattern_reason">Because turning on %1$s affects data encryption, you need to confirm your pattern.</string>
   <string name="enable_service_pin_reason">Because turning on %1$s affects data encryption, you need to confirm your PIN.</string>
-  <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
   <string name="encrypt_dont_require_password">No thanks</string>
   <string name="encrypt_dont_require_pattern">No thanks</string>
   <string name="encrypt_dont_require_pin">No thanks</string>
