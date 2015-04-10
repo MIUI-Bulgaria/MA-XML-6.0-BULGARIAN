@@ -204,8 +204,8 @@
   <string name="update_feedback_need_account">Първо трябва да се впишете в Mi профила си</string>
   <string name="update_feedback_need_network">Първо се свържете с мрежата</string>
   <string name="recovery_failed_button">OK</string>
-  <string name="recovery_failed_msg">"Your device doesn't have enough memory to enter Recovery mode and update your system. Try using Mi PC Suite instead:
-http://zhushou.xiaomi.com"</string>
-  <string name="recovery_failed_notification_msg">"Can't enter Recovery mode"</string>
-  <string name="recovery_failed_title">Use Mi PC Suite to update your system</string>
+  <string name="recovery_failed_msg">"Устройството ви няма достатъчно свободно място за инсталиране на актуализацията.
+Посетете http://miui.bg/community/ за повече информация."</string>
+  <string name="recovery_failed_notification_msg">MiRecovery не можа да стартира</string>
+  <string name="recovery_failed_title">Актуализацията е неуспешна</string>
 </resources>
