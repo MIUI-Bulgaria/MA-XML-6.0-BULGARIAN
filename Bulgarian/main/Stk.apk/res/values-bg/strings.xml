@@ -28,4 +28,5 @@
     <string name="default_close_channel_msg">Каналът е затворен</string>
     <string name="stk_dialog_accept">Да</string>
     <string name="stk_dialog_reject">Не</string>
+    <string name="stk_intent_permission">Позволи взаимодействието с STK</string>
 </resources>

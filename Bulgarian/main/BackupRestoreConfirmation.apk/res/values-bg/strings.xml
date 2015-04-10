@@ -24,4 +24,5 @@
     <string name="toast_restore_started">Възстановяването се стартира...</string>
     <string name="toast_restore_ended">Възстановяването завърши</string>
     <string name="toast_timeout">Времето за изчакване на операцията изтече</string>
+    <string name="backup_enc_password_required">Тъй като устройството ви е шифровано, трябва да направите това и за резервното си копие. Моля, по-долу въведете парола:</string>
 </resources>

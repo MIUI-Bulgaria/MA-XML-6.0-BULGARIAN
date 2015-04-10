@@ -332,4 +332,5 @@
   <string name="sync_notice_ok">Приемам</string>
   <string name="sync_notice_ok_toast_message">Локалният ви календар ще бъде синхронизиран с Mi Cloud</string>
   <string name="sync_notice_title">Заявка за синхрон</string>
+  <string name="action_label">Enter</string>
 </resources>

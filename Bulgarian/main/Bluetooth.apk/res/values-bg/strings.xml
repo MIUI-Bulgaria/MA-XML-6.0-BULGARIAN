@@ -157,4 +157,7 @@
    <string name="mi_key_find_mikey">Търсене на MiKey</string>
    <string name="mi_key_find_phone">Търсене на телефон</string>
    <string name="mi_key_take_photo">Снимане на снимка</string>
+   <string name="incoming_line1">От</string>
+   <string name="incoming_line2">Име на файл</string>
+   <string name="incoming_line3">Размер</string>
 </resources>

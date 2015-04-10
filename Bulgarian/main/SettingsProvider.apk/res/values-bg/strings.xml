@@ -2,4 +2,5 @@
 <!--This MIUI OS Bulgarian translation is licensed under a http://creativecommons.org/licenses/by-nc-nd/4.0/ by MIUI.BG www.miui.bg-->
 <resources>
   <string name="app_label">Хранилище за настройките</string>
+  <string name="def_date_format">dd-MM-yyyy</string>
 </resources>

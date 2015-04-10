@@ -73,4 +73,9 @@
         <item>LTE</item>
         <item>Троен режим</item>
     </string-array>
+    <string-array name="clir_display_values">
+        <item>Мрежа по подразбиране</item>
+        <item>Скриване на номера</item>
+        <item>Номерът да се показва</item>
+     </string-array>
 </resources>

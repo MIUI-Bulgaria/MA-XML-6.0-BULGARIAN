@@ -59,15 +59,15 @@
         <item>Публикуване на известие</item>
         <item>Местоположение</item>
         <item>Обаждане по телефона</item>
-        <item>Четене на SMS/MMS</item>
-        <item>Писане на SMS/MMS</item>
-        <item>Получаване на SMS/MMS</item>
-        <item>Получаване на SMS/MMS</item>
-        <item>Получаване на SMS/MMS</item>
-        <item>Получаване на SMS/MMS</item>
-        <item>Изпращане на SMS/MMS</item>
-        <item>Четене на SMS/MMS</item>
-        <item>Писане на SMS/MMS</item>
+        <item>Четене на SMS</item>
+        <item>Писане на SMS</item>
+        <item>Получаване на SMS</item>
+        <item>Получаване на SMS</item>
+        <item>Получаване на MMS</item>
+        <item>Получаване на WAP push</item>
+        <item>Изпращане на SMS</item>
+        <item>Четене на ICC SMS</item>
+        <item>Промяна на ICC SMS</item>
         <item>Промяна на настройките</item>
         <item>Рисуване върху елемент</item>
         <item>Достъп до известията</item>
@@ -88,12 +88,22 @@
         <item>Оставяне в будно състояние</item>
         <item>Местоположение</item>
         <item>Местоположение</item>
+        <item>Получаване на статистически данни за употребата</item>
+        <item>Заглушаване/включване на микрофона</item>
+        <item>Trying to toast window</item>
+        <item>Прожектиране на мултимедия</item>
+        <item>Активиране на виртуална частна мрежа (VPN)</item>
         <item>Вкл./изкл. на Wi-Fi</item>
         <item>Вкл./изкл. на Bluetooth</item>
-        <item>Вкл./изкл. на мобилните данни</item>
         <item>Изпращане на MMS</item>
         <item>Четене на MMS</item>
         <item>Писане на MMS</item>
         <item>Автоматично стартиране</item>
+        <item>Вкл./изкл. на NFC</item>
+        <item>Изтриване на SMS</item>
+        <item>Изтриване на MMS</item>
+        <item>Изтриване на контакти</item>
+        <item>Изтриване на списъка с обажданията</item>
+        <item>Включване на мобилните данни</item>
     </string-array>
 </resources>

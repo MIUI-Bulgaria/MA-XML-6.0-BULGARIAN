@@ -34,4 +34,10 @@
     <string name="keyboard_layout_slovenian">словенски</string>
     <string name="keyboard_layout_turkish">турски</string>
     <string name="keyboard_layout_ukrainian">украински</string>
+    <string name="keyboard_layout_arabic">арабски</string>
+    <string name="keyboard_layout_greek">гръцки</string>
+    <string name="keyboard_layout_hebrew">иврит</string>
+    <string name="keyboard_layout_latvian">латвийски</string>
+    <string name="keyboard_layout_lithuanian">литовски</string>
+    <string name="keyboard_layout_spanish_latin">испански (латиница)</string>
 </resources>

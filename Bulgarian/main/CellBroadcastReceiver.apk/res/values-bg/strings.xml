@@ -97,4 +97,5 @@
     <string name="category_india_settings_title">Настройки за Индия</string>
     <string name="enable_channel_60_alerts_summary">60-и канал се използва за актуализиране на информацията за райони в Индия</string>
     <string name="enable_channel_60_alerts_title">Излъчвания на 60-и канал</string>
+    <string name="cell_broadcast_settings_not_available">Настройките за клетъчно излъчване не са налице за този потребител</string>
 </resources>

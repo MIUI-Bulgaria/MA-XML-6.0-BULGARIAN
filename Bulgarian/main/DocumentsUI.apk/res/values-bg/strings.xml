@@ -36,4 +36,9 @@
     <string name="toast_no_application">Файлът не може да се отвори</string>
     <string name="toast_failed_delete">Някои документи не могат да бъдат изтрити</string>
     <string name="share_via">Споделяне чрез</string>
+    <string name="menu_advanced_hide">Вътр. хранилище: Скрив.</string>
+    <string name="menu_advanced_show">Вътр. хранилище: Показв.</string>
+    <string name="menu_file_size_hide">Размер на файла: Скрив.</string>
+    <string name="menu_file_size_show">Размер на файла: Показв.</string>
+    <string name="menu_select">Избиране на \"^1\"</string>
 </resources>
