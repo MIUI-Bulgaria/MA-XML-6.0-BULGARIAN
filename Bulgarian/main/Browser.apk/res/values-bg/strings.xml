@@ -819,4 +819,9 @@
   <string name="webviewchromium_private_browsing_warning">Функционалността не се поддържа в тази версия на Android.</string>
   <string name="miui_content_open_url">Отвори URL</string>
   <string name="action_menu_text_fullscreen">Цял екран</string>
+  <string name="miuichromium_error_page_diagnostic">Диагностика на мрежата</string>
+  <string name="sub_sync_item_browser_title_useful">Синхр. нач. страница</string>
+  <string name="sub_sync_item_browser_title_useful_summary">"Синхронизиране на сайтовете, които сте добавили към началната страница"</string>
+  <string name="sub_sync_item_browser_title_video">Синхр. видео историята</string>
+  <string name="sub_sync_item_browser_title_video_summary">"Синхронизиране на списъка с последно гледаните видеоклипове на вашите устройства"</string>
 </resources>

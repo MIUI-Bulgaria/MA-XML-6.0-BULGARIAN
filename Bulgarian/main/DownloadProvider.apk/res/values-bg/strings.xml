@@ -56,4 +56,11 @@
     <string name="notif_title_multiple_downloading">Изтегляне: %1$d</string>
     <string name="notif_title_single_downloading">Изтегляне: %1$s</string>
     <string name="paused_waiting_for_network">В очакване на мрежа</string>
+    <string name="dialog_not_show_again">Не показвай отново</string>
+    <string name="notification_download_failed_more">%1$d елементи не могат да се изтеглят</string>
+    <string name="notification_download_success_more">Изтеглени: %1$d</string>
+    <string name="warning_tip_cancel">Изтегляне</string>
+    <string name="warning_tip_content">Вече не сте свързани с Wi-Fi. Използването на мобилни данни за това изтегляне ще консумира от пакетът ви от данни. Ако превишите лимита си, е възможно начисляването на допълнителни такси.</string>
+    <string name="warning_tip_ok">Пауза</string>
+    <string name="warning_tip_title">Предупреждение за данни</string>
 </resources>

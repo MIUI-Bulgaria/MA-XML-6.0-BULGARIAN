@@ -283,4 +283,16 @@
         <item>месец</item>
         <item>година</item>
     </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Без напомняне</item>
+        <item>0 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>15 мин.</item>
+        <item>30 мин.</item>
+        <item>1 час</item>
+        <item>1 ден</item>
+        <item>2 дни</item>
+        <item>1 седмица</item>
+    </string-array>
 </resources>

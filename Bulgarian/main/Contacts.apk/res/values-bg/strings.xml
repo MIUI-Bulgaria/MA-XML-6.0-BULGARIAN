@@ -1149,4 +1149,16 @@
   <string name="yellowpage_navigation_clear_search_history">Изчисти историята</string>
   <string name="yellowpage_navigation_search_history">История</string>
   <string name="resource_tab_to_view">Чукнете за преглед.</string>
+  <string name="add_blacklist_dialog_title">Добавяне към блокирани</string>
+  <string name="blacklist">Блокирай</string>
+  <string name="deleting_sim_entry_miui_prepare">Подготвка за изтриване…</string>
+  <string name="export_sim_contact_finish_msg">Прехвърлени %1$d | Пропуснати %2$d | Остават %3$d</string>
+  <string name="followed_yellowpage">Потвърдени профили</string>
+  <string name="group_sms_error_message">"SMS-ът не може да има повече от %s получатели."</string>
+  <string name="importing_sim_contacts_miui_prepare">Подготовка за импот…</string>
+  <string name="loading_accounts">Зареждат се данни от SIM картата...</string>
+  <string name="phone_call_type_voip">VOIP</string>
+  <string name="preference_contacts_recovery_introduction">Възстановяване на контакти</string>
+  <string name="remove_blacklist_dialog_title">Премахване от блокирани</string>
+  <string name="resource_select_ringtone_confirm_picker">Да се избере ли този звук?</string>
 </resources>

@@ -46,4 +46,9 @@
   <string name="using_camera_confirm_ok">ОК</string>
   <string name="using_camera_confirm_title">Условия и споразумения</string>
   <string name="shake_enter_tip">Разклатете за калибриране</string>
+  <string name="calibrate_rotate_again">Опитайте отново</string>
+  <string name="calibrate_tip">Tilt your device to roll the ball around the circle</string>
+  <string name="calibrate_title">Калибриране на компаса</string>
+  <string name="first_using_dialog_message">"За да работи нормално, Компас трябва да използва интернет връзка, камера и услугите за местоположение."</string>
+  <string name="first_using_dialog_title">Разрешение за достъп</string>
 </resources>

@@ -61,4 +61,5 @@
   <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">Спящ режим</string>
   <string name="view_stations_list">Преглед на станциите</string>
+  <string name="notification_rec_title">Чукнете за преглед на записа</string>
 </resources>

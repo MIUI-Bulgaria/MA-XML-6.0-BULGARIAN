@@ -58,4 +58,8 @@
   <string name="summary_template">Обобщена информация: копия - %1$s, размер на хартията – %2$s</string>
   <string name="template_all_pages">Всички %1$s</string>
   <string name="template_page_range">Обхват от  %1$s</string>
+  <string name="permdesc_accessAllPrintJobs">Allows the holder to access print jobs created by another app. Should never be needed for normal apps.</string>
+  <string name="permdesc_startPrintServiceConfigActivity">Allows the holder to start the configuration activities of a print service. Should never be needed for normal apps.</string>
+  <string name="permlab_accessAllPrintJobs">access all print jobs</string>
+  <string name="permlab_startPrintServiceConfigActivity">start print service configuration activities</string>
 </resources>

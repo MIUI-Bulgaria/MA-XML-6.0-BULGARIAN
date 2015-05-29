@@ -330,4 +330,41 @@
   <string name="sync_dspt_entrance_provision_confirm_open">Използвай Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Да не се ли използва Mi Cloud?"</string>
   <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Прескочи тази стъпка&lt;/u&gt;</string>
+  <string name="activate_number_change_dialog_message">Изберете телефонен номер, който да бъде видим от други устройства, когато използвате VoIP.</string>
+  <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+  <string name="deskclock_backup">Архив на часовници</string>
+  <string name="micloud_buy_member">Надграждане на членството</string>
+  <string name="micloud_main_space_low">Почти пълно хранилище…</string>
+  <string name="micloud_main_suggest_setting">"Изчаква се Wi-Fi връзка за синхрон
+Чукнете бутонът Настройки за повече опции"</string>
+  <string name="micloud_main_sync_setting">Настройки за синхр.</string>
+  <string name="micloud_main_title_sync_fail">Неуспешно</string>
+  <string name="micloud_main_title_sync_off">Изкл. синхр.</string>
+  <string name="micloud_main_title_sync_on_wifi">Изп. на Wi-Fi</string>
+  <string name="micloud_member">Mi Cloud членство</string>
+  <string name="micloud_member_advantage">Вземете повече място в хранилището.</string>
+  <string name="micloud_member_buy_content" formatted="false">"Валидно за %s-%s-%s
+
+%s MiКредити за година"</string>
+  <string name="micloud_member_buy_title">Потвърждаване на поръчка</string>
+  <string name="micloud_member_net_error_alert_message">"Нямате връзка с интернет."</string>
+  <string name="micloud_member_net_error_alert_title">"Няма връзка с мрежата"</string>
+  <string name="micloud_member_pay_fail_toast">"Плащането не може да се извърши"</string>
+  <string name="micloud_member_pay_miid_error_toast">Грешка в профила</string>
+  <string name="micloud_member_pay_order_error_toast">Грешка в данните</string>
+  <string name="micloud_member_refresh_button">Обнови</string>
+  <string name="micloud_member_webload_fail_error_message">Мрежова грешка</string>
+  <string name="micloud_member_webload_fail_toast_4xx">Страницата не може да се зареди</string>
+  <string name="micloud_member_webload_fail_toast_5xx">Грешка на сървъра</string>
+  <string name="micloud_setting_deskclock_summary">Настройки на часовници</string>
+  <string name="micloud_storage">Хранилище</string>
+  <string name="micloud_sync_alert_dialog_message">Синхронизиране на снимки, контакти, бележки и др. между устройствата ви.</string>
+  <string name="micloud_sync_alert_dialog_negative">Отказ</string>
+  <string name="micloud_sync_alert_dialog_positive">ОК</string>
+  <string name="micloud_sync_alert_dialog_title">Използване на Mi Cloud</string>
+  <string name="mx_dspt_provision_with_voip">Обаждайте се безплатно до други MIUI потребители чрез интернет връзка. Функцията се управлява от Настройки.</string>
+  <string name="mx_sub_dspt_provision_with_voip">Интернет обаждания</string>
+  <string name="settings_backup_title">Архив на системните настройки</string>
+  <string name="voip_choose_sim">Изберете телефонен номер, за да активирате Mi-Глас</string>
+  <string name="voip_dspt">Mi-Глас</string>
 </resources>

@@ -125,4 +125,12 @@
   <string name="submit_dialog_not_wifi_content">"Вашият отзив, заедно с логовете за грешки и прикачените снимки, ще бъдат изпратени на сървърите на Mi, когато устройството ви е свързано към Wi-Fi."</string>
   <string name="toast_feedback_collect_store">Събиране на логове…</string>
   <string name="toast_fill_brackets">Моля, попълнете</string>
+  <string name="bugreport_tool_log">Създаване на доклад за грешка</string>
+  <string name="bugreport_tool_log_toast">Логът е записан в %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Създава се доклад за грешка (отнема оклоло минута)</string>
+  <string name="modem_tool_log">Заснемане на логовете на модема</string>
+  <string name="modem_tool_log_start">Старт</string>
+  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_stop">Стоп</string>
+  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
 </resources>

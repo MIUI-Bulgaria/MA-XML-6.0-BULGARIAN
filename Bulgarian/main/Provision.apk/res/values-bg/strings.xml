@@ -53,4 +53,6 @@
   <string name="title_congratulation">Устройството е готово за използване!</string>
   <string name="install_preinstall_app">Зареждат се прил-я…</string>
   <string name="summary_sim_card_with_operator">Карта %1$d: %2$s</string>
+  <string name="sim_card_detecting_title">Проверка за SIM карта</string>
+  <string name="skip_underline">&lt;u&gt;Пропусни тази стъпка&lt;/u&gt;</string>
 </resources>

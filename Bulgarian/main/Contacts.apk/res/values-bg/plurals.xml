@@ -114,4 +114,12 @@
         <item quantity="other">SIM картата може да запази %d контакти.</item>
         <item quantity="one">SIM картата може да запази %d контакт.</item>
     </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Блокиране на тези %1$d номера?</item>
+        <item quantity="one">Блокиране на този номер?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Деблокиране на тези %1$d номера?</item>
+        <item quantity="one">Деблокиране на този номер?</item>
+    </plurals>
 </resources>

@@ -346,4 +346,7 @@
   <string name="theme_user_agreement_exit">Изход</string>
   <string name="gift_received_notification_title">%s ви подари тема.</string>
   <string name="resource_tab_to_view">Чукнете за преглед.</string>
+  <string name="resource_select_ringtone_confirm_picker">Select this sound?</string>
+  <string name="theme_is_external_priority_storage">Save to SD card</string>
+  <string name="theme_is_external_priority_storage_summary">Themes app will restart immediatelly to take effect</string>
 </resources>

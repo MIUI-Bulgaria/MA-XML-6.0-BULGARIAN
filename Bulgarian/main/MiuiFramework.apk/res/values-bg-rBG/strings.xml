@@ -186,4 +186,7 @@
   <string name="status_bar_toggle_wifi_ap">Wi-Fi VPN</string>
   <string name="status_bar_toggle_paper_mode">Четене</string>
   <string name="screen_paper_mode_enter_toast">Режим четене е включен. Можете да управлявате състоянието на тази функция от Допълнителни настройки &gt; Режим четене.</string>
+  <string name="android_ringtone_default_with_actual">Стандартна мелодия (%1$s)</string>
+  <string name="android_ringtone_silent">Няма</string>
+  <string name="android_ringtone_unknown">Неизвестна мелодия</string>
 </resources>

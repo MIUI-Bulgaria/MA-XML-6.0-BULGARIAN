@@ -707,4 +707,5 @@
   <string name="select_account_dialog_title">Select Account</string>
   <string name="select_voice_call_sim">Изберете SIM карта</string>
   <string name="waiting_close_airplane_mode">Изчаква изключване на самолетен режим ...</string>
+  <string name="livetalk_left_minute">остават %s мин.</string>
 </resources>

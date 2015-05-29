@@ -151,4 +151,14 @@
   <string name="xunlei_close_tips_title">Тази функция не се препоръчва за потребители извън Китай</string>
   <string name="toast_xunlei_engine_open">"Xunlei Accelerator е активирано.
 Функцията не се препоръчва извън Китай"</string>
+  <string name="recommend_downloading">Изтегля се…</string>
+  <string name="recommend_failed">Неуспех</string>
+  <string name="recommend_install">Инсталиране</string>
+  <string name="recommend_installing">Инсталира се…</string>
+  <string name="recommend_loading">Зарежда се…</string>
+  <string name="recommend_open">Отвори</string>
+  <string name="recommend_other_downloads">Популярни</string>
+  <string name="recommend_paused">На пауза</string>
+  <string name="recommend_prepare">Изчаква…</string>
+  <string name="recommend_show_other_downloads">Виж популярни</string>
 </resources>
