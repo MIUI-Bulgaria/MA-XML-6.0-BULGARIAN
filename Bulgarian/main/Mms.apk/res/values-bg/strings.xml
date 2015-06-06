@@ -570,6 +570,6 @@
   <string name="security_alert_dialog_title">Доклад</string>
   <string name="sms_report_failed">"Не може да се изпрати доклад"</string>
   <string name="sms_report_success">Докладът е изпратен</string>
-  <string name="storage_dialog_available_space">Свободно място</string>
+  <string name="storage_dialog_available_space">Свободно място:</string>
   <string name="storage_unavailable">Няма свободно място</string>
 </resources>
