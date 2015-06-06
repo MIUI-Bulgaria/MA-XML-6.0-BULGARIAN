@@ -565,10 +565,10 @@
   <string name="storage_dialog_mms">MMS: %d</string>
   <string name="storage_dialog_mms_size">Размер на MMS:</string>
   <string name="storage_dialog_sms">SMS: %d</string>
-  <string name="security_alert_desc">Подателят не е във вашите контакти. "&lt;u&gt;&lt;font color="red"&gt;Докладвайте този номер&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="security_alert_desc">"Подателят не е във вашите контакти. "&lt;u&gt;&lt;font color="red"&gt;Докладвайте този номер&lt;/font&gt;&lt;/u&gt;</string>
   <string name="security_alert_dialog_desc">Докладвай този номер (%s) и съобщение чрез изпращане към Xiaomi</string>
   <string name="security_alert_dialog_title">Доклад</string>
-  <string name="sms_report_failed">Не може да се изпрати доклад</string>
+  <string name="sms_report_failed">"Не може да се изпрати доклад"</string>
   <string name="sms_report_success">Докладът е изпратен</string>
   <string name="storage_dialog_available_space">Свободно място</string>
   <string name="storage_unavailable">Няма свободно място</string>
