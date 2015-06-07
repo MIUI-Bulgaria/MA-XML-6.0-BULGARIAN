@@ -565,11 +565,11 @@
   <string name="storage_dialog_mms">MMS: %d</string>
   <string name="storage_dialog_mms_size">Размер на MMS:</string>
   <string name="storage_dialog_sms">SMS: %d</string>
-  <string name="security_alert_desc">"The sender isn't in your contacts. "&lt;u&gt;&lt;font color="red"&gt;Report this number&lt;/font&gt;&lt;/u&gt;</string>
-  <string name="security_alert_dialog_desc">Report this number (%s) and message by sending it to Xiaomi for review.</string>
-  <string name="security_alert_dialog_title">Report</string>
-  <string name="sms_report_failed">"Couldn't send report"</string>
-  <string name="sms_report_success">Report sent</string>
-  <string name="storage_dialog_available_space">Available space:</string>
-  <string name="storage_unavailable">No space available</string>
+  <string name="security_alert_desc">"Подателят не е във вашите контакти. "&lt;u&gt;&lt;font color="red"&gt;Докладвайте този номер&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="security_alert_dialog_desc">Докладвайте този номер (%s) и съобщение чрез изпращане към Xiaomi</string>
+  <string name="security_alert_dialog_title">Доклад</string>
+  <string name="sms_report_failed">"Не може да се изпрати доклад"</string>
+  <string name="sms_report_success">Докладът е изпратен</string>
+  <string name="storage_dialog_available_space">Свободно място:</string>
+  <string name="storage_unavailable">Няма свободно място</string>
 </resources>
