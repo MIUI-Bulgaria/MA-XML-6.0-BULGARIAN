@@ -165,13 +165,13 @@
   <string name="bluetooth_connecting">Сдвоява се…</string>
   <string name="bluetooth_disconnected">Несдвоено</string>
   <string name="bluetooth_disconnecting">Връзката се прекратява…</string>
-  <string name="ble_device_profile">Bluetooth device profile</string>
-  <string name="goto_package">Open %1$s</string>
-  <string name="install_package">Install %1$s for more functions</string>
-  <string name="mi_key_open_camera">Open Camera</string>
-  <string name="mi_key_summary_find_phone">Press &amp; hold Mi-Key to sound ringer</string>
-  <string name="mi_key_summary_open_camera">Double click Mi-Key to open camera</string>
-  <string name="mi_key_summary_take_photo">Click Mi-Key to take a photo</string>
-  <string name="reset_function_msg">Reopen the function will cause it invalid in %1$s</string>
-  <string name="some_app_taking">(%1$s is already using this feature…)</string>
+  <string name="ble_device_profile">Свързано BLE устройство</string>
+  <string name="goto_package">Отвори %1$s</string>
+  <string name="install_package">Инсталиране на %1$s за повече функции</string>
+  <string name="mi_key_open_camera">Отвори Камера</string>
+  <string name="mi_key_summary_find_phone">Натискане и задържане на Mi-Key за прозвъняване</string>
+  <string name="mi_key_summary_open_camera">Двойно натискане на Mi-Key за отваряне на камерата</string>
+  <string name="mi_key_summary_take_photo">Натискане на Mi-Key за снимане</string>
+  <string name="reset_function_msg">Ново отваряне на функцията ще предизвика грешка в %1$s</string>
+  <string name="some_app_taking">(%1$s вече използва тази функция…)</string>
 </resources>

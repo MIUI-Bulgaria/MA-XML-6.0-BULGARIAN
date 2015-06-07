@@ -54,51 +54,51 @@
         <item>Огромен текст</item>
     </string-array>
     <string-array name="signature_normal_string_array">
-        <item>Blog:</item>
-        <item>Site:</item>
-        <item>Email:</item>
-        <item>mobile:</item>
-        <item>Phone:</item>
+        <item>Блог:</item>
+        <item>Сайт:</item>
+        <item>Имейл:</item>
+        <item>Мобилен:</item>
+        <item>Телефон:</item>
         <item>T:</item>
         <item>www.</item>
         <item>F:</item>
         <item>E:</item>
-        <item>E-mail:</item>
-        <item>Tel:</item>
-        <item>Fax:</item>
-        <item>Mail:</item>
+        <item>Имейл:</item>
+        <item>Тел:</item>
+        <item>Факс:</item>
+        <item>Поща:</item>
         <item>QQ:</item>
         <item>MSN:</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
-        <item>Address:</item>
-        <item>Tel:</item>
-        <item>Name:</item>
-        <item>Email:</item>
-        <item>Mobile:</item>
+        <item>Адрес:</item>
+        <item>Тел:</item>
+        <item>Име:</item>
+        <item>Имейл:</item>
+        <item>Мобилен:</item>
         <item>WeChat:</item>
-        <item>Fax:</item>
-        <item>Postal Code:</item>
+        <item>Факс:</item>
+        <item>Пощ. код:</item>
     </string-array>
     <string-array name="signature_special_string_array">
-        <item>Disclaimer:</item>
-        <item>Email Disclaimer</item>
-        <item>Sent via WPSMail</item>
-        <item>Sent from</item>
-        <item>Sent with</item>
-        <item>Thanks,</item>
-        <item>Best Regards</item>
+        <item>Отказ от отговорност:</item>
+        <item>Имейл Отказ от отговорност</item>
+        <item>Изпратено чрез WPSMail</item>
+        <item>Изпратено от</item>
+        <item>Изпратено с/ъс</item>
+        <item>Благодарности,</item>
+        <item>Поздрави</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
-        <item>Thanks,</item>
-        <item>Best Regards</item>
-        <item>Sent from my</item>
-        <item>Original email</item>
-        <item>Sent from my</item>
-        <item>Sent from</item>
-        <item>From</item>
-        <item>This email</item>
-        <item>Disclaimer</item>
-        <item>Email Disclaimer</item>
+        <item>Благодарности,</item>
+        <item>Поздрави</item>
+        <item>Изпратено от моя</item>
+        <item>Оригинално писмо</item>
+        <item>Изпратено от моя</item>
+        <item>Изпратено от</item>
+        <item>От</item>
+        <item>Този имейл</item>
+        <item>Отказ от отговорност</item>
+        <item>Имейл Отказ от отговорност</item>
     </string-array>
 </resources>
