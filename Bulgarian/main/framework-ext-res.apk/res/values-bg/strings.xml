@@ -81,4 +81,6 @@
   <string name="unknown_caller">Неизвестен</string>
   <string name="handy_mode_summary">За да затворите, чукнете област на черния екран</string>
   <string name="handy_mode_title">Ползване с една ръка</string>
+  <string name="perm_send_push_dspt">Разрешаване на Mi push съобщения</string>
+  <string name="perm_send_push_lab">Изпращане на push съобщение</string>
 </resources>

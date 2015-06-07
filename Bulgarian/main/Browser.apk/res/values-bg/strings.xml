@@ -824,4 +824,5 @@
   <string name="sub_sync_item_browser_title_useful_summary">"Синхронизиране на сайтовете, които сте добавили към началната страница"</string>
   <string name="sub_sync_item_browser_title_video">Синхр. видео историята</string>
   <string name="sub_sync_item_browser_title_video_summary">"Синхронизиране на списъка с последно гледаните видеоклипове на вашите устройства"</string>
+  <string name="video_buffering_percent_string">Буфериране</string>
 </resources>

@@ -367,4 +367,5 @@
   <string name="settings_backup_title">Архив на системните настройки</string>
   <string name="voip_choose_sim">Изберете телефонен номер, за да активирате Mi-Глас</string>
   <string name="voip_dspt">Mi-Глас</string>
+  <string name="internet_access_dspt">Приложението се нуждае от интернет връзка, за да работи нормално.</string>
 </resources>

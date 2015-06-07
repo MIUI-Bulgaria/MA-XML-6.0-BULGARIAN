@@ -552,4 +552,14 @@
   <string name="vp_player_plugin_dlg_title">Video Player Plugin</string>
   <string name="vp_video_bad_network_condition">Poor internet connection. Try again later.</string>
   <string name="vp_video_plugin_installation">Installing %1$s…</string>
+  <string name="miwifi_app_download_content">downloading ...</string>
+  <string name="miwifi_app_download_title">Xiaomi Router</string>
+  <string name="miwifi_app_update_button">Update</string>
+  <string name="miwifi_app_update_content">note:this feature requires a router with version 2.0 or higher</string>
+  <string name="miwifi_app_update_title">You need to update router app to use this feature. Update now?</string>
+  <string name="offline_no_avail_item_hint">No episodes available to download</string>
+  <string name="router">Remote offline</string>
+  <string name="router_download_task_with">%d tasks</string>
+  <string name="router_update">You need Upgrade Xiaomi router application.</string>
+  <string name="vp_video_invalid_cp_info">Invalid information of video provider, please restart application</string>
 </resources>

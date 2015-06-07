@@ -260,4 +260,6 @@
     <string name="app_name_which_call">Приложение: %s</string>
     <string name="app_version_which_call">Версия на прил.: %s</string>
     <string name="policy_name">Политика: %s</string>
+    <string name="web_sso_login_fail">Трябва да се впишете отново</string>
+    <string name="web_sso_login_message">Вписване…</string>
 </resources>

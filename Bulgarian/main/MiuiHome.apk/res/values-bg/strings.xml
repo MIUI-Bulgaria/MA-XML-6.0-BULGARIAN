@@ -274,4 +274,5 @@
   <string name="wallpaper_scrolling">всички</string>
   <string name="download_action">Изтегляне</string>
   <string name="loading_wallpaper">Един момент…</string>
+  <string name="is_setting_wallpaper_message">Тапетът се настройва…</string>
 </resources>
