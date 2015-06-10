@@ -471,81 +471,77 @@ For more info check the message you received from your service provider"</string
   <string name="usbsharenet_exception_title">Тест на мрежа чрез USB</string>
   <string name="wifi_exception_summary">Тест на достъпните за свързване Wi-Fi мрежи</string>
   <string name="wifi_exception_title">Тест на Wi-Fi</string>
-  <string name="captive_portal_exception_title">Connect to public network</string>
-  <string name="data_network_blocked_notification_title">No internet connection</string>
-  <string name="dialog_roaming_apps_sorted_title">Sort by</string>
-  <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
-  <string name="firewall_network_restrict_notify_title">"%1$s isn't allowed to connect to %2$s."</string>
-  <string name="hints_input_roaming_daily_limit">Enter data usage limit</string>
-  <string name="hints_install_apps_new">Never used</string>
-  <string name="hints_install_apps_today">Used today</string>
-  <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a static IP address."</string>
-  <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Report Bug app and send a log from your device."</string>
-  <string name="mian_page_primary_txt">Internationally roaming</string>
-  <string name="network_blocked_connected_open_wifi">Connected to public network</string>
-  <string name="network_blocked_notification_summary">Tap to view details.</string>
-  <string name="network_blocked_switch_wifi">Switch networks</string>
-  <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
+  <string name="captive_portal_exception_title">Свързване към публична мрежа</string>
+  <string name="data_network_blocked_notification_title">Няма интернет връзка</string>
+  <string name="dialog_roaming_apps_sorted_title">Сортиране по</string>
+  <string name="firewall_network_restrict_notify_message">Чукнете за промяна на настройките.</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s няма разрешение за свързване към %2$s."</string>
+  <string name="hints_input_roaming_daily_limit">Въведете лимит за данни</string>
+  <string name="hints_install_apps_new">не е използвано</string>
+  <string name="hints_install_apps_today">използвано днес</string>
+  <string name="ip_address_exception_summary">Неуспешно получаване на IP адрес. Ако се повтори тази грешка, опитайте да зададете статичен IP адрес.</string>
+  <string name="local_ip_exception_summary">Неуспешно получаване на IP адрес. За да докладвате този проблем до MIUI, отидете в приложението Отзиви и изпратете лог от устройството ви.</string>
+  <string name="mian_page_primary_txt">Международен роуминг</string>
+  <string name="network_blocked_connected_open_wifi">Свързан към публична мрежа</string>
+  <string name="network_blocked_notification_summary">Чукнете за преглед на детайлите.</string>
+  <string name="network_blocked_switch_wifi">Превключване на мрежите</string>
+  <string name="network_mobile_exception_detail">"Вашето устройство не може да се свърже с интернет:
 
-1. Make sure you haven't exceeded your carrier's plan's mobile data limit.
+1. Уверете се, че не сте надвишили лимита си за данни при вашия оператор.
 
-2. If you just topped up your device's balance, reboot your device and try again.
+2. Ако току-що сте заредили нов пакет от данни, рестартирайте устройството си и опитайте отново.
 
-3. Your carrier's network's signal may be weak in your current location."</string>
-  <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
-  <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
-  <string name="network_roaming_exception_tips">"Can't using mobile data while roaming to connect to the network."</string>
-  <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
+3. Сигнала на оператора ви може да е твърде слаб на мястото, на което се намирате."</string>
+  <string name="network_operator_exception_summary">Не е възможно да активирате вашата SIM карта. Уверете се, че правилно сте поставили SIM картата и мобилните данни са активирани от вашия оператор.</string>
+  <string name="network_permission_exception_tips">Не е възможно да използвате мобилни данни.</string>
+  <string name="network_roaming_exception_tips">Не е възможно да използвате мобилни данни в роуминг.</string>
+  <string name="network_route_exception_detail">"Може да има проблем с рутера, с който сте свързани:
 
-"&lt;b&gt;"1. Public WLAN network issues
-"&lt;/b&gt;"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+"&lt;b&gt;"1. Проблеми с публични Wi-Fi мрежи
+"&lt;/b&gt;"Ако сте свързани към публична Wi-Fi мрежа броят на потребителите, свързани към тази мрежа може да забави или създаде проблеми с връзката. Превключете към друга мрежа и опитайте отново.
 
-2."&lt;b&gt;" Internet service provider issues
-M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet Service Provider.
+2."&lt;b&gt;" Грешки от интернет доставчика
+У"&lt;/b&gt;"верете се, че правилно сте настроили интернет връзката при вашия доставчик.
 
-3."&lt;b&gt;" Router hardware issues
-T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your router.
+3."&lt;b&gt;" Хардуерни проблеми с рутера
+О"&lt;/b&gt;"питайте да рестартирате рутера си или да проверите admin настройките му.
 
-4."&lt;b&gt;" Other router issues
-R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
+4."&lt;b&gt;" Други проблеми с рутера
+П"&lt;/b&gt;"печетете упътването на вашия рутер и нулирайте настроките му в заводско състояние.
 
-5."&lt;b&gt;" Make sure your router is connected properly
-T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
-  <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
+5."&lt;b&gt;" Уверете се, че вашия рутер е свързан правилно
+О"&lt;/b&gt;"питайте връзката с друг Ethernet кабел. Ако подозирате грешка в свързаността в домът ви, свържете се с вашия интернет доставчик."</string>
+  <string name="network_sim_exception_detail">"Може да има проблем с вашата SIM карта:
 
-1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
+1. Уверете се, че настройките ви за мобилни данни съвпадат с препопъчваните от вашия оператор. Опитайте да използвате друга SIM карта за проба.
 
-2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
+2. Ако използвате две SIM карти, опитайте с размяната им в слота на устройството.
 
-3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
-  <string name="open_now">Allow app to use mobile data</string>
-  <string name="other_exception_summary">"You don't have an internet connection"</string>
-  <string name="other_exception_title">Checking for other issues</string>
-  <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
-  <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
-  <string name="pref_roaming_daily_limit_setting">Daily data limit for roaming</string>
-  <string name="protocol_exception_title">Network protocol diagnostics</string>
-  <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
-  <string name="renew_ip">Retry</string>
-  <string name="roaming_limit_dialog_message">Reached daily roaming data limit.</string>
-  <string name="roaming_limit_network_notification_body">Tap to view available data networks</string>
-  <string name="roaming_limit_notification_title">Reached daily roaming data limit</string>
-  <string name="roaming_limit_warning_notification_body">Tap to view data usage.</string>
-  <string name="root">Root Access</string>
-  <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
-  <string name="traffic_correction_success_notify_message">Tap to view details.</string>
-  <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
-  <string name="wifi_network_blocked_notification_title">No internet connection</string>
-  <string name="miuishare_title_more">More</string>
-  <string name="miuishare_title_share">Share</string>
-  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+3. Уверете се, че вашата SIM карта и слот на телефона не са повредени. Проверете дали използваната от вас SIM карта е правилно поставена в SIM гнездото на вашето устройство."</string>
+  <string name="open_now">Позволи на прил. използването на мобилни данни</string>
+  <string name="other_exception_summary">Нямате връзка с интернет</string>
+  <string name="other_exception_title">Проверка за други грешки</string>
+  <string name="pref_roaming_daily_limit_setting">Дневен лимит за данни при роуминг</string>
+  <string name="protocol_exception_title">Диагностика на мрежата</string>
+  <string name="protocol_loop_back_exception_summary">Неуспешен тест. Препоръчваме ви да изпратите отчет за грешката чрез приложението Отзиви.</string>
+  <string name="renew_ip">Нов опит</string>
+  <string name="roaming_limit_dialog_message">Достигнахте дневния лимит за данни в роуминг.</string>
+  <string name="roaming_limit_network_notification_body">Показване на достъпните мрежи</string>
+  <string name="roaming_limit_notification_title">Достигнахте дневния лимит за данни в роуминг</string>
+  <string name="roaming_limit_warning_notification_body">Показване на използваните данни.</string>
+  <string name="root">ROOT достъп</string>
+  <string name="sim_state_exception_summary">Нещо не е наред с вашата SIM карта.</string>
+  <string name="traffic_correction_success_notify_message">Показване на детайлите.</string>
+  <string name="usbsharenet_pc_exception_summary">Не е възможно да се свържете към мрежата чрез споделена връзка. Проверете връзката на вашия компютър.</string>
+  <string name="wifi_network_blocked_notification_title">Нямате връзка с интернет</string>
+  <string name="miuishare_title_more">Още</string>
+  <string name="miuishare_title_share">Сподели</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="network_connected_exception_title">Test network</string>
-  <string name="network_not_available">"Can't connect to the network"</string>
-  <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
-  <string name="networkchanged_exception_title">Connection changed</string>
-  <string name="no_network_btn">Try again</string>
-  <string name="permission_exception_summary">"Some apps don't have permission to connect to the internet"</string>
-  <string name="permission_exception_title">View network permissions</string>
+  <string name="network_connected_exception_title">Тест на мрежата</string>
+  <string name="network_not_available">Няма връзка с мрежата</string>
+  <string name="networkchanged_exception_summary">Връзката с мрежата бе променена. Моля, тествайте отново.</string>
+  <string name="networkchanged_exception_title">Променена връзка</string>
+  <string name="no_network_btn">Опитай пак</string>
+  <string name="permission_exception_summary">Някой приложения нямат разрешение за свързване към интернет</string>
+  <string name="permission_exception_title">Показване на мрежовите разрешения</string>
 </resources>

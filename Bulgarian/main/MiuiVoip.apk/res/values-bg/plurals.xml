@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="show_dev_countdown">
-        <item quantity="other">You are now %1$d steps away from being a voip developer.</item>
-        <item quantity="one">You are now %1$d step away from being a voip developer.</item>
+        <item quantity="other">Вече сте на %1$d стъпки от това, да бъдете voip програмист.</item>
+        <item quantity="one">Вече сте на %1$d стъпка от това, да бъдете voip програмист.</item>
     </plurals>
     <plurals name="show_nondev_countdown">
-        <item quantity="other">You are now %1$d steps away from exiting voip developer mode.</item>
-        <item quantity="one">You are now %1$d step away from exiting voip developer mode.</item>
+        <item quantity="other">Вече сте на %1$d стъпки от излизане от режима за програмисти.</item>
+        <item quantity="one">Вече сте на %1$d стъпка от излизане от режима за програмисти.</item>
     </plurals>
 </resources>

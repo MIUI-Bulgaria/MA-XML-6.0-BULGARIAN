@@ -79,15 +79,15 @@
   <string name="virus_scan_is_risk">Това приложение е рисково!</string>
   <string name="virus_scan_is_virus">Това приложение е ВИРУС!</string>
   <string name="virus_scan_caller_unknown">Неизвестно</string>
-  <string name="permission_action_accept">Accept</string>
-  <string name="permission_action_prompt">Prompt</string>
-  <string name="permission_action_reject">Deny</string>
-  <string name="permission_group_title_charges_related">Phone</string>
-  <string name="permission_group_title_media_related">Multimedia</string>
-  <string name="permission_group_title_others">Others</string>
-  <string name="permission_group_title_privacy_related">Privacy</string>
-  <string name="permission_group_title_settings_related">Settings</string>
-  <string name="permission_send_sms_descx">App can send SMS and MMS</string>
-  <string name="dlg_appstore_notice">Get this app from our official &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
-  <string name="lift_ban_once">Allow once</string>
+  <string name="permission_action_accept">Приемане</string>
+  <string name="permission_action_prompt">Запитване</string>
+  <string name="permission_action_reject">Отказване</string>
+  <string name="permission_group_title_charges_related">Телефон</string>
+  <string name="permission_group_title_media_related">Мултимедия</string>
+  <string name="permission_group_title_others">Други</string>
+  <string name="permission_group_title_privacy_related">Поверителност</string>
+  <string name="permission_group_title_settings_related">Настройки</string>
+  <string name="permission_send_sms_descx">Изпращане на SMS и MMS съобщения</string>
+  <string name="dlg_appstore_notice">Вземете приложението от нашият официален &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="lift_ban_once">Еднократно приемане</string>
 </resources>

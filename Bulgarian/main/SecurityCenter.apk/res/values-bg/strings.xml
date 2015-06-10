@@ -754,5 +754,5 @@
   <string name="title_default_app">MIUI %s не е зададено като стандартно</string>
   <string name="toast_default_app">"%1$s е зададено като стандартно за %2$s"</string>
   <string name="toast_resolve_apk_error">Поправка на грешки в apk</string>
-  <string name="app_not_installed_toast">"App isn't installed on your device."</string>
+  <string name="app_not_installed_toast">Приложението не е инсталирано на устройството ви.</string>
 </resources>

@@ -612,31 +612,31 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Пурпурно</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
-        <item>Reboot your device to apply this setting?</item>
-        <item>Reboot your device to apply this setting?</item>
+        <item>Да се рестартира ли устройството, за да се приложи настройката?</item>
+        <item>Да се рестартира ли устройството, за да се приложи настройката?</item>
     </string-array>
     <string-array name="fluency_mode_entries">
-        <item>Hide system animations</item>
-        <item>Show system animations</item>
+        <item>Скриване на системните анимации</item>
+        <item>Показване на системните анимации</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>"To speed up device's performance, hide system animations"</item>
-        <item>"Showing system animations may slow down device's performance"</item>
+        <item>За да ускорите производителността на устройството, скрийте системните анимации</item>
+        <item>Показването на системните анимации може да влоши производителността на устройството</item>
     </string-array>
      <string-array name="install_non_market_app_contents">
-        <item>Ask permission</item>
-        <item>Allow</item>
+        <item>Искане на разрешение</item>
+        <item>Позволяване</item>
      </string-array>
      <string-array name="install_non_market_app_entries">
-        <item>Ask permission for risky apps</item>
-        <item>Allow</item>
+        <item>Искане на разрешение за рискови прил-я</item>
+        <item>Позволяване</item>
      </string-array>
      <string-array name="lock_screen_secure_after_timeout_entries">
-        <item>Immediately</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
+        <item>Веднага</item>
+        <item>1 минута</item>
+        <item>2 минути</item>
+        <item>5 минути</item>
+        <item>15 минути</item>
+        <item>30 минути</item>
      </string-array>
 </resources>
