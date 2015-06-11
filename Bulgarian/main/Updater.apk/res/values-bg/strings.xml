@@ -208,29 +208,29 @@
 Посетете http://miui.bg/community/ за повече информация."</string>
   <string name="recovery_failed_notification_msg">MiRecovery не можа да стартира</string>
   <string name="recovery_failed_title">Актуализацията е неуспешна</string>
-  <string name="download_success_reboot_immediately">Reboot to apply update</string>
-  <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Go to MIUI forum&lt;/a&gt;" "</string>
-  <string name="notification_auto_reboot_seccess_title">Device updated automatically</string>
-  <string name="update_success_reboot_immediately">Device updated</string>
-  <string name="updater_wait_for_unzip">Unpacking update…</string>
+  <string name="download_success_reboot_immediately">Рестарт в новата версия</string>
+  <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;MIUI форум&lt;/a&gt;" "</string>
+  <string name="notification_auto_reboot_seccess_title">Автоматично актуализирано</string>
+  <string name="update_success_reboot_immediately">Устройството е актуализирано</string>
+  <string name="updater_wait_for_unzip">Актуализацията се разархивира…</string>
   <string name="vote_beta">Beta Feedback Program</string>
-  <string name="vote_error1">"Look's like you're not a member
-of the Beta Feedback Program"</string>
-  <string name="vote_error2">"Couldn't submit feedback.
-Update your device and try again"</string>
-  <string name="vote_error3">"Couldn't sign in.
-Try signing in your Mi Account again."</string>
-  <string name="vote_error4">You already submitted feedback</string>
-  <string name="vote_error5">"Something went wrong
-Couldn't submit feedback"</string>
-  <string name="vote_error_nonetwork">"Can't connect to the network"</string>
+  <string name="vote_error1">"Изглежда, че не сте член на
+Beta Feedback Program"</string>
+  <string name="vote_error2">"Не можете да изпратите отзив.
+Актуализирайте устройството си и опитайте отново"</string>
+  <string name="vote_error3">"Не можете да влезете.
+Опитайте да се впишете отново с вашия Mi профил."</string>
+  <string name="vote_error4">Вече сте изпратили отзив</string>
+  <string name="vote_error5">"Нещо се обърка
+Отзивът не може да се изпрати"</string>
+  <string name="vote_error_nonetwork">Няма връзка с мрежата</string>
   <string name="vote_experience">Forum experience</string>
-  <string name="vote_hint">Get 20 experience points for the MIUI forum when you vote</string>
-  <string name="vote_join">Voted</string>
-  <string name="vote_not_recommend">"Don't recommend"</string>
-  <string name="vote_recommend">Recommend this update</string>
-  <string name="vote_submit">Submit</string>
-  <string name="welcom_button">OK</string>
-  <string name="welcom_message">"You're ready to rock"</string>
-  <string name="welcom_title">Welcome to MIUI 6</string>
+  <string name="vote_hint">Вземете 20 точки във форума en.miui.com за гласуването</string>
+  <string name="vote_join">Гласувахте</string>
+  <string name="vote_not_recommend">Не препоръчвам</string>
+  <string name="vote_recommend">Препоръчвам тази версия на MIUI</string>
+  <string name="vote_submit">Изпрати</string>
+  <string name="welcom_button">ОК</string>
+  <string name="welcom_message">Готови сте да започнете</string>
+  <string name="welcom_title">Добре дошли в MIUI 6</string>
 </resources>

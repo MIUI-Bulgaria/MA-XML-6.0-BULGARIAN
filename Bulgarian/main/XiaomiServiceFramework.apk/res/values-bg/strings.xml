@@ -77,7 +77,8 @@
   <string name="sim_unactivated_title">SIM картата ви не е активирана</string>
   <string name="xmsf_activate_info">XMSF activate info</string>
   <string name="accept">ОК</string>
-  <string name="error_device_id_message">Някои функции на профила и облака ще бъдат недостъпни</string>
+  <string name="error_device_id_message">"Невалидно ID на устройството: %s 
+Някои функции на профила и облака ще бъдат недостъпни"</string>
   <string name="error_device_id_title">Не може да се получи IMEI номера</string>
   <string name="sync_notification_title_format">Синхронизира се: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
@@ -86,5 +87,4 @@
   <string name="activate_popup_link_diagnosis_detail">Каква информация ще бъде включена?</string>
   <string name="activate_popup_title_diagnosis_detail">Диагностична информация</string>
   <string name="activate_popup_title_upload_diagnosis_info">SIM картата не може да се активира</string>
-  <string name="activate_sms_postfix">[This SMS is used to activate your Mi device.]</string>
 </resources>

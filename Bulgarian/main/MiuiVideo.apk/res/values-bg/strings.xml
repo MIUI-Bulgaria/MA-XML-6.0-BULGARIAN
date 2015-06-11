@@ -57,8 +57,8 @@
   <string name="click_to_login">Докоснете снимката за вписване</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Коментари</string>
-  <string name="comment_count_less_tip">Трябва да въведете поне %d символа</string>
-  <string name="comment_count_much_tip">Коментарът ви не може да надхвърля %d символа</string>
+  <string name="comment_count_less_tip">Трябва да въведете поне %1$s символа</string>
+  <string name="comment_count_much_tip">Коментарът ви не може да надхвърля %1$s символа</string>
   <string name="comment_edit_blog_hint">Споделете по Weibo</string>
   <string name="comment_edit_et_hint">Въведете коментар</string>
   <string name="comment_edit_start_hint">Докоснете звездите, за да оцените</string>
@@ -257,7 +257,7 @@
   <string name="unfavorite">Махни от любими</string>
   <string name="unknown_source">Неизвестен източник</string>
   <string name="update">Обновено</string>
-  <string name="update_to_count_ji">Обновено до еп. %d</string>
+  <string name="update_to_count_ji">Обновено до еп. %1$s</string>
   <string name="updatedalready">Обновено</string>
   <string name="upgrade">Надстройка</string>
   <string name="use_cellular_network">Използвай мобилната мрежа</string>

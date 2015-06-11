@@ -544,4 +544,7 @@ For more info check the message you received from your service provider"</string
   <string name="no_network_btn">Опитай пак</string>
   <string name="permission_exception_summary">Някой приложения нямат разрешение за свързване към интернет</string>
   <string name="permission_exception_title">Показване на мрежовите разрешения</string>
+  <string name="gateway_exception_summary2">Не може да се установи връзка със сървъра</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="pref_title_diagnostics_dont_show_float_notification">Показване на предупреждения в лентата с известия</string>
 </resources>
