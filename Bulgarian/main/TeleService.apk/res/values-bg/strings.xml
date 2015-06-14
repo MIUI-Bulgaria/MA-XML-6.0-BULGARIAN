@@ -100,7 +100,7 @@
   <string name="call_recording_notification_message">Докоснете за прослушване.</string>
   <string name="call_recording_notification_message_low_storage">Записът бе спрян, няма достатъчно място.</string>
   <string name="call_recording_notification_message_sd_unmounted">Записът спря, тъй като SD картата не е включена.</string>
-  <string name="call_recording_notification_summary">Уведоми в статус лентата, когато записът приключи</string>
+  <string name="call_recording_notification_summary">Уведомяване в статус лентата, когато записът приключи</string>
   <string name="call_recording_notification_title">Известие за запис</string>
   <string name="call_recording_notification_title_error">Разговорът не успя да се запише</string>
   <string name="call_recording_setting">Настройки на запис</string>

@@ -166,8 +166,8 @@
   <string name="contactMultiPickerActivityTitle">Избери контакти</string>
   <string name="contactPickerActivityTitle">Изберете контакт</string>
   <string name="contactSavedErrorToast">"Промените в контакта не са запазени успешно."</string>
-  <string name="contactSavedToast">Контакта е запазен.</string>
-  <string name="contact_delete_toast">Контакта е изтрит успешно</string>
+  <string name="contactSavedToast">Контактът е запазен.</string>
+  <string name="contact_delete_toast">Контактът е изтрит успешно</string>
   <string name="contact_detail_calllog_call_note_tips">Бележка към повикване</string>
   <string name="contact_detail_calllog_call_record_tips">Запис на повикване</string>
   <string name="contact_directory_description">Директория %1$s</string>
@@ -342,7 +342,7 @@
   <string name="event_edit_field_hint_text">Дата</string>
   <string name="export_sim_contact_finish">Експортирането към SIM картата завърши</string>
   <string name="export_sim_contact_finish_failure">Паметта на SIM картата е пълна.Копирани: %1$d Недовършени: %2$d</string>
-  <string name="export_sim_contact_finish_success">Копирани са %d контакта</string>
+  <string name="export_sim_contact_finish_success">Копирахте %d контакти</string>
   <string name="export_sim_contacts_dialog_message">Вашата SIM карта има памет за %d контакти. Сигурни ли сте, че ще продължите?</string>
   <string name="export_to_sdcard">Експортиране в хранилището</string>
   <string name="export_to_sim">Експортиране в SIM карта</string>
@@ -391,7 +391,7 @@
   <string name="group_create_success_toast">Групата е създадена успешно</string>
   <string name="group_delete_success_toast">Групата е изтрита успешно</string>
   <string name="group_edit_field_hint_text">Име на група</string>
-  <string name="group_member_remove_toast">Контакта е успешно премахнат от групата</string>
+  <string name="group_member_remove_toast">Контактът е успешно премахнат от групата</string>
   <string name="group_name">Моите групи</string>
   <string name="group_name_hint">Име на група</string>
   <string name="group_read_only">Не може да бъде редактирано на това устройство.</string>
