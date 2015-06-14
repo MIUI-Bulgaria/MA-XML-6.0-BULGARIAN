@@ -1143,17 +1143,18 @@
   <string name="wifi_calling_use_call_assistant_summary">Разрешаване на приложения или услуги да управляват използваните за обаждания мрежи</string>
   <string name="wild_prompt_str">Замяна на заместващия символ със:</string>
   <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card."</string>
-  <string name="cdma_alert_title">UIM card must be default</string>
+  <string name="cdma_alert_title">UIM картата трябва да бъде по подр.</string>
   <string name="change_default_data">Промяна</string>
   <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
-  <string name="change_default_data_alert_title">UIM card must be default</string>
+  <string name="change_default_data_alert_title">UIM картата трябва да бъде по подр.</string>
   <string name="confirm_change_default_data">Промени</string>
   <string name="flash_when_ring_summary">Примигаща светкавица при входящи обаждания</string>
   <string name="flash_when_ring_title">Светкавица при звънене</string>
-  <string name="incall_error_sim_deactive">SIM card inactive</string>
+  <string name="incall_error_sim_deactive">SIM картата не е активна</string>
   <string name="msim_has_been_disabled">(Деактивирано)</string>
   <string name="not_change_default_data">Без промяна</string>
   <string name="remind_another_time">Не показвай отново</string>
   <string name="voip_setting">Voip настройки</string>
   <string name="can_not_use_for_not_data_sim">"(Не може да се използва: Трябва да е зададена като стндартна SIM за данни)"</string>
+  <string name="ivr_parameter_settings">IVR настройки (за Китай)</string>
 </resources>

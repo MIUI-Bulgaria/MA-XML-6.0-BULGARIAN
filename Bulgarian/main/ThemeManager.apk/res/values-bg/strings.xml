@@ -187,9 +187,9 @@
   <string name="resource_share_title">Сподели</string>
   <string name="resource_system_title">Системни ресурси</string>
   <string name="resource_tip_select_ringtone">Не е избрана мелодия</string>
-  <string name="resource_title">Сведения</string>
+  <string name="resource_title">Детайли</string>
   <string name="resource_title_select_ringtone">Изберете мелодия</string>
-  <string name="resource_trial_end_message">Тестовата версия на %1$s изтече. Ако желаете може да си го закупите.</string>
+  <string name="resource_trial_end_message">Тестовата версия на %1$s изтече. Ако желаете може да си я закупите.</string>
   <string name="resource_trial_end_purchase">Купи</string>
   <string name="resource_trial_end_restore">Прекрати теста</string>
   <string name="resource_trial_end_title">Тестът изтече</string>
@@ -264,7 +264,7 @@
   <string name="third_party_pickers_activity_title">Задай %1$s</string>
   <string name="title_component">Редактиране на темата</string>
   <string name="title_system_resource">Локални ресурси</string>
-  <string name="to_activate_the_account">Активирайте Вашият Mi профил</string>
+  <string name="to_activate_the_account">Активирайте вашият Mi профил</string>
   <string name="wallpaper_crop">Подрежи</string>
   <string name="wallpaper_decoded_error">Тапетът не може да се зареди</string>
   <string name="wallpaper_loading_text">Зарежда се...</string>

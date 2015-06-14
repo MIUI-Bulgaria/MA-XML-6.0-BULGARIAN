@@ -90,4 +90,13 @@
   <string name="permission_send_sms_descx">Изпращане на SMS и MMS съобщения</string>
   <string name="dlg_appstore_notice">Вземете приложението от нашият официален &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
   <string name="lift_ban_once">Еднократно приемане</string>
+  <string name="activity_package_delete_confirm_title">Важно предупреждение</string>
+  <string name="button_text_cancel">Отказ</string>
+  <string name="button_text_delete">Изтриване</string>
+  <string name="button_text_delete_timer">Изтриване (%d)</string>
+  <string name="button_text_next_step">Напред</string>
+  <string name="button_text_next_step_timer">Изтриване (%d)</string>
+  <string name="package_delete_confirm_step_1">Да се изтрие ли %s?</string>
+  <string name="package_delete_confirm_step_2">Изтриването на това приложение може да доведе до нестабилност на системата.</string>
+  <string name="package_delete_confirm_step_3">След като изтриете приложението, няма да можете да го стартирате.</string>
 </resources>

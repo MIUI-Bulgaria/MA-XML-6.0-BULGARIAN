@@ -189,4 +189,11 @@
   <string name="android_ringtone_default_with_actual">Стандартна мелодия (%1$s)</string>
   <string name="android_ringtone_silent">Няма</string>
   <string name="android_ringtone_unknown">Неизвестна мелодия</string>
+  <string name="app_name_which_call">Приложение:%s</string>
+  <string name="app_version_which_call">Версия на приложението:%s</string>
+  <string name="license_host_unreachable">"Няма връзка с мрежата. За да видите тази информация, 
+отидете на %s"</string>
+  <string name="loading">Зарежда се…</string>
+  <string name="mibi_license">Условия за ползване на Mi Credit</string>
+  <string name="policy_name">Политика:%s</string>
 </resources>
