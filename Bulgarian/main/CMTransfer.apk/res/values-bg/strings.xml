@@ -3,7 +3,7 @@
   <string name="a4shared_audio">Музика от 4shared</string>
   <string name="a4shared_video">Видеоклипове от 4shared</string>
   <string name="a4sharedmusic_audio">Музика от 4shared</string>
-  <string name="about">Отнсно</string>
+  <string name="about">За програмата</string>
   <string name="about_copyright">Cheetah Mobile Inc.</string>
   <string name="about_copyright_eng">© 2015 Всички права запазени.</string>
   <string name="about_desc">CM Transfer</string>
@@ -20,7 +20,7 @@
   <string name="app_name">CM Transfer</string>
   <string name="app_size">%s</string>
   <string name="audio">Музика</string>
-  <string name="audio_album_msg">%d общо</string>
+  <string name="audio_album_msg">Общо %d</string>
   <string name="auto_connect_query">Изпрати файл до %1$s&lt;br/&gt;&lt;font color=#47c580 &gt;%2$s&lt;/font&gt;?</string>
   <string name="beatsmusic_audio">Музика от Beats</string>
   <string name="beetalk_audio">Музика от BeeTalk</string>
@@ -254,7 +254,7 @@
   <string name="hungama_video">Видеоклипове от Hungama</string>
   <string name="i_known">ОК</string>
   <string name="image">Снимки</string>
-  <string name="image_album_msg">%d общо</string>
+  <string name="image_album_msg">Общо %d</string>
   <string name="image_browse">Преглед на снимките</string>
   <string name="image_browse_error">Изпращането се провали</string>
   <string name="install">Инсталирай</string>
@@ -262,7 +262,7 @@
   <string name="invite_email_content">Намерих приложение което позволява изпращането на файлове по-бързо от Bluetooth,без мрежови такси.Пробвай CMTransfer!</string>
   <string name="invite_email_explain">Изпрати електронна поща</string>
   <string name="invite_free_enter_url">или въведете този уеб адрес за изтегляне</string>
-  <string name="invite_free_flow">Инсталирай CM Transfer чрез преносима точка за достъп</string>
+  <string name="invite_free_flow">Инсталирай CM Transfer чрез хотспот</string>
   <string name="invite_free_flow_ssid_title">Покани твоите приятели за свързване към преносима точка за достъп:</string>
   <string name="invite_message_content">"Намерих приложение което позволява изпращането на файлове по-бързо от Bluetooth."</string>
   <string name="invite_message_explain">Изпрати съобщение до приятели</string>
@@ -365,7 +365,7 @@
   <string name="org_mozilla_firefox_save_pic">Снимки от Firefox</string>
   <string name="org_telegram_messenger_save_pic">Снимки от Telegram</string>
   <string name="perfectpiano_audio">Музика от Perfect Piano</string>
-  <string name="personal">Личен</string>
+  <string name="personal">Лични</string>
   <string name="personal_files">Лични файлове</string>
   <string name="phone_bell">Входящи обаждания</string>
   <string name="pianisthd_audio">Музика от Pianist HD</string>
@@ -375,13 +375,13 @@
   <string name="rate_btn_ok">Оцени с 5 звезди</string>
   <string name="rate_des">Ако ви харесва,оценете ни с 5 звезди!</string>
   <string name="rate_limit_speed">Удивително! Прехвърлени в %s</string>
-  <string name="receive_file">Приемане на файлове</string>
+  <string name="receive_file">Приеми</string>
   <string name="receiver_version_error">Версията на CM Transfer на приемащото устройство е стара. &lt;br&gt;&lt;font color=#909090 &gt;Желаете ли да го актуализирате сега.?&lt;/font&gt;</string>
   <string name="receiver_version_error_result">&lt;font color=#909090 &gt;%d файловете не бяха изпратени защото &lt;/font&gt;версията на CM Transfer на приемащото устройство е стара;font color=#909090 &gt;.Моля актуализирайте за да могат да се изпратят файловете.&lt;/font&gt;</string>
   <string name="recv_action_accept">Да</string>
   <string name="recv_action_deny">Не</string>
   <string name="recv_history_file_btn_delele">Изтрий (%1$d)</string>
-  <string name="recv_history_file_count_title">( %1$d общо )</string>
+  <string name="recv_history_file_count_title">(общо %1$d)</string>
   <string name="recv_history_file_toast_clean_failed">Изтриването се провали</string>
   <string name="recv_history_list_item_title">Получени %2$d файлове от %1$s</string>
   <string name="recv_history_title">Получени файлове</string>
@@ -405,7 +405,7 @@
   <string name="tab_mobile_album">%1$s</string>
   <string name="tab_mobile_artist">%1$s  · %2$s</string>
   <string name="tab_mobile_bells">Мелодии</string>
-  <string name="tab_select_all">Избери всичко</string>
+  <string name="tab_select_all">Избери всички</string>
   <string name="tab_send">Изпрати</string>
   <string name="tab_send_with_count">Изпрати  (%d)</string>
   <string name="tab_title">Избери %s</string>
@@ -421,13 +421,13 @@
   <string name="toast_transfer_cancel">Другото устройство прекрати изпращането на файла</string>
   <string name="trans_item_num">( %1$d )</string>
   <string name="trans_table_msg">Вашите приятели трябва да инсталират CM Transfer за да получават файловете ви.</string>
-  <string name="transfer_app_count">( %d общо )</string>
+  <string name="transfer_app_count">(общо %d)</string>
   <string name="transfer_app_size">%s</string>
   <string name="transfer_button_done">Готово</string>
   <string name="transfer_computer">Свързан към: %1$s</string>
   <string name="transfer_devices_title">%d намерено устройство,изберете устройството на което да изпратите</string>
-  <string name="transfer_file">Изпращане на файлове</string>
-  <string name="transfer_history">Изпращане на хронология</string>
+  <string name="transfer_file">Изпрати</string>
+  <string name="transfer_history">Хронология на изпращанията</string>
   <string name="transfer_info_doing_format" formatted="false">Изпращане на файл (%d/%d) в %s</string>
   <string name="transfer_info_gone_format" formatted="false">%d изпратени файлове,средна скорост на %s</string>
   <string name="transfer_phone">Телефон</string>
@@ -447,7 +447,7 @@
   <string name="vcwe_video">Видеоклипове от Voice changer with effects</string>
   <string name="vicecwe_audio">Музика от Voice Changer With Effects</string>
   <string name="video">Видеоклипове</string>
-  <string name="video_album_msg">%d общо</string>
+  <string name="video_album_msg">Общо %d</string>
   <string name="videoeditor_video">Видеоклипове от Video Editor</string>
   <string name="vine_video">Видеоклипове от Vine</string>
   <string name="vstudio_android_camera360_save_pic">Снимки от Camera360</string>
