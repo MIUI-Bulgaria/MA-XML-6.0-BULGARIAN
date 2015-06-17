@@ -97,7 +97,7 @@
   <string name="guide_tips_editing_mode">Задръжте пръст върху джаджата, докато я плъзгате към екрана</string>
   <string name="install">Инсталиране</string>
   <string name="invalid_contact_shortcut">Невалиден пряк път</string>
-  <string name="loading_desktop">Зареждане начален екран...</string>
+  <string name="loading_desktop">Един момент…</string>
   <string name="lock_screen_failed_message">Неуспешно прилагане</string>
   <string name="lock_screen_success_message">Приложен</string>
   <string name="maml_component_customization_title">Настройки</string>
