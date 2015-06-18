@@ -98,7 +98,7 @@
   <string name="share_text_other">Слушам %1$s в %2$s.</string>
   <string name="similar_programs">Подобни програми</string>
   <string name="sleep_mode_canceled">Тих режим е изключен</string>
-  <string name="still_in_dev">"We're still working on this feature"</string>
+  <string name="still_in_dev">В процес на разработка</string>
   <string name="summary_download">"Не използвайте мобилна връзка за данни за сваляне на радио съдържание "</string>
   <string name="summary_download_quality">Изберете изтегляне на високо качество</string>
   <string name="summary_off_sleep_mode">Спиране на радиото след известно време</string>
