@@ -21,4 +21,20 @@
         <item quantity="other">Открити са %d прил.</item>
         <item quantity="one">Открито е %d прил.</item>
     </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Следят се използваните данни за %d прил.</item>
+        <item quantity="one">Следят се използваните данни за %d прил.</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Не се следи изп. данни за %d прил.</item>
+        <item quantity="one">Не се следи изп. данни за %d прил.</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d прил. не използват Спестяване на данни</item>
+        <item quantity="one">%d прил. не използва Спестяване на данни</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d прил. използват Спестяване на данни</item>
+        <item quantity="one">%d прил. използва Спестяване на данни</item>
+    </plurals>
 </resources>

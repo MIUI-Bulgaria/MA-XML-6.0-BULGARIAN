@@ -321,4 +321,5 @@
   <string name="mark_number_setting_guide_content3">Вие докладвахте номерът като %1$s. Да се блокират ли обажданията от всички номера, докладвани като %2$s?</string>
   <string name="mark_number_setting_guide_forward">Настройки за блокиране</string>
   <string name="mark_number_setting_guide_title">Блокиране на докладвани номера</string>
+  <string name="action_source_sms_title">Блокиран SMS</string>
 </resources>

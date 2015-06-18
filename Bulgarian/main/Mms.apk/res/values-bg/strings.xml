@@ -572,4 +572,9 @@
   <string name="sms_report_success">Докладът е изпратен</string>
   <string name="storage_dialog_available_space">Свободно място:</string>
   <string name="storage_unavailable">Няма свободно място</string>
+  <string name="found_wild_messages_guide_cloud_desc">За синхрон на съобщения от Mi Cloud, влезте с вашия Mi профил и включете синхр. на SMS.</string>
+  <string name="found_wild_messages_guide_settings_desc">Синхр. на SMS съобщения от Mi Cloud в настройки на Съобщения.</string>
+  <string name="pref_show_blocked_messages_summary">Показване на блокираните SMS в списъка с кореспонденции</string>
+  <string name="reply_button_msg">Отговори</string>
+  <string name="title_show_blocked_messages">Показване на блокирани SMS</string>
 </resources>

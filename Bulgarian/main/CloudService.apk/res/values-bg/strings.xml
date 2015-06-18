@@ -368,4 +368,8 @@
   <string name="voip_choose_sim">Изберете телефонен номер, за да активирате Mi-Глас</string>
   <string name="voip_dspt">Mi-Глас</string>
   <string name="internet_access_dspt">Приложението се нуждае от интернет връзка, за да работи нормално.</string>
+  <string name="micloud_space_applist_detail">Упр. на прил. на началния ви екран</string>
+  <string name="micloud_space_applist_title">Управление на приложения</string>
+  <string name="micloud_space_soundrecorder_detail">Упр. на записите, съхранявани на устройството ви</string>
+  <string name="micloud_space_soundrecorder_title">Записи</string>
 </resources>

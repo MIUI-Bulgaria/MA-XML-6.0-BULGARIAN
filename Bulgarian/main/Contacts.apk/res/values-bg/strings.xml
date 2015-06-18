@@ -1161,4 +1161,5 @@
   <string name="preference_contacts_recovery_introduction">Възстановяване на контакти</string>
   <string name="remove_blacklist_dialog_title">Премахване от блокирани</string>
   <string name="resource_select_ringtone_confirm_picker">Да се избере ли този звук?</string>
+  <string name="cloud_recommend_msg">Чукнете за синхронизиране на контактите с Mi Cloud.</string>
 </resources>

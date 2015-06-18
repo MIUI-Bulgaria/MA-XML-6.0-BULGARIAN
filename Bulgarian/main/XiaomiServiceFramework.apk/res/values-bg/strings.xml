@@ -87,4 +87,5 @@
   <string name="activate_popup_link_diagnosis_detail">Каква информация ще бъде включена?</string>
   <string name="activate_popup_title_diagnosis_detail">Диагностична информация</string>
   <string name="activate_popup_title_upload_diagnosis_info">SIM картата не може да се активира</string>
+  <string name="activate_sms_postfix">Този SMS се използва за активиране на вашето Mi устройство.</string>
 </resources>

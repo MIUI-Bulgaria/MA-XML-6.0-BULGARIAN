@@ -562,4 +562,7 @@
   <string name="router_download_task_with">%d tasks</string>
   <string name="router_update">You need Upgrade Xiaomi router application.</string>
   <string name="vp_video_invalid_cp_info">Invalid information of video provider, please restart application</string>
+  <string name="bmp_quality_mode">Picture Quality mode</string>
+  <string name="bmp_quality_mode_desc">Checked, high quality show mode.</string>
+  <string name="empty_tv_exiting">Exiting ...</string>
 </resources>

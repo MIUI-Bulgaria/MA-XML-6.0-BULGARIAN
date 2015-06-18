@@ -825,4 +825,20 @@
   <string name="sub_sync_item_browser_title_video">Синхр. видео историята</string>
   <string name="sub_sync_item_browser_title_video_summary">"Синхронизиране на списъка с последно гледаните видеоклипове на вашите устройства"</string>
   <string name="video_buffering_percent_string">Буфериране</string>
+  <string name="miuishare_account_activate_confirmation">Изисква се активиране</string>
+  <string name="miuishare_account_activate_ok">Активирай</string>
+  <string name="miuishare_account_login_cancel">Отказ</string>
+  <string name="miuishare_account_login_confirmation">Изисква се вписване</string>
+  <string name="miuishare_account_login_ok">Впиши ме</string>
+  <string name="miuishare_account_need_activate">Функцията Weibo share изисква обвързването на вашия Weibo профил с Xiaomi профила ви, което понастоящем не е налице. Активиране сега?</string>
+  <string name="miuishare_account_need_login">Функцията Weibo share изисква обвързването на вашия Weibo профил с Xiaomi профила ви, в който понастоящем не сте вписан. Вписване за споделяне сега?</string>
+  <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_no_network">Няма мрежа за споделяне</string>
+  <string name="miuishare_publish">Изпрати</string>
+  <string name="miuishare_share_done">Изпратихте споделеното съдържание.</string>
+  <string name="miuishare_share_editor_title">Споделяне</string>
+  <string name="miuishare_title_more">Още</string>
+  <string name="miuishare_title_share">Споделяне</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_weibo_title">Weibo</string>
 </resources>
