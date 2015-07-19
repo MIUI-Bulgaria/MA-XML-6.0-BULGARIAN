@@ -38,7 +38,7 @@
   <string name="backup_recently">" (последно) "</string>
   <string name="backup_report">Вижте детайли за архива</string>
   <string name="backup_update">Актуализиране</string>
-  <string name="batch_delete_backup_confirm">Да се изтрият ли %d резервни копия?</string>
+  <string name="batch_delete_backup_confirm">Да се изтрият ли избраните резервни копия?</string>
   <string name="button_backup">Архивиране</string>
   <string name="button_cancel">Отказ</string>
   <string name="button_continue">Продължи</string>

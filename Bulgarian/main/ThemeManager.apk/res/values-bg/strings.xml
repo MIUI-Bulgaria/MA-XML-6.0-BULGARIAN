@@ -287,7 +287,7 @@
   <string name="gift_present_dlg_anonymous">Анонимен подарък</string>
   <string name="gift_present_dlg_input_hint">Mi ID / Тел. номер</string>
   <string name="gift_present_dlg_no_fee">Изпращането на подаръци не се таксува от вашия оператор</string>
-  <string name="gift_present_dlg_present_max_limit">Темата не може да бъде подарявана повече от %$1s пъти.</string>
+  <string name="gift_present_dlg_present_max_limit">Темата не може да бъде подарявана повече от %1$s пъти.</string>
   <string name="gift_present_dlg_share">Създаване на код и изпращане</string>
   <string name="gift_present_fail_dlg_content">"Не може да се изпрати като подарък. "</string>
   <string name="gift_present_fail_dlg_title">Подаръкът не може да се изпрати</string>
