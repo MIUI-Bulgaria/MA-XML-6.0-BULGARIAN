@@ -755,4 +755,27 @@
   <string name="toast_default_app">"%1$s е зададено като стандартно за %2$s"</string>
   <string name="toast_resolve_apk_error">Поправка на грешки в apk</string>
   <string name="app_not_installed_toast">Приложението не е инсталирано на устройството ви.</string>
+  <string name="battery_stats_charging_label">Зарежда се</string>
+  <string name="battery_stats_gps_on_label">Включен GPS</string>
+  <string name="battery_stats_on_battery">%1$s на батерия</string>
+  <string name="battery_stats_phone_signal_label">Сигнал на мобилна мрежа</string>
+  <string name="battery_stats_screen_on_label">Включен екран</string>
+  <string name="battery_stats_wake_lock_label">Събуждане</string>
+  <string name="battery_stats_wifi_running_label">Wi-Fi</string>
+  <string name="boot_time_day_tomorrow">Включване утре в/ъв %1$s</string>
+  <string name="month_report_activity_label">Месечен доклад</string>
+  <string name="month_report_click_reconnect_network">Нов опит</string>
+  <string name="month_report_disconnect_tip">Няма връзка с мрежата</string>
+  <string name="month_report_history_activity_label">История</string>
+  <string name="month_report_month_report_switch">Показване на месечен доклад</string>
+  <string name="month_report_network_dialog_description">Разрешавате ли това приложение да се свързава към интернет, за да получава данни за доклад?</string>
+  <string name="month_report_network_dialog_positive">Приемам</string>
+  <string name="month_report_network_dialog_title">Не могат да се получат данните за доклад</string>
+  <string name="month_report_result_share">Сподели</string>
+  <string name="month_report_share_img_fail">Не може да се сподели</string>
+  <string name="month_report_share_loading">Един момент…</string>
+  <string name="month_report_warning_dialog_description">За да виждате месечен доклад, включете функцията от настройки на Оптимизация.</string>
+  <string name="month_report_warning_dialog_positive">Включване</string>
+  <string name="month_report_warning_dialog_title">Месечен доклад за сигурността</string>
+  <string name="shutdown_time_day_tomorrow">Изключване утре в/ъв %1$s</string>
 </resources>

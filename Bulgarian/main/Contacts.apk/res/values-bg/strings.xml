@@ -1162,4 +1162,6 @@
   <string name="remove_blacklist_dialog_title">Премахване от блокирани</string>
   <string name="resource_select_ringtone_confirm_picker">Да се избере ли този звук?</string>
   <string name="cloud_recommend_msg">Чукнете за синхронизиране на контактите с Mi Cloud.</string>
+  <string name="unknow_phone_number_call_failed">Не може да се обадите на неизвестен номер</string>
+  <string name="unknow_phone_number_mms_failed">Не може да изпратите съобщ. до неизвестен номер</string>
 </resources>

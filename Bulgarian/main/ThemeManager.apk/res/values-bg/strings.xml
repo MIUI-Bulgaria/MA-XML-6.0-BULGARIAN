@@ -349,4 +349,25 @@
   <string name="resource_select_ringtone_confirm_picker">Избор на тази песен?</string>
   <string name="theme_is_external_priority_storage">Запази на картата с памет</string>
   <string name="theme_is_external_priority_storage_summary">Приложението Теми ще се рестартира за да се приложат промените</string>
+  <string name="resource_network_diagnostics">Диагностика на мрежата</string>
+  <string name="resource_search_color">Изберете цвят на темата</string>
+  <string name="resource_search_color_hint_black">Черен</string>
+  <string name="resource_search_color_hint_blue">Син</string>
+  <string name="resource_search_color_hint_brown">Кафяв</string>
+  <string name="resource_search_color_hint_cyan">Тюркоаз</string>
+  <string name="resource_search_color_hint_gray">Сив</string>
+  <string name="resource_search_color_hint_green">Зален</string>
+  <string name="resource_search_color_hint_orange">Оранжев</string>
+  <string name="resource_search_color_hint_pink">Розов</string>
+  <string name="resource_search_color_hint_purple">Лилав</string>
+  <string name="resource_search_color_hint_red">Червен</string>
+  <string name="resource_search_color_hint_white">Бял</string>
+  <string name="resource_search_color_hint_yellow">Жълт</string>
+  <string name="resource_select_alarm_audio_confirm">Избор на този звук за известия?</string>
+  <string name="resource_select_audio_confirm_picker">Избор на този звук?</string>
+  <string name="resource_select_boot_audio_confirm">Избор на този звук при стартиране?</string>
+  <string name="resource_select_notification_audio_confirm">Избор на този звук за будилника?</string>
+  <string name="resource_select_ringtone_audio_confirm">Избор на тази мелодия?</string>
+  <string name="theme_setting">Настройки</string>
+  <string name="vip_level_value">LV%d</string>
 </resources>

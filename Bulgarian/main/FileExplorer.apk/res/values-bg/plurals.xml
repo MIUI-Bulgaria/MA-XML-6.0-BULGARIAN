@@ -49,4 +49,20 @@
         <item quantity="few">%1$d избрани</item>
         <item quantity="many">%1$d избрани</item>
     </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d елементи)</item>
+        <item quantity="zero"> (%1$d елементи)</item>
+        <item quantity="one"> (%1$d елемент)</item>
+        <item quantity="two"> (%1$d елементи)</item>
+        <item quantity="few"> (%1$d елементи)</item>
+        <item quantity="many"> (%1$d елементи)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d елементи)</item>
+        <item quantity="zero"> (%1$d елементи)</item>
+        <item quantity="one"> (%1$d елемент)</item>
+        <item quantity="two"> (%1$d елементи)</item>
+        <item quantity="few"> (%1$d елементи)</item>
+        <item quantity="many"> (%1$d елементи)</item>
+    </plurals>
 </resources>

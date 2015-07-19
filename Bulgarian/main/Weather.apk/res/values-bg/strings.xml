@@ -280,4 +280,6 @@
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">Не може да се направи екр. снимка</string>
   <string name="to_activate_the_account">Активирайте вашият Mi профил</string>
+  <string name="button_confirm">ОК</string>
+  <string name="button_exit">Изход</string>
 </resources>

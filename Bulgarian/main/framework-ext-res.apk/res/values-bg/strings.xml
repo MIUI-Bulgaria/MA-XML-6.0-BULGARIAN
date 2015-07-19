@@ -83,4 +83,8 @@
   <string name="handy_mode_title">Ползване с една ръка</string>
   <string name="perm_send_push_dspt">Разрешаване на Mi push съобщения</string>
   <string name="perm_send_push_lab">Изпращане на push съобщение</string>
+  <string name="location_usage_restricted_body">Докоснете, за да премахнете ограничението.</string>
+  <string name="location_usage_restricted_title">Местоп. на заден план е ограничено</string>
+  <string name="permdesc_manageLocationPolicy">Позволява на приложението да управлява политиките за местоположение и да дефинира специфични за него правила.</string>
+  <string name="permlab_manageLocationPolicy">управление на местоположения</string>
 </resources>

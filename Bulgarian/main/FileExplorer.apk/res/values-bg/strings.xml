@@ -352,4 +352,21 @@
   <string name="action_mode_select_all">Избери всички</string>
   <string name="can_not_send_with_too_many">"Не може да изпращате толкова много елементи"</string>
   <string name="kuaipan_delete_guide_des">Да се изтрие ли ръководството?</string>
+  <string name="archive_send_to">Изпрати до…</string>
+  <string name="category_file">Файлове</string>
+  <string name="category_recent">Скорошни</string>
+  <string name="decompress_destination_error">Извличането е неуспешно: не може да извличате файлове тук.</string>
+  <string name="expand_all">Всички</string>
+  <string name="group_title">%2$s от %1$s</string>
+  <string name="month_day_format">dd MMM</string>
+  <string name="sdcard">SD карта</string>
+  <string name="sdcard_available">На разположение %1$s</string>
+  <string name="sdcard_total">Общо %1$s</string>
+  <string name="tab_more">още</string>
+  <string name="tab_source">ПРИЛ.</string>
+  <string name="tab_storage">ХРАНИЛИЩЕ</string>
+  <string name="title_more_source">Още прил.</string>
+  <string name="title_recent">Скорошни</string>
+  <string name="wechat_video">Видео от %s</string>
+  <string name="year_month_day_format">dd MMM, yyyy</string>
 </resources>

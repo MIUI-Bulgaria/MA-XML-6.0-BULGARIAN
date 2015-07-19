@@ -547,4 +547,24 @@ For more info check the message you received from your service provider"</string
   <string name="gateway_exception_summary2">Не може да се установи връзка със сървъра</string>
   <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
   <string name="pref_title_diagnostics_dont_show_float_notification">Показване на предупреждения в лентата с известия</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Tap to turn on Mobile data.</string>
+  <string name="notify_daily_traffic_saving_title">%s used today</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Reduce data usage for new apps</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatically activate Data saver for newly installed apps for which data usage can be significantly reduced</string>
+  <string name="pref_traffic_saving_compressed">Compressed</string>
+  <string name="pref_traffic_saving_no_compress">Uncompressed</string>
+  <string name="pref_traffic_saving_pic_compress_level">Image compression ratio</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Tap to turn on Data Saver.</string>
+  <string name="traffic_saving_button_mng">Manage Data saver apps</string>
+  <string name="traffic_saving_need_optimize">Can be optimized</string>
+  <string name="traffic_saving_notification_button_start">Activate</string>
+  <string name="traffic_saving_one_key_optimize">Optimize to save data</string>
+  <string name="traffic_saving_optimized">Already optimized</string>
+  <string name="traffic_saving_pic_compress_orig">Original</string>
+  <string name="traffic_saving_ratio">Data usage reduced %.2f%%</string>
+  <string name="traffic_saving_ratio_low">"Can't significantly reduce data usage"</string>
+  <string name="traffic_saving_recommanded_close">Turn this item off</string>
+  <string name="traffic_saving_recommanded_open">Turn this item on</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatically activate Data saver to reduce apps' mobile data usage.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_title">Activate</string>
 </resources>

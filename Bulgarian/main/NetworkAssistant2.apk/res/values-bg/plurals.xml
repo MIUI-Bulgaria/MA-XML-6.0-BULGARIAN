@@ -37,4 +37,12 @@
         <item quantity="other">%d прил. използват Спестяване на данни</item>
         <item quantity="one">%d прил. използва Спестяване на данни</item>
     </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d прил. могат да се оптимизират</item>
+        <item quantity="one">%d прил. може да се оптимизира</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">Оптимизирани са %d прил.</item>
+        <item quantity="one">Оптимизирано е %d прил.</item>
+    </plurals>
 </resources>

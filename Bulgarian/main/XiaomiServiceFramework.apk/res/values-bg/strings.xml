@@ -88,4 +88,12 @@
   <string name="activate_popup_title_diagnosis_detail">Диагностична информация</string>
   <string name="activate_popup_title_upload_diagnosis_info">SIM картата не може да се активира</string>
   <string name="activate_sms_postfix">Този SMS се използва за активиране на вашето Mi устройство.</string>
+  <string name="activate_popup_confirm_all_gateway_failed_query_info">Нов опит</string>
+  <string name="activate_popup_confirm_all_gateway_failed_send_sms">Нов опит</string>
+  <string name="activate_popup_desc_all_gateway_failed_query_info">"Вашият телефонен номер не може да се открие. Уверете се, че използвате активна SIM карта.
+Въведете телефонният номер на вашата нова SIM карта, за да реактивирате %s"</string>
+  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Не може да се изпрати съобщение за активиране. Уверете се, че използвате активна SIM карта.
+Въведете телефонният номер на вашата нова SIM карта, за да реактивирате %s"</string>
+  <string name="activate_popup_title_all_gateway_failed_query_info">Не е открит номер</string>
+  <string name="activate_popup_title_all_gateway_failed_send_sms">Не може да се изпрати съобщение</string>
 </resources>

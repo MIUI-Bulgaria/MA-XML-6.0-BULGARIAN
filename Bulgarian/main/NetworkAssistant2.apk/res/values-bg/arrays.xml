@@ -68,4 +68,10 @@
         <item>Често използвани</item>
         <item>Име</item>
      </string-array>
+     <string-array name="traffic_saving_compress_level_string_array">
+        <item>Без</item>
+        <item>Ниско</item>
+        <item>Средно</item>
+        <item>Високо</item>
+     </string-array>
 </resources>

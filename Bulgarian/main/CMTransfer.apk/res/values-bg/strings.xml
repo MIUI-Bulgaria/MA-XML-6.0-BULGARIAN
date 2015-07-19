@@ -636,4 +636,34 @@
   <string name="unpermission_contact_tip">Няма достъп до контактите</string>
   <string name="voice_changer_with_effects_save_pic">Снимки от Voice changer with effects</string>
   <string name="wp_wattpad_save_pic">Снимки от Wattpad</string>
+  <string name="contact_recv_import_hint_string_one">Received &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; contact, do you want to import it now?</string>
+  <string name="contact_transfer_easily">Transfer your contacts easily</string>
+  <string name="delete_not_exists_media">File dose not exists</string>
+  <string name="feedback_check_msg">Data will only be used for problem solving. CM Transfer promises not to gather any of your private information.</string>
+  <string name="feedback_check_title">Gather logs to help solve the issue</string>
+  <string name="imported">imported</string>
+  <string name="inbox">Inbox</string>
+  <string name="inbox_contact_unknown_phone">Unknown phone</string>
+  <string name="inbox_contacts_from_device">From</string>
+  <string name="location_txt">Primary storage location</string>
+  <string name="mobile_path_txt">Mobile phone</string>
+  <string name="msg_update_inbox_loading">Updating Inbox...</string>
+  <string name="new_function_butn_msg">START CM TRANSFER</string>
+  <string name="new_function_msg">quickly and safely</string>
+  <string name="new_function_title">Transfer Contacts</string>
+  <string name="nosdcard_txt">No SD card</string>
+  <string name="notify_five_star_title">\#1 File Transfer App on Google Play</string>
+  <string name="recv_info_gone_format_one" formatted="false">%d file received, average speed of %s</string>
+  <string name="sdcard_path_txt">External SD card</string>
+  <string name="transfer_info_gone_format_one" formatted="false">%d file sent, average speed of %s</string>
+  <string name="transfer_recv_contact_msg_one">Import contacts easily</string>
+  <string name="transfer_recv_contact_title_one">contact is being received</string>
+  <string name="transfer_recv_finish_contact_msg_one">Import %1$d contact to your phone</string>
+  <string name="transfer_recv_finish_contact_title_one">contact received</string>
+  <string name="transfer_send_contact_msg_one">Transfer your contacts easily, quickly and safely</string>
+  <string name="transfer_send_contact_title_one">contact is being sent</string>
+  <string name="transfer_send_finish_contact_msg_one">The receiver can import %1$d contact</string>
+  <string name="transfer_send_finish_contact_title_one">contact sent</string>
+  <string name="transfer_share">Share CM Transfer</string>
+  <string name="unmount_sdcard_txt">"Can't write SD card"</string>
 </resources>

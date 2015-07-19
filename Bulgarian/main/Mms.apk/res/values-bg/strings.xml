@@ -577,4 +577,9 @@
   <string name="pref_show_blocked_messages_summary">Показване на блокираните SMS в списъка с кореспонденции</string>
   <string name="reply_button_msg">Отговори</string>
   <string name="title_show_blocked_messages">Показване на блокирани SMS</string>
+  <string name="cloud_recommend_msg">Чукнете, за да синхр. съобщенията с Mi Cloud.</string>
+  <string name="cloud_state_disabled">Синхр. с Mi Cloud е изкл.</string>
+  <string name="cloud_state_sync_finished">Синхронизирано с Mi Cloud</string>
+  <string name="cloud_state_syncing">Синхр. се с Mi Cloud…</string>
+  <string name="mipub_messaging_entry_title">Mi Messages</string>
 </resources>

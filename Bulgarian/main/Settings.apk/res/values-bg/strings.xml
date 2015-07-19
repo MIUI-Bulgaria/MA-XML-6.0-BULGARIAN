@@ -3674,4 +3674,17 @@ Wi‑Fi асистента за Wi‑Fi"</string>
   <string name="virtual_sim_category_title">Виртуална SIM</string>
   <string name="virtual_sim_description">Надеждна услуга за международен роуминг</string>
   <string name="virtual_sim_title">Роуминг мрежа за данни</string>
+  <string name="background_location_control_summary">Разрешава или забранява на стартираните на заден план приложения достъп до местоположението ви</string>
+  <string name="background_location_control_title">Достъп до местоположение на заден план</string>
+  <string name="background_location_deselect_apps">Размаркирай всички</string>
+  <string name="background_location_requests_summary">Разрешава на прил. да използват услугите за местоположение докато вие не ги използвате</string>
+  <string name="background_location_requests_title">Разрешаване на месопол. на заден план</string>
+  <string name="background_location_select_apps">Избери всички</string>
+  <string name="choose_smartcover_type">Изберете вид на калъфа</string>
+  <string name="config_charging_function_name">charging</string>
+  <string name="music_dirac_mode_headset">Mi Слушалки</string>
+  <string name="normal_smartcover_title">Непрозрачен преден капак</string>
+  <string name="power_hide_mode_summary">Контрол на поведението на приложенията на заден план, значителна икономия на енергия</string>
+  <string name="power_hide_mode_title">Скрит режим</string>
+  <string name="smallwindow_smartcover_title">Прозрачен преден капак</string>
 </resources>

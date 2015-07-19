@@ -275,4 +275,14 @@
   <string name="download_action">Изтегляне</string>
   <string name="loading_wallpaper">Един момент…</string>
   <string name="is_setting_wallpaper_message">Тапетът се настройва…</string>
+  <string name="app_already_exist">Приложението вече съществува</string>
+  <string name="app_being_restored_message">Приложението бе възстановено</string>
+  <string name="deselect_all">Размаркирай всички</string>
+  <string name="gadget_power_clear_button_label">Super Cleaner</string>
+  <string name="recommend_apps_default_title">Празно</string>
+  <string name="recommend_apps_notice">Препоръчани приложения</string>
+  <string name="recommend_apps_switch_summary">Показване на препоръчани приложения в долната част на екрана.</string>
+  <string name="recommend_apps_switch_title">Препоръчани приложения</string>
+  <string name="recommend_apps_tips">Тази функция се нуждае от връзка към интернет, за да работи нормално. Ако искате да я изключите, докоснете името на тази папка.</string>
+  <string name="select_all">Избери всички</string>
 </resources>

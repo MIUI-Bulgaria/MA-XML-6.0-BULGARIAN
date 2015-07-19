@@ -322,4 +322,19 @@
   <string name="mark_number_setting_guide_forward">Настройки за блокиране</string>
   <string name="mark_number_setting_guide_title">Блокиране на докладвани номера</string>
   <string name="action_source_sms_title">Блокиран SMS</string>
+  <string name="mark_agent_time_setting">Блокиране на номера, докладвани като телемаркетъри повече от опр. брой пъти</string>
+  <string name="mark_fraud_time_setting">Блокиране на номера, докладвани като измамници повече от опр. брой пъти</string>
+  <string name="mark_harass">Тормоз</string>
+  <string name="mark_harass_block">Докладвай за тормоз</string>
+  <string name="mark_harass_time_setting">Блокиране на номера, докладвани за тормоз повече от опр. брой пъти</string>
+  <string name="mark_number_harass">Тормоз</string>
+  <string name="mark_sell_time_setting">Блокиране на номера, докладвани като търговци повече от опр. брой пъти</string>
+  <string name="mark_time_setting_dialog_title">Настройки за брой докладвания</string>
+  <string name="mark_time_text">%d</string>
+  <string name="quiet">Заглушаване</string>
+  <string name="quiet_important_interruptions_mode">Приемане само на изключенията</string>
+  <string name="quiet_mode">Тих режим</string>
+  <string name="quiet_off_mode">Текущ режим</string>
+  <string name="repeated_marked_number_summary">Не блокира второ обаждане от същия номер, ако е до 3 минути след първото.</string>
+  <string name="repeated_marked_number_title">Не блокирай повтарящи докладвани обаждания</string>
 </resources>

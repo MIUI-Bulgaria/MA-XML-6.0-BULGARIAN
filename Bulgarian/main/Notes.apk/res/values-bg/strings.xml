@@ -119,4 +119,6 @@
 http://miui.bg/community/
 "</string>
   <string name="menu_folders">Папки</string>
+  <string name="dlg_info_creating_message">Създава се съобщение…</string>
+  <string name="sync_tips">Чукнете за синхрон на бележките с Mi Cloud.</string>
 </resources>

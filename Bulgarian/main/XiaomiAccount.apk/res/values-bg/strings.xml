@@ -367,4 +367,9 @@
   <string name="trying_read_verify_code_sms">Вземане на код за проверка…</string>
   <string name="update_recovery_info_dialog_message">Преди да актуализирате %s, трябва да потвърдите вашата идентичност.</string>
   <string name="update_recovery_info_dialog_title">Актуализиране на %s</string>
+  <string name="account_vip_level">Vip level</string>
+  <string name="account_vip_task">Task</string>
+  <string name="exceed_binded_phone_times_notice">Този телефонен номер вече е свързан с друг Mi профил.</string>
+  <string name="mi_pass">Mi Pass</string>
+  <string name="vip_level_value">LV%d</string>
 </resources>

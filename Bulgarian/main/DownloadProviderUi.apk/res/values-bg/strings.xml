@@ -161,4 +161,8 @@
   <string name="recommend_paused">На пауза</string>
   <string name="recommend_prepare">Изчаква…</string>
   <string name="recommend_show_other_downloads">Виж популярни</string>
+  <string name="download">Изтегляния</string>
+  <string name="downloaded_empty">Няма изтеглено съдържание</string>
+  <string name="downloading_empty">Няма изтеглящо се съдържание</string>
+  <string name="show_more">Още(%s)</string>
 </resources>

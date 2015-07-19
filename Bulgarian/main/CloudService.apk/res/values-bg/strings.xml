@@ -372,4 +372,7 @@
   <string name="micloud_space_applist_title">Управление на приложения</string>
   <string name="micloud_space_soundrecorder_detail">Упр. на записите, съхранявани на устройството ви</string>
   <string name="micloud_space_soundrecorder_title">Записи</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"Тази функция може да изисква телефонния ви номер. Вашият оператор може да ви таксува за едно SMS съобщение, използвано при активиране на функцията.
+
+Тази функция шифрова и изпраща ID на устройството ви до сървърите на Mi."</string>
 </resources>

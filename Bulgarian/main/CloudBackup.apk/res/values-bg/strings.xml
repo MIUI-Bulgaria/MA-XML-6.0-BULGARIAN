@@ -72,4 +72,5 @@
   <string name="start_recover">Възстанови %s</string>
   <string name="wait_icon_download">Изтегляне на икони на приложения</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="about_to_recover">Един момент…</string>
 </resources>

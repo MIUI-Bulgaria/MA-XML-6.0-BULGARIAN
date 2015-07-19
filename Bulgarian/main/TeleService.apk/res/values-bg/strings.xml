@@ -1157,4 +1157,8 @@
   <string name="voip_setting">Voip настройки</string>
   <string name="can_not_use_for_not_data_sim">"(Не може да се използва: Трябва да е зададена като стндартна SIM за данни)"</string>
   <string name="ivr_parameter_settings">IVR настройки (за Китай)</string>
+  <string name="msim_disable_sim_card_btn_text">ОК</string>
+  <string name="msim_disable_sim_card_summary_default_card">"Понастоящем тази карта е зададена като SIM карта по подразбиране. Ако спрете да я използвате, няма да имате възможност за извършване на обаждания или връзка чрез мобилни данни. Можете да я спрете след като зададете друга SIM карта като ваша SIM карта по подразбиране."</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">Няма да имате възможност за извършване на обаждания или връзка чрез мобилни данни. Да се спре ли SIM картата %s?</string>
+  <string name="msim_disable_sim_card_title">Спиране на SIM картата</string>
 </resources>

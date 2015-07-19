@@ -257,4 +257,13 @@ d MMMM yyyy"</string>
   <string name="vpn_text_long">Свързване към %s. Чукнете за подробности.</string>
   <string name="vpn_title">VPN е активно</string>
   <string name="vpn_title_long">Свързване към VPN чрез %s</string>
+  <string name="activate_usb_message">За да активирате тази функция, поставете вашата SIM карта.</string>
+  <string name="activate_usb_title">Активиране на USB</string>
+  <string name="disable_notification_summary">Никога не показвай известията от това приложение.</string>
+  <string name="disable_notification_title">Блокиране на известията</string>
+  <string name="expanded_notification_manager">Управление на известията</string>
+  <string name="notification_template_text">" има известие. Чукнете за преглед."</string>
+  <string name="screen_button_notification_text">"Натиснете 'Home'+'Power' за включване"</string>
+  <string name="screen_button_notification_title">Бутоните под екрана са деактивирани</string>
+  <string name="usb_function_charging_text">Свързан в режим зареждане</string>
 </resources>
