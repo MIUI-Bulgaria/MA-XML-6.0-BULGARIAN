@@ -713,4 +713,5 @@
   <string name="recommanded_face_added_tip">Добавено към \"%s\"</string>
   <string name="download_without_wifi_msg">Използването на мобилни данни за изтегляне на снимки може да доведе до допълнително таксуване от вашия оператор.</string>
   <string name="download_without_wifi_title">Използване на мобилни данни</string>
+  <string name="rename_face_album">Промяна на името</string>
 </resources>
