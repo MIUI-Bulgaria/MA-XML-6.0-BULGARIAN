@@ -674,7 +674,7 @@
   <string name="project_available_tip">Открит е дисплей</string>
   <string name="return_to_top">Докоснете \"Снимки\", за да се върнете отначало</string>
   <string name="script">Скрипт</string>
-  <string name="select_item_face">Снимки на %1</string>
+  <string name="select_item_face">Снимки на %s</string>
   <string name="single_device_project_dialog_checkbox_text">Запомняне на този дисплей</string>
   <string name="single_device_project_dialog_title">Излъчва се на %s</string>
   <string name="ubifocus_data_invalid">Някои данни за тази снимка са грешни</string>
